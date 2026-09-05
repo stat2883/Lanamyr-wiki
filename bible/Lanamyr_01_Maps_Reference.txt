@@ -1,0 +1,99 @@
+================================================================================
+LANAMYR WORLD BIBLE — MAPS & VISUAL REFERENCES — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Overview_Cosmology, Geography, Races, Kingdoms_History, Characters_Items,
+Stories_Outlines, Open_Questions. Confirmed lore is locked; tentative lore is
+flagged and subject to change. All map borders are approximations defined by
+natural geographic features.
+
+FILE LOCATION: All map image files referenced below are stored in this repo
+under bible/maps/, alongside this text file in bible/.
+
+================================================================================
+MAPS AND VISUAL REFERENCES
+================================================================================
+
+These map files are stored in the project alongside the bible files and should
+be treated as always available. Each filename is descriptive and maps directly
+to the content below.
+
+Lanamyr_Continents.jpg
+  Full world map showing all three major continents and surrounding islands.
+  Elevation map. Color key: blue = ocean/water; dark to bright green = low
+  elevation plains and flatlands; yellow = moderate elevation, hills and rising
+  terrain; orange = high elevation, significant mountain ranges; red = very high
+  elevation, major mountain peaks; gray = extreme elevation, highest peaks in
+  Lanamyr. The Tarantar Mountains in northern Alios reach gray — the tallest
+  range in the world.
+
+Lanamyr_Features.jpg
+  Named geographic features including all major mountain ranges, deserts, hills,
+  and major rivers. Only major rivers are shown at this scale — countless unnamed
+  rivers, streams, and lakes exist throughout Lanamyr and will be developed as
+  needed. Use this map to identify the location and relative size of named
+  geographic features.
+
+Lanamyr_Islands.jpg
+  Named islands, archipelagos, and major rivers including the Waywin River on
+  Edura. Use this map to identify which islands belong to which kingdoms.
+
+Lanamyr_Sundering.jpg
+  Origin locations of all races at the start of the 2nd Epoch, shown as labeled
+  points on the map. Updated each session as new origins are confirmed.
+
+Lanamyr_Temperature.jpg
+  Overlay map showing temperature gradient across Lanamyr. Designed to be read
+  overlaid on Lanamyr_Continents.jpg. Color key: deep blue = coldest polar
+  regions; purple/blue = cold to cool; purple = cool temperate; purple/red =
+  warm temperate; red = hot tropical or equatorial. Elevation causes local
+  cooling — mountain ranges read cooler than surrounding terrain at the same
+  latitude regardless of their geographic position.
+
+Lanamyr_Precipitation.jpg
+  Overlay map showing relative rainfall across Lanamyr. Designed to be read
+  overlaid on Lanamyr_Continents.jpg. Color key: black/very dark = little to
+  no rainfall (arid); dark teal = low rainfall; medium teal = moderate rainfall;
+  bright cyan/white = highest rainfall, very wet. The Void Sands on Edura
+  appear as a visibly dark region confirming near-zero precipitation.
+
+Biome_Legend.png
+  Color key for Lanamyr_Biomes.jpg. Upload before or alongside the biome map.
+  Biomes are grouped into aggregation categories: Polar, Tundra, Cold Parklands,
+  Coniferous Forests, Mixed Forests, Steppes, Cool Deserts, Deciduous Forests,
+  Chaparral, Hot Deserts, Savanna, Tropical Seasonal Forests, Tropical Rain
+  Forests. Each category contains multiple specific biome subtypes identified
+  by hex color code.
+
+Lanamyr_Biomes.jpg
+  Biome map showing the dominant biome of every region of Lanamyr. Read using
+  Biome_Legend.png for the full color key. Key regional biomes: Icefall = Polar
+  Ice; northern Alios/Tarantar region = Cold Parklands/Boreal; central Alios
+  (Kimora, Ellendale, Faelyn) = Deciduous and Mixed Forests with Steppes;
+  eastern Alios = Steppes to Cool Desert; southern Alios = warming to Tropical
+  Seasonal Forest; northern Edura/T'sarra = Tropical Rain Forest; Void Sands =
+  Hot Desert; southern Edura tip = Tundra; Utoa = mixed Steppes, Cool Desert,
+  and Polar at southern extreme; Snow Elf island = Polar Ice and Polar Desert;
+  Malulo Archipelago = Tropical Rain Forest; Gleaming Spires island = Polar Ice
+  (explaining snow-capped self-luminous peaks); Firethorn Peaks island = warmer
+  tones due to active volcanism.
+
+Lanamyr_Epoch1.jpg
+  Shows the territorial extent of the Drasian Empire (northern Edura, centered
+  on Atral) and Draak Territory (Black Mountains of Fardar, central Alios)
+  during the 1st Epoch. The vast majority of Lanamyr was wild and untamed.
+  Borders are approximations defined by geographic features.
+
+Lanamyr_Epoch3.jpg
+  Shows the kingdoms of the 3rd Epoch in the present day (432 AW). Confirmed
+  kingdoms visible: Andar, Kimora, Ellendale, Faelyn, Hellar, Fardar (Alios);
+  T'sarra (Edura); Felgard (Utoa). Island kingdoms self-evident from
+  Lanamyr_Islands.jpg. Borders are approximations defined by geographic features.
+  The Malulo Archipelago is circled in red to show the full extent of Sea Elf
+  island territory.
+
+================================================================================
+END OF LANAMYR MAPS & VISUAL REFERENCES — v1
+================================================================================

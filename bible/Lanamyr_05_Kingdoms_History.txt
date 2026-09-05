@@ -1,0 +1,566 @@
+================================================================================
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Races, Characters_Items,
+Stories_Outlines, Open_Questions. Confirmed lore is locked; tentative lore is
+flagged and subject to change. Cross-check kingdom locations against
+Lanamyr_Epoch1.jpg / Lanamyr_Epoch3.jpg and against race origin points in the
+Races file when either changes.
+
+================================================================================
+NUSUL — THE LOST KINGDOM
+================================================================================
+
+OVERVIEW:
+Nusul was an Ice Dwarf kingdom established in the Tarantar Mountains of northern
+Alios during the 2nd Epoch. It was abandoned after 29 years following a
+catastrophic encounter with subterranean Creatures of Olum. The name Nusul is
+known to the Ice Dwarves and preserved in their records and oral history but is
+largely unknown to the wider world, which refers to it only as the lost kingdom.
+Many adventurers have tried and failed to find it over the centuries.
+
+By 432 AW the ruins have been abandoned for approximately 2,329 years. The
+Abaculus was removed from the Tarantar Mountains in year 2136, 2nd Epoch,
+after which the Olum gradually dispersed. The ruins have been sitting undisturbed
+and increasingly quiet for approximately 461 years.
+
+THE OLUM CONNECTION:
+The Abaculus was hidden in the Tarantar Mountains from year 7 of the 2nd Epoch
+onward. Creatures of Olum had been expanding outward from that central location
+for 232 years before the Ice Dwarves arrived. The Ice Dwarves never knew the
+true reason for the Olum presence — to them the mountains were simply
+inexplicably and relentlessly dangerous, overrun with Creatures in numbers that
+made no natural sense.
+
+CONTENTS:
+The kingdom was unfinished at the time of abandonment. Substantial infrastructure
+had been carved into the mountain over 29 years. The ruins contain:
+- Locally forged tools, weapons, and structural ironwork produced from Tarantar
+  ore using conventional forging techniques. The conditions for Ice Forging did
+  not exist in the Tarantar Mountains — smiths there worked with the local ore
+  using standard methods. The Tarantar ore was high quality in its own right.
+- Genuine Ice Forged weapons and tools that arrived via supply runs from Icefall
+  before the fall. Given the remarkable durability of Ice Forged blades and
+  the cold mountain environment, these could be in extraordinary condition after
+  2,300+ years.
+- Architecture, chambers, and mine workings abandoned mid-construction.
+- The mine that punched through into the Olum cavern in year 268.
+
+THE LEGEND:
+As the story filtered through trade routes and intermediaries over centuries,
+details were lost and distorted. Multiple versions circulate — a giant dragon
+seeking mineral wealth, Dark Elf treachery, and other explanations have all
+been attributed to the kingdom's downfall. The truth — subterranean Creatures
+of Olum — is known only to the Ice Dwarves. The Dark Elf version is considered
+plausible by many, given that Dark Elves occupy The Deep beneath the Tarantar
+Mountains and are geographically the closest neighbors the kingdom had.
+
+NUSUL TIMELINE (2nd Epoch):
+Year 7:   Abaculus hidden in Tarantar Mountains. Creatures of Olum begin
+          expanding outward from that location over the following centuries.
+Year 221: First Ice Dwarf expeditions depart Icefall in multiple directions.
+          One fleet discovers the Tarantar Mountains and their mineral wealth.
+Year 239: Kingdom location established. Named Nusul. Regular supply runs and
+          labor forces begin. Olum have been expanding in the mountains for
+          232 years by this point.
+Year 253: First major Olum encounter. Dwarves fight them off and continue
+          working. Valuable mineral deposits found as they dig deeper. Attacks
+          grow more frequent as the population grows.
+Year 261: Major defeat. Part of the mines closed off. Reinforcements sent from
+          Icefall. Permanent guards and scouts deployed. Expansion attempts
+          consistently end in being pushed back.
+Year 268: A mine punches through into a large subterranean cavern swarming
+          with Olum. The kingdom is overrun and lost. All inhabitants killed.
+          Later that same year, the last supply ship arrives from Icefall,
+          finds silence and Creatures of Olum, and immediately returns to
+          Icefall with the news. The Ice Dwarves never return.
+
+================================================================================
+3RD EPOCH KINGDOMS (432 AW)
+================================================================================
+
+ALIOS:
+Kimora: Central Alios. Hillfolk humans. Capital: Shatazaar.
+  Borders: South — Ash Mountains; East — Black Mountains of Fardar;
+  West — natural border line of hills and mountains (includes Monowi Hills)
+  running from Ash Mountains to Tarantar Mountains; North — Tarantar Mountains
+  east to coast; Northeast — low plains bounded by Wandering Hills.
+  Ruler: King Gralvin Sutton (The Reluctant King).
+  Contains ruins of Rohl and the Burnt Plains.
+Fardar: Black Mountains, central Alios. Iron Dwarves. One of the richest
+  kingdoms in Lanamyr. Relations with Kimora strained after Tarik's crimes.
+  Territory encompasses the western and central bulk of the Black Mountains.
+  The far eastern end of the range is Tunneler Kobold territory — within
+  Fardar's borders but distant enough to avoid significant conflict.
+Ellendale: Central-west Alios. Plains Elves. Played a key role in overthrow
+  of Tarik alongside the Herringers. Ruler undeveloped.
+Faelyn: Eastern and lower western arm of Alios. Wood Elves. Capital: Caldalus.
+  Home of Guardians of the Tree. Mya Li is from Faelyn.
+Hellar: Underground city in Forbidden Peaks, western arm of Alios. Dark Dwarves.
+  Effectively blinded by daylight without protection.
+Andar: Large northern peninsula of Alios. Northmen humans. Ruler undeveloped.
+
+EDURA:
+T'sarra: Northern Edura. High Elves. Fairly reclusive. Home of the Var Harma.
+  Tropical Rain Forest biome — lush and warm. Ruler and internal politics
+  undeveloped.
+
+UTOA:
+Felgard: Northwestern Utoa. Capital: Jorvik. Hillfolk humans.
+  CONFIRMED SURVIVING INTO 432 AW. Allied with Cobalt Dragonborne 260+ years.
+  Steppes and Cool Desert biome.
+
+ISLANDS (each race controls entire island/archipelago):
+Icefall: Ice Dwarves. Kingdom name: Icefall. Polar Ice biome — extreme cold
+  essential for Ice Forging.
+Jokul Island: Silver Dragonborne. Kingdom name: Jokul. Encompasses the main
+  large island and all surrounding smaller islands collectively — similar to
+  Hawaii. Tundra to cold biome.
+Malulo Archipelago: Sea Elves. Kingdom name: Malulo. Tropical Rain Forest
+  biome — warm and lush. The majority of Sea Elf civilization is underwater;
+  the islands represent only the surface-visible portion of their society.
+  TENTATIVE: approximately 90% of Sea Elf presence is underwater, 10% on land.
+Myst: Sky Gnomes. Kingdom name: Myst. Main island plus all surrounding smaller
+  islands. Mixed to Deciduous Forest biome — temperate. Also contains the Nexus.
+Snow Elves: Large island just east of Utoa, close enough to be considered part
+  of the continent. Polar Ice and Polar Desert biome — extreme cold. Island
+  name and kingdom name: UNDEVELOPED.
+
+================================================================================
+ORGANIZATIONS
+================================================================================
+
+GUARDIANS OF THE TREE
+Ancient hereditary Wood Elf secret order from Faelyn. Protect Heaven's Oak and
+the Abaculus containment chamber. Founded early 2nd Epoch by Adomorn — fewer
+than 10 founding Wood Elf families chosen personally. Answer only to Adomorn.
+Outside normal Wood Elf society structure. Aware of Abaculus and chamber's
+three purposes. May mate with non-Guardian pure Wood Elves; no non-Wood Elf
+mixing allowed. Still vigilant against Elf War threat; unaware strategy shifted
+to Greyhawk resurrection. Internal structure, membership, founding family names:
+UNDEVELOPED.
+
+THE MARAUDERS
+Elite Wood Elf unit assembled by Mya Li specifically for the final incursion
+into Dark Elf territory — a purpose-built unit formed AFTER Mya had already
+experienced her crushing first defeat against Diquyk's forces. They are NOT the
+unit present in the first encounter with Diquyk's forces.
+Mya's first love interest (Kharis Ailwin) was killed in that earlier encounter,
+along with several other men under her command.
+TOTAL STRENGTH: 10 Marauders.
+FINAL BATTLE STRUCTURE: The Marauders were divided for the final incursion into
+The Deep. 8 accompanied Mya Li as the deliberate decoy force — entering The
+Deep through conventional means with the intent of drawing Diquyk's attention
+and engagement. 2 accompanied Adomorn through a Jaunt Gate located inside The
+Deep, deep within Dark Elf territory, to flank from behind. Adomorn put the
+2 Marauders to sleep for the gate transit. How the Marauders entered The Deep
+conventionally and how the sleep was timed or lifted are undeveloped.
+Diquyk sensed the magical presence of the gate transit — his ability to detect
+others drawing on ambient energy extended to the significant magical activity
+of gate use — and was tipped off to Adomorn's approach, foiling the ambush.
+Despite this, Diquyk was still engaged on two fronts. He intercepted Adomorn's
+spells and redirected them as blue flame, killing multiple Marauders. When Mya
+and Adomorn switched to physical combat, cutting off Diquyk's fuel supply, he
+was finally banished. All 10 Marauders were dead by battle's end. Only Mya and
+Adomorn survived — though see tentative note in Adomorn's entry (Characters
+file) regarding his possible death immediately after the banishment.
+Individual member names and backgrounds: UNDEVELOPED.
+STRATEGIC MOTIVATION FOR THE ELF WAR: The Abaculus learned of Heaven's Oak
+and the Guardians of the Tree through Greyhawk's memories at the moment of his
+corruption. The chamber at Heaven's Oak — built by Adomorn as a permanent
+containment solution — represented a direct threat to the Abaculus's freedom.
+The Abaculus directed Diquyk to wage war on Faelyn to break the Guardians and
+compromise the chamber before he pursued the larger mission.
+
+THE VAR HARMA (THE CURATORS)
+High Elf secretive society from T'sarra. Preserve and retrieve artifacts vital
+to Elven advancement. Operates on a need-to-know basis internally — lower
+ranking members are not privy to the organization's deepest knowledge or
+connections. Known member: Maeglin Leralonde, a renowned assassin within the
+organization who operates largely on a need-to-know basis and likely does not
+know of Adomorn's involvement or possibly who Adomorn is.
+ORIGIN: The High Elves emerged in T'sarra north of the ruins of Atral and
+discovered the ruins after some years — exact number undecided. Excavations
+began, but the region was contested by Mountain Trolls coming down from the
+Troll's Breath Mountains. The Sand Dwarves, expanding from the Void Sands
+southeast of T'sarra, eventually entered the region and allied with the High
+Elves against the Trolls, pushing them back. As more of Atral was excavated
+and more valuables uncovered, the High Elves formed the Var Harma to protect
+their findings. The organization grew beyond that original protective role into
+what it is today.
+HEADQUARTERS: Rumored to be in the ruins of Atral, directly above the Drasian
+Vault. The Var Harma have been excavating Atral for centuries.
+THE DRASIAN VAULT: Tentatively, the Var Harma have likely found it by 432 AW
+given the scope and duration of their excavations. Whether they found it
+through excavation alone or with Adomorn's guidance is undecided. Adomorn has
+contact with the highest ranks only and would have involved himself to manage
+the dangerous knowledge within. NOT YET CONFIRMED.
+ADOMORN CONNECTION: Has contact only at the highest ranks. Lower members
+including Maeglin likely unaware. The relationship may have begun when Adomorn
+rematerialized at Atral during High Elf excavations — undecided.
+Internal structure beyond need-to-know hierarchy: UNDEVELOPED.
+
+THE HERRINGERS
+Defined not by blood but by common cause and belief. Originally an Iron Dwarf
+family of great wealth. Matron Arrama Herringer used family resources to resist
+Bourbac's enslavement of Iron Dwarves. Organized resistance under political
+protection of Lord Yllyndel the Ancient (Plains Elves). Believed to have
+funded Evander's assassination of Bourbac. After Evander freed the Dwarves:
+protection vanished; Arrama killed by bandits near Ash Mountains foothills.
+Rekindled as Tarik's reign took hold. Grimmon Herringer (born 372 AW, died
+429 AW) rebuilt the name, personally organized the coordinated overthrow, told
+Mya Li firsthand stories of Tarik's atrocities. Was present at the overthrow
+at age 41 (413 AW). Founded Herrington. Ambition: new Dwarven kingdom in the
+Tarantar Mountains — a dream informed by the legend of the lost kingdom and
+the map that passed through Herringer hands for generations. Grimmon killed by
+Orc raiders in 429 AW. Leadership and future: UNDECIDED. New Dwarven kingdom
+dream: ON HOLD.
+
+THE FOUR CROWNS
+Gang based in Broldendul. Led by Alexa Komoth. Further details: UNDEVELOPED.
+
+KINGS OF HARRAD
+Formed 1207, 2nd Epoch under Eisengol during Dragon Wars. First born assumed
+throne regardless of gender. Dissolved peacefully after Great War 2165.
+Territory became Kimora, Ellendale, Fardar. Bloodline believed ended with
+Morgan's death; survived through secondary branch → Estefania (age 23, 432 AW).
+See full succession timeline below.
+
+================================================================================
+KINGS OF HARRAD — FULL SUCCESSION (2nd Epoch)
+================================================================================
+
+Eisengol (King) — Born 1171 | Reign 1207-1238 | Died 1238 natural causes
+  First King of Harrad. Named king at age 36 during the Dragon Wars.
+
+Thyman (King) — Born 1198 | Reign 1238-1272 | Died 1272 natural causes
+  First born son of Eisengol. Took throne at age 40.
+
+Silban (King) — Born 1231 | Reign 1272-1316 | Died 1348 natural causes
+  Skilled magic user. Lived to 117. Stepped down at 85 to live among Plains
+  Elves. Steward Groehl ruled in his absence. Brother Thengol (born 1236) died
+  at age 34 — cause undecided.
+
+Groehl (Steward) — Service 1272-1316. Not of the Harrad bloodline.
+
+William (King) — Born 1276 | Reign 1316-1329 | Died 1329 killed in attack
+  Took throne at age 40. In 1329, took fraternal twins Rhein and Rhea to visit
+  Silban. Party attacked. William and Rhein killed. Only Rhea survived.
+
+Erlin (Steward) — Service 1329-1331. Grandson of Groehl. Not of bloodline.
+  Returned governance to Rhea upon her arrival in Rohl in 1331.
+
+Rhea (Queen) — Born 1309 | Reign 1331-1360 | Died 1360 illness
+  Harrad's first queen. Survived the attack at age 20. Met Dane during time
+  away. Married Dane (not of bloodline, did not hold throne).
+
+Allana (Queen) — Born 1336 | Reign 1360-1402 | Died 1402 natural causes
+  First born daughter of Rhea and Dane. Took throne at age 24.
+
+Ravin (King) — Born 1366 | Reign 1402-1437 | Died 1437 natural causes
+  First born son of Allana. Took throne at age 36.
+
+Elise (Queen) — Born 1389 | Reign 1437-1452 | Died 1458 natural causes
+  Took throne at age 48. Stepped down at 63.
+
+Callan (King) — Born 1423 | Reign 1452-1487 | Died 1497 natural causes
+  Took throne at age 29. Stepped down at 64.
+
+Chandler (King) — Born 1455 | Reign 1487-1529 | Died 1529 on throne
+  Recognized Bourbac's undesirable qualities and held throne as long as he could.
+
+Bourbac (King) — Born 1490 | Reign 1529-1561 | Died 1561 assassinated
+  Cruel tyrant. Enslaved Iron Dwarves on large scale. Herringers organized
+  resistance. Assassinated alongside son Quinn (age 30) by nephew Evander with
+  significant Herringer support.
+
+Evander "Freeman" (King) — Born 1528 | Reign 1561-1599 | Death year undecided
+  Nephew of Bourbac. Freed the enslaved Iron Dwarves — earned the title
+  "Freeman." Regarded as the king who restored Harrad.
+
+Holm (King) — Born 1558 | Reign 1599-1607 | Died 1607 illness
+  First born son of Evander. Died without an heir. Throne passed to Katherine.
+
+Katherine (Queen) — Born 1565 | Reign 1607-1637 | Died 1646 natural causes
+  Younger sister of Holm. Took throne at age 42. Stepped down at 72.
+
+Elrich (King) — Born 1595 | Reign 1637-1667 | Died 1670 natural causes
+  Took throne at age 42. Stepped down at 72.
+
+Mercer (King) — Born 1621 | Reign 1667-1685 | Died 1685 on throne
+  Took throne at age 46.
+
+Sofia (Queen) — Born 1650 | Reign 1685-1718 | Died 1729 natural causes
+  Took throne at age 35. Stepped down at 68.
+
+Zoe (Queen) — Born 1678 | Reign 1718-1741 | Died 1762 natural causes
+  Took throne at age 40. Stepped down at 63.
+
+Ellis (King) — Born 1704 | Reign 1741-1778 | Died 1794 natural causes
+  Took throne at age 37. Stepped down at 74. Died at the remarkable age of 90.
+
+Viktor (King) — Born 1736 | Reign 1778-1789 | Died 1789 illness on throne
+  Took throne at age 42. Died after only 11 years.
+
+Isa / Isabella (Queen) — Born 1774 | Reign 1789-1849 | Died 1857 natural causes
+  KNOWN AS ISA — never Isabella. Youngest ruler at age 15. Reigned 60 prosperous
+  years. Stepped down at 75. Had fraternal twins Daria and Lara in 1802.
+
+Daria (Consort, not ruler) — Born 1802 | Death undecided
+  Born first by ~15 minutes. Graciously deferred to Lara. Held title Consort of
+  Queen Lara. Had children of her own — possible tie-in to Estefania, NOT YET
+  CONFIRMED.
+
+Lara (Queen) — Born 1802 | Reign 1849-1855 | Death year undecided
+  Younger twin by ~15 minutes. Took throne at 47. Stepped down after 6 years.
+
+Nicolas (King) — Born 1826 | Reign 1855-1889 | Died 1897 natural causes
+  Took throne at 29. Stepped down at 63.
+
+Patrick (King) — Born 1860 | Reign 1889-1925 | Died 1929 natural causes
+  Took throne at 29. Stepped down at 65.
+
+Corinna (Queen) — Born 1893 | Reign 1925-1963 | Died 1969 natural causes
+  Took throne at 32. Stepped down at 70.
+
+Celina (Queen) — Born 1924 | Reign 1963-1987 | Died 1995 natural causes
+  Took throne at 39. Stepped down at 63.
+
+Camilla (Queen) — Born 1953 | Reign 1987-2019 | Died 2022 natural causes
+  Took throne at 34. Stepped down at 66.
+
+Laila (Queen) — Born 1980 | Reign 2019-2037 | Died 2048 natural causes
+  Took throne at 39. Stepped down at 57.
+
+Dolan (King) — Born 2011 | Reign 2037-2072 | Died 2081 natural causes
+  Took throne at 26. Stepped down at 61.
+
+Adriana (Queen) — Born 2045 | Reign 2072-2100 | Died 2113 natural causes
+  Took throne at 27. Stepped down at 55.
+
+Rosamund (Queen) — Born 2071 | Reign 2100-2136 | Died 2149 natural causes
+  Took throne at 29. Stepped down at 65. Died at 78 — before the Battle of Rohl.
+
+Morgan (King) — Born 2102 | Reign 2136-2165 | Died 2165 at Battle of Rohl
+  LAST KING OF HARRAD. Entire 29-year reign consumed by the Great War. Adomorn
+  knew Morgan personally. Killed at age 63 alongside daughter Victoria (born
+  2130, age 35) and grandson Nathan (born 2157, age 8). Bloodline survived
+  through a secondary branch → Estefania (age 23, 432 AW).
+
+================================================================================
+TIMELINE
+================================================================================
+
+--- 1ST EPOCH ---
+Year 0:    Creation of Lanamyr. N'du Irridae are primary architects; some Itule
+           participate. Built in secret from the Onwu. Energy harvested from
+           lifeless planes of existence to fuel the world's creation — those
+           planes wiped clean in the process. All life on Lanamyr created by
+           the N'du and Itule — from the Drasu and Draak down to the smallest
+           creature. The Drasu and Draak required the combined effort of many
+           Irridae and were given intelligence and greater power. Lesser life
+           was created by individual Irridae with comparatively little effort.
+           Drasu and Draak civilizations established. Good and evil potential
+           exists within both races.
+Year 70:   N'du depart. Abaculus hidden in Black Mountains of Fardar (heart
+           of Draak Territory) as a temporary measure while a permanent
+           solution is sought. Draak agree to actively monitor and protect it.
+           Adomorn leads this operation. The Onwu, having discovered Lanamyr
+           after its creation, bound themselves to the plane and began searching
+           for the Abaculus — the reason all Irridae eventually departed.
+Year 245:  City of Atral founded on Edura. Drasian Vault built underground.
+Year 1181: Onwu Irridae arrive at Atral. Olum creates Creatures of Olum.
+Year 1334: Ah'Tabai returns to Lanamyr to prepare for the Onwu threat. In an
+           act of poor judgement, retrieves the Abaculus from the Black
+           Mountains intending to weaponize it against the Onwu. Corrupted on
+           contact. The Abaculus is NOT in the Black Mountains when Atral falls.
+           The Abaculus deliberately prolongs Ah'Tabai's corruption to use him
+           as a tool. Ah'Tabai — fighting the corruption with the full force of
+           his cosmic nature — uses his remaining time to grant Adomorn
+           immortality before being fully claimed. Ah'Tabai then destroys all
+           Irridae present at Atral. The sudden catastrophic annihilation of
+           the Irridae resonates through their creation — the Sundering.
+           Draak and Drasu shattered into all modern races simultaneously across
+           all of Lanamyr, even those not present at Atral. End of 1st Epoch.
+           All Irridae who had bound themselves to Lanamyr are destroyed.
+           No Irridae remain in the world from this point forward.
+
+--- 2ND EPOCH ---
+Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
+           of Olum begin expanding outward from that location over the following
+           centuries. Adomorn begins building Heaven's Oak chamber with Wood
+           Elves. Chooses fewer than 10 Wood Elf families as Guardians of the
+           Tree.
+Year 221:  First Ice Dwarf expeditions depart Icefall in multiple directions.
+           One expedition sails south and finds the Tempest Peaks and Darkened
+           Slopes region — finds much of it occupied but establishes trade
+           routes. Another expedition discovers the Tarantar Mountains and
+           their mineral wealth.
+Year 239:  Ice Dwarves establish Nusul in the Tarantar Mountains. Regular
+           supply runs and labor forces begin. Creatures of Olum have been
+           expanding in the mountains for 232 years.
+Year 253:  First major Olum encounter at Nusul. Dwarves fight them off and
+           continue working. Valuable mineral deposits found as they dig
+           deeper. Attacks grow more frequent as the population grows.
+Year 261:  Major Olum defeat at Nusul. Part of the mines closed off.
+           Reinforcements sent from Icefall. Permanent guards and scouts
+           deployed. Expansion attempts consistently end in being pushed back.
+Year 268:  A mine at Nusul punches through into a large subterranean cavern
+           swarming with Creatures of Olum. The kingdom is overrun and all
+           inhabitants killed. Later that same year the last supply ship
+           arrives from Icefall, finds silence and Olum, and immediately
+           returns to Icefall. The Ice Dwarves never return to Nusul.
+1206-1214: Dragon Wars. Harrad formed under King Eisengol.
+Year 1529: Bourbac takes throne. Iron Dwarf enslavement begins. Herringer
+           resistance begins under Arrama Herringer, protected by Lord Yllyndel
+           the Ancient (Plains Elves).
+Year 1561: Bourbac assassinated. Evander "Freeman" takes throne. Frees Iron
+           Dwarves. Arrama Herringer eventually killed by bandits.
+Year 2059: Arias Graymist born (Felgard, Utoa).
+Year 2111: Harbinger Set created. Cobalt Dragonborne raids on Felgard cease
+           by 2114.
+Year 2136: Greyhawk finds Abaculus in Tarantar Mountains (short-range Olum
+           anomaly). Corrupted on contact. Through Greyhawk's memories the
+           Abaculus learns of Heaven's Oak and the Guardians of the Tree.
+           Greyhawk deliberately relocates Abaculus to beneath grasslands near
+           Rohl — knowing Rohl will be the site of the war's most pivotal
+           battle. The Abaculus will draw Olum to the city while Greyhawk
+           abducts creatures for corruption and builds his forces. Begins
+           building forces for the Great War — recruiting willing dragons and
+           forcibly corrupting those who refuse at Olum nests. Creatures of
+           Olum in the Tarantar Mountains begin to disperse without the
+           Abaculus's pull to anchor them.
+Year 2140: Arias Graymist dies (age 81). Sons inherit Harbinger Set.
+2140-2148: Felgard-Dragonborne peace treaty brokered by Cyrus Graymist.
+Year 2148: Great War — first attacks begin. Lord Yllyndel the Ancient dies
+           sometime during this conflict.
+Year 2165: Battle of Rohl. When the battle turns against him, Greyhawk flees
+           attempting to reach the Abaculus to weaponize it against Karma and
+           Adomorn — the same fatal miscalculation Ah'Tabai made. Karma and
+           Adomorn pursue and kill him before he reaches it. Adomorn does not
+           know that was Greyhawk's intention and therefore does not know the
+           Abaculus is nearby. In the final instant, the Abaculus acts through
+           the dying Greyhawk — his dying curse transforms Karma into a
+           golden-skinned Kobold and binds him to the Burnt Plains directly
+           above the Abaculus, as the intended vessel for Greyhawk's
+           resurrection. Morgan, Victoria, Nathan killed. Harrad dissolves.
+           Common Calendar resets to year 0.
+Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
+           still there.
+
+--- 3RD EPOCH (AW = AFTER WAR) ---
+116 AW:  Valindra and Cyran, young Plains Elves from a nomadic settlement near
+         a small lake in Ellendale, drown when their boat fails far from shore.
+         Neither were strong swimmers. Cyran does not remain. Valindra's spirit
+         inhabits the lake. The nomadic settlement moves on shortly after. The
+         lake eventually becomes known as Valindra's Torment.
+244 AW:  Aer'Raenal Liaphyra born (Wood Elf).
+333 AW:  Degeric Cent born (Hillfolk human).
+347 AW:  Mya Li born (Caldalus, Faelyn). Aer'Raenal is 103 at her birth.
+352 AW:  Diquyk Lockwood born (central Alios, Hillfolk).
+354 AW:  Maeglin Leralonde born (High Elf, T'sarra).
+355 AW:  Tarik Bolden born.
+357 AW:  Phelloden Liaphyra born. Aer'Raenal is 113 at his birth.
+366 AW:  Diquyk kills parents and town guards with blue flame (age 14). Taken
+         in by Degeric Cent, paladin of Angellia, who knew the family and was
+         among those who came running at the disturbance.
+369 AW:  Galstaff Quint born (human).
+372 AW:  Grimmon Herringer born (Iron Dwarf).
+~376 AW: Diquyk parts from Degeric — a mutual recognition that his potential
+         was larger than his small town. Degeric points him toward a region of
+         rumored Olum activity — nest hunting — as direction for the next
+         chapter of his life. TENTATIVE — specific region undeveloped. Begins
+         creating Jaunt Gates.
+379-381 AW: Diquyk visits Degeric one last time — still pre-corruption.
+             Degeric dies 381 AW (age 48). Never knew what his student became.
+383 AW:  Diquyk, drawn by curiosity to the Burnt Plains — a patch of dead earth
+         receiving normal rainfall yet supporting no life, an unnatural anomaly
+         in the fertile terrain of central Kimora — investigates. The Abaculus
+         senses his power and guides him to the hidden entry point among the
+         battlefield debris. Corrupted on contact. Leaves the Burnt Plains
+         immediately after corruption.
+383-387 AW: Diquyk recruits the two forces that will prosecute the Elf War.
+         Visits Stone Giants of the Tempest Peaks first — demonstrates
+         overwhelming magical power, offers plunder and the riches of Faelyn,
+         promises to return with additional forces. Then travels to The Deep
+         and recruits the Dark Elves, equipping them with magical and enchanted
+         weapons. Places Jaunt Gates near both locations. Directs operations
+         from between the two kingdoms throughout the early war years.
+385 AW:  Balric Silverfox born (human).
+386 AW:  Tarik Bolden takes the throne of Kimora at age 31. Immediately begins
+         raiding villages and enslaving populations.
+387 AW:  Gralvin Sutton born. Elf War begins. Dark Elf and Stone Giant forces
+         begin a two-front assault on Faelyn — mixed units probing from the
+         north through the Tempest Peaks and from the east out of The Deep.
+         Mya Li joins the militia at age 40, prompted by word of Stone Giant
+         attacks on the outskirts of Faelyn. Kharis Ailwin joins at essentially
+         the same time — among the survivors of a Stone Giant attack on a Wood
+         Elf village, his family killed in that attack.
+389 AW:  Galstaff begins traveling at age 20. Discovers Nexus on Myst.
+         Reads Diquyk's records. Learns to safely use the Jaunt Gates.
+392 AW:  Diquyk makes his first major push on the Wood Elves. First large
+         encounter — Mya's most crushing defeat. Kharis Ailwin killed alongside
+         several others under her command. Mya reports back. Aer'Raenal urges
+         Mya to seek out Adomorn. Adomorn, based on Mya's account, suspects
+         Diquyk is a Magni — but does not anticipate how far his powers have
+         developed. Marauders formed (10 total). Mya leads 8 Marauders into
+         The Deep as a deliberate decoy force. Adomorn takes 2 Marauders
+         through a Jaunt Gate deep within Dark Elf territory, putting them to
+         sleep for transit, to flank from behind. Diquyk senses the gate
+         transit and is tipped off. Diquyk intercepts Adomorn's spells and
+         redirects them as blue flame, killing multiple Marauders. Mya defeats
+         and kills Shedyak, acquires the Bow of the Dales. When Mya and Adomorn
+         switch to physical combat, cutting off Diquyk's fuel supply, he is
+         finally banished. All 10 Marauders dead. Only Mya and Adomorn survive
+         the battle itself. TENTATIVE: Adomorn, badly wounded, dies shortly
+         after banishing Diquyk — eventually rematerializes at Atral. Mya,
+         unaware of his true nature, believes him dead. Diquyk banished to a
+         separate physical parallel world where time moves more slowly. He is
+         40 years old at banishment.
+394 AW:  Gralvin's village destroyed by Tarik (age 7). Taken as gladiatorial slave.
+399 AW:  Bor Glitterbeard born (Iron Dwarf, Fardar).
+408 AW:  Gralvin (21) and Balric (23) escape together. Directed to Valeria.
+         Gralvin and Valeria become friends, then lovers. Gralvin and Balric
+         choose to stay and help her network.
+~408-412 AW: Grimmon Herringer travels to Ellendale then Faelyn. Plains Elf
+             emissary accompanies Grimmon to Faelyn. Grimmon tells Aer'Raenal
+             and Mya firsthand stories of Tarik's atrocities. Mya volunteers
+             to help. Aer'Raenal dispatches her.
+413 AW:  Mya arrives at Valeria's — pointed there by the same network.
+         Everything crystallizes. Simultaneous strikes by Plains Elves and
+         Herringers across Kimora. Tarik overthrown and killed. Valeria dies
+         in the final battle. Gralvin takes the throne at age 26. Iron Dwarves
+         freed and return to Fardar. Grimmon Herringer (age 41) present.
+427 AW:  Diquyk returns to Lanamyr through the Nexus on Myst, having spent
+         approximately 1 subjective year in the banishment plane while 35
+         years passed in Lanamyr. Physically aged to approximately 41 despite
+         being 75 by Lanamyr reckoning. Finds his former work on Myst abandoned
+         or gone. Brief flicker of hurt and fear before Abaculus redirects it.
+         Returns to Burnt Plains. Begins working toward Greyhawk's resurrection.
+429 AW:  Grimmon Herringer killed by Orc raiders (instruments of the Kimora
+         framing operation). Age 57. Bor obtains the map from Grimmon's
+         belongings.
+430 AW:  Adenburry sinkhole event. Subterranean Creatures of Olum breach the
+         town. Wilward's airship catches fire and tears in half. Bor and
+         Qenwick, traveling overland from Fardar, are also present. The group
+         fights together and exterminate the nest. Alexa eventually makes her
+         way to Broldendul. Wilward stays in Adenburry to help rebuild. Maeglin,
+         Bor, Skitter, and Qenwick travel together to inform Herringer members
+         across Kimora of Grimmon's death. Qenwick returns to Fardar after.
+432 AW:  PRESENT DAY. Diquyk (80 by Lanamyr reckoning, physically ~46) pursues
+         Greyhawk's resurrection via Karma at the Burnt Plains. Mya Li (age 85)
+         adventures with Balric Silverfox. Maeglin (age 78), Bor (age 33), and
+         Skitter travel together pursuing the lost kingdom. Adomorn at Tower of
+         Grannel. Gralvin (age 45) rules Kimora. Galstaff Quint (age 63)
+         travels. Aer'Raenal (age 188) rules Faelyn. Estefania (age 23) lives
+         somewhere on Alios. Qenwick in Fardar. Wilward in Adenburry rebuilding.
+         Alexa leads Four Crowns in Broldendul. Elsie (age 53) and Alita (age
+         24) Varis run the Monowi Inn. A Relic of Creation sits in a glass vial
+         around a Kobold's neck. Valindra walks the shore of her lake.
+
+================================================================================
+END OF LANAMYR KINGDOMS & HISTORY — v1
+================================================================================

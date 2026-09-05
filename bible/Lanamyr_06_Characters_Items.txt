@@ -1,0 +1,748 @@
+================================================================================
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Races, Kingdoms_History,
+Stories_Outlines, Open_Questions. Confirmed lore is locked; tentative lore is
+flagged and subject to change. When the user writes DQ, this refers to Diquyk
+Lockwood. Character ages and dates should match the Timeline in the
+Kingdoms_History file — cross-check both when either changes.
+
+================================================================================
+KEY CHARACTERS
+================================================================================
+
+ADOMORN THE IMMORTAL
+True name: Divinos. Last surviving Drasu. Granted immortality by Ah'Tabai in
+the final moments before Ah'Tabai was fully claimed by the Abaculus — the last
+act of a god of Resurrection and Reincarnation fighting a losing battle with
+full knowledge of what was happening to him. True form: Drasu — taller than
+any present-day race, bronze-skinned, lean and powerful. Does not age — his
+body is frozen at the physical state it was in when the gift was granted.
+Chooses to appear as an old, wise human — a deliberate projection of wisdom
+and trustworthiness rather than power or marvel. Can take other forms if he
+chooses but is most widely known in his current human form. Galstaff Quint is
+one of the rare few to have seen his true Drasu form.
+IMMORTALITY MECHANICS: His physical body can be killed, but it will fade and
+disappear after some undecided period. He then rematerializes at Atral — the
+precise location where Ah'Tabai granted the gift. He can be removed from a
+situation temporarily but never permanently by conventional or magical means.
+KNOWN PERMANENT THREATS: Only two things can permanently kill Adomorn —
+the Abaculus, and an Onwu Irridae. All other means of killing him are
+temporary. Diquyk does not yet know the specifics of Adomorn's immortality.
+ADOMORN AND THE HIGH ELVES: His rematerialization point being Atral — which
+the High Elves were actively excavating — is the likely explanation for how
+that relationship began. Encountering a Drasu suddenly materializing in the
+ruins of the greatest Drasian city would have been an extraordinary event.
+Has been searching for the Abaculus since 2165 by tracking Olum movement. Every
+lead is legitimate but turns up only natural nesting behavior. The Burnt Plains
+is a lifeless dead zone — the one place his methodology gives him no reason to
+visit. Aware of Relics of Creation (physical and abstract) from the Drasian
+Vault. Would not share unless absolutely necessary. Knew many Kings and Queens
+of Harrad. Was present at Battle of Rohl. Knew Morgan personally. Fought
+Diquyk alongside Mya and the Marauders. Does NOT know Diquyk has returned.
+Does NOT know the Abaculus is beneath the Burnt Plains.
+Resides at Tower of Grannel. Still sees Mya Li on occasion.
+Is the only living being capable of safely moving the Abaculus — Irridae and
+Drasu magic are the only known types that can forcibly move it without physical
+contact, bypassing corruption.
+Also searching for a way to free Karma from Greyhawk's curse. Has not yet
+found a means.
+CONTACTS WITHIN THE VAR HARMA: Has contact only with the highest ranks of
+the Var Harma. Likely became involved either by being present when they
+discovered the Vault, or by guiding them to it — undecided. Lower ranking
+members such as Maeglin likely do not know of his involvement or possibly
+who he is.
+Has passed through the Monowi Inn on the road between Fardar and Faelyn at
+some point. Elsie Varis treated him like any other traveler, unaware of who
+he was.
+ELF WAR: Contacted by the Wood Elves after Mya's first crushing defeat against
+Diquyk's forces. Based on Mya's description of Diquyk's abilities, suspected
+him to be a Magni — an identification that shaped his tactical planning.
+However, Adomorn did not anticipate how far Diquyk's powers had developed,
+nor the full consequence of Diquyk's ability to intercept and redirect magic.
+Diquyk is possibly the most powerful Magni ever born, eclipsing even Arias
+Graymist. This gap in Adomorn's intelligence contributed to the cost of the
+final battle.
+TENTATIVE — DEATH AT END OF ELF WAR: It is tentatively considered that
+Adomorn suffered a physical death immediately after banishing Diquyk in 392 AW
+— spending everything he had in the final confrontation and succumbing to his
+wounds shortly after. His body would have faded and he would eventually have
+rematerialized at Atral. Mya Li, who knew him only as a powerful legendary
+wizard and was unaware of his true nature or his immortality, would have
+believed him dead. NOT YET CONFIRMED.
+
+DIQUYK LOCKWOOD
+PRONUNCIATION: "Die Quick"
+Born 352 AW. Hillfolk of central Alios. Frail from birth. Age 80 by Lanamyr
+reckoning in 432 AW (appears ageless). PHYSICAL AGE: approximately 46 — see
+banishment entry below. Post-corruption appearance: pale blue skin, featureless
+white orb eyes that glow faintly. Wears worn, layered practical clothing. A
+reference image exists: small blue flame held in an outstretched hand, gazing
+down at it with stillness rather than menace.
+NOTE FOR UNLIT: In Chapter 1 he would appear as a frail, unremarkable
+fourteen-year-old Hillfolk boy — dark-haired, before corruption changed him.
+The contrast between that boy and the corrupted figure is one of the most
+powerful elements of the story.
+At 14 (366 AW): accidentally killed a guard and both parents with blue flame.
+Taken in by Degeric Cent. Mentored ~10 years.
+~376 AW: Parts from Degeric. Begins creating Jaunt Gates.
+379-381 AW: Visited Degeric one last time — still pre-corruption. Degeric dies
+  381 AW (age 48). Never knew what his student became.
+383 AW: Drawn to the Burnt Plains by curiosity — a patch of dead earth that had
+  defied natural recovery for centuries, receiving normal rainfall yet supporting
+  no life. Having no prior knowledge of the battle that caused it, he investigated.
+  The Abaculus, sensing his power, guided him to the hidden entry point among
+  the battlefield debris — a narrow burrow he could barely squeeze into — and
+  influenced him through it into Greyhawk's purpose-built chamber beneath. He
+  experienced this as his own curiosity and determination, unaware he was being
+  drawn in. Corrupted on contact with the Abaculus. Left the Burnt Plains
+  immediately after his corruption — remaining there served no purpose for the
+  Abaculus.
+PRE-WAR ACTIVITY (383-387 AW): In the four years between his corruption and
+  the start of the Elf War, Diquyk recruited the two forces that would prosecute
+  it. He visited the Stone Giants of the Tempest Peaks first — travelling to
+  the mountains directly north of Faelyn and demonstrating his overwhelming
+  magical power as a show of force. He offered the Giants plunder and the riches
+  of Faelyn. The Giants, who respect strength above all else, were persuaded.
+  Diquyk promised to return with additional forces before the attack began.
+  He then travelled to The Deep beneath the Tarantar Mountains and recruited
+  the Dark Elves — chosen for their obscurity, their lack of outside alliances,
+  their deniability, and their absence of any existing relationship with Faelyn.
+  He equipped them with magical and enchanted weapons. Both races were recruited
+  separately. During the early years of the Elf War, Diquyk directed operations
+  from between the two kingdoms via Jaunt Gates — not personally present on
+  the front lines. He placed gates near both the Tempest Peaks and The Deep to
+  move rapidly between them as needed.
+ELF WAR (387-392 AW): The early years (387-391 AW) consisted of a two-front
+  assault — mixed Dark Elf and Giant units probing from the north through the
+  Tempest Peaks and from the east out of The Deep. Diquyk tested Wood Elf
+  defenses and learned what he was up against from a distance.
+  In 392 AW Diquyk made his first major push — the first large encounter, which
+  was also Mya's most crushing defeat and learning experience. She underestimated
+  the scale of the threat. Dark Elves and Giants under Diquyk's command carried
+  magical and enchanted weapons. Diquyk killed a multitude of soldiers before
+  the Wood Elves retreated. Mya survived, reported back. This report led to
+  Adomorn being contacted. The Marauders were formed and the final battle
+  occurred within the same year — 392 AW.
+392 AW: Banished at the end of the Elf War at physical age 40. See banishment
+  details below.
+427 AW: Returns to Lanamyr through the Nexus on Myst (age 80 by Lanamyr
+  reckoning, physically ~41 due to temporal difference of banishment plane).
+  Finds his old notes, study, and places he visited on Myst either abandoned
+  and covered in years of dust or drastically changed. A brief flicker of
+  genuine feeling surfaces — not yet vengeance, but its raw material: hurt and
+  fear. The feelings of someone cast out while life continued without him. The
+  Abaculus pushes those feelings aside quickly, repurposing rather than
+  suppressing them. He is now focused entirely on his mission.
+BANISHMENT: Diquyk was banished to a separate plane of existence — not the
+  same plane used by the Jaunt Gates, which is a featureless void. The
+  banishment plane is a parallel physical world with its own features and
+  characteristics — an entirely different world existing alongside the plane
+  Lanamyr resides in. Features and characteristics undeveloped. Critically,
+  time moves more slowly there relative to Lanamyr. Diquyk experienced
+  approximately 1 year in banishment while 35 years passed in Lanamyr. He
+  spent that subjective year working to find a way back. He succeeded by
+  creating a gate from the banishment realm back to the Nexus.
+  PHYSICAL AGE CONSEQUENCE: Banished at physical age 40, experienced ~1 year,
+  returned physically ~41. Five years have since passed. Physical age in 432 AW
+  is approximately 46 — a man in the physical prime of his life, despite being
+  80 by Lanamyr's calendar.
+  WHO KNOWS ABOUT THE TIME DIFFERENTIAL: Undecided whether anyone knew when
+  banishing him. Adomorn possibly knew. No one else except now Diquyk himself.
+  The Irridae and the Abaculus also know.
+MAGICAL ABILITIES: Senses others drawing on ambient magical energy, intercepts
+  it, steals the spell mid-cast, stores it as blue flame. More stored = more
+  devastating release. Difficulty scales with opponent's power — Adomorn was the
+  hardest. Can also draw from ambient energy directly. During Elf War, equipped
+  Dark Elf forces with magical and enchanted weapons. Is possibly the most
+  powerful Magni ever born, eclipsing even Arias Graymist. Adomorn suspected
+  he was a Magni from Mya's description after the first defeat, but did not
+  anticipate how far his powers had developed. Diquyk's ability to sense others
+  drawing on ambient energy is what detected Adomorn's gate transit during the
+  final battle — foiling the ambush. NOTE: The white-blue burst of DQ's power
+  during the incident at age 14 is the same blue flame that defines his magic
+  throughout his life — visible from the very first expression of his ability.
+ULTIMATE GOAL: Ascend to godhood → wield Abaculus against all Irridae →
+  Abaculus would then turn on him too. Does NOT know he was beneath the Burnt
+  Plains when corrupted or that Karma sits above the Abaculus. Operates alone.
+  Currently working to find the mechanism to resurrect Greyhawk into Karma.
+REVENGE MOTIVE: A significant personal driver is revenge against Adomorn.
+  This motive has a genuine root in Diquyk's true self — the original feelings
+  were hurt and fear at being cast out, losing his place in the world, and
+  watching decades pass without him. The Abaculus did not suppress these
+  feelings but twisted them: hurt became grievance, fear became the need to
+  dominate. The drive for vengeance is authentically Diquyk's in origin, which
+  makes it more dangerous and more tragic than pure manipulation. Ascending to
+  godhood and wielding the Abaculus is, in his distorted mind, also an act of
+  personal retribution. Adomorn is unaware Diquyk has returned and has no idea
+  he is the focus of this rage.
+DIQUYK'S TRUE SELF: A slight flicker of the original Diquyk survives beneath
+  the corruption — the return to Lanamyr briefly surfaced something genuine:
+  hurt and fear rather than rage. However, by 432 AW the Abaculus has a nearly
+  total and unbreakable hold on him. Whether that flicker can ever be reached
+  — and whether the story will offer him redemption or only death — remains an
+  open question. Current lean: Diquyk is killed while still a tool of the
+  Abaculus, making his story ultimately a tragedy rather than a redemption arc.
+
+MYADONNA LIAPHYRA (MYA LI)
+Born 347 AW, Caldalus, Faelyn. Age 85 in 432 AW. Age 85 falls in her prime
+by Wood Elf standards (prime: 62–150) — equivalent to a human in their early 30s.
+Wood Elf princess, daughter of King Aer'Raenal Liaphyra.
+APPEARANCE: Green eyes (not common among Wood Elves), pointed ears, dark hair.
+Height: 5'2" (average for Wood Elf females). Two reference images exist:
+Image 1 (civilian): Simple grey blouse, wide leather belt, cream skirt.
+  Mya before the war — as she might appear in Chapter 2 of Unlit.
+Image 2 (warrior): Ornate green and gold armor, weapon over her shoulder,
+  looking back over her shoulder — alert, never entirely at rest. This is the
+  Mya who led the Marauders.
+The black and white ink artwork (jumping with the bow) remains the closest
+accurate depiction of her actual battle outfit and armor.
+Weapons: Crimson (soft red glow), Sear (soft white-yellow glow),
+  Bow of the Dales (purple-pink energy bolts, no conventional ammo).
+Bow of the Dales was created by Diquyk for Shedyak; acquired by Mya after
+  killing Shedyak in the final battle of the Elf War.
+EARLY LIFE (confirmed lore for Unlit): Originally intended to become queen of
+Faelyn. Scholarly in youth — studied the history of Faelyn with that purpose.
+Capable and diligent but restless, increasingly bored. Phelloden was already
+present and more enthusiastic about his studies. Mya's path to the militia
+began with a growing restlessness that accumulated over time — trade meetings
+with foreign emissaries she found deadening, books she drifted away from toward
+tales of heroes, militia members she watched from behind a pillar and envied
+their camaraderie. The throne was never imminent given Aer'Raenal's long years
+ahead. Phelloden as heir is Mya's DELIBERATE CHOICE — a conversation between
+them made it real and spoken.
+ELF WAR (387-392 AW): Joined militia at age 40, prompted by the beginning of
+Stone Giant attacks on the outskirts of Faelyn — the final tipping point after
+a long accumulation. The early years of the war (387-391 AW) consisted of a
+two-front assault — mixed Dark Elf and Giant units pressing from the north
+through the Tempest Peaks and from the east out of The Deep. In 392 AW Diquyk
+made his first major push — the first large encounter, which was also Mya's
+most crushing defeat and learning experience. She underestimated the scale of
+the threat. Dark Elves and Giants under Diquyk's command carried magical and
+enchanted weapons. Diquyk killed a multitude of soldiers before the Wood Elves
+retreated. Mya survived, reported back. This report led to Adomorn being
+contacted. Her father Aer'Raenal urged her to seek out Adomorn — a figure of
+great and ancient reputation. Mya knew him only as a powerful legendary wizard;
+she was entirely unaware of his true Drasu nature or his immortality. The
+Marauders were formed and the final battle occurred within the same year — 392 AW.
+MYA'S FIRST LOVE INTEREST: Kharis Ailwin. Wood Elf, born 347 AW — the same
+age as Mya. Joined the militia at essentially the same time as Mya — he was
+among the survivors of a Stone Giant attack on a small Wood Elf village, part
+of the group that fled to Caldalus to deliver word of the attack. His family
+was killed in that attack. This is his primary motivation for joining. Both
+showed great promise and skill from the start. Over their first year they built
+deep trust, going on missions together. In their second year they became serious,
+though not openly — their roles demanded professionalism and the relationship
+was kept quiet. Their closest friends knew. Kharis was killed in the first
+major encounter with Diquyk's forces in 392 AW at age 45 — young by Wood Elf
+standards, barely past young adulthood. Because the relationship was never
+publicly acknowledged, Mya could not grieve him openly. She absorbed that loss,
+helped form the Marauders, and led them into the final battle within the same
+year — losing every one of them too. All of it within 392 AW.
+KHARIS AILWIN APPEARANCE: Height 5'7" (average for Wood Elf males). Light brown
+hair. Brown eyes.
+THE MARAUDERS were formed specifically for the final incursion into Dark Elf
+territory — a purpose-built elite unit assembled after Mya had already
+experienced that loss and learned from it. They are NOT the unit present in
+the first encounter with Diquyk's forces.
+Mya's first love interest (Kharis Ailwin) was killed in that earlier encounter,
+along with several other men under her command.
+TOTAL STRENGTH: 10 Marauders.
+POST-WAR IDENTITY: In the aftermath of the Elf War Mya experienced a period
+of rootlessness and doubt — questioning whether she had traded something she
+couldn't get back when she stepped aside from the throne. Those feelings
+resolved over the course of the events leading to Tarik's overthrow and through
+meeting Balric. By 432 AW she is firmly comfortable and confident in her
+present role. Phelloden flourishing as heir is a quiet confirmation that she
+made the right choice.
+MOTIVATION: Pure compassion and a refusal to stand by while others suffer. She
+represents the best of what a person can be.
+Deep bond with Adomorn. Good friends with Gralvin Sutton.
+Travels with Balric Silverfox only (just the two of them).
+Has passed through the Monowi Inn at some point. Elsie Varis treated her like
+any other traveler, unaware of who she was.
+
+AER'RAENAL LIAPHYRA
+Born 244 AW. Age 188 in 432 AW. King of the Wood Elves. Rules from Caldalus.
+Father of Mya Li and Phelloden. Gifted Mya Crimson and Sear.
+AGE CONTEXT (Wood Elf lifespan 250 years): Was 103 when Mya was born (347 AW)
+— well within his reproductive years (50–125) and late in his prime (62–150).
+Was 113 when Phelloden was born (357 AW) — still within reproductive years.
+At 188 in 432 AW: solidly in Wood Elf middle age (150–200). Experienced,
+established, still vigorous but with the weight of years on him.
+At the time of Mya-1 and Mya-2 (pre-387 AW), Aer'Raenal is approximately 140
+years old — solidly in his prime, with many decades ahead of him. The throne
+is not imminent for either Mya or Phelloden, which removes competitive pressure
+between the siblings.
+Dispatched Mya to help with Tarik's overthrow after meeting Grimmon Herringer
+and a Plains Elf emissary. After Mya's first crushing defeat against Diquyk's
+forces, urged her to seek out Adomorn — recognizing the threat was beyond
+anything the Wood Elves could handle alone. Currently alive in 432 AW.
+
+PHELLODEN LIAPHYRA
+Born 357 AW. Age 75 in 432 AW — just entering his prime by Wood Elf standards
+(prime: 62–150). Son of King Aer'Raenal. Younger brother of Mya Li by 10 years.
+More enthusiastic about his studies than Mya — maps, treaties, the history of
+Faelyn's relationships with neighboring kingdoms. Next in line to lead the Wood
+Elves of Faelyn — a deliberate choice by Mya, not circumstance. Mya and
+Phelloden have a warm relationship with genuine mutual respect. There was never
+rivalry or competition between them. Phelloden recognizes Mya's potential and
+would have had no issue if she had chosen the throne. They each understand where
+their strengths lie relative to the other. Humor and teasing exist naturally
+between them. Currently alive.
+
+GRALVIN SUTTON
+Born 387 AW. Age 45 in 432 AW. King of Kimora. The Reluctant King.
+Village destroyed by Tarik at age 7 (394 AW). Taken as a gladiatorial slave.
+14 years in the arena. Escaped 408 AW alongside Balric Silverfox (from different
+villages, met within the slave system — specific circumstances undecided).
+Directed to Valeria shortly after. Gralvin and Valeria became friends quickly,
+then lovers. He saw her pure heart. He and Balric chose to stay and help her
+network for several years, gathering worsening firsthand accounts.
+When Mya Li arrived — pointed toward Valeria by the same network — everything
+crystallized. Valeria died in the final battle. Gralvin took the throne at age
+26, reluctantly. Good friends with Mya. Working to mend Kimora-Fardar relations.
+Tarik's former followers remain a threat. Valeria's presence occasionally
+manifests supernaturally.
+
+VALERIA
+Died 413 AW in the final battle of Tarik's overthrow. Occasionally manifests
+supernaturally in Gralvin's life. Degree and nature of presence: UNDECIDED.
+APPEARANCE: Long blonde hair. Slender yet powerful build. Striking blue-gray
+eyes. Voice soft and deep. PERSONALITY: Mischievous and warm — quick with a
+friendly barb or teasing remark. Had no love for authority. Principled defiance
+that she wore lightly. Ran the informal escape network for years with Gralvin
+and Balric. When Mya arrived, Valeria recognized immediately what it could mean.
+
+BALRIC SILVERFOX
+Born 385 AW. Age 47 in 432 AW. Human. Two years older than Gralvin.
+Enslaved by Tarik as a manual laborer — NOT a gladiator. From a different village
+than Gralvin. Met within the slave system (specific circumstances undecided).
+Escaped together with Gralvin in 408 AW. Part of Valeria's network for several
+years. Present for Tarik's overthrow in 413 AW. After Valeria's death, remained
+close to Gralvin in early years of his reign. At some point became Mya Li's
+traveling companion and love interest — circumstances undecided. Currently
+adventuring with Mya. It is just the two of them. No physical description or
+personality details yet established.
+
+SKITTERSKINK (SKITTER)
+Mystic Kobold cleric — one of the rare individuals of his race with magical
+ability. His tribe raided a small farm, burning several buildings. Skitter found
+a small acorn completely unaffected by the fire in the charred wreckage. Tried
+to break, smash, and burn it — nothing worked. Placed it in a glass vial. Wears
+it around his neck. Has no idea it is a Relic of Creation.
+Galstaff encountered Skitter and sensed remarkable power from the vial.
+Current companions in 432 AW: Bor Glitterbeard and Maeglin Leralonde.
+Prior connections through travel: Wilward Cobbersplint, Alexa Komoth, and
+Qenwick Orcsbane — shared the Adenburry sinkhole event in 430 AW.
+Was traveling with Wilward, Alexa, and Maeglin aboard Wilward's airship when
+they landed in Adenburry in 430 AW. Fought alongside the others to exterminate
+the subterranean Olum nest. Afterward traveled with Maeglin, Bor, and Qenwick
+to inform Herringer members across Kimora of Grimmon's death.
+OPEN QUESTION: Which Irridae does Skitter worship? When and how did Galstaff
+encounter him? Undecided.
+
+MAEGLIN LERALONDE
+Born 354 AW. Age 78 in 432 AW — solidly within his prime by High Elf standards
+(prime: 55–132 years). High Elf male from T'sarra. Noble family. Father was a
+caretaker of elven artifacts. Inducted into the Var Harma.
+APPEARANCE: Dark brown hair. Brown eyes. Height approximately 5'9" — notably
+taller than average for High Elf males.
+Character traits: Obsession with knowledge, fair and open-minded but lets
+emotions cloud judgement around aloof people, has grown sterner since becoming
+a renowned assassin of the Var Harma.
+First solo expedition: retrieved a ceremonial gold hammer from a ruined Dwarven
+temple to Dey near the Troll's Breath Mountains. First met Bor there. Gave Bor
+the hammer in exchange for access to Bor's map hinting at a hidden entrance to
+a lost dwarven kingdom. Initially partnered with Bor for the opportunity and
+potential discoveries the quest might yield. They have since become genuinely
+good friends.
+Was traveling with Wilward, Skitter, and Alexa aboard Wilward's airship when
+they landed in Adenburry in 430 AW. Fought alongside the others to exterminate
+the subterranean Olum nest. Afterward traveled with Bor, Skitter, and Qenwick
+to inform Herringer members across Kimora of Grimmon's death.
+Travels with Bor and Skitter in 432 AW.
+
+BOR GLITTERBEARD
+Born 399 AW. Age 33 in 432 AW — just entering his prime by Iron Dwarf standards
+(prime: 27–66 years). Iron Dwarf from Fardar. Battlerager fighting style.
+APPEARANCE: Reddish-orange hair. Hazel eyes.
+Carries the deep cultural history of his people — two major periods of Iron
+Dwarf enslavement (Bourbac, then Tarik) have left a lingering distrust of humans.
+Cousin of Qenwick Orcsbane — their fathers are brothers.
+Grimmon Herringer recognized Bor as a kindred spirit and showed him the map of
+the lost kingdom, sharing his plans and knowledge of what lay in the Tarantar
+Mountains. After Grimmon's death in 429 AW, Bor obtained the map from Grimmon's
+belongings. The map passed through several generations of Herringers before
+Grimmon — its ultimate origins are undeveloped.
+Bor holds the map. Maeglin has access to it but does not possess it. The map
+gives only an approximate location and hints at a hidden entrance.
+Bor and the Herringers are aware of multiple versions of the legend of the lost
+kingdom's downfall. Dark Elf involvement is considered one of the more likely
+explanations. Bor does not yet know that Creatures of Olum were the true cause.
+Was traveling overland from Fardar into Kimora with Qenwick when they were
+present at the Adenburry sinkhole event in 430 AW. Fought alongside the others
+to exterminate the subterranean Olum nest. Afterward traveled with Maeglin,
+Skitter, and Qenwick to inform Herringer members across Kimora of Grimmon's
+death.
+Travels with Maeglin and Skitter in 432 AW.
+
+QENWICK ORCSBANE
+Iron Dwarf paladin from Fardar. Cousin of Bor Glitterbeard — their fathers are
+brothers. Was traveling overland from Fardar into Kimora with Bor when they
+were present at the Adenburry sinkhole event in 430 AW. Fought alongside the
+others to exterminate the subterranean Olum nest. Afterward traveled with
+Maeglin, Bor, and Skitter to inform Herringer members across Kimora of Grimmon's
+death. After the news was delivered, returned to Fardar.
+Currently alive in Fardar as of 432 AW. Prior connections through the Adenburry
+event and subsequent travels: Bor, Maeglin, Skitter, Wilward, and Alexa.
+
+GRIMMON HERRINGER
+Born 372 AW. Died 429 AW (killed by Orc raiders — instruments of the
+Kimora-framing operation). Would have been 60. At approximately age 36-40,
+personally traveled to Ellendale to plan coordinated overthrow of Tarik. Drew
+up simultaneous strike plans with the Plains Elves. Then traveled with a Plains
+Elf emissary to Faelyn, told King Aer'Raenal and Mya firsthand stories of
+Tarik's atrocities. Mya was deeply moved and volunteered to help. Was 41 at
+Tarik's overthrow in 413 AW and present for the culmination. Founded Herrington.
+APPEARANCE: Dark brown hair. Blue eyes.
+Ambition: new Dwarven kingdom in the Tarantar Mountains. Said to be Arrama
+Herringer reborn.
+Possessed the map of the lost kingdom — passed down through several generations
+of Herringers before him. The map and the legend of the lost kingdom were part
+of what drove his ambition to establish a new Dwarven kingdom in the Tarantar
+Mountains. Recognized Bor as a kindred spirit and shared the map and his
+knowledge with him personally.
+
+TARIK BOLDEN (TARIK THE RAVAGER)
+Born 355 AW. Took throne of Kimora 386 AW (age 31). Died 413 AW (age 58).
+Spent years building support before taking the throne. Immediately began raiding
+villages and enslaving populations — both Hillfolk humans and Iron Dwarves from
+Fardar. Enslaved humans used as gladiators and laborers. Iron Dwarves built the
+Palace of Shatazaar. Those too injured to work were executed. Tarik's former
+followers have had 19 years to organize and are suspected of orchestrating an
+Orc framing operation against Kimora.
+
+GALSTAFF QUINT
+Born 369 AW. Age 63 in 432 AW. Human sage, skilled magic user, historian.
+Author of The Journals of Galstaff Quint. No interest in combat. Began
+traveling at age 20. Discovered the Nexus on Myst. Learned to safely use the
+Jaunt Gates. Traveled most of Lanamyr. Met Adomorn personally. Travels alone.
+Encountered Skitter and sensed remarkable power in the acorn vial.
+OPEN QUESTION: May have discovered Estefania's Harrad lineage — NOT YET OFFICIAL.
+
+KARMARUKYNTIN (KARMA)
+Born 925, 2nd Epoch. Gold dragon. At approximately 1240 years old at Battle of
+Rohl (2165) — well within his prime by Dragon standards (prime: 750–1800 years).
+Fought alongside Adomorn in the Great War. Greyhawk's dying curse — directed by
+the Abaculus — transformed him into a golden-skinned Kobold bound to the Burnt
+Plains. An amulet contains his life force. If he ventures beyond the plains, he
+dies. His own survival instinct keeps him exactly where the Abaculus needs him
+— his captivity requires no active maintenance.
+Bound to the Burnt Plains for 400+ years, living directly above the Abaculus,
+with NO knowledge of either the Abaculus or its plans for him.
+IS the intended vessel for Greyhawk's resurrection. Normal Kobold lifespan rules
+do not apply — the amulet sustains him.
+The Abaculus has had 400+ years of proximity to subtly influence Karma's mind.
+It has discouraged certain thoughts and nudged his attention at key moments —
+including ensuring he did not report Diquyk's visit to Adomorn. Karma may not
+realize any deliberate choice was made.
+Adomorn is actively searching for a way to free Karma from the curse but has
+not yet found a means.
+OPEN QUESTION: The specific mechanism of the curse and the ritual for
+Greyhawk's resurrection are not yet developed.
+
+AENDRONTIAG (GREYHAWK)
+Born 658, 2nd Epoch. Black dragon. By the time of the Great War and his death
+he had long since stopped growing — approximately 100 feet from tip of nose to
+tip of tail, with a body length of approximately 30 feet and neck and tail
+combining for the remaining 70 feet. Wingspan approximately 120 feet.
+APPEARANCE: Black scales with a glossy finish that gives off a sheen in
+sunlight. Two powerful hind legs capable of propelling him skyward for takeoff.
+Front legs functioned as arms — while he normally walked on all fours, his
+front claws were capable of grasping. Towered above any normal human.
+Found the Abaculus in 2136 (approximately 1478 years old — still in his prime).
+Corrupted on contact. Directed the Great War. Spoke many languages — dragons
+have their own language but can learn others if they choose, and Greyhawk
+bothered to learn many.
+An immensely powerful physical force by size alone, and also a highly adept
+magic user and a charismatic leader. Prior to and during the Great War he
+recruited a number of dragons to his cause while under the Abaculus's influence.
+Those he could not persuade were either killed or taken to Olum nests for
+forced corruption — dragons are normally far too powerful for a nest to overcome,
+but Greyhawk's direct involvement made it possible. Corrupted dragons became
+extraordinarily powerful Creatures of Olum.
+Deliberately relocated the Abaculus from the Tarantar Mountains to beneath the
+grasslands near Rohl — knowing Rohl would be the site of the war's most pivotal
+battle, allowing the Abaculus to draw Olum to the city while he built his forces.
+Killed at the Battle of Rohl 2165 (age approximately 1507). When the battle
+turned against him he fled, attempting to reach the Abaculus to use it as a
+weapon against Karma and Adomorn — the same fatal miscalculation Ah'Tabai made.
+They killed him before he reached it. Adomorn did not know that was his
+intention, and therefore did not know the Abaculus was nearby. His dying curse
+— directed by the Abaculus in its final instant through a dying Greyhawk —
+bound Karma to the Burnt Plains as a vessel for Greyhawk's eventual resurrection.
+Diquyk is working to resurrect him.
+
+ESTEFANIA
+Age 23 in 432 AW. Human. Last surviving descendant of the Harrad bloodline,
+descended through an unknown secondary branch. Her existence is unknown to
+history. Lives somewhere on Alios. Doesn't know her heritage.
+OPEN QUESTION: Connection to Daria's line is a strong possibility — not
+yet confirmed. Galstaff may have discovered her lineage — NOT YET OFFICIAL.
+
+ELSIE VARIS
+Age 53 in 432 AW. Hillfolk human. Lives in a farmhouse in the Monowi Hills
+near the Kimora-Ellendale border. Plump, always happy and hospitable. Her
+husband died of sickness some years ago and she raised her daughter Alita alone.
+Unable to manage the farm by herself after his death, she began offering freshly
+cooked meals to travelers on the road. Over time, kind souls helped her build
+a small inn next to her farmhouse — the Monowi Inn. It has become one of the
+most well known and frequently visited stops on the road between Fardar and
+Faelyn. Many merchants and travelers know her by name. She has seen many notable
+people pass through her door without knowing who they were — including Mya Li
+and Adomorn the Immortal. She treated them all like royalty regardless.
+
+ALITA VARIS
+Age 24 in 432 AW. Hillfolk human. Daughter of Elsie Varis. Lives and works
+at the Monowi Inn. Plays violin live several nights each week. Amateur magic
+user — picks up tips and lessons from travelers passing through, giving her
+an eclectic and unconventional magical education. Narrative function in future
+stories undeveloped.
+
+VALINDRA
+Plains Elf. Died 116 AW — young, exact age undeveloped. Lover of Cyran.
+Drowned in the lake near her nomadic settlement when their boat failed far from
+shore. Neither she nor Cyran were strong swimmers.
+Her spirit did not pass. She inhabits the lake and walks its shoreline — waiting
+for Cyran to return. Her appearance has decayed through the centuries: pale gray
+skin, dark hair hanging in an unkempt mass partially covering her face, features
+grown increasingly indistinct with time. She does not speak. She does not
+threaten. She mourns. Those who come close to the lake feel her torment as
+though it were their own — grief and loss bleeding outward from the water's edge.
+The sobbing and wailing heard at a distance are hers. The stories that have
+spread — of an evil or vengeful spirit guarding the lake — are exaggeration born
+of fear and distance. Valindra mourns. She is still waiting.
+
+CYRAN
+Plains Elf. Died 116 AW — young, exact age undeveloped. Lover of Valindra.
+Drowned alongside her when their boat failed far from shore. Did not remain.
+His absence is the entire tragedy.
+
+DEGERIC CENT
+Born 333 AW. Died 381 AW, age 48. Hillfolk human. Paladin of the Church of
+Angellia — Goddess of Love, Empathy, Compassion, Sacrifice. A genuinely kind
+and compassionate man, well liked and respected in his community.
+FAITH: Degeric's faith in Angellia was real and actively expressed through how
+he lived — not an abstract devotion but a practical one. He helped those who
+were less fortunate, protected the vulnerable, and offered comfort where others
+might turn away. His understanding of Angellia and the gods was shaped entirely
+by church doctrine and tradition — as with virtually all people in Lanamyr, he
+had no knowledge of the true nature of the Irridae.
+MAGIC AND COMBAT: A capable fighter. A basic magic user — able to offer Diquyk
+a rudimentary explanation of the ambient energy and how to access it, but
+Diquyk's natural ability quickly exceeded Degeric's skill and knowledge. Once
+that threshold was crossed, Degeric could no longer teach in any technical sense
+— he shifted into the role of mentor and advisor, guiding Diquyk through
+territory neither of them had a map for.
+RELATIONSHIP WITH THE TOWN: Lived in the same small town as Diquyk and his
+parents. Knew the family personally before the incident. Well regarded by the
+local town guards, with whom he had fought side by side against Creatures of
+Olum that roamed into the region. His reputation was not formal authority but
+the earned respect of someone who showed up when it mattered.
+THE INCIDENT (366 AW): Was among those who came running when the bursts began.
+Witnessed the aftermath firsthand — the charred remains of Diquyk's parents and
+the town guards, and Diquyk himself, sobbing and uncomprehending. That sight
+compelled him immediately. He did not weigh the decision. He stepped in, offered
+comfort, and took Diquyk in — not out of duty but out of the same compassion
+that defined everything else he did. The guards who died in the incident were
+men he had fought alongside. He stepped past that too.
+MENTORSHIP (366–376 AW): Helped Diquyk process his grief in the immediate
+aftermath. Took him along on his church duties — Diquyk witnessed firsthand how
+Degeric helped the less fortunate, protected the vulnerable, and earned the
+respect of those around him. Treated Diquyk as a father figure without being
+overbearing — aware that he could not replace what had been lost and careful not
+to try. Diquyk was an eager student of both magic and the gods. As Diquyk's
+power grew beyond what Degeric could teach or even fully follow, Degeric shifted
+to the role of mentor — urging Diquyk to use his power to help people, to be a
+protector. Diquyk took that to heart and began doing exactly that within the
+church and the town.
+DEPARTURE (~376 AW): The mutual recognition that Diquyk had outgrown his small
+role and his small town. Both of them arrived at this understanding — it was not
+one pushing the other. Degeric saw the wider potential Diquyk had. Diquyk felt
+the pull of a larger world. The parting was warm and loving. Neither of them
+knew it was nearly the last time they would see each other. The departure
+conversation also established a direction for DQ: Degeric pointed him toward
+a region of rumored Olum activity — nest hunting — likely through his church
+network or reports from travelers. This framing was consistent with everything
+Degeric had taught: go help, go protect. TENTATIVE — details of the specific
+direction undeveloped.
+FINAL VISIT (379–381 AW): Diquyk visited one last time, still pre-corruption.
+Degeric died 381 AW at age 48. He never knew what his student became.
+
+OTHER CHARACTERS (less developed):
+- Figwit Sparklefuzz: Sky Gnome inventor/illusionist from Myst. Alive. Undeveloped.
+- Alexa Komoth: Red-haired human barbarian from Andar. Was aboard Wilward's
+  airship and present at the Adenburry sinkhole event in 430 AW. Made her way
+  to Broldendul afterward — details undeveloped. Leads Four Crowns gang.
+  Prior connections: Skitter, Wilward, Maeglin, Bor, Qenwick.
+- Wilward Cobbersplint: Sky Gnome. Owned and operated an airship. Was carrying
+  Skitter, Alexa, and Maeglin when they landed in Adenburry in 430 AW. During
+  the sinkhole collapse, fires spread from buildings to the airship, which caught
+  fire and tore in half as the ground gave way. Chose to stay in Adenburry to
+  help the town rebuild and to reconstruct his airship. Currently in Adenburry
+  as of 432 AW. Prior connections: Skitter, Maeglin, Alexa, Bor, Qenwick.
+- Shedyak: Dark Elf. Diquyk's top lieutenant during Elf War. Killed by Mya Li
+  in the final battle of the Elf War inside the Dark Elf kingdom.
+- Ah'Tabai: N'du Irridae. God of Resurrection and Reincarnation. Returned to
+  Lanamyr to prepare for the incoming Onwu Irridae. In an act of poor
+  judgement — the gods are not infallible — decided to retrieve the Abaculus
+  to weaponize it against them. Was corrupted on contact but resisted long
+  enough, by virtue of his cosmic nature, to grant Adomorn immortality before
+  being fully claimed. The Abaculus deliberately prolonged the corruption to
+  use him as a controlled tool. He was used to destroy all other Irridae
+  present at Atral, then was destroyed in the Sundering. His gift of
+  immortality to Adomorn was his last act — performed with full knowledge of
+  what was happening to him. His death left Resurrection and Reincarnation as
+  ungoverned domains — cosmic qualities that persist independently but without
+  a governing Irridae. This may be the mechanism by which Diquyk is eventually
+  able to raise Greyhawk — TENTATIVE, UNCONFIRMED.
+- Arias Graymist: Magni, born 2059, 2nd Epoch. Created Harbinger Set. Died 2140
+  (age 81). Three sons: Cyrus (Staff), Mako (Cloak), Talon (Amulet). Considered
+  an exceptional Magni — likely eclipsed only by Diquyk Lockwood.
+- Cyrus Graymist: Born 2104, 2nd Epoch. Received Staff. Stayed in Felgard.
+  Brokered Cobalt peace treaty. Died 2190 (age 86). Tomb near Jorvik.
+- Mako Graymist: Born 2108, 2nd Epoch. Received Cloak. Traveled abroad.
+  Tomb: UNDECIDED.
+- Talon Graymist: Born 2110, 2nd Epoch. Received Amulet. Traveled abroad.
+  Tomb: UNDECIDED.
+
+================================================================================
+ITEMS AND ARTIFACTS
+================================================================================
+
+JAUNT GATES: Network of magical portals connected through the Nexus on Myst.
+Created by Diquyk ~376 AW onward (pre-corruption). The transit dimension they
+pass through is one of the planes drained of energy during Lanamyr's creation —
+a featureless void long before Diquyk was born. He did not choose or search for
+it; he tore through the fabric of reality using immense power without fully
+understanding what lay on the other side. Conscious travelers experience what
+feels like centuries of sensory deprivation → madness and death. Safe passage
+requires being unconscious. A curious local followed Diquyk through a gate and
+emerged screaming "It's longer than you think!" before dying. Galstaff
+discovered Diquyk's records at the Nexus and learned safe use. Diquyk's records
+reflect only empirical observations of what the gates do — not what the void is
+or where it came from. During the Elf War, Diquyk placed gates near the Tempest
+Peaks and near The Deep entrance to coordinate his two-front campaign. During
+banishment after the Elf War, Diquyk created a gate from the banishment realm
+back to the Nexus to escape. The specific mechanics of the gate creation process
+are not yet fully developed.
+
+HARBINGER SET (Cloak, Staff, Amulet): Created by Arias Graymist 2111, 2nd Epoch.
+Each summons a powerful creature individually. Combined effect scales
+dramatically with wielder. Components believed still in respective tombs — Cyrus
+(Staff, near Jorvik, Utoa), Mako (Cloak, tomb undecided), Talon (Amulet, tomb
+undecided). None of the sons had children.
+
+CRIMSON AND SEAR: Twin blades gifted to Mya Li by her father Aer'Raenal.
+Crimson: soft red glow. Sear: soft white-yellow glow.
+
+BOW OF THE DALES: Created by Diquyk for Shedyak. Acquired by Mya after killing
+Shedyak. No conventional ammo — draws on ambient energy, fires purple-pink bolts.
+Anyone recognizing the purple-pink signature would know immediately who made it.
+
+KARMA'S AMULET: Contains Karma's life force following Greyhawk's dying curse.
+Sustains him within the Burnt Plains. If he ventures beyond, he dies.
+
+THE JOURNALS OF GALSTAFF QUINT: The written records of Galstaff Quint's travels
+across Lanamyr. Source of all Galstaff quotes throughout the world bible.
+
+================================================================================
+DRAGONS — FACTIONS AND TYPES
+================================================================================
+
+NOTE: All content in this section is TENTATIVE. Carried forward from an older
+version of the bible for review. Confirm or revise in future sessions.
+
+OVERVIEW:
+Dragons are among the most powerful beings in Lanamyr, reaching full size and
+strength after roughly 1000 years. Some wield power overshadowed only by the
+gods themselves. While some dragons depend on immense physical power, others
+rely more heavily on innate magical ability.
+
+TWO FACTIONS — CHROMATIC AND METALLIC:
+Dragons divide into two broad factions: Chromatic and Metallic. In general,
+Chromatic dragons lean toward evil, while Metallic dragons lean toward good.
+Members of both factions can tend toward neutral. These are tendencies, not
+absolute rules. The Dragon Wars of the 2nd Epoch were a conflict between these
+two factions. Gold and Black dragons are approximately equal in power and are
+the most powerful of their respective factions.
+
+The Chromatic/Metallic framework is consistent with confirmed lore: Greyhawk
+is a Black dragon — the most powerful Chromatic type — which aligns with his
+role as the most dangerous figure of the Great War and his corruption by the
+Abaculus. Dragons he recruited willingly versus those he forcibly corrupted at
+Olum nests may reflect this factional divide.
+
+CHROMATIC DRAGONS (listed most to least powerful; percentages are of total
+Chromatic population — TENTATIVE):
+Black (3%): Most powerful Chromatic dragon. Typically found in swampy areas.
+  Diet mostly aquatic life and occasional red meat. Breath weapon: acid.
+  Personality: very cruel and short-tempered.
+Red (8%): Typically found in mountainous areas but known in any terrain.
+  Breath weapon: fire. Extremely selfish and power hungry — seeks to expand
+  their hoard.
+Blue (12%): Found primarily in desert and vast plains. Bullying and cruel to
+  lesser creatures, often through manipulation or causing hallucinations rather
+  than direct physical harm. Breath weapon: lightning.
+Green (14%): Usually found in wooded or swampy areas. Breath weapon: poisonous
+  gas. Love to fight and will often attack unprovoked. Very territorial.
+  Deceitful and lying.
+Gray (16%): Indigenous to mountain regions. Able to petrify with its gaze.
+  No breath weapon but physically very tough and powerful. Quick to anger.
+Brown (16%): Exclusive to desert regions, usually in underground caverns
+  beneath the sand. Breath weapon: acid.
+Purple (16%): Known as deep dragons — live deep underground. Existence believed
+  to be myth by many surface dwellers. Breath weapon: pure magic energy. Very
+  agile in their environment — able to climb walls and cling to cavern ceilings.
+  Stealthy predatory hunter.
+White (15%): Weakest Chromatic dragon, though by no means harmless. Excellent
+  climbers and swimmers to complement flight. Breath weapon: ice. Moderately
+  intelligent with unfading memories — the keepers of knowledge. More willing
+  to talk and bargain than most dragons, but still not interested in helping
+  others. Hoards knowledge rather than treasure.
+
+METALLIC DRAGONS (listed most to least powerful; percentages are of total
+Metallic population — TENTATIVE):
+Gold (2%): Most powerful Metallic dragon. Found in any terrain. Spend much
+  time in humanoid form seeking justice for the weak and wronged. Vast
+  intelligence and physical power. Breath weapon: fire.
+Silver (9%): True friend to all. Enjoy the company of humans and elves above
+  all and spend the majority of their lives in humanoid form among them. Quick
+  to defend friends and extremely ferocious in that defense. Breath weapon:
+  lightning.
+Bronze (12%): Keep mainly to water and swamps. Enjoy interacting with lesser
+  creatures, humans in particular. Very selfless — go out of their way to help
+  others. Breath weapon: fire.
+Mercury (14%): Found in any terrain. Eccentric — sometimes viewed as erratic.
+  Seek variety in all things: food, treasure, companions. Will aid others if
+  the reward aligns with what they seek. Breath weapon: lightning.
+Cobalt (17%): Very grim in nature. Seek to rule remote settlements or
+  territories. Found mainly in northern plains. Not cruel or malicious, but
+  prefer to have lesser beings acknowledge their power — those who refuse get
+  a demonstration. Breath weapon: ice.
+Steel (17%): Usually found in or near populated areas. Prefer the company of
+  humanoids over other dragons. Very sociable. Breath weapon: poisonous gas.
+Copper (15%): Typically found in hills and mountains. Highly intelligent.
+  Love to play jokes and pranks — intentions are innocent, they enjoy impressing
+  lesser creatures with wit. Breath weapon: acid.
+Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
+  to talk for hours. Fluent in many languages and dialects. Breath weapon:
+  poisonous gas. Prefers to avoid conflict.
+
+================================================================================
+END OF LANAMYR CHARACTERS & ITEMS — v1
+================================================================================

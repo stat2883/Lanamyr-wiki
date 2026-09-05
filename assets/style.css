@@ -128,21 +128,16 @@ main {
 
 .content-card {
   max-width: 760px;
-  background: var(--parchment);
-  color: var(--text-on-light);
-  border-radius: 3px;
-  padding: 40px 48px;
-  box-shadow: 0 1px 0 rgba(0,0,0,0.4);
+  background: transparent;
+  color: var(--text-on-dark);
+  padding: 0;
 }
-.content-card h1, .content-card h2, .content-card h3 { color: var(--text-on-light); }
-.content-card h3 { color: #8A4E1F; }
-.content-card a { color: #8A4E1F; }
-.content-card h2 { border-top-color: rgba(0,0,0,0.12); }
 
 .category-bar {
-  height: 5px;
-  border-radius: 3px 3px 0 0;
-  margin: -40px -48px 34px -48px;
+  height: 4px;
+  width: 56px;
+  border-radius: 2px;
+  margin: 0 0 26px 0;
 }
 .cat-overview { background: var(--c-overview); }
 .cat-geography { background: var(--c-geography); }
@@ -155,36 +150,36 @@ main {
 
 .crumb {
   font-size: 0.82rem;
-  color: #6b6252;
-  margin-bottom: 6px;
+  color: var(--text-dim-on-dark);
+  margin-bottom: 10px;
 }
-.crumb a { color: #6b6252; text-decoration: underline; }
+.crumb a { color: var(--text-dim-on-dark); text-decoration: underline; }
 
 .tag {
   display: inline-block;
   font-size: 0.72rem;
-  padding: 2px 8px;
+  padding: 2px 9px;
   border-radius: 3px;
   margin: 0 6px 6px 0;
-  background: rgba(0,0,0,0.06);
-  color: #4a4536;
+  background: rgba(255,255,255,0.08);
+  color: var(--text-on-dark);
 }
-.tag.tentative { background: rgba(181, 83, 60, 0.15); color: #8a3d29; }
+.tag.tentative { background: rgba(216, 130, 100, 0.18); color: #E8A38C; }
 
 .fact-row {
   display: flex;
   gap: 8px;
-  padding: 6px 0;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
+  padding: 7px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.09);
   font-size: 0.94rem;
 }
-.fact-row .k { width: 130px; flex-shrink: 0; color: #6b6252; }
+.fact-row .k { width: 130px; flex-shrink: 0; color: var(--text-dim-on-dark); }
 .fact-row .v { flex: 1; }
 
 .related {
   margin-top: 40px;
   padding-top: 20px;
-  border-top: 1px solid rgba(0,0,0,0.12);
+  border-top: 1px solid rgba(255,255,255,0.12);
 }
 .related h3 { margin-top: 0; }
 .related ul { padding-left: 20px; margin: 8px 0; }
@@ -193,6 +188,4 @@ main {
   .layout { display: block; }
   .sidebar { position: relative; height: auto; width: auto; }
   main { padding: 28px 18px 80px 18px; }
-  .content-card { padding: 28px 24px; }
-  .category-bar { margin: -28px -24px 26px -24px; }
 }

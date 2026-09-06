@@ -16,8 +16,8 @@ under bible/maps/, alongside this text file in bible/.
 MAPS AND VISUAL REFERENCES
 ================================================================================
 
-These map files are stored in the project alongside the bible files and should
-be treated as always available. Each filename is descriptive and maps directly
+These map files are stored in bible/maps/ in this repo and should be treated
+as always available. Each filename is descriptive and maps directly
 to the content below.
 
 Lanamyr_Continents.jpg

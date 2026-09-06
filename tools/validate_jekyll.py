@@ -3,10 +3,23 @@ Simulates Jekyll's permalink resolution and _includes/nav.html rendering logic
 without needing a real Ruby/Jekyll install (none is available in the Claude
 session environment, and rubygems.org isn't on the network allowlist).
 
+Also builds a directed link graph from every page's actual href="..." content
+(page -> pages/anchors it links to), and checks:
+  - every internal link resolves to a real page
+  - every #anchor link resolves to a real id="..." on the target page
+  - every page is reachable from either _data/nav.yml or another page's body
+    content (an "unreachable" page has no way for a reader to ever find its
+    URL, even though the file exists and Jekyll would build it fine)
+
+This replaces manually grepping the repo for stale links before deleting or
+renaming a page -- run this instead and read the "Link graph" and
+"Reachability check" sections.
+
 Run this after any change that touches front matter, _data/nav.yml, or
-cross-page #anchor links, and before pushing. GitHub Pages still does the
-authoritative real build on push -- this is a fast local sanity check to
-catch mistakes before that build does.
+internal links -- especially before deleting or renaming a page -- and
+before pushing. GitHub Pages still does the authoritative real build on
+push; this is a fast local sanity check to catch mistakes before that
+build does.
 
 Usage:  python3 tools/validate_jekyll.py   (run from the repo root)
 Requires: pyyaml  (pip install pyyaml --break-system-packages)
@@ -77,23 +90,72 @@ for path, data in pages.items():
     print(f"  {label:35s} permalink={pl!s:32s} current_matches={len(matches)}")
 print()
 
-# --- Check known cross-page anchors resolve ---
-# Add an entry here whenever a new #anchor cross-link is introduced.
-anchor_checks = [
-    ("items/index.html#abaculus", "items/index.html", "abaculus"),
-    ("overview/epochs.html#sundering", "overview/epochs.html", "sundering"),
-    ("geography/locations.html#heavens-oak", "geography/locations.html", "heavens-oak"),
-    ("stories/index.html#guardians", "stories/index.html", "guardians"),
-]
-print("Cross-page anchor checks:")
-for label, relpath, anchor_id in anchor_checks:
-    full = f"{ROOT}/{relpath}"
-    body = pages.get(full, {}).get("body", "")
-    found = f'id="{anchor_id}"' in body
-    print(f"  {label:35s} -> {'OK' if found else 'MISSING'}")
-    if not found:
-        errors.append(f"Anchor id='{anchor_id}' not found in {relpath}")
+# --- Extract every internal link from every page's body, build a directed
+#     graph (page -> pages/anchors it links to), and validate each edge ---
+href_re = re.compile(r'href="([^"]+)"')
+id_re_cache = {}
+
+def anchor_exists(target_path, anchor_id):
+    if target_path not in id_re_cache:
+        body = pages.get(target_path, {}).get("body", "")
+        id_re_cache[target_path] = set(re.findall(r'id="([^"]+)"', body))
+    return anchor_id in id_re_cache[target_path]
+
+graph = {}          # permalink -> sorted list of permalinks it links to
+incoming = set()    # every permalink that receives at least one link
+link_errors = []
+
+for path, data in pages.items():
+    src_permalink = data["front_matter"].get("permalink")
+    src_dir = os.path.dirname(path)
+    targets = set()
+    for href in href_re.findall(data["body"]):
+        if href.startswith(("http://", "https://", "mailto:")):
+            continue
+        page_part, _, anchor_part = href.partition("#")
+        if page_part == "":
+            # Same-page anchor, e.g. href="#top" -- nothing to resolve.
+            continue
+        resolved = os.path.normpath(os.path.join(src_dir, page_part))
+        resolved_permalink = "/" + os.path.relpath(resolved, ROOT).replace(os.sep, "/")
+        if resolved_permalink not in permalinks:
+            link_errors.append(
+                f"{os.path.relpath(path, ROOT)}: links to '{href}' -> "
+                f"'{resolved_permalink}' which doesn't match any page's permalink"
+            )
+            continue
+        if anchor_part and not anchor_exists(permalinks[resolved_permalink], anchor_part):
+            link_errors.append(
+                f"{os.path.relpath(path, ROOT)}: links to '{href}' but "
+                f"id=\"{anchor_part}\" doesn't exist on {os.path.relpath(permalinks[resolved_permalink], ROOT)}"
+            )
+        targets.add(resolved_permalink)
+        incoming.add(resolved_permalink)
+    graph[src_permalink] = sorted(targets)
+
+print("Link graph (page -> pages it links to):")
+for pl, path in sorted(permalinks.items()):
+    targets = graph.get(pl, [])
+    print(f"  {os.path.relpath(path, ROOT):35s} -> {len(targets)} link(s)")
 print()
+
+# --- Reachability: every page should be reachable from nav.yml or from
+#     another page's body content. A page reachable by neither is a genuine
+#     dead page -- no visible way for a reader to ever find its URL. ---
+reachable = set(nav_urls) | incoming
+print("Reachability check (nav.yml link OR incoming content link):")
+unreachable = []
+for pl, path in sorted(permalinks.items()):
+    label = os.path.relpath(path, ROOT)
+    is_reachable = pl in reachable
+    print(f"  {label:35s} {'reachable' if is_reachable else 'UNREACHABLE'}")
+    if not is_reachable:
+        unreachable.append(label)
+print()
+
+errors.extend(link_errors)
+if unreachable:
+    errors.append(f"Unreachable pages (no nav link, no incoming content link): {', '.join(unreachable)}")
 
 # --- Report ---
 if errors:

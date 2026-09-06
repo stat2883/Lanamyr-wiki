@@ -5,8 +5,10 @@ session environment, and rubygems.org isn't on the network allowlist).
 
 Also builds a directed link graph from every page's actual href="..." content
 (page -> pages/anchors it links to), and checks:
-  - every internal link resolves to a real page
+  - every internal link to another page resolves to a real page
   - every #anchor link resolves to a real id="..." on the target page
+  - every link to a non-page asset (image, etc.) resolves to a real file on
+    disk
   - every page is reachable from either _data/nav.yml or another page's body
     content (an "unreachable" page has no way for a reader to ever find its
     URL, even though the file exists and Jekyll would build it fine)
@@ -118,6 +120,16 @@ for path, data in pages.items():
             continue
         resolved = os.path.normpath(os.path.join(src_dir, page_part))
         resolved_permalink = "/" + os.path.relpath(resolved, ROOT).replace(os.sep, "/")
+        if not page_part.endswith(".html"):
+            # Asset link (image, etc.) -- check the file exists on disk
+            # rather than checking for a permalink, since assets aren't
+            # Jekyll pages and don't have one.
+            if not os.path.isfile(resolved):
+                link_errors.append(
+                    f"{os.path.relpath(path, ROOT)}: links to asset '{href}' -> "
+                    f"'{resolved_permalink}' which doesn't exist on disk"
+                )
+            continue
         if resolved_permalink not in permalinks:
             link_errors.append(
                 f"{os.path.relpath(path, ROOT)}: links to '{href}' -> "

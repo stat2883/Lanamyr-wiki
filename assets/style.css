@@ -187,12 +187,21 @@ main {
 .map-figure {
   margin: 18px 0 34px 0;
 }
+.map-figure a {
+  display: block;
+  text-decoration: none;
+}
 .map-img {
   display: block;
   max-width: 100%;
   height: auto;
   border-radius: 6px;
   border: 1px solid var(--line);
+  cursor: zoom-in;
+  transition: border-color 0.15s;
+}
+.map-figure a:hover .map-img {
+  border-color: var(--copper-bright);
 }
 .map-figure figcaption {
   font-size: 0.85rem;

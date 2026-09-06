@@ -65,7 +65,7 @@ a:hover { text-decoration-color: var(--copper-bright); }
 }
 
 .sidebar {
-  width: 240px;
+  width: 280px;
   flex-shrink: 0;
   background: var(--ink-soft);
   border-right: 1px solid var(--line);

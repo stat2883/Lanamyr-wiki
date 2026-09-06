@@ -184,6 +184,36 @@ main {
 .related h3 { margin-top: 0; }
 .related ul { padding-left: 20px; margin: 8px 0; }
 
+.map-figure {
+  margin: 18px 0 34px 0;
+}
+.map-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid var(--line);
+}
+.map-figure figcaption {
+  font-size: 0.85rem;
+  color: var(--text-dim-on-dark);
+  margin-top: 8px;
+  max-width: 68ch;
+}
+
+.callout {
+  margin: 20px 0 30px 0;
+  padding: 14px 18px;
+  border-left: 3px solid var(--copper-bright);
+  background: rgba(255,255,255,0.04);
+  border-radius: 0 6px 6px 0;
+}
+.callout p {
+  margin: 0;
+  font-size: 0.94rem;
+}
+.callout p + p { margin-top: 8px; }
+
 @media (max-width: 860px) {
   .layout { display: block; }
   .sidebar { position: relative; height: auto; width: auto; }

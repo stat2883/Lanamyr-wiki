@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+<div class="layout">
+
+  <aside class="sidebar">
+    <a href="{{ '/index.html' | relative_url }}" class="wordmark">Lanamyr</a>
+    <div class="tagline">A world bible, 3rd Epoch — 432 AW</div>
+    <nav>
+      {% include nav.html %}
+    </nav>
+  </aside>
+
+  <main>
+    <div class="content-card">
+      <div class="category-bar cat-{{ page.category }}"></div>
+      {% if page.crumb_parent %}<div class="crumb"><a href="{{ page.crumb_parent_url | relative_url }}">{{ page.crumb_parent }}</a> / {{ page.crumb_current }}</div>{% endif %}
+      {{ content }}
+    </div>
+  </main>
+
+</div>
+</body>
+</html>

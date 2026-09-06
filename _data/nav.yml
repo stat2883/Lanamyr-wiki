@@ -1,0 +1,46 @@
+- label: "OVERVIEW"
+  items:
+    - title: "Home"
+      url: "/index.html"
+    - title: "Cosmology &amp; Magic"
+      url: "/overview/cosmology.html"
+    - title: "The Three Epochs"
+      url: "/overview/epochs.html"
+- label: "GEOGRAPHY"
+  items:
+    - title: "Continents"
+      url: "/geography/continents.html"
+    - title: "Key Locations"
+      url: "/geography/locations.html"
+    - title: "Maps"
+      url: "/geography/maps.html"
+- label: "RACES"
+  items:
+    - title: "Wood Elves"
+      url: "/races/wood-elves.html"
+    - title: "All Races &rarr;"
+      url: "/races/index.html"
+- label: "KINGDOMS"
+  items:
+    - title: "Faelyn"
+      url: "/kingdoms/faelyn.html"
+    - title: "All Kingdoms &rarr;"
+      url: "/kingdoms/index.html"
+- label: "CHARACTERS"
+  items:
+    - title: "Mya Li"
+      url: "/characters/mya-li.html"
+    - title: "All Characters &rarr;"
+      url: "/characters/index.html"
+- label: "ITEMS &amp; RELICS"
+  items:
+    - title: "Items &amp; Artifacts &rarr;"
+      url: "/items/index.html"
+- label: "STORIES"
+  items:
+    - title: "Story Outlines &rarr;"
+      url: "/stories/index.html"
+- label: "OPEN QUESTIONS"
+  items:
+    - title: "Undecided Lore &rarr;"
+      url: "/open-questions/index.html"

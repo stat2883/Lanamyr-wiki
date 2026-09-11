@@ -186,6 +186,22 @@ defunct kingdom has been placed there yet, not because the pattern doesn't
 apply — add the section when one comes up, matching Alios's heading and
 bullet-list format.
 
+Character pages: each race page (`characters/elves.html`, `dwarves.html`,
+etc.) lists every named character of that race as an `<h2>` with a short
+teaser paragraph — 2-4 sentences, not a full bio. If a character has enough
+bible material to support one, give them their own dedicated page (follow
+`characters/mya-li.html` as the template: full fact-row, section headings,
+Related box, and `crumb_parent`/`crumb_parent_url` pointing back to their
+race page), and make the `<h2>` on the race page a link to it, same as
+every other entry already does. Characters with genuinely thin bible
+material still get their own page rather than staying blurb-only — mark
+them with `<span class="tag tentative">Undeveloped</span>` rather than
+skipping the page. The only characters kept off the race pages entirely are
+the Kings of Harrad, who get one combined succession page instead
+(`characters/kings-of-harrad.html`, linked from `characters/organizations.html`)
+— see the note under Open Style Questions about further Organizations
+breakouts planned along similar lines.
+
 ================================================================================
 CROSS-PAGE ANCHORS
 ================================================================================
@@ -296,3 +312,17 @@ revisited once material like the Abaculus's arc or the Creation of Lanamyr
 gets an actual narrative treatment written, rather than staying summarized
 as fact. Don't re-litigate this from scratch — check here first if it comes
 up again.
+
+ORGANIZATIONS PAGE — FUTURE BREAKOUT PLANNED: `characters/organizations.html`
+currently holds full write-ups for the Guardians of the Tree, the Marauders,
+the Var Harma, the Herringers, and the Four Crowns all on one page (plus a
+teaser + link out to the separate `characters/kings-of-harrad.html`, which
+already got its own page since the succession list is long enough to
+warrant it). The user wants to eventually give each of these organizations
+its own dedicated page with more in-depth information, the same way
+individual characters got pulled out of the race pages into their own
+pages. Not scheduled yet — noted here so it isn't forgotten, and so a future
+session doesn't need to be told again. When it happens, the pattern to
+follow is the same one used for characters: keep a short teaser + link on
+`organizations.html` itself once each group has its own page, exactly like
+Kings of Harrad already demonstrates.

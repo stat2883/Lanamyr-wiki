@@ -226,6 +226,34 @@ elsewhere. This means uploading a replacement file at that same path
 automatically updates every page that references it — no page edit needed.
 See `geography/maps.html` for the pattern.
 
+Every map image is wrapped in a link to its own file, opening the full-
+resolution original in a new tab:
+
+```html
+<a href="../bible/maps/Lanamyr_Whatever.jpg" target="_blank" rel="noopener">
+  <img class="map-img" src="../bible/maps/Lanamyr_Whatever.jpg" alt="...">
+</a>
+```
+
+This is a site-wide default, not a one-off — any new map image should be
+wrapped the same way. The zoom-in cursor and copper hover border come
+automatically from `.map-figure a` / `.map-figure a:hover .map-img` in
+`assets/style.css`; nothing extra needed per page.
+
+Where a given map lives is a deliberate routing choice, not just "put it on
+the Maps page": the general-purpose overlay maps (Continents, Features,
+Islands, Temperature, Precipitation, Biomes, Biome Legend) live together on
+`geography/maps.html`. A map that illustrates one specific piece of content
+lives on that content's own page instead — the Sundering map sits inside
+`overview/epochs.html`'s Sundering section, and the Epoch 1 / Epoch 3
+kingdom maps sit at the end of their respective
+`overview/epoch-N-timeline.html` pages. `geography/maps.html` doesn't
+duplicate these; it links to them instead, under its "Other maps of
+interest" section — a plain bulleted list of short text links, not
+re-embedded figures. Follow this same pattern for any future map: ask
+whether it's general-purpose reference (goes on Maps) or illustrates one
+specific page (lives there, linked from Maps).
+
 ================================================================================
 VALIDATING BEFORE A PUSH
 ================================================================================
@@ -245,6 +273,9 @@ does more than a real Jekyll build would catch on its own:
   link found anywhere in any page's body, it checks the target page exists,
   and if the link includes a `#anchor`, that the target page actually has a
   matching `id="anchor"`.
+- **Asset links** (images, etc. — anything not ending in `.html`) resolve
+  to a real file on disk, checked separately from page links since assets
+  don't have a Jekyll permalink to match against.
 - **Reachability** — every page must be linked from either `_data/nav.yml`
   or another page's body content. A page satisfying neither is a genuine
   dead page: the file exists and Jekyll would build it fine, but no reader
@@ -297,6 +328,41 @@ not just correctness. A few habits that keep it efficient:
 
 These habits don't change what gets built — only how many tool calls it
 takes to get there.
+
+================================================================================
+WIKI CONTENT BACKLOG
+================================================================================
+
+Known content gaps and unfinished passes, not urgent, but worth surfacing so
+they aren't lost between sessions — these live only in conversation history
+otherwise, which a fresh session has no instruction to read. Remove an item
+once it's addressed; add a new one here rather than letting it live only in
+a chat that this file's readers won't see.
+
+- KIMORA HAS NO DEDICATED PAGE: of the six Alios kingdoms, Kimora is
+  arguably the most narratively active — Gralvin Sutton rules there, and
+  The Reluctant King and Tarik's overthrow are both set there — yet it's
+  currently just one bullet on `kingdoms/alios.html`, the same treatment as
+  Hellar or Andar, which have comparatively little happening. Fardar,
+  T'sarra, and Felgard are in a similar single-bullet state, but with less
+  narrative weight riding on them.
+- THE ABACULUS HAS NO DEDICATED PAGE: it's the central object of the whole
+  cosmology — every epoch bends around it — but it currently shares
+  `items/index.html` with the Harbinger Set and a few named weapons,
+  getting one `<h2>` section rather than a page of its own.
+- HOME PAGE IS STALE: `index.html` still says "a few entries are live now
+  as a foundation" and links 4 sample pages (Wood Elves, Faelyn, Mya Li,
+  the Monowi Inn) that aren't even in the sidebar anymore, while giving no
+  indication that eight full sections and dozens of pages now exist.
+- TIMELINE CROSS-LINKING PASS: `overview/epoch-1-timeline.html`,
+  `epoch-2-timeline.html`, and `epoch-3-timeline.html` mention many named
+  characters in plain text who now have dedicated pages (following the
+  32-page character build-out), but most aren't yet linked to them. Only a
+  modest subset of the most prominent mentions has been linked so far — a
+  full pass through all three timelines would improve navigability.
+- NO FAMILY TREE VISUALS: the Liaphyra line (Aer'Raenal, Mya Li, Phelloden)
+  and the Graymist line (Arias, Cyrus, Mako, Talon) might benefit from a
+  simple visual family tree once there's a natural place to put one.
 
 ================================================================================
 OPEN STYLE QUESTIONS

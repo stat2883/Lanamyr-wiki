@@ -103,8 +103,12 @@ THE HERRINGERS:
   most exposed act a resistance can commit, and someone was demonstrably hunting
   Herringers — Grimmon had just been killed by Orc raiders acting as instruments
   of the Kimora framing operation.
-- Whether Bor, Maeglin, and Skitter knew Qenwick was calling a convocation while
-  they made that circuit with him: undecided.
+- RESOLVED: Bor, Maeglin, and Skitter knew Qenwick was calling the convocation.
+  The four were close and he acted openly, not in rooms they weren't in.
+- Note: Maeglin is Var Harma and Skitter is a Kobold, neither obviously a
+  Herringer. Whether Bor is a member or simply Grimmon's chosen confidant is
+  also unstated. Who counts as a Herringer, and who is merely trusted by one,
+  is undeveloped.
 - Where and when the convocation is held, who is entitled to attend, and how a
   cell-based membership verifies one another: undeveloped.
 - CENTRAL QUESTION: What are the Herringers FOR now? Tarik dead since 413 AW,

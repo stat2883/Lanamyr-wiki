@@ -232,8 +232,10 @@ visible, and it gives a skeptic something real to say. And convening every cell
 leader in one room is the most exposed act a resistance can commit, at the exact
 moment someone was demonstrably hunting Herringers.
 
-Undecided: whether Bor, Maeglin, and Skitter knew he was calling a convocation
-while they rode that circuit alongside him.
+Bor, Maeglin, and Skitter knew what he was doing. The four were close and he
+called the convocation openly rather than in rooms they weren't in. That removes
+any suggestion of maneuvering while leaving the structural fact intact: he still
+called the meeting, and he is still the one elected at it.
 
 ### Still open
 

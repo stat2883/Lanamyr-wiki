@@ -238,8 +238,9 @@ the organization. The circuit and the summons are the same journey.
     Convening them is the most exposed thing a resistance can do, and Grimmon
     was just killed by Orc raiders acting as instruments of the Kimora framing
     operation. Someone was already hunting Herringers.
-  UNDECIDED: Whether Bor, Maeglin, and Skitter — who made that circuit with
-  Qenwick — knew he was calling a convocation.
+  CONFIRMED: Bor, Maeglin, and Skitter — who made that circuit with Qenwick —
+  were aware of what he was doing. The four were close, and he called the
+  convocation openly rather than in rooms they weren't in.
 
 THE HERRINGERS
 Defined not by blood but by common cause and belief. Originally an Iron Dwarf

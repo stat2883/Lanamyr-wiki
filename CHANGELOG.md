@@ -262,12 +262,25 @@ convocation and cast a vote, and who decides?
 
 ### Still open
 
-- The identities of the ten. Names, backgrounds, and whether any had served
-  under Mya before or knew Kharis.
+- The identities of the ten Marauders. Names, backgrounds, and whether any had
+  served under Mya before or knew Kharis.
 - Whether Aer'Raenal objects, stays silent, or backs Mya at the council.
 - A more recent Magni within Aer'Raenal's lifetime, less powerful than Diquyk,
-  to be created later as a reference point for the council.
+  to be created later as a reference point for the council. Their progenitor
+  line is now a live choice, since a Draak-descended Magni would have a lower
+  ceiling and make Adomorn's correction upward land harder.
 - How widely the Draak and Drasu are remembered among present-day races.
+- What the Herringers are FOR now, with Tarik dead since 413 AW and nobody
+  enslaving Iron Dwarves. Whoever supplies the reason defines what they become.
+- Who is entitled to attend the convocation and vote, given that membership is
+  defined by deed rather than enrollment, and who decides.
+- Qenwick's paladin order and the god he serves, his birth year, and his
+  appearance — all undeveloped, and now significant.
+- The origin of the name Orcsbane.
+- Why a new Dwarven kingdom at all, when Iron Dwarves already hold Fardar.
+- What turns Bor from battlerager into founder.
+- Whether Bor and Qenwick, holding the two halves of Grimmon's legacy, end up in
+  accord or at odds.
 - Faelyn is described in `Kingdoms_History` as occupying the "Eastern and lower
   western arm of Alios," which sits oddly against everything else placing the
   Wood Elves in the western arm. Possibly a typo for "southern," possibly
@@ -277,8 +290,11 @@ convocation and cast a vote, and who decides?
 
 - Added `SESSION_INSTRUCTIONS.md` as the authoritative session workflow, moving
   it out of the project instructions so it can be revised in place.
-- Established `archive/`, holding a browsable copy of each bible version.
+- Established `archive/`, holding a browsable copy of each bible version, with
+  the archive mirroring the current version at session end.
 - Added this changelog.
+- Set the rule of one version bump per session, and a check after every push on
+  whether the session is ending.
 
 ---
 

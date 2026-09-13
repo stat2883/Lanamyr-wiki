@@ -1,0 +1,502 @@
+================================================================================
+LANAMYR WORLD BIBLE — RACES — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Kingdoms_History,
+Characters_Items, Stories_Outlines, Open_Questions. Confirmed lore is locked;
+tentative lore is flagged and subject to change. Geographic origin points
+described below should match Lanamyr_Sundering.jpg; cross-check when either
+changes. Lifespan figures for these races live in the Overview_Cosmology file
+— cross-check both when either changes.
+
+================================================================================
+THE DRASU AND DRAAK (1ST EPOCH)
+================================================================================
+
+DRASU
+Humanoid, larger than any present-day race — tall, bronze-skinned, lean and
+powerful. Superior intelligence and magic users. Created the Drasian Empire on
+Edura and the Drasian Vault. The potential for both good and evil existed within
+the Drasu — the Sundering revealed and amplified rather than created these
+qualities. Split into elves, dwarves, gnomes, humans, orcs, and others.
+Adomorn is the last surviving Drasu. Takes human form. Galstaff Quint is one
+of the rare few to have seen his true Drasu form.
+
+DRAAK
+Most closely resembled present-day dragons but larger and more powerful.
+Capable of flight. Intelligent and capable of magic, but not to the extent of
+the Drasu. Central heartland in the Black Mountains of Fardar (Draak Territory).
+The potential for both good and evil existed within the Draak — same as Drasu.
+Split into dragons, dragonborne, wyrms, kobolds, and other types.
+The Draak were active, willing participants in monitoring and protecting the
+Abaculus during its first hiding place in the Black Mountains — lending their
+physical strength, flight, and magical abilities to that purpose. Their
+custodial role ended when Ah'Tabai retrieved the Abaculus prior to the Battle
+of Atral. All Draak were shattered in the Sundering that followed.
+ANCIENT DRAAK SETTLEMENT: The Draak maintained a settlement in the river valley
+dividing the eastern and western halves of the Black Mountains — the heart of
+their territory. Not a city in the Drasian sense — the Draak were not builders
+of that sophistication. More likely a gathering place of natural caves and peaks
+modified and expanded to suit their size, with wide passages, open roosting
+ledges, and fire-scorched communal spaces. The scale would be enormous by modern
+standards given the Draak's size, but crude compared to Atral. The name of this
+settlement is undeveloped. What remains of it after thousands of years — and
+whether the Iron Dwarves of Fardar have encountered any of it during their
+mining operations — is undeveloped.
+
+1ST EPOCH TERRITORIES (confirmed on maps):
+- Drasian Empire: Northern Edura, centered on Atral along the Waywin River.
+- Draak Territory: Black Mountains of Fardar and surrounding region, central
+  Alios. Not a conventional kingdom — a roosting ground and heartland.
+Outside these two, the rest of Lanamyr was mostly wild and untamed.
+
+================================================================================
+RACES — CONFIRMED ORIGIN LOCATIONS
+================================================================================
+
+DRAAK ANCESTRY:
+- Dragons: Descended from Draak after the Sundering
+- Dragonborne — Cobalt: Desolate Tops, eastern Utoa
+- Dragonborne — Gold: Eastern peninsula of Alios near Westwind Mountains
+- Dragonborne — Obsidian: Inland swamps of southwestern Alios
+- Dragonborne — Silver: Jokul Island (entire island and surrounding smaller
+  islands, collectively called Jokul — similar to Hawaii). Kingdom: Jokul
+- Kobolds — Mystics: Southern Alios, northwest of the Obsidian Dragonborne
+  swamp region
+- Kobolds — Tunnelers: Far eastern end of the Black Mountains of Fardar,
+  within Fardar's borders but distant from the kingdom's center
+- Kobolds — Scavengers: Southern tip of Edura
+- Kobolds — Hardbacks: Evergreen Strand, far eastern tip of Utoa
+
+DRASU ANCESTRY:
+- Dwarves — Dark: Forbidden Peaks and Darkened Slopes, western arm of Alios. Kingdom: Hellar
+- Dwarves — Ice: Icefall (entire island, far north). Kingdom: Icefall
+- Dwarves — Iron: Black Mountains of Fardar, central Alios. Kingdom: Fardar
+- Dwarves — Sand: Void Sands Desert, central Edura
+- Elves — Dark: Beneath Tarantar Mountains, northern Alios (The Deep)
+- Elves — High: Northern Edura tropical forests. Kingdom: T'sarra
+- Elves — Plains: Central steppes of Alios. Kingdom: Ellendale
+- Elves — Sea: Malulo Archipelago (multiple islands, western ocean). Kingdom:
+  Malulo. The majority of Sea Elf civilization exists underwater — the islands
+  are only the surface-visible portion. TENTATIVE: approximately 90% underwater,
+  10% on land — not yet confirmed.
+- Elves — Snow: Large island just east of Utoa — close enough to be considered
+  part of the continent. Island name and kingdom name: UNDEVELOPED.
+- Elves — Wood: Plains south of Tempest Peaks, western arm of Alios. Kingdom: Faelyn
+- Gnomes — Cave: Beneath Tarantar Mountains, northern Alios
+- Gnomes — Desert: Central-south transitional zone of Alios (cool temperate desert)
+- Gnomes — Rock: Western end of Coldwind Mountains, Utoa
+- Gnomes — Sky: Myst (main island and surrounding smaller islands). Kingdom: Myst
+- Gnomes — Woodland: Southern Edura near the Iron Peaks
+- Humans — Hillfolk: Central Alios between Ash Mountains and Black Mountains. Kingdom: Kimora
+- Humans — Northmen: Northern peninsula of Alios. Kingdom: Andar
+- Humans — Shepherds: Distant island on the far eastern edge of the world map.
+- Humans — Water Whisperers: Small island cluster to the southwest, west of
+  the main Alios/Edura landmass, south of the Malulo Archipelago region.
+- Orcs: Eastern peninsula of Alios near Westwind Mountains
+- Magni: Any race — exceedingly rare, a fluke of birth
+- Goblins — Screechers: Wandering Hills, northeastern Kimora, northern Alios
+- Goblins — Marsh: Small island off the eastern coast of Alios. Island name:
+  UNDEVELOPED.
+- Goblins — Feral: Between the Ash Mountains to the north and the Blackwing
+  Hills to the south, in the region south of Kimora
+
+GIANTKIN — CONFIRMED ORIGIN:
+- Stone Giants: Tempest Peaks, western arm of Alios (directly north of Faelyn).
+  Recruited by Diquyk in 383-387 AW as a northern strike force in the Elf War.
+
+GIANTKIN — ORIGIN NOT YET ESTABLISHED:
+Frost Giants, Hill Giants, Ogres, Swamp Giants
+
+RACES WITH NO ORIGIN LOCATION ESTABLISHED:
+Trolls — Forest, Moss, Desert (Mountain Troll origin confirmed below),
+Humans (Shepherds and Water Whisperers origins now confirmed above)
+
+MOUNTAIN TROLL ORIGIN (confirmed):
+Troll's Breath Mountains, just south of the ruins of Atral and the Waywin
+River on Edura. Emerged there at the Sundering and have never truly left.
+The mountain range is named after them. They contested the Atral ruins with
+the High Elves during early excavations and were pushed back by the combined
+High Elf and Sand Dwarf alliance. They remain a periodic threat to excavation
+operations — they know the ruins contain things of value. Extensive underground
+caverns originate in the Troll's Breath Mountains; some connect into the outer
+edges of the underground ruins of Atral. Hostile contact with Var Harma
+excavations occurs periodically when their paths intersect underground. The
+Trolls have at most found remnants of buried structures on the outer edges of
+Atral — nowhere near the Drasian Vault at the city's center.
+
+================================================================================
+RACE APPEARANCE TABLE
+================================================================================
+
+NOTE ON HEIGHT CONVENTIONS:
+- Hillfolk humans are the baseline standard — equivalent to real-world humans.
+- All human subtypes share variety in hair, eye color, and skin tone. They are
+  distinguished primarily by physical size and geographic origin, not appearance.
+- Dwarf gender height separation is 1 inch (male taller) unless otherwise noted.
+- Gnome male and female heights are equal unless otherwise noted.
+- Magni follow the physical appearance of their base race — see footnote.
+
+NOTE ON LANGUAGE NAMING:
+Present-day language names reflect the world as it exists in 432 AW and may not
+reflect what those languages were called in earlier epochs. Andari, for example,
+is named for the Andar region — a regional identity the early 2nd Epoch Northmen
+would not yet have had. This convention likely applies to other race languages
+as well. Native language acquisition is universal to the race. Additional language
+knowledge is individual — determined by travels, education, and experience, not
+race. Common is widely spoken as a second language across most of Lanamyr.
+
+MAGNI FOOTNOTE: Magni are not a separate race. They are born into any race as
+an exceedingly rare fluke. Their physical appearance follows their base race
+entirely. The table below does not include a Magni entry for this reason.
+
+RACE APPEARANCE TABLE:
+Race                   | M Height | F Height | Build              | Skin Tone                  | Typical Hair           | Typical Eyes               | Native Language
+-----------------------|----------|----------|--------------------|----------------------------|------------------------|----------------------------|----------------
+Humans — Hillfolk      | 5'9"     | 5'4"     | Average            | Variety                    | Variety                | Variety                    | Common
+Humans — Northmen      | 6'1"     | 5'8"     | Thick, Powerful    | Variety                    | Light tones            | Light tones                | Andari
+Humans — Shepherds     | 5'7"     | 5'2"     | Lean, Slender      | Variety                    | Dark tones             | Dark tones                 | Tapyr
+Humans — Water Whisp.  | 5'9"     | 5'4"     | Lean               | Variety                    | Variety                | Variety                    | Hikri
+Elves — Plains         | 5'11"    | 5'6"     | Lean, Slender      | Light browns, Bronze       | Light tones            | Variety                    | Antathi
+Elves — Wood           | 5'7"     | 5'2"     | Lean, Slender      | Light tan                  | Dark tones             | Dark tones                 | Aiwiya
+Elves — High           | 5'7"     | 5'2"     | Lean, Athletic     | Light yellow, Golden       | Variety                | Variety                    | Nheqethi
+Elves — Snow           | 5'1"     | 5'1"     | Thick, Powerful    | Pallid, Blue-tinged        | Silver, Gray, White    | Bright, Light tones        | Tuavasy
+Elves — Dark           | 5'9"     | 5'4"     | Lean, Athletic     | Dark gray, Deep purple hint| Silver, Gray, White    | Cloudy gray, Pale blue     | Ukuri
+Elves — Sea            | 5'6"     | 5'1"     | Lean, Slender      | Aqua, Light blue-green     | Blues, Greens          | Variety                    | Vhitoshi
+Dwarves — Ice          | 4'9"     | 4'8"     | Broad, Powerful    | Gray, Silver               | White, Silver          | Blue, Gray                 | Malsili
+Dwarves — Sand         | 4'6"     | 4'5"     | Average            | Brown, Dark bronze         | Browns, Blonds         | Light brown, Hazel, Variety| Obathi
+Dwarves — Iron         | 4'11"    | 4'10"    | Compact, Powerful  | Variety                    | Variety                | Variety                    | Stone Speak
+Dwarves — Dark         | 4'8"     | 4'7"     | Average            | Dark tones                 | Light tones            | Dark tones                 | Tecali
+Gnomes — Sky           | 3'8"     | 3'8"     | Average            | Variety                    | Browns, Reds, Oranges  | Variety                    | Irturi
+Gnomes — Woodland      | 3'4"     | 3'4"     | Thick, Wide, Powerful | Dark browns, Green hint | Dark tones             | Dark tones                 | Enaric
+Gnomes — Cave          | 3'6"     | 3'6"     | Lean, Slender      | Pale                       | Silver, White, or None | Pale, Yellow-white         | Omathi
+Gnomes — Rock          | 3'7"     | 3'7"     | Thick              | Variety                    | Variety                | Variety                    | Eugali
+Gnomes — Desert        | 3'8"     | 3'8"     | Average            | Brownish-gold              | Red, Light brown       | Oranges, Yellows           | Jagati
+
+RACES NOT YET IN TABLE: Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls,
+Dragons — to be developed in future sessions.
+
+================================================================================
+KOBOLD SUBTYPES
+================================================================================
+
+Four confirmed Kobold subtypes, all descended from the Draak. As with all
+races, Kobolds have spread throughout Lanamyr over the 2nd and 3rd Epochs —
+any subtype may be encountered in travels far from their origin territory.
+
+MYSTIC KOBOLDS
+Origin: Southern Alios, northwest of the Obsidian Dragonborne swamp region.
+Lifespan: 50 years — longest of all Kobold subtypes.
+Appearance: Taller and leaner than most Kobolds. Shorter tails.
+Traits: The most intelligent Kobold subtype. One of the rare subtypes with
+natural magical capability — magic is possible but still uncommon even among
+Mystics. Skitterskink (Skitter) is a Mystic Kobold. Their greater intelligence
+and capacity for magic has allowed many Mystics to move beyond tribal life and
+integrate into the wider world more readily than other subtypes.
+
+TUNNELER KOBOLDS
+Origin: Far eastern end of the Black Mountains of Fardar, within Fardar's
+borders but distant enough from the kingdom's center to avoid significant
+conflict with the Iron Dwarves.
+Lifespan: 40 years.
+Appearance: Shorter and more powerfully built than other Kobolds. Large hands
+with sharp claws adapted for digging.
+Traits: Average intelligence by Kobold standards. Cave and burrow dwellers —
+their origin in the Black Mountains suited their subterranean lifestyle. Their
+proximity to the ancient Draak settlement in the river valley means they may
+have encountered Draak remnants that the Iron Dwarves have not yet found.
+
+SCAVENGER KOBOLDS
+Origin: Southern tip of Edura. Cold, harsh tundra environment.
+Lifespan: 35 years — second shortest of all Kobold subtypes.
+Appearance: Smaller than other Kobolds. Fast and agile.
+Traits: Hunt and operate in packs. Very ferocious — seldom use weapons,
+preferring claws and teeth. Opportunistic and animalistic in behavior, targeting
+farms and livestock primarily. Generally cowardly unless numbers strongly favor
+them. The harsh cold environment of their origin shaped their pack survival
+instincts. Short lifespan reflects the attrition of their feral lifestyle.
+
+HARDBACK KOBOLDS
+Origin: Evergreen Strand, far eastern tip of Utoa.
+Lifespan: 40 years.
+Appearance: The most physically imposing Kobold subtype. Thicker hide
+throughout, particularly on the back where they have larger and thicker
+dragon-like scales — the feature that gives them their name and their notable
+durability.
+Traits: The least intelligent Kobold subtype. Brutish and reckless. Their
+tough hide makes them considerably harder to harm than other Kobolds.
+
+================================================================================
+GOBLIN SUBTYPES
+================================================================================
+
+Three confirmed Goblin subtypes, all descended from the Drasu. As with all
+races, Goblins have spread throughout Lanamyr over the 2nd and 3rd Epochs —
+any subtype may be encountered in travels far from their origin territory.
+
+SCREECHER GOBLINS
+Origin: Wandering Hills, northeastern Kimora, northern Alios.
+Lifespan: 15 years — the shortest lifespan of any race in all of Lanamyr.
+Traits: Rudimentary language and speech capability. When excited or frightened,
+emit very high-pitched shrieks — the feature that defines and names them. The
+brevity of their lifespan shapes a fast and chaotic existence.
+
+MARSH GOBLINS
+Origin: Small island off the eastern coast of Alios. Island name undeveloped.
+Lifespan: 30 years — longest of all Goblin subtypes.
+Traits: Build small earthen huts. The most socially developed Goblin subtype —
+a more noticeable social structure than the other subtypes. Reasonably
+intelligent. Their island origin may have contributed to their greater social
+cohesion and development in relative isolation.
+
+FERAL GOBLINS
+Origin: The region between the Ash Mountains to the north and the Blackwing
+Hills to the south, south of Kimora.
+Lifespan: 20 years.
+Traits: The most common Goblin subtype. Very savage and territorial. Capable
+of forging and creating weapons and armor, though the quality is very poor.
+The name refers to their demeanor rather than their intelligence or
+craftsmanship — they are not incapable, simply brutal and aggressive by nature.
+
+================================================================================
+ICE DWARVES — EXPANSION AND ICE FORGING
+================================================================================
+
+EXPANSION BEYOND ICEFALL:
+After several centuries of settling Icefall, the Ice Dwarves felt the need to
+expand beyond their island kingdom for additional resources. In year 221 of the
+2nd Epoch, the first major expeditions departed Icefall in multiple directions.
+
+Sailing south, they found the Tempest Peaks and the region of the Darkened
+Slopes. They found much of that region already occupied but established trade
+routes there. These routes helped build friendly relations with the neighboring
+peoples over time.
+
+Another expedition sailing in a different direction discovered the Tarantar
+Mountains on northern Alios and recognized the abundance of mineral wealth
+there. This led to the establishment of Nusul — see Kingdoms_History file.
+
+ICE DWARF RELATIONS WITH IRON DWARVES:
+Ice Dwarves and Iron Dwarves occasionally cross paths in the lands between their
+kingdoms, but the two kingdoms have no strong direct ties. Trade between them is
+indirect — goods pass through intermediary kingdoms rather than through direct
+exchange. The two cultures share ancient Drasu heritage but have developed very
+differently over the centuries since the Sundering.
+
+ICE FORGING:
+A unique weapon-crafting tradition specific to Icefall. Ice Forged weapons are
+highly sought after across Lanamyr and carry significant trade value. The
+technique cannot be replicated elsewhere. Three factors combine to make it
+exclusive to Icefall:
+
+THE ORE: Iron mined from the mountains of Icefall has properties not found in
+iron ore from other regions. Superior hardness and durability are inherent to
+the raw material. Taking Ice Forging technique to another location and using
+foreign ore will not produce the same result.
+
+THE ENVIRONMENT: The quenching process requires extreme cold temperatures that
+exist naturally on Icefall but are not found in almost any other part of
+Lanamyr. The cold itself is the quenching medium — not water or oil.
+
+THE TECHNIQUE: After the metal is heated and shaped, it is quenched in the
+extreme cold. The protected secret lies entirely in the quenching process —
+the precise timing, the duration of cold exposure, and the controlled rate at
+which the blade's temperature is dropped. These variables, applied correctly
+to Icefall ore in Icefall conditions, produce a blade that requires no
+tempering. In conventional forging, a blade must be reheated slightly after
+quenching — a process called tempering — to prevent brittleness. Ice Forged
+blades skip this step entirely and are not brittle after quenching. They hold
+their edge remarkably well.
+
+The knowledge is embodied — carried in the hands and instincts of living smiths,
+passed down through generations of Ice Dwarf craftspeople. It is not recorded
+in any book or vault. This makes the tradition both protected and vulnerable:
+it cannot be stolen from a document, but it could be lost if the smiths who
+carry it were ever decimated or isolated.
+
+Any smith attempting to replicate Ice Forging without all three elements —
+the ore, the environment, and the precise technique — would produce blades
+that shatter or perform no better than standard work.
+
+================================================================================
+HUMAN SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+SHEPHERDS
+Origin: Distant island on the far eastern edge of the world map.
+The Shepherds partly get their name for their deep, symbiotic relationship with
+animals. Their existence on their island was and remains one of balance with the
+natural world around them. By the 3rd Epoch they have spread throughout most of
+Lanamyr, as have most races.
+ANIMAL AFFINITY: Shepherds possess a deep affinity with all animals that goes
+beyond learned behavior. They have a profound intuitive understanding of animal
+behavior, body language, threat signals, and how animals perceive friends and
+danger. This alone would make them exceptional — but there is likely something
+even deeper at play, something fundamental to the Shepherds that other humans
+simply do not possess. If a wild wolf encounters an ordinary Hillfolk human it
+is likely to attack. A Shepherd might calm it entirely. The Shepherds themselves
+may not have a complete explanation for this quality.
+COMPANION ANIMALS: Shepherds are almost without exception accompanied by an
+animal companion of some kind. The word "pet" is misleading — the relationship
+is more accurately described as a partnership. The animal chose to be there, and
+the Shepherd chose it back. This mutual selection reflects the deeper nature of
+how Shepherds relate to the animal world.
+GUIDES: Shepherds are frequently sought out as wilderness guides. Moving through
+terrain with a Shepherd is a fundamentally different experience — animals that
+would be threats to others are non-threats or even assets. A Shepherd reads
+terrain through animal behavior in ways no other guide can replicate.
+DIET: Shepherds are vegetarian as a cultural norm. For a people with genuine
+partnerships with animals and that deeper affinity, eating them is a fundamental
+contradiction of everything they are. It does not feel like a choice to most
+Shepherds — it simply is not something they do. A Shepherd traveling far from
+home in a region where plant-based options are scarce may adapt out of necessity
+rather than choice.
+Native language: Tapyr.
+
+WATER WHISPERERS
+Origin: Small island cluster to the southwest of the main Alios/Edura landmass,
+south of the Malulo Archipelago region.
+The most accomplished seafaring civilization in all of Lanamyr. Their shipbuilding
+is unmatched anywhere in the world. Unlike Ice Forging — which is locked to
+Icefall by its ore, environment, and technique — Water Whisperer shipbuilding
+travels with the people. A Water Whisperer shipwright can build an exceptional
+vessel anywhere in Lanamyr. Their skill lives entirely in the craftspeople
+themselves, making them highly sought after in any port city. They are also
+skilled fishermen. By the 3rd Epoch they have spread throughout most of Lanamyr.
+Native language: Hikri.
+
+================================================================================
+ELF SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+ELVES — GENERAL
+All elf subtypes share certain physical characteristics: pointed ears and more
+delicate features than most other races. They tend toward leaner and more slender
+builds than Hillfolk humans, though this varies by subtype. Elves have finite
+lifespans — they are not immortal. Elderly elves exist in the world.
+
+SNOW ELVES
+Origin: Large island just east of Utoa, close enough to be considered part of
+the continent. Island name and kingdom name undeveloped.
+The Snow Elves diverge most dramatically from the typical elf silhouette. Their
+extreme environment has shaped them into something that looks almost alien among
+their own kind. Both male and female average 5'1" — the shortest elf subtype,
+with no meaningful height difference between genders. Their build is thick and
+powerful, with strong legs built for trudging through deep snow — very unlike the
+lean slender frame of most elves. Their skin is pallid, sometimes with a faint
+hint of blue. Their hair is dark — blacks and dark tones — contrasting sharply
+with their eyes, which are strikingly bright and light in color. The combination
+of dark hair and vivid eyes against pale skin makes them immediately distinctive.
+Native language: Tuavasy.
+
+DARK ELVES
+Origin: Beneath the Tarantar Mountains, northern Alios. Kingdom: The Deep
+(underground). Their skin is darker gray tones, sometimes bordering on hints of
+deep purple — similar at a glance to Dark Dwarves but meaningfully different on
+closer inspection. Their hair is generally very light silver, gray, or white.
+Their eyes appear cloudy, with irises typically gray or pale blue — giving the
+impression of compromised vision to those unfamiliar with them. In reality their
+eyes are adapted to the low light of The Deep. Dark Elves spend the majority of
+their lives underground and are more reclusive than most surface races. They
+are more surface-averse than Dark Dwarves.
+Native language: Ukuri.
+
+SEA ELVES
+Origin: Malulo Archipelago, western ocean. Kingdom: Malulo.
+Immediately distinctive among all races. Their skin is aqua in tone — light
+blue-green, the color of shallow tropical water. Their hair matches: blues and
+greens, the colors of the sea. Their build is lean and slender, suited for
+swimming. The majority of Sea Elf civilization exists underwater — the islands
+of the Malulo Archipelago are only the surface-visible portion of their society.
+TENTATIVE: approximately 90% of Sea Elf presence is underwater, 10% on land —
+not yet confirmed. Nature of underwater settlements undeveloped.
+Native language: Vhitoshi.
+
+================================================================================
+DWARF SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+SAND DWARVES
+Origin: Void Sands Desert, central Edura.
+A lifetime under the brutal desert sun has left its mark on the Sand Dwarves.
+Their skin is brown to dark bronze in tone and carries a weathered, rough,
+leathery texture — not just a color but a quality earned by generations of
+exposure to the desert heat. Their hair runs in browns and blond tones, matching
+their arid environment. Their eyes are generally lighter browns and hazel with
+some variety. They have allied historically with the High Elves in the
+excavation and defense of the ruins of Atral.
+Native language: Obathi.
+
+IRON DWARVES
+Origin: Black Mountains of Fardar, central Alios. Kingdom: Fardar.
+The tallest of all dwarf subtypes, averaging 4'11" for males and 4'10" for
+females. Their build is compact and powerful. Unlike most dwarf subtypes, Iron
+Dwarves show significant variety in skin tone, hair color, and eye color —
+individual Iron Dwarves can look quite different from one another. Bor
+Glitterbeard has reddish-orange hair and hazel eyes; Grimmon Herringer had dark
+brown hair and blue eyes. Their native language is called Stone Speak — a
+colloquial name coined by the Iron Dwarves themselves rather than a formal
+linguistic title. Two major periods of enslavement — under Bourbac and under
+Tarik — have left a lingering cultural distrust of humans.
+Native language: Stone Speak.
+
+DARK DWARVES
+Origin: Forbidden Peaks and Darkened Slopes, western arm of Alios.
+Kingdom: Hellar (underground city in the Forbidden Peaks).
+Dark Dwarves are similar to Dark Elves in coloring at first glance — darker
+skin complexions and lighter colored hair. However their eyes are not clouded
+and are generally darker in tone. Unlike Dark Elves, Dark Dwarves are not
+deeply reclusive and spend more time above ground, though they are still
+effectively blinded by daylight without protection. Their greater surface
+presence makes them more commonly encountered than Dark Elves.
+Native language: Tecali.
+
+================================================================================
+GNOME SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+SKY GNOMES
+Origin: Myst island and surrounding smaller islands. Kingdom: Myst.
+Sky Gnomes are one of the most intelligent races in all of Lanamyr. This
+exceptional intelligence expresses itself through invention, scholarship, and
+ingenuity. Wilward Cobbersplint — a Sky Gnome who built and operated an airship
+— is a natural product of this cultural trait. The Nexus on Myst, the hub of
+all Jaunt Gates, is consistent with Myst as a center of knowledge and invention.
+Native language: Irturi.
+
+CAVE GNOMES
+Origin: Beneath the Tarantar Mountains, northern Alios.
+Cave Gnomes have an almost alien appearance among all the races of Lanamyr.
+Their eyes are large and round with a pale, yellow-white color — very little
+variety. Many Cave Gnomes have no hair at all; those who do have it in shades
+of silver and white. Their skin is pale. They are possibly the most reclusive
+race in all of Lanamyr — even more so than Dark Elves. It would be very rare
+to encounter a Cave Gnome outside their own region. They do not leave their
+caves often, and when they are above ground they almost always have their face
+and eyes covered for protection from the sun. Encountering one in the wider
+world would be a genuinely unusual event.
+Native language: Omathi.
+
+ROCK GNOMES
+Origin: Western end of Coldwind Mountains, Utoa.
+Accomplished gem cutters and jewelers. One of the largest diamond mines in all
+of Lanamyr is located in the Coldwind Mountains where they originated. Their
+skill with gemstones and precious materials has shaped their cultural identity
+and their reputation across Lanamyr.
+Native language: Eugali.
+
+WOODLAND GNOMES
+Origin: Southern Edura near the Iron Peaks.
+The shortest of all gnome subtypes at 3'4", but their average weight is similar
+to taller gnome types — the mass is simply compressed into a shorter frame.
+This makes them thicker and wider than other gnomes, and physically stronger
+despite their stature. Their compact powerful build makes them effective climbers.
+Their skin tones are generally darker browns, sometimes with a hint of a green
+hue. Hair and eyes run in darker tones as well.
+Native language: Enaric.
+
+================================================================================
+END OF LANAMYR RACES — v1
+================================================================================

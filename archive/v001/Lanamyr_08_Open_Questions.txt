@@ -1,0 +1,230 @@
+================================================================================
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Races, Kingdoms_History,
+Characters_Items, Stories_Outlines. This file changes most frequently of the
+set — items get resolved and moved into the appropriate topic file as they are
+confirmed. When resolving an item here, update BOTH this file and whichever
+topic file(s) reference the same open thread, since the same question is often
+mentioned in multiple places (e.g. a character entry and a story outline).
+
+================================================================================
+OPEN QUESTIONS / UNDECIDED LORE
+================================================================================
+
+KARMA & THE BURNT PLAINS:
+- The specific mechanism of Greyhawk's curse is undeveloped.
+- The specific ritual Diquyk is working toward to resurrect Greyhawk is
+  undeveloped.
+- Does Diquyk know Karma is the vessel?
+- Did Karma witness Diquyk's arrival? Likely — but Abaculus influence may have
+  ensured he did not report it. Undeveloped.
+- Whether Karma survives Greyhawk's resurrection: UNDECIDED.
+
+DIQUYK'S BANISHMENT PLANE:
+- Features and characteristics of the parallel world: undeveloped.
+- Whether Adomorn knew about the temporal difference: undecided.
+
+DIQUYK'S ASCENSION:
+- Mechanism for mortal ascension to godhood entirely uncharted.
+
+ADOMORN:
+- Does not know Diquyk has returned or that Abaculus is beneath Burnt Plains.
+- When does he find out and how does he respond?
+- Has not found a way to free Karma from the curse.
+- Whether he knew about the temporal difference of Diquyk's banishment: undecided.
+- TENTATIVE: Whether Adomorn dies immediately after banishing Diquyk in 392 AW
+  is undecided. If confirmed, Mya would not have known he would return.
+
+ROHL:
+- Are there still Creatures of Olum in the ruins of Rohl in 432 AW?
+- Does Gralvin know the full historical reason Rohl fell?
+
+MYA LI:
+- Does she know the Abaculus was the real force behind the Elf War?
+- Does Diquyk know she carries the Bow of the Dales?
+
+THE ACORN RELIC:
+- What does it represent?
+- When and how did Galstaff encounter Skitter?
+- Does anyone other than Galstaff suspect its significance?
+- Does Var Harma leadership know what a Relic of Creation is?
+
+ABSTRACT RELICS:
+- Relics exist for abstract qualities — love, grief, courage, jealousy, etc.
+- Destruction by the Abaculus would permanently erase those qualities.
+
+THE FRAMING OF KIMORA:
+- Tarik's former followers are primary suspect. Leadership and plans undeveloped.
+
+THE HERRINGERS:
+- Who leads them after Grimmon's death?
+- New Dwarven kingdom dream: on hold.
+
+NUSUL — THE LOST KINGDOM:
+- Interior and what specifically remains: undeveloped.
+- How far did Ice Dwarves get before being overrun?
+- Whether Bor and Maeglin will speak with Ice Dwarves: undecided.
+- Provenance of Bor's map: undeveloped.
+
+THE ROAD:
+- Name undecided: Merchant's Spine or Wanderer's Road.
+
+ALITA VARIS:
+- Narrative function in future stories undefined.
+
+ADENBURRY SINKHOLE:
+- Broader circumstances and aftermath beyond what is confirmed: undeveloped.
+
+GRALVIN & BALRIC'S ESCAPE:
+- Specific circumstances within the slave system: undecided.
+
+BALRIC & MYA:
+- Circumstances of how Balric became Mya's companion and love interest: undecided.
+- No physical description or personality established yet.
+
+VALERIA:
+- Degree and nature of supernatural presence in Gralvin's life: undecided.
+
+VALINDRA'S TORMENT:
+- Does Valindra's presence have any effect beyond the emotional bleed, or is
+  that the entirety of what she is? Left open intentionally.
+
+2ND EPOCH KINGDOMS:
+- Political map undeveloped. Harrad is the primary known kingdom.
+
+FELGARD:
+- Internal politics and current ruler undeveloped.
+
+T'SARRA:
+- Ruler, internal politics, relationship with Var Harma undeveloped.
+
+HARBINGER SET TOMBS:
+- Mako's and Talon's tomb locations undecided.
+
+JAUNT GATES:
+- How much is publicly known about their origin?
+- Identity of the gate casualty on Myst undecided.
+- Specific mechanics of gate creation not fully developed.
+- How Adomorn identified which gate led to The Deep: undeveloped.
+- How the sleep on Adomorn's 2 Marauders was timed or lifted: undeveloped.
+
+EVANDER'S FATE:
+- Did Evander die in 1599 or step down? Death year undecided.
+
+IRRIDAE PANTHEON:
+- List of 20 is partial. Remaining names undeveloped.
+- Which god Skitter worships: undecided.
+- Whether any remaining Irridae return in the future story: undecided.
+
+THE DRASIAN VAULT:
+- Tentatively found by Var Harma — NOT YET CONFIRMED.
+- Found through excavation or Adomorn's guidance: undecided.
+- Whether Var Harma leadership fully understands what they have: undecided.
+
+ESTEFANIA:
+- Does she know her own heritage?
+- Connection to Daria's line: strong possibility, not confirmed.
+- Galstaff may have discovered her lineage: NOT YET OFFICIAL.
+- Narrative function undefined.
+
+DRAAK SETTLEMENT:
+- Confirmed location: river valley dividing eastern and western Black Mountains.
+- Name: UNDEVELOPED.
+- Nature and what remains after thousands of years: UNDEVELOPED.
+- Whether Iron Dwarves have encountered any of it: undeveloped.
+
+SNOW ELVES:
+- Island name: UNDEVELOPED.
+- Kingdom name: UNDEVELOPED.
+
+SEA ELVES:
+- TENTATIVE: approximately 90% of civilization underwater, 10% on land.
+  NOT YET CONFIRMED.
+- Nature of underwater settlements: undeveloped.
+
+MARSH GOBLIN ISLAND:
+- Island name: UNDEVELOPED.
+
+THE BARREN RUN (UTOA):
+- Nature and description: UNDEVELOPED.
+
+KOBOLDS — UNDEVELOPED:
+- No strong direct relationship established between Tunneler Kobolds and Iron
+  Dwarves of Fardar — worth developing.
+- Whether Tunneler Kobolds have encountered ancient Draak remnants in the
+  eastern Black Mountains: undeveloped.
+- Relationship between Mystic Kobolds and Obsidian Dragonborne: undeveloped.
+
+GIANTKIN — ORIGIN NOT YET ESTABLISHED:
+- Frost Giants, Hill Giants, Ogres, Swamp Giants.
+
+RACES WITH NO ORIGIN LOCATION:
+- Trolls — Forest, Moss, Desert.
+
+RACE LIFESPANS NOT YET ESTABLISHED:
+- Orcs, Magni (follows base race), Giantkin subtypes, Troll subtypes,
+  Humans (Shepherds, Water Whisperers), Wyrms.
+
+SKITTER'S PRIOR COMPANIONS:
+- Wilward (Adenburry), Alexa (Broldendul), Qenwick (Fardar) — all alive.
+  Future roles undeveloped.
+
+GUARDIANS OF THE TREE:
+- Internal structure, rituals, membership, founding family names: undeveloped.
+- Current threat assessment in 432 AW: undeveloped.
+
+THE MARAUDERS:
+- Individual member names and backgrounds: undeveloped.
+- How 8 Marauders entered The Deep: undeveloped.
+- How sleep on 2 Marauders was timed or lifted: undeveloped.
+
+THE VAR HARMA:
+- Full internal structure beyond need-to-know hierarchy: undeveloped.
+- Leadership in 432 AW: undeveloped.
+- How and when relationship with Adomorn began: undecided.
+
+SAND DWARF AND HIGH ELF RELATIONSHIP:
+- Current relationship in 432 AW: undeveloped.
+
+ATRAL EXCAVATIONS:
+- How much uncovered by 432 AW: undeveloped.
+- Years after Sundering before High Elves discovered ruins: undecided.
+
+DRAAK TERRITORY REMNANTS:
+- Ancient Draak remnants may be buried in the Black Mountains.
+- Iron Dwarves may not have fully explored the eastern reaches.
+
+GREYHAWK:
+- Personality, inner life, experience of corruption: undeveloped.
+- 29 years of the Great War he directed: largely undeveloped.
+
+DRAGON WARS (2ND EPOCH):
+- Reconciliation of Dragon Wars with Chromatic/Metallic framework and current
+  confirmed lore: to be developed. Dragon Wars occurred 1206-1214, 2nd Epoch,
+  during formation of Harrad under Eisengol.
+
+RACE APPEARANCE TABLE — INCOMPLETE:
+- Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls, Dragons: appearance
+  entries not yet developed.
+- Northmen native language (Andari) may have had a different name in earlier
+  epochs — the present-day name derives from the Andar region, a regional
+  identity that did not exist at the Sundering.
+
+MAP NOTES:
+- All borders approximate, defined by natural geographic features.
+- 3rd Epoch kingdoms: Kimora, Fardar, Ellendale, Faelyn, Hellar, Andar (Alios);
+  T'sarra (Edura); Felgard (Utoa); Icefall; Jokul; Malulo; Myst.
+- 1st Epoch: Drasian Empire (northern Edura); Draak Territory (Black Mountains).
+- Stone Giants: Tempest Peaks, western Alios (confirmed).
+- Snow Elf island: large island east of Utoa — name undeveloped.
+- Marsh Goblin island: small island east of Alios — name undeveloped.
+- Races still needing origin locations: Frost Giants, Hill Giants, Ogres,
+  Swamp Giants, Trolls (Forest, Moss, Desert).
+
+================================================================================
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v1
+================================================================================

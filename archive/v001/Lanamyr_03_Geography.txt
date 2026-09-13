@@ -1,0 +1,241 @@
+================================================================================
+LANAMYR WORLD BIBLE — GEOGRAPHY — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Races, Kingdoms_History,
+Characters_Items, Stories_Outlines, Open_Questions. Confirmed lore is locked;
+tentative lore is flagged and subject to change. All map borders are
+approximations defined by natural geographic features.
+
+================================================================================
+GEOGRAPHY AND WORLD STRUCTURE
+================================================================================
+
+CONTINENTS:
+Lanamyr has three major continents. Alios and Edura are joined by land and
+together form one large landmass. Utoa is the only major continent not connected
+to the others — it is entirely surrounded by ocean. All other landmasses are
+islands of varying size.
+
+ALIOS:
+The largest continent. Dominates the northern and central portion of the world.
+Has a large northern peninsula (Andar), a western arm containing the Forbidden
+Peaks and Tempest Peaks, and an eastern extension toward the Westwind Mountains.
+Central Alios is predominantly Deciduous and Mixed Forest, transitioning to
+Steppes and Cool Desert in the east. The western arm receives high rainfall and
+contains dense forests. The northern regions are cold, with the Tarantar
+Mountains being the highest and coldest range in Lanamyr.
+
+EDURA:
+Considerably smaller than Alios. Connected to Alios via the Blackwing Hills
+land corridor in the southwest — geographically similar to how Europe and Asia
+are separate continents but joined by land. Northern Edura is tropical rain
+forest, home to T'sarra and the ruins of Atral. Central Edura contains the
+Void Sands desert. Southern Edura cools progressively toward tundra at its
+southern tip.
+
+UTOA:
+The only isolated major continent, surrounded entirely by ocean. Has a prominent
+east-west mountain range — the Desolate Tops — of very high elevation. Northwestern
+Utoa is Steppes and Cool Desert terrain, home to Felgard. Eastern Utoa contains
+the Evergreen Strand. Southern Utoa reaches Polar Ice and Polar Desert at its
+extreme southern end.
+
+MAJOR GEOGRAPHIC FEATURES — ALIOS:
+- Tarantar Mountains: Northern Alios, running east-west. The tallest mountain
+  range in Lanamyr — peaks reach extreme elevation (gray on elevation map).
+  Cold Parklands and Boreal biomes. Home of The Deep (Dark Elf underground
+  kingdom) and Cave Gnomes beneath the mountains.
+- The Tempest Peaks: Western arm of Alios, significant elevation. Origin of
+  Stone Giants. High rainfall, tundra at peaks.
+- The Darkened Slopes: Western arm of Alios, below the Tempest Peaks.
+- The Forbidden Peaks: Western arm of Alios, southern portion. Home of Hellar,
+  the Dark Dwarf underground kingdom.
+- The Black Mountains of Fardar: Central-eastern Alios, running east-west.
+  Divided into western/central bulk (Iron Dwarf territory, Kingdom of Fardar)
+  and eastern end (Tunneler Kobold origin territory). A river valley divides
+  the eastern and western halves — site of the ancient Draak settlement.
+- The Wandering Hills: Northeastern Alios, forming part of Kimora's border
+  with Fardar. Origin of Screecher Goblins.
+- Ash Mountains: Central Alios, running east-west. Form the southern border
+  of Kimora.
+- Monowi Hills: Small hills in central Alios, part of the natural border line
+  between Kimora and Ellendale. Location of the Monowi Inn.
+- The Westwind Mountains: Far eastern peninsula of Alios. Near the Gold
+  Dragonborne and Orc origin territories.
+- Blackwing Hills: The geological land connection between Alios and Edura.
+  Elevated but not dramatically so — hills rather than mountains, though
+  significant enough to form a clear continental boundary. Located between
+  the Void Sands of Edura to the east and the Obsidian Dragonborne swamp
+  region of southwestern Alios to the west.
+
+MAJOR GEOGRAPHIC FEATURES — EDURA:
+- Troll's Breath Mountains: Northern Edura, south of the ruins of Atral and
+  the Waywin River. Named after the Mountain Trolls who originated there.
+  Significant elevation — reads cooler than surrounding tropical terrain due
+  to altitude. Home of Mountain Troll underground caverns that connect into
+  the outer edges of the ruins of Atral.
+- The Void Sands: Central Edura. Hot desert, near-zero precipitation. Origin
+  of Sand Dwarves.
+- The Iron Peaks: Southern Edura. Origin of Woodland Gnomes nearby.
+- Blackwing Hills: See Alios entry above — straddles the Alios-Edura connection.
+- Waywin River: Major river running through northern Edura through the site of
+  the ruins of Atral. The city of Atral was built along this river.
+
+MAJOR GEOGRAPHIC FEATURES — UTOA:
+- The Desolate Tops: Central Utoa. Very high elevation, among the tallest
+  terrain in Lanamyr. Tundra biome.
+- The Barren Run: Utoa. Nature and description undeveloped.
+- The Evergreen Strand: Far eastern tip of Utoa. Mixed to Coniferous Forest
+  biome — the name reflects the green forested character of the strand amid
+  Utoa's otherwise harsher terrain. Origin of Hardback Kobolds.
+- Coldwind Mountains: Southern Utoa. Significant elevation.
+
+MAJOR GEOGRAPHIC FEATURES — ISLANDS:
+- Gleaming Spires: Remote far western island. Polar Ice biome. Snow-capped
+  peaks that catch sunlight from a distance and appear almost self-luminous —
+  as though generating their own light. The name derives from this effect.
+- Firethorn Peaks: Remote far western island. Contains multiple active
+  volcanoes. The name reflects the fiery volcanic character of the peaks.
+  Warmer biome tones due to volcanic activity despite southern latitude.
+
+RIVERS:
+Only major rivers are mapped at world scale. Countless unnamed rivers, streams,
+and lakes exist throughout Lanamyr — these will be developed as needed.
+- Waywin River: Northern Edura. Runs through the site of the ruins of Atral.
+
+CONTINENTAL BIOME SUMMARY:
+- Icefall: Polar Ice — extreme cold essential for Ice Forging
+- Northern Alios: Cold Parklands and Boreal — harsh and cold
+- Central Alios: Deciduous and Mixed Forests — fertile, temperate
+- Eastern Alios: Steppes to Cool Desert — drier, more arid
+- Western arm of Alios: Dense forest — high rainfall
+- Southern Alios: Warming toward Tropical Seasonal Forest
+- Northern Edura (T'sarra): Tropical Rain Forest — confirmed lush
+- Central Edura (Void Sands): Hot Desert — arid
+- Southern Edura tip: Tundra — cold and harsh
+- Utoa (northwest): Steppes and Cool Desert
+- Utoa (south): Polar Ice and Polar Desert
+- Snow Elf island: Polar Ice and Polar Desert — extreme cold
+- Malulo Archipelago: Tropical Rain Forest — warm and lush
+- Gleaming Spires island: Polar Ice
+- Firethorn Peaks island: Warmer due to active volcanism
+
+================================================================================
+KEY LOCATIONS
+================================================================================
+
+THE BURNT PLAINS: Vast swath of scorched, barren earth near ruins of Rohl,
+within Kimora. Beneath lies the Abaculus. At the very center sits Karma — now
+a golden-skinned Kobold — bound there by Greyhawk's dying curse. Lifeless after
+400+ years — the result of Greyhawk's immense corruption leaking into the ground
+as his body decayed after the Battle of Rohl. The landscape bears the physical
+scars of that battle: craters, outcroppings, and rubble from the clash of
+enormously powerful beings. Rainfall in the Burnt Plains is normal — the same
+as the surrounding fertile Deciduous Forest terrain of central Kimora. Rain
+falls and nothing grows. The lifelessness is not a product of drought or climate
+but of deep corruption that defies natural recovery. This makes it a visible
+anomaly on any biome or vegetation map — a dead patch surrounded by living land
+that receives the same rainfall. It was precisely this unnatural quality that
+drew Diquyk's curiosity in 383 AW. Adomorn, having been present at the battle,
+understands Greyhawk's corruption as the cause and has no reason to investigate
+further — it reads to him as a known scar. Hidden amongst the battlefield debris
+is a narrow burrow or crawl space leading underground — small enough that only
+a slight person could enter, up to 30 meters long, concealed among rubble and
+outcroppings. The Abaculus subtly influences anyone who comes close to this
+entry point to turn away. It guided Diquyk through it and into the purpose-built
+chamber beneath, constructed by Greyhawk during the Great War.
+
+HEAVEN'S OAK: Landmark in Faelyn containing a chamber built under Adomorn's
+instruction early in the 2nd Epoch. Three purposes: physical containment of
+Abaculus, masking its presence from Creatures of Olum, and preventing it from
+acting as a universal beacon detectable by all Irridae. Intact. Never held the
+Abaculus. Protected by the Guardians of the Tree. The Abaculus learned of this
+chamber through Greyhawk's memories at the moment of his corruption in year
+2136, 2nd Epoch. Knowledge of the chamber's existence and purpose is what
+directed the Abaculus to use Diquyk to wage war on Faelyn — breaking the
+Guardians and compromising the chamber was a strategic priority before Diquyk
+pursued the larger mission.
+
+THE NEXUS: Deep cavern in a remote part of Myst. Central hub for all Jaunt
+Gates. Diquyk's records remain here. Discovered by Galstaff Quint.
+
+ATRAL (RUINS): First and greatest Drasian city, built along Waywin River on
+Edura. A vast sprawling city with both above ground and underground sections.
+In the Sundering, the entire city was destroyed — above ground structures
+flattened, underground sections buried and largely lost to time. Home of the
+Drasian Vault (deep underground, at the center of the underground city).
+The High Elves of T'sarra discovered the ruins some years after the Sundering
+and began excavating. The site was contested by Mountain Trolls from the Troll's
+Breath Mountains to the south. Sand Dwarves eventually allied with the High
+Elves and pushed the Trolls back. Centuries of excavation by the Var Harma have
+uncovered significant portions but much remains buried. Rumored present-day
+headquarters of the Var Harma.
+
+ROHL (RUINS): Former capital and largest city of Harrad. Within present-day
+Kimora. Palace destroyed during the Great War. Locals avoid it.
+
+HERRINGTON: Mining town in Ash Mountains founded by Grimmon Herringer.
+Emerald mines. Future uncertain after Grimmon's death.
+
+BROLDENDUL: Town north of Herrington. Site of Orc raiding party attack (Orcs
+dressed as Kimoran soldiers). Home of the Four Crowns gang.
+
+ADENBURRY: Border town of Kimora near the Fardar border. In 430 AW a large
+sinkhole opened in the center of town when subterranean Creatures of Olum
+breached the surface. A vast excavation was discovered beneath. The nest was
+exterminated by a group of adventurers who were present at the time. Several
+buildings caught fire during the collapse. Wilward Cobbersplint's airship,
+which had landed in Adenburry, caught fire and tore in half as the ground gave
+way. Wilward remained in Adenburry to help the town rebuild and to reconstruct
+his airship. The Adenburry sinkhole event was not connected to the Abaculus —
+it was an independent natural Olum nesting occurrence.
+
+TOWER OF GRANNEL: Adomorn's base of operations in the present day.
+
+DRASIAN VAULT: Underground vault built by the Drasu at the center of the
+underground city of Atral on Edura. Contains records of the Irridae and the
+nature of Relics of Creation. Survived the Sundering intact. Located deep
+beneath centuries of debris and collapse — not easily reached. Tentatively,
+the Var Harma have likely found it by 432 AW. Whether they fully understand
+what they're sitting on, and what knowledge they have extracted, is undecided.
+Adomorn would have involved himself with the highest Var Harma ranks to manage
+the dangerous knowledge within — NOT YET CONFIRMED.
+
+MONOWI HILLS: A small section of hills in the natural border line between
+Kimora and Ellendale. The broader border between the two kingdoms is defined
+by an unnamed line of hills and small mountains running from the Ash Mountains
+in the south up toward the Tarantar Mountains in the north. This line has no
+single collective name. The Monowi Hills are one portion of that line — the
+area where Elsie Varis's farm and inn are located.
+
+MONOWI INN: A small inn built next to Elsie Varis's farmhouse in the Monowi
+Hills near the Kimora-Ellendale border. Officially called the Monowi Inn;
+frequent travelers simply call it "Elsie's place." One of the most well known
+and frequently visited stops along the road between Fardar and Faelyn. Run by
+Elsie Varis with her daughter Alita. See character entries for details.
+
+THE ROAD (NAME UNDECIDED): A major trade route running roughly east to west
+across central Alios. Departs Fardar in the east, crosses Kimora, then
+Ellendale, and ends in Faelyn to the west. Bisects Kimora roughly in half.
+One of the heaviest trade routes in the region, servicing many stops along
+the way. Adenburry and Broldendul sit near the road on the eastern side of
+Kimora close to Fardar. The Monowi Inn sits near the road on the western side
+of Kimora close to the Ellendale border. Name undecided — current shortlist:
+Merchant's Spine or Wanderer's Road.
+
+VALINDRA'S TORMENT: A small lake somewhere in the plains of Ellendale. Unnamed
+before the tragedy of 116 AW. The nomadic settlement that once sat near its
+shore — mostly Plains Elves and humans — moved on shortly after the drownings.
+The lake has carried the name Valindra's Torment ever since, given by locals
+who felt what lingered there. Plains Elves and others who have settled in that
+region over the centuries are careful to avoid it. Those who wander close feel
+Valindra's grief and torment as though it were their own. Reports of a vengeful
+or evil spirit circulate among travelers — the details exaggerated by retelling.
+The truth is simpler and sadder: she is still waiting for Cyran.
+
+================================================================================
+END OF LANAMYR GEOGRAPHY — v1
+================================================================================

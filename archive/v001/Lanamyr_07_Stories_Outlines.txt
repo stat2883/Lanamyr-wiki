@@ -1,0 +1,497 @@
+================================================================================
+LANAMYR WORLD BIBLE — STORIES & OUTLINES — v1 (split from v27)
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Races, Kingdoms_History,
+Characters_Items, Open_Questions. Confirmed lore is locked; tentative lore is
+flagged and subject to change. When the user writes DQ, this refers to Diquyk
+Lockwood. Character and timeline details referenced below should match the
+Characters_Items and Kingdoms_History files — cross-check all three when any
+changes.
+
+================================================================================
+STORIES AND LEGENDS — STORY CONCEPTS
+================================================================================
+
+--- UNTITLED — THE SHADOW BEFORE THE STORM ---
+ERA: 2nd Epoch, during the lead-up to and early years of the Great War.
+CONCEPT: An unnamed group of adventurers navigating Lanamyr as the world begins
+to darken around them. Creatures of Olum appearing in places they shouldn't,
+trade routes going quiet, people disappearing. Adomorn and Karma may appear.
+Ground-level view of the Great War era.
+STATUS: Concept only. Characters, specific plot, and scope entirely undeveloped.
+
+--- UNLIT (WORKING TITLE) — THE PARALLEL ---
+ERA: 3rd Epoch, 366-392 AW.
+WORKING TITLE: Unlit. Other titles considered: Two Flames, The Same War, Not
+Yet, Before the Collision. Title not yet settled.
+
+CONCEPT: A parallel story following Mya Li and Diquyk Lockwood — from their
+youth through the full course of the Elf War (387-392 AW), culminating in the
+final battle inside the Dark Elf kingdom and Diquyk's banishment. Told in
+alternating chapter blocks — not strictly one chapter per character, but groups
+of chapters before switching POV.
+
+READER APPROACH: The reader is assumed to have no prior knowledge of Lanamyr.
+The world is revealed entirely through the characters' lived experience.
+Show the world, never explain it.
+
+NARRATIVE STRUCTURE:
+Diquyk and Mya each narrate their own chapters in first or close-third person.
+The chapter blocks are not strictly alternating — several consecutive chapters
+may follow one character before switching to the other. In the early portions
+of the story, Diquyk's arc requires more runway (spanning ~26 years from
+age 14 through the Elf War) while Mya's arc spans approximately 5 years from
+joining the militia. The grouped block structure allows each character's
+momentum to build before switching rather than constantly interrupting.
+As the two timelines converge toward the final battle, the blocks may naturally
+shorten and shift more frequently, building pace.
+
+The two chapters covering the direct encounters between Mya and Diquyk use an
+unnamed omniscient external narrator — a purely literary device signaling that
+something has shifted beyond either character's individual perspective.
+No frame narrator for the wider story. The Galstaff-as-narrator idea was
+considered and shelved — not discarded.
+
+ENDING: Confirmed. The story ends from Mya's POV. Diquyk's banishment is a
+threshold rather than a conclusion — the start of a new chapter for him, not
+the end of the book. Mya's perspective earns the ending: she is left standing
+in The Deep with everything she came with gone — her soldiers, Kharis already
+weeks behind her, Adomorn apparently dead beside her. The victory is real but
+the cost is total. The reader knows more than she does, which makes it land
+harder.
+
+TRANSITIONAL IMAGE (confirmed):
+In one of Mya's chapters near the convergence point, the chapter ends with Mya
+and her forces advancing toward battle and seeing a large blue flame in the
+distance. The chapter closes on that image — wordlessly, without commentary.
+The next chapter opens with the omniscient external narrator. This is the hinge
+point between Mya's individual POV and the shared external perspective of their
+first major encounter. The less Mya says about the flame, the more powerful
+the landing.
+
+THREE-ACT SHAPE:
+Act One: Both characters' early years. Diquyk from 366 AW (age 14, the
+  incident) through his corruption in 383 AW and his recruitment of the Stone
+  Giants and Dark Elves in 383-387 AW. Mya from her restless scholarly years
+  in Caldalus through joining the militia in 387 AW.
+Act Two: The Elf War years. The two-front assault builds to the first large
+  encounter as its midpoint crisis — Mya's most crushing defeat. Kharis killed.
+Act Three: Reformation and convergence. Mya rebuilds, forms the Marauders,
+  Adomorn enters the picture. The final battle and Diquyk's banishment.
+
+SUGGESTED CHAPTER INTERLEAVING ORDER:
+  Block 1:         DQ-1, DQ-2
+  Block 2:         Mya-1, Mya-2
+  Block 3:         DQ-3, DQ-4, DQ-5
+  Block 4:         Mya-3
+  Block 5:         DQ-6, DQ-7, DQ-8
+  Block 6:         Mya-4, Mya-5
+  Block 7:         DQ-9
+  Intersection 1:  Omniscient narrator (first encounter)
+  Block 8:         DQ-10
+  Block 9:         Mya-6, Mya-7, Mya-8, Mya-9
+  Intersection 2:  Omniscient narrator (final battle)
+  Coda:            Mya's POV
+
+NOTE ON CHAPTER NUMBERING: DQ's arc was expanded from the previous version.
+DQ-2 was split into two chapters (DQ-2 and DQ-3) at the flame interception
+scene. All subsequent DQ chapters renumber accordingly. The interleaving order
+above reflects the new numbering.
+
+CHAPTER OUTLINES — DIQUYK'S ARC:
+
+DQ-1: THE INCIDENT (366 AW)
+  DQ wakes with an uneasy feeling — something different in his body, not named,
+  not understood. He can sense the ambient energy field around him — closer and
+  more present than usual. He reaches toward it instinctively, without
+  understanding what it is or what he is doing.
+  STREET ENCOUNTER: Before the incident, DQ and his parents are out in town and
+  briefly bump into Degeric. A casual, ordinary exchange. DQ's internal
+  observations during the encounter do the character work — the way his parents
+  respond to Degeric, DQ's own read of someone he has known his whole life.
+  Short, specific, ordinary. The reader builds Degeric from what DQ notices.
+  THE INCIDENT: The power does not come out once. It erupts in repeated bursts —
+  brilliant white-blue flashes of light. The first burst scatters bystanders and
+  draws guards toward the disturbance. DQ's perspective stays throughout: fear
+  and confusion, not rage or intention. This is happening to him. Between bursts
+  he sees what the previous burst did. White-blue flash — blink — the world has
+  changed. The charred remains of his parents discovered in intervals between
+  flashes he cannot stop. The guards drawn by the first burst die for the
+  instinct that made them approach. Horror through helplessness.
+  NOTE: The white-blue color of these bursts is the same blue flame that defines
+  DQ's magic throughout his entire life — present from the very first expression
+  of his power, continuous with the blue flame Mya sees in the distance before
+  the first encounter.
+  The chapter ends when Degeric arrives — a familiar face in the aftermath. DQ
+  recognizes him. Degeric steps toward him rather than away. The chapter closes
+  on that approach. The conversation belongs to DQ-2.
+
+DQ-2: THE YEARS WITH DEGERIC — EARLY (366–~370 AW)
+  Degeric helps DQ process his grief in the immediate aftermath. Takes him along
+  on his church duties — DQ witnesses Degeric help the less fortunate, protect
+  the vulnerable, earn the respect of those around him. A father figure without
+  being overbearing — Degeric understands he cannot replace what was lost.
+  DQ is an eager student of both magic and the gods. Degeric offers rudimentary
+  explanation of the ambient energy. DQ learns quickly and begins to exceed what
+  Degeric can teach. DQ also experiments beyond what Degeric shows him.
+  OLUM CONTEXT: As a young child before the incident, DQ would have heard of or
+  witnessed Olum attacks from inside his home, locked away while town guards
+  handled the creatures. After the incident, with Degeric, he crosses to the
+  other side of that door. His first Olum encounter as a participant happens
+  within the first year to eighteen months. Degeric instructs him to keep a safe
+  distance and use small spells from afar while Degeric and the town guards
+  handle the most dangerous creatures. Subsequent Olum encounters are referenced
+  more briefly, showing growing power and confidence.
+  THE FLAME INTERCEPTION SCENE (confirmed): A scene in which Degeric attempts to
+  produce a small magical flame in his palm and DQ intercepts the ambient energy
+  before it reaches him. From DQ's perspective, the sensory experience is like
+  standing in a pool and feeling the current flow past him toward Degeric —
+  and simply redirecting it. Degeric's flame fails. They both feel the shift.
+  The dynamic between them changes permanently in that moment — the teacher has
+  reached his ceiling. Specific prose details to be decided at writing stage.
+  The chapter closes on this scene.
+
+DQ-3: THE YEARS WITH DEGERIC — LATE (~370–376 AW)
+  Opens in the new dynamic — Degeric now mentor rather than teacher. Urging DQ
+  to use his power to help people, to be a protector. DQ takes that to heart
+  and begins doing exactly that within the church and the town.
+  Subsequent Olum encounters are handled briefly showing DQ's continued growth
+  and increasing capability.
+  NEAR THE END OF THE CHAPTER: Degeric receives word of a newly formed Olum nest
+  in the region. He and DQ take a couple of the town's guards with them to raid
+  it. The nest raid is the emotional climax of the chapter. During the raid,
+  Degeric and the guards fall into grave danger. Degeric pleads with DQ to
+  unleash his full power. DQ hesitates — his mind flashes back to the incident
+  and his parents. After a few moments of internal struggle, he gives in to the
+  power within him and kills all remaining Olum in a series of directed magical
+  bursts of blue flame — controlled enough that Degeric and the guards are
+  unharmed. This is the first time DQ reaches for the full extent of his power
+  deliberately and under real stakes. He finds out in the worst possible moment
+  that he is not the uncontrolled thing that killed his parents. He can choose.
+  Degeric directly addresses the nest event with DQ afterward.
+  The nest raid catalyzes the departure conversation. Degeric points DQ toward
+  a direction — a region of rumored Olum activity, framed as nest hunting, likely
+  through his church network or reports from travelers. TENTATIVE — specific
+  direction undeveloped. The departure conversation closes the chapter. The
+  parting is warm and clean. A loving goodbye neither of them knows is nearly
+  the last.
+
+DQ-4: THE GATE YEARS (376–382 AW)
+  DQ leaves with a direction Degeric suggested. The chapter lives in the space
+  between his old life and the corruption coming — DQ alone, building something
+  extraordinary, discovering what he is capable of. Traveling snippets as he
+  moves through the world. Gate building. The emotional texture of this chapter
+  and specific events within it are largely undeveloped.
+  Final visit to Degeric somewhere in 379-381 AW — still pre-corruption.
+  Degeric dies 381 AW. Whether DQ was present at the death itself or heard of
+  it afterward: undeveloped. How much the final visit echoes the departure
+  conversation in DQ-3: worth holding in mind as DQ-4 develops.
+  TENTATIVE: DQ's direction when he leaves is toward a region of rumored Olum
+  activity suggested by Degeric — framing him as a nest hunter. Details of the
+  specific region and events during these years are undeveloped.
+
+DQ-5: THE BURNT PLAINS (383 AW)
+  DQ is drawn to the Burnt Plains — an unnatural dead patch in fertile Kimora,
+  receiving normal rainfall, supporting nothing. His curiosity is his own; he
+  does not know he is being guided. The Abaculus senses his power and draws him
+  to the hidden burrow in the battlefield debris, into the chamber below.
+  The corruption scene is confirmed in full detail — see the Overview_Cosmology
+  file's Abaculus entry, and the confirmed scene excerpt below.
+  This is the hinge of DQ's entire arc: the last chapter where he is entirely
+  himself. The chapter needs the emotional approach to the plains, and the
+  first moments after he surfaces — the beginning of what he now is.
+
+DQ-6: THE STONE GIANTS (383–385 AW)
+  DQ travels to the Tempest Peaks. Demonstrates his power as a show of force.
+  Offers plunder and the riches of Faelyn. The Giants respect strength; they
+  are persuaded. DQ promises to return with additional forces.
+  OPEN: What does he show them? What does it feel like for him — performance or
+  genuine pleasure? How visible is the flicker of his true self here, if at all?
+
+DQ-7: THE DARK ELVES (385–387 AW)
+  DQ travels to The Deep. A different approach from the Giants — the Dark Elves
+  chosen for obscurity, deniability, absence of alliances. Equipped with magical
+  and enchanted weapons. Gates placed near both locations.
+  OPEN: How does the Dark Elf negotiation contrast with the Giants? Colder, more
+  strategic? What is DQ's read of them as tools?
+
+DQ-8: THE EARLY WAR YEARS (387–391 AW)
+  The war is underway. DQ directs via Jaunt Gates — not on the front lines.
+  Four years of reports, adjustments, waiting.
+  OPEN: This is the most undeveloped stretch of DQ's arc and one of the most
+  important for his inner life. What does he experience during these years?
+
+DQ-9: ESCALATION (391–392 AW)
+  DQ decides to make his first major push. What drives the timing? Closes as
+  his forces advance into Faelyn in force. Leads directly into Intersection 1.
+
+[INTERSECTION 1 — OMNISCIENT NARRATOR]
+
+DQ-10: AFTER THE FIRST ENCOUNTER (392 AW)
+  DQ's perspective on what just happened. The Wood Elves retreated. He killed
+  a great many soldiers. A success by any measure.
+  OPEN: Does he notice Mya specifically? What does the Abaculus do with whatever
+  DQ felt in this engagement?
+
+[INTERSECTION 2 — OMNISCIENT NARRATOR]
+
+CHAPTER OUTLINES — MYA'S ARC:
+
+Mya-1: THE SCHOLARLY LIFE (pre-387 AW)
+  Opens with Mya waking. Her mind goes over the day ahead — including recent
+  trade meetings between Aer'Raenal and Hellar emissaries about trade routes,
+  which both she and Phelloden have been sitting in on. The meetings are the
+  kind of thing a future queen should find fascinating. Mya does not.
+  After getting dressed, Mya meets Phelloden in the library where they have been
+  instructed to study the history of Faelyn and neighboring kingdoms. Phelloden
+  is engaged — studying maps and researching treaties. Mya has drifted from her
+  assigned material to accounts of the Great War, specifically the heroes who
+  fought in it. Her mind wanders to wanting to be like them. She stares out a
+  window, an open book in front of her.
+  A page boy arrives to fetch them at the king's request. Phelloden is immediately
+  ready and waiting by the door with the page. Mya has to be called back twice
+  from her daydream. From her POV: she registers the scene already assembled
+  and waiting — her brother at the door, the page beside him, a slight patience
+  in Phelloden's expression. She sighs, returns the book to the shelf, and walks
+  slowly toward the door. The contrast in body language between the siblings is
+  marked. Mya and Phelloden have a warm relationship — mutual respect, no rivalry,
+  genuine humor and teasing between them that emerges naturally. Specific
+  moments of humor to arise spontaneously at writing stage.
+  OPEN: What specifically does Mya's mind wander to? This is the reader's first
+  window into who she is.
+
+Mya-2: THE CONVERSATION WITH PHELLODEN (pre-387 AW)
+  Early in the chapter, Mya passes militia members doing training exercises. She
+  watches from a distance, partially obscured — she doesn't want to interrupt or
+  change what she's seeing. Being the king's daughter, her presence would shift
+  the dynamic immediately. She watches their camaraderie, the ease between people
+  who've been through something together, their shared laughter. After a few quiet
+  moments of observation she moves on, unnoticed.
+  The accumulation of small moments — the trade meetings, the library, the militia
+  scene — is the real cause of what is coming. Not one single dramatic trigger.
+  TENTATIVE: Near the end of the chapter, word reaches the king of a Stone Giant
+  attack on the outskirts of Faelyn. This is the final tipping point.
+  Mya pulls Phelloden aside. They have their conversation. She steps aside from
+  the throne — deliberately, clearly, as her own choice. It is not circumstance.
+  Mya then speaks with Aer'Raenal. Not to ask permission — she is decided. She
+  convinces him to be okay with it. He tells her who to speak to in the militia.
+  Mya speaks with the militia leader. There is a conversation about her status
+  as the king's daughter. She is insistent on following the same path as any
+  other recruit.
+  OPEN: Is the Phelloden conversation one specific exchange or the tipping point
+  of a long accumulation? What is said? What does each of them feel?
+
+Mya-3: THE MILITIA (387 AW)
+  Mya joins the militia at age 40. The early war has begun. First weeks and
+  months — training, the beginning of her relationship with Kharis Ailwin.
+  Kharis joins at essentially the same time as Mya. He was among the survivors
+  of a Stone Giant attack on a small Wood Elf village who fled to Caldalus to
+  deliver word of the attack. His family was killed. That loss is his primary
+  motivation for joining — it is raw and immediate in a way Mya's motivation is
+  not. Both showed great promise and skill from the start. They spend many hours
+  training and talking together. Kharis's story comes out relatively quickly
+  given the time and proximity. Mya becomes aware of the asymmetry between their
+  reasons for being here. At some point Kharis learns who she is.
+  OPEN: Kharis's personality — how they first notice each other. The texture of
+  their early bond.
+
+Mya-4: THE EARLY WAR (387–391 AW)
+  Four years of two-front pressure. Mya building as a soldier and leader.
+  The relationship with Kharis deepens — serious but private. The war is real
+  but manageable at this stage. Neither of them knows what is coming.
+  OPEN: Specific missions or encounters that shape Mya. The texture of the
+  Kharis relationship. What does Faelyn look like under this pressure?
+
+Mya-5: THE BLUE FLAME (late 391/early 392 AW)
+  Mya and her forces advance toward the first major engagement with DQ directly.
+  The chapter ends with her looking at a large blue flame in the distance.
+  No commentary. No interpretation. Just the flame. The chapter closes on that.
+  The next chapter is the omniscient narrator.
+
+[INTERSECTION 1 — OMNISCIENT NARRATOR]
+
+Mya-6: THE RETREAT (392 AW)
+  The Wood Elves retreat. Mya survived. Many did not. Kharis is dead.
+  The relationship was never publicly acknowledged. She cannot grieve him openly.
+  She absorbs the loss and does the thing that needs to be done: reports back.
+  OPEN: This is one of the most emotionally loaded chapters in the book. The
+  private grief is the core of it. How does Mya process grief under pressure?
+
+Mya-7: ADOMORN (392 AW)
+  Aer'Raenal urges Mya to find Adomorn. She goes. She knows him only as a
+  legendary wizard — unaware of what he truly is. The meeting.
+  OPEN: What does Adomorn make of her, and she of him? Does she trust him
+  immediately? What does he tell her and what does he withhold?
+
+Mya-8: THE MARAUDERS (392 AW)
+  Mya forms the Marauders — ten, purpose-built for the final incursion.
+  She has already lost Kharis. Now she is choosing people for a mission she
+  knows is extraordinarily dangerous.
+  OPEN: Who are the ten? What does she tell them? What does it feel like to
+  build a unit she may be leading to their deaths?
+
+Mya-9: THE PLAN (392 AW)
+  The strategy is set — 8 with Mya as decoy, 2 with Adomorn through the gate.
+  OPEN: Whose idea is the split? Does Mya volunteer for the decoy role? What
+  does she think of a plan that uses her and her people as bait?
+
+[INTERSECTION 2 — OMNISCIENT NARRATOR]
+
+CODA: Mya's POV. The battle is over. DQ is banished. All ten Marauders are
+  dead. She carries the Bow of the Dales — made by DQ, taken from the man she
+  killed. Adomorn is apparently dead beside her. She does not know he will return.
+  She does not know DQ will return. She walked in with ten people and walked out
+  alone. The ending lives in that weight.
+
+THE TWO INTERSECTIONS (both narrated by unnamed omniscient external narrator):
+
+INTERSECTION 1 — THE FIRST ENCOUNTER (392 AW):
+  DQ makes his first major push. Dark Elves and Giants under his command carry
+  magical and enchanted weapons. He is present on the field for the first time.
+  The omniscient narrator holds both of them in frame simultaneously — the only
+  voice that can. DQ kills a multitude of soldiers before the Wood Elves retreat.
+  Kharis Ailwin is killed in this encounter. He is not a Marauder.
+  The transitional blue flame image finds its explanation here — the reader now
+  understands what Mya was looking at when her chapter ended.
+  OPEN: Does DQ notice Mya specifically in this encounter?
+
+INTERSECTION 2 — THE FINAL BATTLE (392 AW):
+  The Marauders enter The Deep. 8 with Mya as decoy, 2 with Adomorn through the
+  gate. DQ senses the transit — the ambush is foiled before it begins. Despite
+  this, DQ is engaged on two fronts. He intercepts Adomorn's spells and redirects
+  them as blue flame, killing multiple Marauders. Mya kills Shedyak and takes the
+  Bow of the Dales. When Mya and Adomorn switch to physical combat, the fuel
+  supply is cut. DQ is finally banished. All ten Marauders are dead.
+  The omniscient narrator holds the full cost of this without flinching.
+
+ELF WAR — CONFIRMED LORE FOR UNLIT:
+STRATEGIC MOTIVATION: The Abaculus directed Diquyk to wage war on Faelyn
+  because it had learned of Heaven's Oak through Greyhawk. Breaking the
+  Guardians and compromising the chamber was a strategic priority.
+TWO-FRONT STRUCTURE: Stone Giants from the Tempest Peaks pressed south into
+  Faelyn from the north. Dark Elves from The Deep pressed from the east. Mixed
+  units — platoons of Dark Elves with a handful of Giants — formed the front
+  lines during the early probing years (387-391 AW).
+DIQUYK'S ROLE IN THE EARLY WAR: Directed operations via Jaunt Gates. Not on
+  the front lines during 387-391 AW. His personal appearance in 392 AW signaled
+  decisive escalation.
+RECRUITMENT: Stone Giants first — show of force, promise of plunder. Dark Elves
+  second — obscurity, deniability, no alliances, equipped with enchanted weapons.
+FINAL BATTLE STRUCTURE: 10 Marauders — 8 with Mya as decoy, 2 with Adomorn
+  through the gate. Diquyk sensed the gate transit. All 10 Marauders killed.
+ADOMORN'S INTELLIGENCE GAP: Suspected Magni, did not anticipate full power.
+  Diquyk possibly the most powerful Magni ever, eclipsing Arias Graymist.
+
+DIQUYK'S CORRUPTION AT THE BURNT PLAINS (confirmed scene, 383 AW):
+Diquyk stood before the large crystal. He noted its black color, almost that
+of obsidian, though faint swirls seemed to dance across its surface. Drawn to
+it by a temptation from the deep recesses of his mind, his hand slowly reached
+out. His vision faded and narrowed — first his peripheral vision fell off until
+all he could see was the crystal. As he inched forward, the swirls became more
+pronounced: a dance of soft greens, blues, and reds in hypnotic patterns. All
+thought faded. At the moment of contact, his body immediately tensed, muscles
+locking him into a single rigid object. His head was pulled back and for a
+brief moment he saw the ceiling of the chamber — but then the swirls, dancing
+across the carved stone above him. Diquyk felt his mind collapsing as a strange
+foreign presence invaded. He tried to close his eyes and pull his hand away,
+but his body would not respond. He tried to shield his mind, escaped into
+memories, tried to turn away. The more he struggled, the more dark tendrils
+permeated his thoughts. His memories faded one by one until all that was left
+was the void. He had nowhere else to go, nothing left to do but submit. In
+Diquyk's mind, this struggle seemed to last a while. To an outside observer,
+it was just a couple of seconds.
+
+CONFIRMED LORE FROM THIS STORY:
+- Mya's original path was to become queen. Scholarly, restless, increasingly bored.
+- Phelloden more enthusiastic — Mya stepping aside is a deliberate choice.
+- Mya and Phelloden share a warm sibling relationship — mutual respect, no
+  rivalry, genuine humor between them.
+- Aer'Raenal is approximately 140 at the time of Mya-1 and Mya-2 — many decades
+  ahead of him. The throne is not imminent for either sibling.
+- Early war years (387-391 AW) were two-front probing attacks.
+- Diquyk directed via Jaunt Gates, not on front lines until 392 AW.
+- First large encounter and final battle both in 392 AW.
+- Mya knew Adomorn only as a legendary wizard — unaware of his true nature.
+- Adomorn underestimated Diquyk's power.
+- Kharis Ailwin joined the militia at essentially the same time as Mya — a
+  survivor of the same Stone Giant attack that prompted Mya to join. His family
+  was killed. He is NOT a Marauder.
+- 10 Marauders: 8 with Mya, 2 with Adomorn. All killed.
+- All of 392 AW: first encounter, Kharis's death, Marauders formed, final
+  battle, all 10 Marauders lost. Extraordinary compression of grief and action.
+- The story ends from Mya's POV. Diquyk's banishment is a threshold, not an
+  ending — it belongs to the next chapter of his story, not this book's close.
+- DQ-1 stays in DQ's POV throughout the incident. Character establishment for
+  Degeric achieved through DQ's pre-existing knowledge of him — a brief street
+  encounter before the incident and DQ's internal observations during it.
+- The white-blue bursts in DQ-1 are the same blue flame that defines DQ's magic
+  throughout his life — visible from the very first expression of his ability.
+- DQ's power comes in repeated bursts, not a single event. The first burst
+  scatters bystanders and attracts guards. Guards die for approaching.
+- DQ-2 includes a confirmed scene: Degeric's flame interception — sensory
+  experience described as feeling the ambient current flow past him and
+  redirecting it. Prose details to be decided at writing stage.
+- The parting between DQ and Degeric is mutual — both arrived at the same
+  understanding. Neither pushed the other.
+- DQ-3 nest raid is the emotional climax of that chapter. DQ hesitates due to
+  flashback to the incident. Gives in and directs the full extent of his power
+  with enough control to leave Degeric and the guards unharmed. This is the
+  catalyst for the departure conversation.
+
+KEY UNRESOLVED QUESTIONS:
+- What is Mya thinking about when her mind wanders in Chapter Mya-1?
+- Shape of the Mya-Phelloden conversation: undeveloped.
+- Does DQ notice Mya specifically in the first encounter?
+- Who are the ten Marauders? Names and backgrounds undeveloped.
+- What did DQ experience during the early Elf War years (387-391 AW)?
+- Texture of DQ-4 final visit to Degeric and how it echoes DQ-3 parting.
+- Does Mya advocate for the Marauders herself, or does Adomorn suggest it?
+- What does the omniscient narrator chapter open on?
+- How the 8 Marauders entered The Deep conventionally: undeveloped.
+- How the sleep on Adomorn's 2 Marauders was timed or lifted: undeveloped.
+- How Adomorn identified which gate led to The Deep: undeveloped.
+- TENTATIVE: Does the book end with Adomorn's death and Mya alone?
+- Kharis's appearance (beyond confirmed: 5'7", light brown hair, brown eyes)
+  and personality: undeveloped.
+
+STATUS: Outline confirmed with full chapter block structure for both arcs.
+DQ chapters 1-3 substantially developed. Working title: Unlit.
+
+--- UNTITLED — THE RELUCTANT KING ---
+ERA: 3rd Epoch, 387-413 AW.
+CONCEPT: The story of Gralvin Sutton from his earliest years to the overthrow
+of Tarik the Ravager. Beginning with the destruction of his village at age 7,
+through 14 years in the arena, to his escape alongside Balric Silverfox, his
+discovery of Valeria and her network, the years of quietly helping escaped
+slaves and gathering worse and worse reports, and finally the arrival of Mya Li
+and the coordinated overthrow that cost him the person he loved most. The story
+ends where the legend begins — Gralvin, age 26, being handed a crown he never
+wanted.
+KEY UNRESOLVED QUESTIONS: The specific circumstances that drew Gralvin and
+Balric together. The names and faces of people Gralvin fought in the arena.
+The texture of Valeria's village and the world after escape. The full shape of
+the coordinated overthrow. The final battle in which Valeria died.
+STATUS: Concept only. Broad shape confirmed. Specific scenes, supporting
+characters, and emotional detail entirely undeveloped.
+
+================================================================================
+CONFIRMED FUTURE STORY SHAPE (TENTATIVE — HIGH LEVEL ONLY)
+================================================================================
+
+- Diquyk will eventually succeed in resurrecting Greyhawk.
+- A second Great War will follow — larger in scope than the first.
+- Mya Li and Adomorn are confirmed participants alongside many others.
+- Adomorn will succeed in the ultimate conflict.
+- The Abaculus will be contained within the Heaven's Oak chamber.
+- Whether Karma survives Greyhawk's resurrection: UNDECIDED.
+- Whether any remaining Irridae return: undecided.
+- The ungoverned domains of Resurrection and Reincarnation are tentatively
+  the mechanism by which Diquyk raises Greyhawk — UNCONFIRMED.
+- Diquyk's story ends in death rather than redemption. Current lean only.
+
+================================================================================
+END OF LANAMYR STORIES & OUTLINES — v1
+================================================================================

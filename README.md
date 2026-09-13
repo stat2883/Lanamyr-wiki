@@ -15,6 +15,7 @@ The working lore repository for the Lanamyr fantasy setting.
   8. Open Questions
 - `bible/maps/` — reference map images (continents, features, islands, biomes, temperature, precipitation, race origins, and per-epoch maps)
 - `archive/` — browsable copies of each bible version, one folder per version (`v001`, `v002`, ...). Text files only; maps are not duplicated. The highest-numbered folder mirrors the current `bible/` contents.
+- `CHANGELOG.md` — lore-focused record of what changed in each version
 - `SESSION_INSTRUCTIONS.md` — authoritative workflow for working sessions on the bible
 
 Confirmed lore is locked in. Tentative lore is flagged as such within the files and remains subject to change.

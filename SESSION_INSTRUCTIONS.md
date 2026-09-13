@@ -52,8 +52,9 @@ layer. Tracked content is:
   7. `Lanamyr_07_Stories_Outlines.txt`
   8. `Lanamyr_08_Open_Questions.txt`
 - `bible/maps/` — reference map images
-- `archive/` — browsable snapshots of past bible versions (see §6)
+- `archive/` — browsable copy of each bible version (see §6)
 - `README.md` — short description of the repo
+- `CHANGELOG.md` — lore-focused record of what changed in each version (see §6)
 - `SESSION_INSTRUCTIONS.md` — this file
 
 Do **not** create Jekyll or site scaffolding — layouts, nav data, stylesheets,
@@ -159,10 +160,16 @@ Workflow at session end:
    files**, not only the ones that changed — the bible is versioned as a set,
    so `archive/v002/` means "the whole bible at v002." Do this once per
    session, on the first push that carries lore changes.
-3. After the final push of the session, copy the 8 current `bible/` text files
+3. Add an entry for the new version at the top of `CHANGELOG.md`. This is a
+   **lore-focused** record — what was decided, revised, or resolved in the
+   world, and why. Do not write it as a list of file edits; git history already
+   covers that. Note workflow or structural changes briefly at the end of the
+   entry, not at the top. Carry forward anything still unresolved.
+4. After the final push of the session, copy the 8 current `bible/` text files
    into `archive/vNNN/` matching the new version number.
-4. Commit and push. Where possible, combine the working-file update and the
-   archive copy into a single commit and a single push.
+5. Commit and push. Where possible, combine the working-file update, the
+   changelog entry, and the archive copy into a single commit and a single
+   push.
 
 **Ordering matters.** The archive copy must be the *last* thing done in a
 session. Creating it early and then pushing further changes leaves a stale

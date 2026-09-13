@@ -52,6 +52,19 @@ The open question of whether Mya advocated for the unit herself or Adomorn
 suggested it is now answered: neither. The offensive was a council decision, and
 Mya volunteered to lead it.
 
+### Corrected — three long-standing inconsistencies
+
+- **Grimmon Herringer's age at death.** His character entry said "would have
+  been 60," contradicting the timeline. Born 372 AW, died 429 AW — he was 57.
+  Corrected to match the timeline.
+- **Scavenger Kobold lifespan.** Described as "second shortest of all Kobold
+  subtypes" at 35 years, but with Mystics at 50 and both Tunnelers and
+  Hardbacks at 40, 35 is the shortest. Wording corrected.
+- **Cobalt Dragonborne origin.** `Races` placed the Desolate Tops in eastern
+  Utoa while `Geography` placed them in central Utoa. Central is correct;
+  `Races` corrected. Eastern Utoa holds the Evergreen Strand, origin of the
+  Hardback Kobolds.
+
 ### Still open
 
 - The identities of the ten. Names, backgrounds, and whether any had served
@@ -59,11 +72,10 @@ Mya volunteered to lead it.
 - How the council scene plays — whether Mya's volunteering is expected, and how
   Aer'Raenal responds to his daughter volunteering for something the room knows
   is likely fatal.
-- Three known inconsistencies remain unfixed: Grimmon Herringer's age at death
-  (57 by the timeline, "would have been 60" in his character entry); the
-  Scavenger Kobold lifespan of 35 described as "second shortest" when it is the
-  shortest; and the Cobalt Dragonborne origin placed in eastern Utoa in `Races`
-  but central Utoa in `Geography`.
+- Faelyn is described in `Kingdoms_History` as occupying the "Eastern and lower
+  western arm of Alios," which sits oddly against everything else placing the
+  Wood Elves in the western arm. Possibly a typo for "southern," possibly
+  deliberate. Unresolved.
 
 ### Workflow
 

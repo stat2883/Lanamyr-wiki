@@ -58,7 +58,7 @@ RACES — CONFIRMED ORIGIN LOCATIONS
 
 DRAAK ANCESTRY:
 - Dragons: Descended from Draak after the Sundering
-- Dragonborne — Cobalt: Desolate Tops, eastern Utoa
+- Dragonborne — Cobalt: Desolate Tops, central Utoa
 - Dragonborne — Gold: Eastern peninsula of Alios near Westwind Mountains
 - Dragonborne — Obsidian: Inland swamps of southwestern Alios
 - Dragonborne — Silver: Jokul Island (entire island and surrounding smaller
@@ -210,7 +210,7 @@ have encountered Draak remnants that the Iron Dwarves have not yet found.
 
 SCAVENGER KOBOLDS
 Origin: Southern tip of Edura. Cold, harsh tundra environment.
-Lifespan: 35 years — second shortest of all Kobold subtypes.
+Lifespan: 35 years — shortest of all Kobold subtypes.
 Appearance: Smaller than other Kobolds. Fast and agile.
 Traits: Hunt and operate in packs. Very ferocious — seldom use weapons,
 preferring claws and teeth. Opportunistic and animalistic in behavior, targeting

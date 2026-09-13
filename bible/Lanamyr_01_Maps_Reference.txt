@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — MAPS & VISUAL REFERENCES — v1 (split from v27)
+LANAMYR WORLD BIBLE — MAPS & VISUAL REFERENCES — v002
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -95,5 +95,5 @@ Lanamyr_Epoch3.jpg
   island territory.
 
 ================================================================================
-END OF LANAMYR MAPS & VISUAL REFERENCES — v1
+END OF LANAMYR MAPS & VISUAL REFERENCES — v002
 ================================================================================

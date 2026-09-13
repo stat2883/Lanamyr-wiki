@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v1 (split from v27)
+LANAMYR WORLD BIBLE — RACES — v002
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -498,5 +498,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v1
+END OF LANAMYR RACES — v002
 ================================================================================

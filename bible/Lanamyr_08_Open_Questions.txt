@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v1 (split from v27)
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v002
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -178,7 +178,13 @@ GUARDIANS OF THE TREE:
 - Current threat assessment in 432 AW: undeveloped.
 
 THE MARAUDERS:
+- Formation RESOLVED: council of war decided on the offensive; Mya volunteered
+  to lead; all ten were self-selected volunteers, not hand-picked.
 - Individual member names and backgrounds: undeveloped.
+- Whether any of the ten had served under Mya before, or knew Kharis:
+  undeveloped.
+- Names and number of the Faelyn tacticians and strategists at the council of
+  war: intentionally left undeveloped.
 - How 8 Marauders entered The Deep: undeveloped.
 - How sleep on 2 Marauders was timed or lifted: undeveloped.
 
@@ -226,5 +232,5 @@ MAP NOTES:
   Swamp Giants, Trolls (Forest, Moss, Desert).
 
 ================================================================================
-END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v1
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v002
 ================================================================================

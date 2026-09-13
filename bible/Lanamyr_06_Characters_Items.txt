@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v1 (split from v27)
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v002
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -61,6 +61,11 @@ he was.
 ELF WAR: Contacted by the Wood Elves after Mya's first crushing defeat against
 Diquyk's forces. Based on Mya's description of Diquyk's abilities, suspected
 him to be a Magni — an identification that shaped his tactical planning.
+Returned to Faelyn with Mya and sat the council of war alongside Aer'Raenal
+and Faelyn's tacticians and strategists — the council that decided to abandon
+the defensive posture and go on the offensive into Dark Elf territory. He did
+not select the unit that carried out the strike; Mya volunteered to lead it and
+called openly for volunteers.
 However, Adomorn did not anticipate how far Diquyk's powers had developed,
 nor the full consequence of Diquyk's ability to intercept and redirect magic.
 Diquyk is possibly the most powerful Magni ever born, eclipsing even Arias
@@ -244,12 +249,23 @@ helped form the Marauders, and led them into the final battle within the same
 year — losing every one of them too. All of it within 392 AW.
 KHARIS AILWIN APPEARANCE: Height 5'7" (average for Wood Elf males). Light brown
 hair. Brown eyes.
-THE MARAUDERS were formed specifically for the final incursion into Dark Elf
-territory — a purpose-built elite unit assembled after Mya had already
-experienced that loss and learned from it. They are NOT the unit present in
-the first encounter with Diquyk's forces.
+THE MARAUDERS were formed for the final incursion into Dark Elf territory,
+after Mya had already experienced that loss and learned from it. They are NOT
+the unit present in the first encounter with Diquyk's forces.
 Mya's first love interest (Kharis Ailwin) was killed in that earlier encounter,
 along with several other men under her command.
+FORMATION (confirmed): Mya returned to Faelyn accompanied by Adomorn, and a
+council of war followed — Aer'Raenal, Adomorn, Mya, and Faelyn's tacticians
+and strategists. Diquyk's campaign had kept Faelyn on the defensive to this
+point; the council decided to go on the offensive. Mya volunteered to lead the
+attack. She did not hand-pick the unit. She went to her peers and fellow
+soldiers and told them plainly that the mission would be dangerous and would
+very likely end in death, that she believed in her heart it was the best chance
+to save Faelyn, and that she was prepared to fight to the death. Anyone who
+wished to join was welcome; anyone who stayed behind would carry no blame and
+no ill will from her. Ten came forward — all volunteers who understood it was
+likely a suicide mission, and whose love of kingdom, family, and friends was
+stronger than their fear.
 TOTAL STRENGTH: 10 Marauders.
 POST-WAR IDENTITY: In the aftermath of the Elf War Mya experienced a period
 of rootlessness and doubt — questioning whether she had traded something she
@@ -744,5 +760,5 @@ Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
   poisonous gas. Prefers to avoid conflict.
 
 ================================================================================
-END OF LANAMYR CHARACTERS & ITEMS — v1
+END OF LANAMYR CHARACTERS & ITEMS — v002
 ================================================================================

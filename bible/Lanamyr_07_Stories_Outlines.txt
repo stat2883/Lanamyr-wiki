@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — STORIES & OUTLINES — v1 (split from v27)
+LANAMYR WORLD BIBLE — STORIES & OUTLINES — v002
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -327,11 +327,20 @@ Mya-7: ADOMORN (392 AW)
   immediately? What does he tell her and what does he withhold?
 
 Mya-8: THE MARAUDERS (392 AW)
-  Mya forms the Marauders — ten, purpose-built for the final incursion.
-  She has already lost Kharis. Now she is choosing people for a mission she
-  knows is extraordinarily dangerous.
-  OPEN: Who are the ten? What does she tell them? What does it feel like to
-  build a unit she may be leading to their deaths?
+  Mya returns to Faelyn with Adomorn. The council of war — Aer'Raenal, Adomorn,
+  Mya, and Faelyn's tacticians and strategists — concludes that Faelyn cannot
+  keep absorbing attacks and must go on the offensive into Dark Elf territory.
+  Mya volunteers to lead it.
+  She does not choose the unit. She stands before her peers and fellow soldiers
+  and tells them the truth: it is dangerous, it will very likely end in death,
+  and she believes in her heart it is the best chance to save Faelyn. She is
+  prepared to fight to the death. Anyone who wants to come is welcome. Anyone
+  who stays behind carries no blame and no ill will from her.
+  Ten come forward. The chapter's weight is in that moment — she asked, and ten
+  people said yes knowing exactly what they were saying yes to.
+  OPEN: Who are the ten? How does the council scene play — is Mya's volunteering
+  expected or does it land badly with her father? What is the room like after
+  she finishes speaking and before the first person steps forward?
 
 Mya-9: THE PLAN (392 AW)
   The strategy is set — 8 with Mya as decoy, 2 with Adomorn through the gate.
@@ -380,6 +389,10 @@ DIQUYK'S ROLE IN THE EARLY WAR: Directed operations via Jaunt Gates. Not on
   decisive escalation.
 RECRUITMENT: Stone Giants first — show of force, promise of plunder. Dark Elves
   second — obscurity, deniability, no alliances, equipped with enchanted weapons.
+THE TURN TO THE OFFENSIVE: Through 387-392 AW Diquyk's two-front campaign kept
+  Faelyn entirely on the defensive. The council of war held after the first
+  major encounter — Aer'Raenal, Adomorn, Mya, and Faelyn's tacticians — decided
+  to reverse that and strike into Dark Elf territory. Mya volunteered to lead.
 FINAL BATTLE STRUCTURE: 10 Marauders — 8 with Mya as decoy, 2 with Adomorn
   through the gate. Diquyk sensed the gate transit. All 10 Marauders killed.
 ADOMORN'S INTELLIGENCE GAP: Suspected Magni, did not anticipate full power.
@@ -420,6 +433,13 @@ CONFIRMED LORE FROM THIS STORY:
   survivor of the same Stone Giant attack that prompted Mya to join. His family
   was killed. He is NOT a Marauder.
 - 10 Marauders: 8 with Mya, 2 with Adomorn. All killed.
+- Mya returned to Faelyn with Adomorn. A council of war — Aer'Raenal, Adomorn,
+  Mya, and Faelyn's tacticians — decided to go on the offensive after years of
+  being held on the defensive. Mya volunteered to lead the attack.
+- Mya did NOT hand-pick the Marauders. She told her peers and fellow soldiers
+  plainly what the mission was and what it would likely cost, welcomed anyone
+  who wished to join, and promised no blame to those who stayed behind. All ten
+  were volunteers who understood it was likely a suicide mission.
 - All of 392 AW: first encounter, Kharis's death, Marauders formed, final
   battle, all 10 Marauders lost. Extraordinary compression of grief and action.
 - The story ends from Mya's POV. Diquyk's banishment is a threshold, not an
@@ -448,7 +468,6 @@ KEY UNRESOLVED QUESTIONS:
 - Who are the ten Marauders? Names and backgrounds undeveloped.
 - What did DQ experience during the early Elf War years (387-391 AW)?
 - Texture of DQ-4 final visit to Degeric and how it echoes DQ-3 parting.
-- Does Mya advocate for the Marauders herself, or does Adomorn suggest it?
 - What does the omniscient narrator chapter open on?
 - How the 8 Marauders entered The Deep conventionally: undeveloped.
 - How the sleep on Adomorn's 2 Marauders was timed or lifted: undeveloped.
@@ -493,5 +512,5 @@ CONFIRMED FUTURE STORY SHAPE (TENTATIVE — HIGH LEVEL ONLY)
 - Diquyk's story ends in death rather than redemption. Current lean only.
 
 ================================================================================
-END OF LANAMYR STORIES & OUTLINES — v1
+END OF LANAMYR STORIES & OUTLINES — v002
 ================================================================================

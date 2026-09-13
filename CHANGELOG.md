@@ -172,20 +172,44 @@ Noted as undeveloped: why a *new* Dwarven kingdom at all, given that Iron Dwarve
 already hold Fardar. Nusul was itself an Ice Dwarf expansion founded while
 Icefall still stood, so precedent exists.
 
-### Tentative — Bor's arc
+### Tentative — the two halves of Grimmon's legacy
 
-Under consideration, not locked in: Bor eventually finds the lost kingdom,
-establishes a permanent home there for the scattered Herringers, and takes on
-leadership, with their influence still felt across much of Alios.
+Under consideration, not locked in: Grimmon's life splits into two inheritances
+carried by two cousins. Bor takes the dream; Qenwick takes the cause.
 
-Logged with the tensions it raises rather than as settled lore. The Herringers
-have twice survived by dispersing and going dormant, with no territory to
-destroy — a permanent home ends that protection and turns a resistance movement
-into a people. Nusul sits directly above The Deep, so settling it means founding
-a kingdom on the Dark Elf power base, and Diquyk returned in 427 AW. Nusul was
-an Ice Dwarf kingdom, making the settlement a reclamation, a gift, or a taking
-depending on a conversation with the Ice Dwarves that may never happen. And
-nothing yet explains what turns a frontline fighter into a founder.
+**Bor** eventually finds the lost kingdom and establishes a new Dwarven kingdom
+in the Tarantar Mountains. A Dwarven undertaking rooted in heritage, not a
+Herringer project. He does not lead the Herringers. Tensions logged: Nusul sits
+directly above The Deep and Diquyk returned in 427 AW; Nusul was an Ice Dwarf
+kingdom, making any settlement a reclamation, a gift, or a taking depending on a
+conversation with the Ice Dwarves that may never happen; and nothing yet
+explains what turns a battlerager into a founder.
+
+**Qenwick** is on the path to take over the Herringers. His story would be
+altered to support this. The fit is good — the Herringers are defined by common
+cause and belief rather than blood, and a paladin is constituted by a vow, which
+suits a movement of conviction better than a battlerager does. He has already
+met the scattered membership while carrying word of Grimmon's death, and he
+returned to Fardar, where the leader of a movement protecting Iron Dwarves ought
+to sit.
+
+This supersedes the earlier direction in which Bor took Herringer leadership.
+
+The central unresolved question is now his: **what are the Herringers for?**
+Tarik has been dead since 413 AW and nobody is enslaving Iron Dwarves. A
+resistance with nothing to resist needs a reason before it needs a leader, and
+whoever supplies that reason defines what they become.
+
+One possible and undecided answer sits in his own name. Grimmon was killed by
+Orc raiders who were instruments of the Kimora framing operation — someone
+else's tool. A dwarf called Orcsbane inheriting that organization has a purpose
+ready to hand, and it would be aimed at the wrong target. A leader who mistakes
+the weapon for the hand would give the Herringers a direction that feels
+righteous and is quietly a mistake.
+
+Also newly flagged as undeveloped and now significant: Qenwick's paladin order
+and the god he serves, his birth year and appearance, whether he is currently a
+Herringer at all, and whether he and Bor end up in accord or at odds.
 
 ### Still open
 

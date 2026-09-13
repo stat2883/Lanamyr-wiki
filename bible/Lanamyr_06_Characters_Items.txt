@@ -449,13 +449,11 @@ a home. Nusul itself was an Ice Dwarf expansion founded while Icefall stood —
 precedent exists for Dwarves establishing a second kingdom in the Tarantar
 Mountains. Bor's specific reasoning is undeveloped.
 TENTATIVE — BOR'S ARC: Under consideration that Bor eventually finds the lost
-kingdom, establishes a permanent home there for the scattered Herringers, and
-takes on leadership of the organization, whose influence would still be felt
-across much of Alios. NOT LOCKED IN.
+kingdom and establishes a new Dwarven kingdom in the Tarantar Mountains,
+fulfilling the dream Grimmon passed to him. This is a Dwarven undertaking, not
+a Herringer one. Bor does NOT take leadership of the Herringers — see Qenwick
+Orcsbane. NOT LOCKED IN.
   Tensions to resolve if pursued:
-  - The Herringers have survived twice by dispersing and going dormant, with no
-    territory to destroy. A permanent home ends that protection. It would be a
-    transformation from resistance movement into a people, not a continuation.
   - Nusul sits in the Tarantar Mountains, directly above The Deep. Settling it
     means founding a kingdom on top of the Dark Elf power base, and Diquyk
     returned in 427 AW.
@@ -464,6 +462,8 @@ across much of Alios. NOT LOCKED IN.
     and Maeglin ever speak with them is undecided.
   - Bor is a battlerager with a deep distrust of humans, not a statesman.
     What turns a frontline fighter into a founder is undeveloped.
+  - Whether Bor and Qenwick — carrying the two halves of Grimmon's legacy —
+    end up in accord or at odds is undecided.
 
 QENWICK ORCSBANE
 Iron Dwarf paladin from Fardar. Cousin of Bor Glitterbeard — their fathers are
@@ -474,6 +474,36 @@ Maeglin, Bor, and Skitter to inform Herringer members across Kimora of Grimmon's
 death. After the news was delivered, returned to Fardar.
 Currently alive in Fardar as of 432 AW. Prior connections through the Adenburry
 event and subsequent travels: Bor, Maeglin, Skitter, Wilward, and Alexa.
+TENTATIVE — QENWICK'S ARC: Under consideration that Qenwick is on the path to
+take over leadership of the Herringers after Grimmon's death. NOT LOCKED IN.
+His story would be altered to support this.
+  Why it fits:
+  - The Herringers are defined by common cause and belief, not blood. A paladin
+    is constituted by a vow. That is a better fit for leading a movement of
+    conviction than a battlerager is.
+  - He traveled the circuit informing Herringer members across Kimora of
+    Grimmon's death — he has already met the scattered membership.
+  - He returned to Fardar, the Iron Dwarf homeland. If the Herringers exist to
+    protect Iron Dwarves, that is where their leader should sit.
+  - It cleanly separates the two halves of Grimmon's legacy. Grimmon passed the
+    kingdom dream to Bor and never designated anyone for the organization.
+    Two cousins, two inheritances.
+  To resolve:
+  - WHAT ARE THE HERRINGERS FOR NOW? Tarik has been dead since 413 AW and no one
+    is enslaving Iron Dwarves. A resistance movement with nothing to resist does
+    not need a leader so much as a reason. Whoever supplies that reason defines
+    what the Herringers become. This is the central question of his arc.
+  - Whether Qenwick is currently a Herringer at all, or simply Bor's cousin who
+    helped, is unstated in existing lore and needs deciding.
+  - His paladin order and the god he serves: undeveloped, and now significant.
+  - Birth year, age, and appearance: undeveloped.
+  - POSSIBLE DIRECTION, NOT DECIDED: Grimmon was killed by Orc raiders who were
+    instruments of the Kimora framing operation — someone else's tool. A dwarf
+    named Orcsbane inheriting that organization has an obvious purpose ready to
+    hand, and it would be aimed at the wrong target. A leader who mistakes the
+    weapon for the hand would give the Herringers a direction that feels
+    righteous and is quietly a mistake.
+  - Whether he and Bor end up in accord or at odds is undecided.
 
 GRIMMON HERRINGER
 Born 372 AW. Died 429 AW (killed by Orc raiders — instruments of the

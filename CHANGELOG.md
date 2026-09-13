@@ -154,6 +154,39 @@ did not know the *extent* of the power Diquyk wielded. That specific gap — not
 ignorance of the category, but of the degree — is what led him to underestimate
 Diquyk in the final battle.
 
+### Clarified — the kingdom dream is heritage, not organization
+
+The bible had filed the new Dwarven kingdom in the Tarantar Mountains as an
+ambition of the Herringers, listed alongside their resistance history. It isn't.
+The dream belongs to Grimmon and Bor personally and comes from their Dwarven
+heritage — a desire for something for their people that cannot be taken from
+them, shaped by two enslavements within Iron Dwarf memory. The Herringers are a
+resistance movement defined by common cause; the kingdom is a separate thread
+that happened to live in the same man.
+
+This explains why Grimmon showed the map to a battlerager with a deep distrust
+of humans rather than to a Herringer lieutenant. Bor would want the kingdom
+regardless of what becomes of the organization.
+
+Noted as undeveloped: why a *new* Dwarven kingdom at all, given that Iron Dwarves
+already hold Fardar. Nusul was itself an Ice Dwarf expansion founded while
+Icefall still stood, so precedent exists.
+
+### Tentative — Bor's arc
+
+Under consideration, not locked in: Bor eventually finds the lost kingdom,
+establishes a permanent home there for the scattered Herringers, and takes on
+leadership, with their influence still felt across much of Alios.
+
+Logged with the tensions it raises rather than as settled lore. The Herringers
+have twice survived by dispersing and going dormant, with no territory to
+destroy — a permanent home ends that protection and turns a resistance movement
+into a people. Nusul sits directly above The Deep, so settling it means founding
+a kingdom on the Dark Elf power base, and Diquyk returned in 427 AW. Nusul was
+an Ice Dwarf kingdom, making the settlement a reclamation, a gift, or a taking
+depending on a conversation with the Ice Dwarves that may never happen. And
+nothing yet explains what turns a frontline fighter into a founder.
+
 ### Still open
 
 - The identities of the ten. Names, backgrounds, and whether any had served

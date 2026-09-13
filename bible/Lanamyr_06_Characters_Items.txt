@@ -477,6 +477,11 @@ event and subsequent travels: Bor, Maeglin, Skitter, Wilward, and Alexa.
 TENTATIVE — QENWICK'S ARC: Under consideration that Qenwick is on the path to
 take over leadership of the Herringers after Grimmon's death. NOT LOCKED IN.
 His story would be altered to support this.
+SUCCESSION MECHANISM (also tentative): Grimmon did not officially name a
+successor. Leadership would likely pass by a vote or some form of group decision
+among the higher-ranking Herringers, who would elect Qenwick. He would be chosen
+rather than inherit — which suits an organization defined by common cause and
+belief rather than blood.
   Why it fits:
   - The Herringers are defined by common cause and belief, not blood. A paladin
     is constituted by a vow. That is a better fit for leading a movement of

@@ -88,6 +88,13 @@ THE HERRINGERS:
 - TENTATIVE — Qenwick Orcsbane on the path to take over leadership after
   Grimmon's death. His story would be altered to support this. NOT LOCKED IN.
   Replaces the earlier tentative direction in which Bor took leadership.
+- TENTATIVE — Grimmon did not officially name a successor. Leadership would
+  likely pass by a vote or group decision among higher-ranking Herringers, who
+  would elect Qenwick. He is chosen, not an heir.
+- Internal structure beyond a need-to-know hierarchy: UNDEVELOPED, and now more
+  load-bearing. A voting body implies defined ranks, a way of identifying who is
+  entitled to vote, and some means of convening a membership scattered across
+  Kimora and beyond.
 - CENTRAL QUESTION: What are the Herringers FOR now? Tarik dead since 413 AW,
   no one enslaving Iron Dwarves. A resistance movement with nothing to resist
   needs a reason before it needs a leader.

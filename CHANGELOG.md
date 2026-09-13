@@ -186,12 +186,15 @@ conversation with the Ice Dwarves that may never happen; and nothing yet
 explains what turns a battlerager into a founder.
 
 **Qenwick** is on the path to take over the Herringers. His story would be
-altered to support this. The fit is good — the Herringers are defined by common
-cause and belief rather than blood, and a paladin is constituted by a vow, which
-suits a movement of conviction better than a battlerager does. He has already
-met the scattered membership while carrying word of Grimmon's death, and he
-returned to Fardar, where the leader of a movement protecting Iron Dwarves ought
-to sit.
+altered to support this. Grimmon did not officially name a successor; leadership
+would likely pass by a vote or group decision among the higher-ranking
+Herringers, who would elect Qenwick. He is chosen rather than an heir, which
+suits an organization defined by common cause and belief rather than blood.
+
+The fit is good — a paladin is constituted by a vow, which suits a movement of
+conviction better than a battlerager does. He has already met the scattered
+membership while carrying word of Grimmon's death, and he returned to Fardar,
+where the leader of a movement protecting Iron Dwarves ought to sit.
 
 This supersedes the earlier direction in which Bor took Herringer leadership.
 

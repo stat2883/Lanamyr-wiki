@@ -154,7 +154,11 @@ entirely. The table below does not include a Magni entry for this reason.
 The nature of the fluke: descendant races inherited their progenitors' magical
 capacity in muted form at the Sundering. A Magni receives it undiminished —
 full Drasu capacity for the Drasu-descended races, full Draak capacity for the
-Draak-descended races. See Overview & Cosmology, Magic System.
+Draak-descended races. The Draak held a lesser mastery of magic than the Drasu,
+so a Draak-descended Magni has a lower ceiling than a Drasu-descended one —
+still powerful, but with less potential. A Magni inherits magical capacity only,
+not the mind or mental resilience of their progenitors.
+See Overview & Cosmology, Magic System.
 
 RACE APPEARANCE TABLE:
 Race                   | M Height | F Height | Build              | Skin Tone                  | Typical Hair           | Typical Eyes               | Native Language

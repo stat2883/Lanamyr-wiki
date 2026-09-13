@@ -45,6 +45,14 @@ muted version everyone else carries — Drasu capacity for the Drasu-descended
 races, Draak capacity for the Draak-descended races (dragons, dragonborne,
 kobolds, wyrms, and others). This is why Magni draw on ambient energy directly,
 without spells or rituals: they are working as their progenitors worked.
+DRASU AND DRAAK DISPARITY: The Draak held a lesser mastery of magic than the
+Drasu. A Draak-descended Magni therefore does not reach the same ceiling as a
+Drasu-descended Magni — still formidable, but with less potential.
+WHAT IS NOT INHERITED: A Magni inherits magical capacity, not the mind behind
+it. The mental fortitude and resilience of the Drasu — in particular their
+ability to resist the pull of the Abaculus while in close proximity to it — does
+not carry over. A Magni may wield a Drasu's power without a Drasu's ability to
+withstand what that power brings them near. See the Abaculus entry.
 IN-WORLD UNDERSTANDING: This mechanism is not generally known. Magni are widely
 understood as a rare and unexplained fluke of birth. How widely the Draak and
 Drasu are remembered among the present-day races is undecided.
@@ -294,6 +302,16 @@ CAPABILITIES:
 - Irridae magic and Drasu magic are the only known types capable of forcibly
   moving the Abaculus without physical contact, bypassing corruption entirely.
   Adomorn is the only living being with this capability.
+  WHY ADOMORN ALONE: The requirement is twofold — the magic to move it without
+  contact, AND the mental fortitude to resist its influence while remaining in
+  close proximity throughout. A Magni inherits the first from their progenitor
+  line but not the second; magical capacity transferred through the Sundering,
+  mental resilience did not. Even Drasu resistance is temporary rather than
+  absolute — enough to act, not enough to linger. This is the distinction that
+  keeps Adomorn singular despite Diquyk possessing full Drasu-level power.
+  A Magni attempting it would be exposed to the Abaculus's influence for the
+  duration — nudged, guided, and likely unaware of it, which is precisely the
+  outcome the Abaculus wants.
 
 BEHAVIOR AND GOALS:
 Wants to be found. Craves the destruction of all existence — including

@@ -118,19 +118,41 @@ knows before she speaks that he will not stop her.
 TENTATIVE: Aer'Raenal does not know Adomorn's true nature, knowing him only as a
 legendary wizard. How many people know what Adomorn truly is remains undecided.
 
-### Flagged — Magni and the Abaculus
+### Resolved — Magni and the Abaculus
 
-Established lore holds that Irridae and Drasu magic alone can move the Abaculus
-remotely without corruption, and that Adomorn is the only living being who can.
-If a Magni's capacity is genuinely full Drasu capacity, Diquyk may share that
-property.
+The apparent collision is settled, and the answer reframes what makes Adomorn
+unique. A Magni inherits the full magical capacity of their progenitor line but
+not the mind behind it. Drasu mental fortitude — specifically the resilience to
+resist the Abaculus's pull while staying in close proximity long enough to move
+it — did not transfer through the Sundering.
 
-Probably not a true contradiction. Anyone can move the Abaculus by physical
-contact at the cost of corruption — Greyhawk did — and the Abaculus's standing
-pattern is to corrupt a powerful being and use them as a weapon. It could simply
-allow itself to be moved by controlling the mover. The narrow question is
-whether a Magni shares the *safe* handling that makes Adomorn singular. Logged
-rather than resolved.
+Moving the Abaculus safely requires both the magic and the resilience. Diquyk
+has the power of a Drasu without the mind of one. Adomorn remains the only
+living being who can do it.
+
+What makes him singular is therefore not what he can do but what he can
+withstand. And even Drasu resistance is temporary rather than absolute — enough
+to act, not enough to linger.
+
+Anyone can still move the Abaculus by physical contact at the cost of
+corruption, as Greyhawk did. Given that the Abaculus wants to be found and its
+standing pattern is to corrupt a powerful being and use them as a weapon, a
+Magni attempting to move it is close to exactly what it wants.
+
+### Added — the Drasu / Draak magical disparity
+
+The Draak held a lesser mastery of magic than the Drasu. A Draak-descended Magni
+therefore has a lower ceiling than a Drasu-descended one — formidable, but with
+less potential. Diquyk is Hillfolk, and so Drasu-descended, which is consistent
+with him being possibly the most powerful Magni ever born.
+
+### Clarified — what Adomorn knew
+
+He knew from Mya's account that Diquyk was a Magni, and said so at the council,
+likely comparing him to a Magni of recent memory the room would recognize. He
+did not know the *extent* of the power Diquyk wielded. That specific gap — not
+ignorance of the category, but of the degree — is what led him to underestimate
+Diquyk in the final battle.
 
 ### Still open
 

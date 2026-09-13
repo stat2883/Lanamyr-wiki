@@ -151,6 +151,10 @@ race. Common is widely spoken as a second language across most of Lanamyr.
 MAGNI FOOTNOTE: Magni are not a separate race. They are born into any race as
 an exceedingly rare fluke. Their physical appearance follows their base race
 entirely. The table below does not include a Magni entry for this reason.
+The nature of the fluke: descendant races inherited their progenitors' magical
+capacity in muted form at the Sundering. A Magni receives it undiminished —
+full Drasu capacity for the Drasu-descended races, full Draak capacity for the
+Draak-descended races. See Overview & Cosmology, Magic System.
 
 RACE APPEARANCE TABLE:
 Race                   | M Height | F Height | Build              | Skin Tone                  | Typical Hair           | Typical Eyes               | Native Language

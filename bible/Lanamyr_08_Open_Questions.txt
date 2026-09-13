@@ -38,6 +38,32 @@ ADOMORN:
 - Whether he knew about the temporal difference of Diquyk's banishment: undecided.
 - TENTATIVE: Whether Adomorn dies immediately after banishing Diquyk in 392 AW
   is undecided. If confirmed, Mya would not have known he would return.
+- How many people know Adomorn's true nature: undecided. Currently TENTATIVE
+  that Aer'Raenal does not, and knows him only as a legendary wizard. Mya was
+  likewise unaware. Galstaff Quint is one of the rare few who has seen his true
+  Drasu form.
+
+MAGNI:
+- POTENTIAL INCONSISTENCY — Magni and moving the Abaculus. Established lore:
+  Irridae magic and Drasu magic are the only known types capable of forcibly
+  moving the Abaculus without physical contact, bypassing corruption, and
+  Adomorn is the only living being with that capability. Newly established:
+  a Magni possesses the full undiminished magical capacity of their progenitor
+  line. If Diquyk's capacity is genuinely full Drasu capacity, he may share that
+  property, which would undercut Adomorn's singularity.
+  NOTE: This is likely not a true contradiction. Anyone can move the Abaculus by
+  physical contact at the cost of corruption — Greyhawk did exactly that in 2136
+  of the 2nd Epoch. The Abaculus wants to be found, and its standing pattern is
+  to identify an exceptionally powerful being, corrupt them, and use them as a
+  weapon. It could simply allow itself to be moved by controlling the one moving
+  it. The narrow open question is only whether a Magni shares the SAFE, remote,
+  corruption-free handling that currently makes Adomorn unique.
+- A more recent Magni existing within Aer'Raenal's lifetime (born 244 AW) is to
+  be created later — less powerful than Diquyk, giving the council of war a
+  shared reference point and sparing Adomorn from having to explain how he knows
+  Arias Graymist, who died in 2140 of the 2nd Epoch.
+- How widely the Draak and Drasu are remembered among present-day races, and
+  therefore how much of the true Magni origin is knowable in-world: undecided.
 
 ROHL:
 - Are there still Creatures of Olum in the ruins of Rohl in 432 AW?

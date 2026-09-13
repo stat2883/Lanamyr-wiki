@@ -65,13 +65,81 @@ Mya volunteered to lead it.
   `Races` corrected. Eastern Utoa holds the Evergreen Strand, origin of the
   Hardback Kobolds.
 
+### Added — the origin of Magni
+
+The "fluke of birth" now has a mechanism. At the Sundering, descendant races
+inherited their progenitors' attributes in diminished form, magical capacity
+included. A Magni is the exception: born with the full, undiminished capacity of
+their progenitor line — Drasu capacity for the Drasu-descended races, Draak
+capacity for the Draak-descended. This is why Magni draw on ambient energy
+directly without spells or rituals. They are working the way their progenitors
+worked.
+
+The in-world understanding remains "a rare and unexplained fluke." The mechanism
+is not general knowledge.
+
+This makes a Magni the closest thing the modern world can produce to Adomorn
+himself, which is a large part of why he pays attention to one.
+
+### Added — Adomorn's disposition
+
+He deliberately avoids entanglement in the day-to-day affairs of Lanamyr,
+preferring subtle guidance or consultation offered when asked. His attention is
+on the overarching threats most of the world knows nothing about, the Abaculus
+chief among them. He becomes actively involved only in dire circumstances and
+specifically when he senses something *unusual* — an anomaly rather than merely
+a catastrophe.
+
+In the Elf War the anomaly was Diquyk, and it was Mya's firsthand account of the
+battlefield that identified him as a Magni and converted Adomorn from consultant
+to participant.
+
+This retroactively explains several existing details: that he was contacted
+rather than arriving on his own, that he withholds knowledge of the Relics
+unless absolutely necessary, and that he passed through the Monowi Inn without
+Elsie Varis ever knowing who he was.
+
+### Added — the council of war dynamic
+
+The three principals are in the room for three different reasons at three
+different scales. Aer'Raenal is there for Faelyn and his daughter. Mya is there
+for the war in front of her and is the only one present who has faced Diquyk.
+Adomorn is there for the Magni — Faelyn's war is, to him, primarily evidence.
+
+Adomorn offers a partial truth: he names Diquyk as a Magni without explaining
+what that means, how he knows, or that his assessment may be incomplete. Neither
+Mya nor her father knows what he is.
+
+Aer'Raenal holds the hardest position. He sent Mya to find Adomorn, built the
+chain that produced the offensive, and gave her Crimson and Sear himself. He has
+also played this scene before — in Mya-2 she came to him already decided — so he
+knows before she speaks that he will not stop her.
+
+TENTATIVE: Aer'Raenal does not know Adomorn's true nature, knowing him only as a
+legendary wizard. How many people know what Adomorn truly is remains undecided.
+
+### Flagged — Magni and the Abaculus
+
+Established lore holds that Irridae and Drasu magic alone can move the Abaculus
+remotely without corruption, and that Adomorn is the only living being who can.
+If a Magni's capacity is genuinely full Drasu capacity, Diquyk may share that
+property.
+
+Probably not a true contradiction. Anyone can move the Abaculus by physical
+contact at the cost of corruption — Greyhawk did — and the Abaculus's standing
+pattern is to corrupt a powerful being and use them as a weapon. It could simply
+allow itself to be moved by controlling the mover. The narrow question is
+whether a Magni shares the *safe* handling that makes Adomorn singular. Logged
+rather than resolved.
+
 ### Still open
 
 - The identities of the ten. Names, backgrounds, and whether any had served
   under Mya before or knew Kharis.
-- How the council scene plays — whether Mya's volunteering is expected, and how
-  Aer'Raenal responds to his daughter volunteering for something the room knows
-  is likely fatal.
+- Whether Aer'Raenal objects, stays silent, or backs Mya at the council.
+- A more recent Magni within Aer'Raenal's lifetime, less powerful than Diquyk,
+  to be created later as a reference point for the council.
+- How widely the Draak and Drasu are remembered among present-day races.
 - Faelyn is described in `Kingdoms_History` as occupying the "Eastern and lower
   western arm of Alios," which sits oddly against everything else placing the
   Wood Elves in the western arm. Possibly a typo for "southern," possibly

@@ -338,9 +338,26 @@ Mya-8: THE MARAUDERS (392 AW)
   who stays behind carries no blame and no ill will from her.
   Ten come forward. The chapter's weight is in that moment — she asked, and ten
   people said yes knowing exactly what they were saying yes to.
-  OPEN: Who are the ten? How does the council scene play — is Mya's volunteering
-  expected or does it land badly with her father? What is the room like after
-  she finishes speaking and before the first person steps forward?
+  THE COUNCIL DYNAMIC (Mya / Aer'Raenal / Adomorn): The three are in the room
+  for three different reasons at three different scales. Aer'Raenal is there for
+  Faelyn and for his daughter — smallest scale, highest personal stakes. Mya is
+  there for the war in front of her, and is the only person present who has
+  actually faced Diquyk. Adomorn is there for the Magni; Faelyn's war is, to
+  him, primarily evidence. Two people are fighting for a kingdom's survival. The
+  third is interested in what that near-destruction reveals.
+  Adomorn gives a partial truth — names Diquyk as a Magni, withholds what that
+  means and how he knows — and does not tell them his assessment may be
+  incomplete. Neither Mya nor Aer'Raenal knows what he is.
+  Aer'Raenal has the worst seat at the table. He is the one who sent Mya to find
+  Adomorn; he built the chain that produces the offensive and puts his daughter
+  at the head of it. He also gave her Crimson and Sear — he armed her himself.
+  And this is a beat he has played before: in Mya-2 she came to him decided, not
+  asking permission, and convinced him to be all right with it. He has lost this
+  argument once already, over something far smaller. He knows going in.
+  The additional tacticians and strategists are not a focus.
+  OPEN: Who are the ten? Does Aer'Raenal object, stay silent, or back her? What
+  is the room like after she finishes speaking and before the first person steps
+  forward?
 
 Mya-9: THE PLAN (392 AW)
   The strategy is set — 8 with Mya as decoy, 2 with Adomorn through the gate.

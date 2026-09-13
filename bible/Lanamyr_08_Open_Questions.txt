@@ -91,8 +91,22 @@ THE HERRINGERS:
 - TENTATIVE — Grimmon did not officially name a successor. Leadership would
   likely pass by a vote or group decision among higher-ranking Herringers, who
   would elect Qenwick. He is chosen, not an heir.
-- Internal structure: UNDEVELOPED, but TENTATIVELY envisioned as cells with
-  local leaders. Suits an organization that has twice survived by dispersing.
+- Internal structure: TENTATIVELY a loose, informal alliance — no membership
+  rolls, no initiation, nothing to join. A person is a Herringer because they
+  did the work. Trust by personal vouching; most know only their own link.
+  Organized in cells with local leaders.
+- Function: TENTATIVELY funders, organizers, and providers of safe passage
+  rather than fighters. Arrama funded and organized under Yllyndel's protection;
+  the Herringers funded Evander's assassination rather than carrying it out;
+  Grimmon planned Tarik's overthrow while Mya and the militias fought it.
+- This largely answers who counts as a Herringer: there was never a roll to
+  keep. But it sharpens the voting problem — if membership is defined by deed
+  rather than enrollment, who is entitled to attend the convocation and cast a
+  vote, and how is that judged? UNDEVELOPED.
+- Note: Maeglin is Var Harma and Skitter is a Kobold, neither obviously a
+  Herringer. Whether Bor is a member or simply Grimmon's chosen confidant is
+  also unstated — though under a deed-based definition the distinction may not
+  be meaningful.
 - TENTATIVE — THE CONVOCATION: While spreading word of Grimmon's death, Qenwick
   also told cell leaders to gather at an appointed place and time to decide the
   organization's fate. The circuit and the summons are the same journey.
@@ -105,10 +119,6 @@ THE HERRINGERS:
   of the Kimora framing operation.
 - RESOLVED: Bor, Maeglin, and Skitter knew Qenwick was calling the convocation.
   The four were close and he acted openly, not in rooms they weren't in.
-- Note: Maeglin is Var Harma and Skitter is a Kobold, neither obviously a
-  Herringer. Whether Bor is a member or simply Grimmon's chosen confidant is
-  also unstated. Who counts as a Herringer, and who is merely trusted by one,
-  is undeveloped.
 - Where and when the convocation is held, who is entitled to attend, and how a
   cell-based membership verifies one another: undeveloped.
 - CENTRAL QUESTION: What are the Herringers FOR now? Tarik dead since 413 AW,

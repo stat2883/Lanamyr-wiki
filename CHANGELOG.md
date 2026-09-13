@@ -237,6 +237,29 @@ called the convocation openly rather than in rooms they weren't in. That removes
 any suggestion of maneuvering while leaving the structural fact intact: he still
 called the meeting, and he is still the one elected at it.
 
+### Tentative — what the Herringers actually are
+
+Characterized as a loose, informal alliance rather than a formal society. There
+are no membership rolls, no initiation, nothing to join. A person is a Herringer
+because they did the work — gave money, hid someone, carried a message. Trust
+moves by personal vouching, and most members know only their own link in the
+chain rather than the shape of the whole. Organized in cells with local leaders,
+which is why a movement that has twice gone dormant has twice come back: there
+is no center to destroy.
+
+Their function follows from their own recorded history: money, coordination, and
+safe passage rather than direct force. Arrama used family resources and worked
+under Lord Yllyndel's political protection. The Herringers are believed to have
+*funded* Evander's assassination of Bourbac rather than carrying it out. Grimmon
+*organized* Tarik's overthrow and drew up the plans with the Plains Elves, while
+Mya and the militias did the fighting. Twice now they have been the hand behind
+the work rather than the hand doing it.
+
+This largely explains why nobody ever wrote down who counts as a member. There
+was never a roll to keep. It also sharpens the succession problem: if membership
+is defined by deed rather than enrollment, who is entitled to attend the
+convocation and cast a vote, and who decides?
+
 ### Still open
 
 - The identities of the ten. Names, backgrounds, and whether any had served

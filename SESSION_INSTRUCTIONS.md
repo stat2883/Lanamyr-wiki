@@ -109,6 +109,10 @@ automatically.
   proactively flag any confirmed-but-unpushed changes and ask whether to push
   before ending. Unpushed changes exist only in the conversation and will
   otherwise be lost.
+- **After every push, ask whether the session is ending or continuing.** This is
+  a redundancy so the end-of-session archive step is never missed because the
+  user forgot to mention they were finished. Keep it to a single short question,
+  not a ritual. If the session is continuing, carry on normally.
 
 **Token:** pushing requires a valid GitHub personal access token scoped to this
 repo. If none has been provided in the session, ask for one before attempting to
@@ -123,35 +127,54 @@ than guessing at an email address.
 
 ## 6. Archive / Version Snapshots
 
-`archive/` holds browsable snapshots of past bible versions. Its purpose is
+`archive/` holds browsable copies of each bible version. Its purpose is
 convenient browsing on GitHub — git history already preserves everything, but
 clicking into a folder is far friendlier than navigating commits.
+
+The archive mirrors the **current** version, written at the end of the session.
+At the start of every session, `bible/` and the highest-numbered `archive/vNNN/`
+should be identical, so a browsable backup already exists before any work
+begins. This duplication is intentional: it guarantees no window exists where
+the live state is unarchived.
 
 Conventions:
 
 - Subfolders are named `v001`, `v002`, `v003` — three digits, zero-padded.
-- **Text files only.** Do not copy `bible/maps/` into snapshots; the images are
-  large and rarely change.
-- Snapshots capture the state of the bible **as it was before** the session's
-  changes. Pull the files from the last commit (`git show HEAD:path`) rather
-  than from the working copy, so in-progress edits don't leak into the archive.
-- This file is workflow, not lore, and is **not** included in snapshots.
+  Version markers inside the files use the same form.
+- **Text files only.** Do not copy `bible/maps/` into the archive; the images
+  are large and rarely change.
+- This file is workflow, not lore, and is **not** archived.
+- Copy from the working files, which at that point are identical to what was
+  just pushed. No need to re-clone.
 
-Workflow at session end, when there are changes to push:
+**One version bump per session**, not per push. A session may push many times;
+all of those pushes belong to the same version. Versions map to work sessions,
+which keeps the archive readable and meaningful. Git history already covers
+finer-grained recovery.
 
-1. Copy the 8 current (pre-change) bible text files into the next `archive/vNNN/`.
-2. Apply the session's changes to the working files in `bible/`.
-3. Bump the version number in both the title line and the end marker of **all
-   8 files**, not only the ones that changed. The bible is versioned as a set,
-   so `archive/v002/` means "the whole bible at v002." Letting files drift to
-   different numbers breaks that.
-4. Commit and push the archive folder and the updated working files.
+Workflow at session end:
 
-Version markers use the same three-digit form as the folders: `v002`.
+1. Apply and push all of the session's confirmed changes to `bible/`.
+2. Bump the version in both the title line and the end marker of **all 8
+   files**, not only the ones that changed — the bible is versioned as a set,
+   so `archive/v002/` means "the whole bible at v002." Do this once per
+   session, on the first push that carries lore changes.
+3. After the final push of the session, copy the 8 current `bible/` text files
+   into `archive/vNNN/` matching the new version number.
+4. Commit and push. Where possible, combine the working-file update and the
+   archive copy into a single commit and a single push.
+
+**Ordering matters.** The archive copy must be the *last* thing done in a
+session. Creating it early and then pushing further changes leaves a stale
+archive that no longer matches `bible/`. Because the user may not always
+announce that they're finishing, ask after every push whether the session is
+ending (see §5).
 
 **Version history note:** the original single-document bible reached v27 before
 being split into the 8 topic files, which restarted numbering at v1.
-`archive/v001/` is the snapshot of that v1 state.
+`archive/v001/` holds that v1 state. It was created under an earlier convention
+that archived the superseded version rather than the current one, but it is a
+faithful copy of the v1 bible either way and needs no correction.
 
 ---
 

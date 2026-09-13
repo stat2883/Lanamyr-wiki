@@ -91,10 +91,22 @@ THE HERRINGERS:
 - TENTATIVE — Grimmon did not officially name a successor. Leadership would
   likely pass by a vote or group decision among higher-ranking Herringers, who
   would elect Qenwick. He is chosen, not an heir.
-- Internal structure beyond a need-to-know hierarchy: UNDEVELOPED, and now more
-  load-bearing. A voting body implies defined ranks, a way of identifying who is
-  entitled to vote, and some means of convening a membership scattered across
-  Kimora and beyond.
+- Internal structure: UNDEVELOPED, but TENTATIVELY envisioned as cells with
+  local leaders. Suits an organization that has twice survived by dispersing.
+- TENTATIVE — THE CONVOCATION: While spreading word of Grimmon's death, Qenwick
+  also told cell leaders to gather at an appointed place and time to decide the
+  organization's fate. The circuit and the summons are the same journey.
+- Consequence to reckon with: the man who called the gathering is the man
+  elected at it. He set the time, place, and terms. Not dishonest, but visible,
+  and it gives a skeptic something real to say.
+- Consequence to reckon with: convening every cell leader in one room is the
+  most exposed act a resistance can commit, and someone was demonstrably hunting
+  Herringers — Grimmon had just been killed by Orc raiders acting as instruments
+  of the Kimora framing operation.
+- Whether Bor, Maeglin, and Skitter knew Qenwick was calling a convocation while
+  they made that circuit with him: undecided.
+- Where and when the convocation is held, who is entitled to attend, and how a
+  cell-based membership verifies one another: undeveloped.
 - CENTRAL QUESTION: What are the Herringers FOR now? Tarik dead since 413 AW,
   no one enslaving Iron Dwarves. A resistance movement with nothing to resist
   needs a reason before it needs a leader.

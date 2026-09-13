@@ -478,10 +478,19 @@ TENTATIVE — QENWICK'S ARC: Under consideration that Qenwick is on the path to
 take over leadership of the Herringers after Grimmon's death. NOT LOCKED IN.
 His story would be altered to support this.
 SUCCESSION MECHANISM (also tentative): Grimmon did not officially name a
-successor. Leadership would likely pass by a vote or some form of group decision
-among the higher-ranking Herringers, who would elect Qenwick. He would be chosen
-rather than inherit — which suits an organization defined by common cause and
-belief rather than blood.
+successor. Leadership would likely pass by a vote or group decision among the
+higher-ranking Herringers, who would elect Qenwick. He would be chosen rather
+than inherit — which suits an organization defined by common cause and belief
+rather than blood.
+THE CONVOCATION (tentative): The Herringers are envisioned as cells, each with a
+local leader. While traveling to spread word of Grimmon's death, Qenwick met
+many of those leaders, and alongside the news would have told them to gather at
+an appointed place and time to decide the organization's fate. The circuit and
+the summons are the same journey. Note that this means the man who called the
+gathering is the man elected at it — he set the time, place, and terms, and
+everyone present came because he asked. Also note that convening every cell
+leader in one room is the most exposed act available to a resistance, at a
+moment when someone was demonstrably hunting Herringers.
   Why it fits:
   - The Herringers are defined by common cause and belief, not blood. A paladin
     is constituted by a vow. That is a better fit for leading a movement of

@@ -222,7 +222,24 @@ the dangerous knowledge within. NOT YET CONFIRMED.
 ADOMORN CONNECTION: Has contact only at the highest ranks. Lower members
 including Maeglin likely unaware. The relationship may have begun when Adomorn
 rematerialized at Atral during High Elf excavations — undecided.
-Internal structure beyond need-to-know hierarchy: UNDEVELOPED.
+Internal structure: UNDEVELOPED beyond a need-to-know hierarchy.
+TENTATIVE STRUCTURE: Envisioned as cells, each with a local leader. This suits
+an organization that has twice survived by dispersing and going dormant.
+TENTATIVE — THE CONVOCATION: While traveling to spread word of Grimmon's death,
+Qenwick met with many of these local cell leaders. Alongside the news, he would
+have told them to gather at an appointed place and time to decide the fate of
+the organization. The circuit and the summons are the same journey.
+  Two problems this creates, both deliberate:
+  - The man who calls the gathering and is then elected at it has arranged his
+    own election, whether or not he intended to. He set the time, the place, and
+    the terms, and everyone present came because he asked. This is visible to
+    anyone who wants to see it.
+  - A cell structure exists to prevent every leader being in one room.
+    Convening them is the most exposed thing a resistance can do, and Grimmon
+    was just killed by Orc raiders acting as instruments of the Kimora framing
+    operation. Someone was already hunting Herringers.
+  UNDECIDED: Whether Bor, Maeglin, and Skitter — who made that circuit with
+  Qenwick — knew he was calling a convocation.
 
 THE HERRINGERS
 Defined not by blood but by common cause and belief. Originally an Iron Dwarf

@@ -214,6 +214,27 @@ Also newly flagged as undeveloped and now significant: Qenwick's paladin order
 and the god he serves, his birth year and appearance, whether he is currently a
 Herringer at all, and whether he and Bor end up in accord or at odds.
 
+### Tentative — Herringer structure and the convocation
+
+The organization is envisioned as cells, each with a local leader — which suits
+a movement that has twice survived by dispersing and going dormant.
+
+This solves how a scattered membership could ever hold a vote. While traveling
+to spread word of Grimmon's death, Qenwick met many of those local leaders, and
+alongside the news told them to gather at an appointed place and time to decide
+the organization's fate. The circuit and the summons are the same journey.
+
+Two consequences are worth keeping rather than smoothing away. The man who
+called the gathering is the man elected at it — he set the time, the place, and
+the terms, and everyone present came because he asked. Nothing dishonest in it,
+and a paladin would likely be appalled at the implication, but it is true and
+visible, and it gives a skeptic something real to say. And convening every cell
+leader in one room is the most exposed act a resistance can commit, at the exact
+moment someone was demonstrably hunting Herringers.
+
+Undecided: whether Bor, Maeglin, and Skitter knew he was calling a convocation
+while they rode that circuit alongside him.
+
 ### Still open
 
 - The identities of the ten. Names, backgrounds, and whether any had served

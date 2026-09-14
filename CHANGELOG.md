@@ -9,6 +9,159 @@ end of an entry when relevant, not at the top.
 
 ---
 
+## v003
+
+### Revised — T'sarra is an antagonistic kingdom
+
+T'sarra's reclusiveness was previously a matter of temperament. It is now a
+posture. The High Elves hold themselves superior to every other race, and their
+dealings with the rest of the world are transactional throughout — every
+arrangement measured for leverage or advantage. They work through acquisition,
+information, and the quiet destabilization of rivals rather than open force, and
+they sit atop what may be the largest single source of undiscovered knowledge
+and power in Lanamyr, the Abaculus excepted.
+
+Ordinary citizens are not complicit so much as convinced. They are raised on a
+curated account of their own kingdom — that all is well, that T'sarra is the
+envy of the world, that the races beyond the borders are lesser. Contact with
+the outside is controlled and the truth is held by a narrow few. This leaves
+room for sympathetic High Elves who have simply never been handed anything to
+weigh their upbringing against.
+
+A consequence worth noting: because T'sarra is closed, High Elves are the
+exception to the general mingling and spread of the races across the 2nd and 3rd
+Epochs. A High Elf met outside T'sarra is far more likely to be a defector, a
+descendant of one, or an agent than a citizen abroad on ordinary business.
+
+### Revised — the Var Harma have two branches
+
+The Var Harma were chartered, not grown. A ruler of T'sarra created them by
+decree after the discovery of Atral and laid out their original purpose in that
+document — excavate, preserve, protect. What came out of the ruins pointed to a
+lost civilization of enormous scale, and T'sarra reasoned that if one such
+civilization could be forgotten, others could too. The mandate expanded
+accordingly.
+
+Inside T'sarra's borders the organization still does the original work:
+archaeology, curation, translation. Outside them it acquires artifacts of power
+by whatever means are available, gathers information, and works against the
+stability of rival kingdoms. Spies, thieves, and treasure hunters make up the
+majority of Var Harma encountered abroad. Crossing from one branch to the other
+is an initiation rather than a transfer — a member is approached, told what the
+organization actually does, and asked. This is the reason the need-to-know
+structure exists at all.
+
+The founding decree presumably still sits somewhere in T'sarra, describing an
+organization that no longer resembles the one bearing its name.
+
+### Added — the Drasian tongue and the northward envoys
+
+The Drasu had a language, and it was silenced at the Sundering. No living race
+speaks it and it survives only in writing at Atral. But it did not vanish: just
+as the descendant races inherited their progenitors' attributes in muted form,
+the languages that emerged afterward carry the bones of the Drasian tongue
+beneath very different skin. No speaker of any one daughter tongue would
+recognize the kinship. It is visible only to someone holding many of them side
+by side against the written original — which is what the Var Harma have been
+doing for centuries. Their reconstruction is partial. The languages of the
+Draak-descended races stand outside the family entirely, having fractured from a
+different progenitor.
+
+Among the writings they deciphered, the Draak were mentioned. On that strength
+the Var Harma have sent envoys north into Alios over the years to find the fallen
+Draak civilization, under instruction to conceal their purpose. A significant
+number never reported back. Some saw how the world actually works, understood
+that what they had been taught was false, and cut ties. Others simply preferred
+the lands they found and stayed. A fair number remain loyal.
+
+### Revised — Maeglin Leralonde
+
+Maeglin is the most recent of those envoys, and his history has been rebuilt
+around that.
+
+He began in the internal curator branch under his father, who was a caretaker of
+elven artifacts and may still understand the Var Harma only as its charter
+describes it. As a young elf Maeglin proved unusually agile and able to reach
+places that defeated others; he was noticed, initiated into the external branch,
+and sent north to find the Draak with orders to tell no one why. He kept those
+orders for years, then broke them for Bor once the friendship outweighed them.
+
+His reputation is now as a thief and dungeon crawler rather than an assassin —
+the previous description required a career the timeline had no room for, and
+"known for what he can get into and out of" fits the agile curator's son who was
+sent into the ground. The sternness attributed to the assassin work has been
+replaced with something better anchored: jaded and cynical on the surface,
+underneath a man who saw how his people treat outsiders, recognized the same
+faults in himself, and has been working to correct them with his friends' help.
+When he meets someone who reminds him of his old self it sparks real resentment
+— which is the root of his established failing around aloof people. He is not
+reacting to aloofness but to a version of himself.
+
+Where he stands with T'sarra is deliberately unresolved. He has already taken the
+first step the defectors took. Curiosity and the thrill of the hunt still drive
+him but no longer lead; he is as invested in Bor's ambitions as his own.
+
+### Discarded — the gold hammer and the Troll's Breath meeting
+
+Maeglin previously met Bor at a ruined Sand Dwarf temple to Dey near the Troll's
+Breath Mountains, trading a ceremonial gold hammer for access to Bor's map. The
+temple's placement was sound; Bor's was not. It required an Iron Dwarf from
+Fardar to cross the Blackwing Hills corridor and travel the length of Edura to
+T'sarra's doorstep and back, for no reason. Tying the trade to the physical map
+also pinned the meeting to 429–430 AW, impossibly tight against Adenburry.
+
+The meeting is now undeveloped and open, constrained to roughly 420–428 AW with
+Bor describing what Grimmon had shown him rather than handing over a document he
+did not yet possess. Maeglin's true purpose also means the lost Dwarven kingdom
+served as his cover — a genuine shared goal he was also using.
+
+### Confirmed — the Drasian Vault is sealed and opens only to a Drasu
+
+The Vault has never been opened since the Sundering and cannot be opened by
+excavation, force, or ingenuity. It admits only a Drasu. Adomorn is the last
+surviving Drasu and therefore the only living being who can enter it. This is
+deliberately laid down as a hook for future adventures.
+
+### Removed — the link between Adomorn and the Var Harma
+
+That relationship was built when the Var Harma were conceived as a noble order
+of scholars and explorers. It no longer fits what they are. Adomorn has no
+contact with them at any rank. He knows they have dug at Atral for centuries and
+is untroubled by it, because he knows they cannot get into the Vault.
+
+Two consequences follow. First, Adomorn is now the sole living holder of the
+truth about the Irridae, the factions, the cosmic conflict, and the Abaculus —
+the Var Harma no longer share that knowledge, having no route to it. His search
+is genuinely solitary.
+
+Second, Atral becomes a hazard rather than an asset. His rematerialization point
+is fixed there, in the middle of an active High Elf excavation. Any death returns
+him bodily to their dig. Whether T'sarra has ever watched a Drasu take shape in
+those ruins is left open — and if they ever recover a text describing the
+Drasu-only seal, they will hold a door they cannot open and the memory of the
+only key in the world.
+
+### Still unresolved, carried forward
+
+The identity of the founding ruler and the date of the decree; the length of time
+between the emergence of the High Elves and the discovery of Atral, deliberately
+left open; how much of Drasian the Var Harma can actually read; the fates of
+individual envoys; T'sarra's current ruler and court; Maeglin's dynamic with his
+father; when and where he met Bor; whether he still considers himself on
+assignment; and whether he will ever notice that the Kobold walking beside him
+wears a Relic of Creation around his neck.
+
+The Herringer threads from v002 — the convocation, Qenwick's succession, and what
+the organization is for now — are untouched and remain open.
+
+### Structural
+
+A block describing the Herringers' internal structure, function, and convocation
+had been filed under the Var Harma entry in Kingdoms & History. It has been moved
+into the Herringers entry directly below it. No lore changed.
+
+---
+
 ## v002
 
 ### Revised — the origin of the Marauders

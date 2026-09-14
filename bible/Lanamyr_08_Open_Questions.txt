@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v002
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v003
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -75,7 +75,9 @@ THE ACORN RELIC:
 - What does it represent?
 - When and how did Galstaff encounter Skitter?
 - Does anyone other than Galstaff suspect its significance?
-- Does Var Harma leadership know what a Relic of Creation is?
+- Does Var Harma leadership know what a Relic of Creation is? Note they have
+  never entered the Drasian Vault, which is where that knowledge is recorded —
+  so if they know, it came from somewhere else.
 
 ABSTRACT RELICS:
 - Relics exist for abstract qualities — love, grief, courage, jealousy, etc.
@@ -145,6 +147,30 @@ QENWICK ORCSBANE:
 - Origin of the name Orcsbane: undeveloped. Note Grimmon was killed by Orc
   raiders who were instruments of the Kimora framing operation.
 
+MAEGLIN LERALONDE:
+- RESOLVED: Reputation is as a thief and dungeon crawler, not an assassin. The
+  earlier "renowned assassin" description is superseded.
+- RESOLVED: Began in the internal curator branch under his father, was noticed
+  for his agility, and was recruited into the external branch. Sent north to find
+  the fallen Draak civilization under instruction not to divulge his purpose.
+  Broke that instruction once his friendship with Bor was strong enough.
+- The dynamic with his father around that recruitment: UNDEVELOPED. The father is
+  internal branch and may only understand the noble version of the organization.
+- Circumstances, location, and year of his first meeting with Bor: UNDEVELOPED.
+  Constraint: roughly 420–428 AW, with Bor describing rather than handing over the
+  map. Superseded: the Sand Dwarf temple / gold hammer / Troll's Breath version.
+- Whether he found anything of the Draak in Alios before meeting Bor: undeveloped.
+- Whether he still considers himself on assignment in 432 AW: deliberately live
+  and unresolved. He has taken the first step the defectors took.
+- Whether returning to T'sarra would be safe for him: undeveloped. A closed
+  kingdom may treat a long-absent envoy as a contamination risk.
+- The point at which he is forced to choose between T'sarra and his friends is an
+  unspent scene.
+- LIVE HAZARD: Maeglin is an external-branch operative whose purpose is acquiring
+  artifacts of power, traveling beside Skitter, who wears a Relic of Creation in a
+  vial around his neck. He has not noticed. Whether the friendship would survive
+  his noticing is undecided.
+
 NUSUL — THE LOST KINGDOM:
 - Interior and what specifically remains: undeveloped.
 - How far did Ice Dwarves get before being overrun?
@@ -181,7 +207,8 @@ FELGARD:
 - Internal politics and current ruler undeveloped.
 
 T'SARRA:
-- Ruler, internal politics, relationship with Var Harma undeveloped.
+- Ruler and internal politics undeveloped. See T'SARRA — AS AN ANTAGONIST below
+  for what is now confirmed about the kingdom's character.
 
 HARBINGER SET TOMBS:
 - Mako's and Talon's tomb locations undecided.
@@ -202,9 +229,16 @@ IRRIDAE PANTHEON:
 - Whether any remaining Irridae return in the future story: undecided.
 
 THE DRASIAN VAULT:
-- Tentatively found by Var Harma — NOT YET CONFIRMED.
-- Found through excavation or Adomorn's guidance: undecided.
-- Whether Var Harma leadership fully understands what they have: undecided.
+- RESOLVED: The Vault has never been opened and will open only in the presence
+  of a Drasu. Adomorn, the last surviving Drasu, is the only living being who
+  can open it. This is a deliberate story hook for future adventures.
+- RESOLVED: Adomorn has no relationship with the Var Harma. He is aware of their
+  excavations and untroubled by them because they cannot get in.
+- Whether the Var Harma have located the Vault by 432 AW: undecided. Less
+  important than it was, since locating and entering are separate problems.
+- Whether any Drasian text recovered by the Var Harma describes the Drasu-only
+  seal: undeveloped. If one ever surfaces, they would hold a door they cannot
+  open and a reason to hunt for the only key.
 
 ESTEFANIA:
 - Does she know her own heritage?
@@ -270,9 +304,42 @@ THE MARAUDERS:
 - How sleep on 2 Marauders was timed or lifted: undeveloped.
 
 THE VAR HARMA:
-- Full internal structure beyond need-to-know hierarchy: undeveloped.
+- RESOLVED: Founded by royal decree of a T'sarran ruler after the discovery of
+  Atral. Two branches — internal curators/archaeologists within T'sarra, external
+  operatives (spies, assassins, thieves, treasure hunters) beyond its borders.
+  Moving to the external branch is an initiation, not a transfer.
+- RESOLVED: No relationship with Adomorn. The earlier lore is superseded.
+- Identity of the founding ruler, and the date of the founding decree:
+  UNDEVELOPED. The length of time between the emergence of the High Elves and
+  the discovery of Atral is deliberately left open — do not pin it down casually,
+  as it constrains the founding.
+- Whether the original founding decree still exists in T'sarra, and what it says:
+  undeveloped. It describes an organization that no longer resembles itself.
+- Whether any throne ever formally authorized the expansion beyond the charter,
+  or successive rulers simply stopped asking: undeveloped.
+- How much the internal branch suspects about the external branch's work:
+  undeveloped.
 - Leadership in 432 AW: undeveloped.
-- How and when relationship with Adomorn began: undecided.
+- How much of the Drasian tongue they can actually read, and what else they have
+  read in it: undeveloped.
+
+THE NORTHWARD ENVOYS:
+- Whether any envoy ever found the Draak civilization: undeveloped.
+- Fates of the envoys who never reported back: some defected after seeing the
+  world contradict their upbringing; some simply settled in the new lands away
+  from T'sarra's politics; a fair number remain loyal and still act in T'sarra's
+  interests. No specific envoys, names, or actions established.
+- Whether any defected envoy or their descendants are still alive and locatable
+  in 432 AW: undeveloped. Potentially significant.
+
+T'SARRA — AS AN ANTAGONIST:
+- Ruler in 432 AW, court structure, and internal politics: undeveloped.
+- Whether the kingdom has ever witnessed Adomorn rematerialize at Atral, and what
+  it made of the event: undeveloped.
+- Current relationship with the Sand Dwarves, who were useful to them once:
+  undeveloped — see SAND DWARF AND HIGH ELF RELATIONSHIP below.
+- Which other kingdoms T'sarra has moved against, and how: undeveloped. No
+  specific operations established.
 
 SAND DWARF AND HIGH ELF RELATIONSHIP:
 - Current relationship in 432 AW: undeveloped.
@@ -313,5 +380,5 @@ MAP NOTES:
   Swamp Giants, Trolls (Forest, Moss, Desert).
 
 ================================================================================
-END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v002
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v003
 ================================================================================

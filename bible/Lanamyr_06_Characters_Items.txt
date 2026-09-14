@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v002
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v003
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -32,10 +32,21 @@ situation temporarily but never permanently by conventional or magical means.
 KNOWN PERMANENT THREATS: Only two things can permanently kill Adomorn —
 the Abaculus, and an Onwu Irridae. All other means of killing him are
 temporary. Diquyk does not yet know the specifics of Adomorn's immortality.
-ADOMORN AND THE HIGH ELVES: His rematerialization point being Atral — which
-the High Elves were actively excavating — is the likely explanation for how
-that relationship began. Encountering a Drasu suddenly materializing in the
-ruins of the greatest Drasian city would have been an extraordinary event.
+ADOMORN AND THE HIGH ELVES: Adomorn has NO relationship with T'sarra or the Var
+Harma. He is aware they have excavated Atral for centuries and is untroubled by
+it, because the Drasian Vault admits only a Drasu and they will never open it.
+The dangerous knowledge is behind a door only he can pass.
+A RISK HE MAY NOT HAVE WEIGHED: His rematerialization point is fixed at Atral —
+the precise location where Ah'Tabai granted the gift — and the Var Harma have
+been digging there for centuries. Any death he suffers returns him bodily to the
+middle of their excavation. Whether the High Elves have ever witnessed a Drasu
+taking shape in those ruins, and what they made of it, is UNDEVELOPED. If the
+tentative note below regarding his death in 392 AW is confirmed, such an event
+would have occurred roughly forty years before the present day.
+This matters because T'sarra hunts leverage and has spent centuries
+reconstructing the Drasian tongue from the writings around them. Should they
+ever recover a text stating that the Vault opens only to a Drasu, they would
+hold a door they cannot open and the memory of the only key in the world.
 Has been searching for the Abaculus since 2165 by tracking Olum movement. Every
 lead is legitimate but turns up only natural nesting behavior. The Burnt Plains
 is a lifeless dead zone — the one place his methodology gives him no reason to
@@ -50,11 +61,6 @@ Drasu magic are the only known types that can forcibly move it without physical
 contact, bypassing corruption.
 Also searching for a way to free Karma from Greyhawk's curse. Has not yet
 found a means.
-CONTACTS WITHIN THE VAR HARMA: Has contact only with the highest ranks of
-the Var Harma. Likely became involved either by being present when they
-discovered the Vault, or by guiding them to it — undecided. Lower ranking
-members such as Maeglin likely do not know of his involvement or possibly
-who he is.
 Has passed through the Monowi Inn on the road between Fardar and Faelyn at
 some point. Elsie Varis treated him like any other traveler, unaware of who
 he was.
@@ -397,19 +403,77 @@ encounter him? Undecided.
 
 MAEGLIN LERALONDE
 Born 354 AW. Age 78 in 432 AW — solidly within his prime by High Elf standards
-(prime: 55–132 years). High Elf male from T'sarra. Noble family. Father was a
-caretaker of elven artifacts. Inducted into the Var Harma.
+(prime: 55–132 years). High Elf male from T'sarra. Noble family. Member of the
+Var Harma, external branch — see below.
 APPEARANCE: Dark brown hair. Brown eyes. Height approximately 5'9" — notably
 taller than average for High Elf males.
-Character traits: Obsession with knowledge, fair and open-minded but lets
-emotions cloud judgement around aloof people, has grown sterner since becoming
-a renowned assassin of the Var Harma.
-First solo expedition: retrieved a ceremonial gold hammer from a ruined Dwarven
-temple to Dey near the Troll's Breath Mountains. First met Bor there. Gave Bor
-the hammer in exchange for access to Bor's map hinting at a hidden entrance to
-a lost dwarven kingdom. Initially partnered with Bor for the opportunity and
-potential discoveries the quest might yield. They have since become genuinely
-good friends.
+
+EARLY LIFE AND RECRUITMENT: Maeglin's father was a member of the Var Harma, of
+the internal curator and archaeology branch — a caretaker of elven artifacts.
+Maeglin got his own start on that same side of the organization. As a young elf
+coming of age he proved unusually skilled and agile, able to get into and out of
+tight and hard-to-reach places that defeated others. That ability was eventually
+noticed, and he was recruited for another purpose: the external branch.
+For him this was not a transfer of duty but an initiation — being told what the
+Var Harma actually does beyond T'sarra's borders, and asked. He accepted while
+still young, before he had anything to measure the offer against.
+THE DYNAMIC WITH HIS FATHER around this transition is UNDEVELOPED. Note that a
+father in the internal branch may well understand the organization only as the
+founding decree describes it.
+
+THE ASSIGNMENT: Maeglin was told of the Draak and of the suspected location of
+their fallen civilization in Alios, and sent north to seek it out. He was
+instructed not to divulge his purpose to anyone he met in his travels. He is the
+most recent in a long line of such envoys, many of whom never reported back.
+See THE NORTHWARD ENVOYS in the Kingdoms_History file.
+He adhered to the instruction for years. He eventually broke it and told Bor the
+truth, once the friendship between them had become strong enough to outweigh the
+order. Exactly when in their acquaintance this happened is UNDEVELOPED.
+
+REPUTATION: Renowned within the Var Harma as a thief and dungeon crawler — known
+for what he can get into and out of. He is not an assassin and has no reputation
+as one. (Superseded lore: earlier versions described him as a renowned assassin.)
+
+CHARACTER TRAITS: Obsession with knowledge. Fair and open-minded. Jaded and
+cynical on the surface — the product of years alone on a foreign continent,
+carrying an assignment he could not speak about, watching the world plainly
+contradict what he had been raised on in T'sarra.
+Beneath that he has gone through, and may still be going through, a period of
+heavy self-reflection bordering on self-loathing. Seeing how the High Elves
+generally treat outsiders — and how they are regarded in turn — he recognized
+the same faults in himself. He has been working hard to correct them, with the
+help of his friends.
+When he meets people whose personalities remind him of his old self, it sparks a
+deep resentment in him. This is the root of his one reliable failing: he lets his
+emotions cloud his judgement around aloof people. He is not reacting to
+aloofness so much as to a version of himself.
+
+WHERE HE STANDS WITH T'SARRA: Undecided and deliberately live. He has already
+taken the first step the defectors took — he broke his instructions for someone
+outside the kingdom. He has not resolved the question of his own loyalty, and is
+probably not examining it closely. Curiosity and the thrill of the hunt still
+drive him, but they are no longer his primary ambition. He is now just as
+invested in Bor's goals as his own, and the two of them often speak of future
+plans encompassing both original ambitions.
+
+MEETING BOR: The circumstances, location, and year of their first meeting are
+UNDEVELOPED and deliberately left open. Constraint to respect: Bor was born 399
+AW and Grimmon showed him the map personally before dying in 429 AW, while Bor
+only obtained the physical map from Grimmon's belongings after that death. The
+meeting therefore sits somewhere in roughly 420–428 AW, with Bor able to describe
+and sketch what Grimmon had shown him rather than hand over a document he did not
+yet possess. Superseded lore: the meeting previously occurred at a ruined Sand
+Dwarf temple to Dey near the Troll's Breath Mountains, with a ceremonial gold
+hammer traded for map access. That version placed Bor implausibly far from home
+and is discarded.
+Initially partnered with Bor for the opportunity and potential discoveries the
+quest might yield. They have since become genuinely good friends.
+
+THE COVER: Because he could not disclose his purpose, the search for the lost
+Dwarven kingdom served as Maeglin's cover — a genuine shared goal he was also
+using. He has been searching Alios for traces of the Draak while traveling beside
+an Iron Dwarf whose people have mined the Black Mountains for centuries, and
+beside a Mystic Kobold who is himself Draak-descended.
 Was traveling with Wilward, Skitter, and Alexa aboard Wilward's airship when
 they landed in Adenburry in 430 AW. Fought alongside the others to exterminate
 the subterranean Olum nest. Afterward traveled with Bor, Skitter, and Qenwick
@@ -867,5 +931,5 @@ Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
   poisonous gas. Prefers to avoid conflict.
 
 ================================================================================
-END OF LANAMYR CHARACTERS & ITEMS — v002
+END OF LANAMYR CHARACTERS & ITEMS — v003
 ================================================================================

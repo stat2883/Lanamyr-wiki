@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — GEOGRAPHY — v002
+LANAMYR WORLD BIBLE — GEOGRAPHY — v003
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -197,12 +197,18 @@ TOWER OF GRANNEL: Adomorn's base of operations in the present day.
 
 DRASIAN VAULT: Underground vault built by the Drasu at the center of the
 underground city of Atral on Edura. Contains records of the Irridae and the
-nature of Relics of Creation. Survived the Sundering intact. Located deep
-beneath centuries of debris and collapse — not easily reached. Tentatively,
-the Var Harma have likely found it by 432 AW. Whether they fully understand
-what they're sitting on, and what knowledge they have extracted, is undecided.
-Adomorn would have involved himself with the highest Var Harma ranks to manage
-the dangerous knowledge within — NOT YET CONFIRMED.
+nature of Relics of Creation, along with the most valuable and most dangerous
+of the Drasu's holdings. Survived the Sundering intact. Located deep beneath
+centuries of debris and collapse — not easily reached.
+SEALED (CONFIRMED): The Vault has never been opened since the Sundering. It
+will open only in the presence of a Drasu. No amount of excavation, force, or
+ingenuity will breach it. Adomorn is the last surviving Drasu and therefore
+the only living being who can open it.
+Whether the Var Harma have located the Vault by 432 AW is undecided, but the
+question matters less than it once did — locating it and opening it are not
+the same problem. Adomorn is aware of their excavations at Atral and is
+untroubled by them, precisely because he knows they cannot get in. The dangerous
+knowledge is behind a door only he can open.
 
 MONOWI HILLS: A small section of hills in the natural border line between
 Kimora and Ellendale. The broader border between the two kingdoms is defined
@@ -237,5 +243,5 @@ or evil spirit circulate among travelers — the details exaggerated by retellin
 The truth is simpler and sadder: she is still waiting for Cyran.
 
 ================================================================================
-END OF LANAMYR GEOGRAPHY — v002
+END OF LANAMYR GEOGRAPHY — v003
 ================================================================================

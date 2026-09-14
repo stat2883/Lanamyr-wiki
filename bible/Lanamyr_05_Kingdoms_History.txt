@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v002
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v003
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -104,9 +104,33 @@ Hellar: Underground city in Forbidden Peaks, western arm of Alios. Dark Dwarves.
 Andar: Large northern peninsula of Alios. Northmen humans. Ruler undeveloped.
 
 EDURA:
-T'sarra: Northern Edura. High Elves. Fairly reclusive. Home of the Var Harma.
-  Tropical Rain Forest biome — lush and warm. Ruler and internal politics
-  undeveloped.
+T'sarra: Northern Edura. High Elves. Home of the Var Harma. Tropical Rain Forest
+  biome — lush and warm. Contains the ruins of Atral and the Drasian Vault.
+  Ruler and internal politics undeveloped.
+  A CLOSED AND ANTAGONISTIC KINGDOM: T'sarra's reclusiveness is a posture rather
+  than a temperament. The High Elves hold themselves superior to every other
+  race, and their dealings with other kingdoms and civilizations are
+  transactional throughout — every arrangement measured for leverage or
+  advantage. They are not a hostile military power in the open. They are a
+  closed state that works through acquisition, information, and the quiet
+  destabilization of rivals, largely via the external branch of the Var Harma.
+  And they sit atop what may be the largest single source of undiscovered
+  knowledge and power in all of Lanamyr, the Abaculus excepted.
+  THE CITIZENRY: Ordinary High Elves of T'sarra are raised on a curated account
+  of their own kingdom — that all is well, that T'sarra is the envy of the
+  world, and that the races beyond its borders are lesser. Contact with the
+  outside is controlled and the true shape of the kingdom's dealings is held by
+  a narrow few. Most citizens are not complicit so much as convinced. This
+  leaves ample room for sympathetic High Elves who have simply never been given
+  anything to weigh their upbringing against.
+  Individuals who leave and see the wider world firsthand are the kingdom's
+  central vulnerability — they are the only ones positioned to discover that the
+  account they were raised on is false. See THE NORTHWARD ENVOYS above.
+  HIGH ELVES ABROAD: Because T'sarra is closed, High Elves are the exception to
+  the general mingling and spread of the races across Lanamyr through the 2nd
+  and 3rd Epochs. A High Elf encountered outside T'sarra in 432 AW is far more
+  likely to be a defector, a long-settled descendant of one, or an agent of the
+  Var Harma than a citizen abroad on ordinary business.
 
 UTOA:
 Felgard: Northwestern Utoa. Capital: Jorvik. Hillfolk humans.
@@ -197,32 +221,106 @@ The Abaculus directed Diquyk to wage war on Faelyn to break the Guardians and
 compromise the chamber before he pursued the larger mission.
 
 THE VAR HARMA (THE CURATORS)
-High Elf secretive society from T'sarra. Preserve and retrieve artifacts vital
-to Elven advancement. Operates on a need-to-know basis internally — lower
-ranking members are not privy to the organization's deepest knowledge or
-connections. Known member: Maeglin Leralonde, a renowned assassin within the
-organization who operates largely on a need-to-know basis and likely does not
-know of Adomorn's involvement or possibly who Adomorn is.
-ORIGIN: The High Elves emerged in T'sarra north of the ruins of Atral and
-discovered the ruins after some years — exact number undecided. Excavations
-began, but the region was contested by Mountain Trolls coming down from the
-Troll's Breath Mountains. The Sand Dwarves, expanding from the Void Sands
-southeast of T'sarra, eventually entered the region and allied with the High
-Elves against the Trolls, pushing them back. As more of Atral was excavated
-and more valuables uncovered, the High Elves formed the Var Harma to protect
-their findings. The organization grew beyond that original protective role into
-what it is today.
+High Elf secretive society from T'sarra. Founded by royal decree. Operates on a
+need-to-know basis internally — lower ranking members are not privy to the
+organization's deepest knowledge or connections. Known member: Maeglin
+Leralonde, renowned within the organization as a thief and dungeon crawler.
+
+ORIGIN: The High Elves emerged in T'sarra north of the ruins of Atral. T'sarra
+was established first. Some period later — length UNDECIDED and deliberately
+left open — they discovered the ruins and began excavating. The region was
+contested by Mountain Trolls coming down from the Troll's Breath Mountains. The
+Sand Dwarves, expanding from the Void Sands southeast of T'sarra, eventually
+entered the region and allied with the High Elves against the Trolls, pushing
+them back.
+The Var Harma were created by order of the ruler of T'sarra at that time — name
+and identity UNDEVELOPED — who laid out their original purpose in that decree.
+They were never a guild that grew up around the dig of its own accord. They were
+chartered, and their mandate was to excavate, preserve, and protect what Atral
+contained.
+That founding document presumably still exists somewhere in T'sarra. It
+describes an organization that no longer entirely resembles the one bearing its
+name.
+
+THE EXPANSION OF THE MANDATE: What came out of the ruins pointed to a lost
+civilization of enormous scale and power. T'sarra concluded that if one such
+civilization had existed and been forgotten, others might too — along with their
+artifacts. The Var Harma's role expanded accordingly, from archaeology and
+curation into secretive operation abroad.
+Over time the organization learned that power takes many forms. Artifacts are
+only the most obvious. Information has value of its own, and so does leverage
+over a rival kingdom, and so does that kingdom's instability. Acquisition by
+theft, and destabilization as an end in itself, both fall within what the Var
+Harma now do. Whether any ruler of T'sarra ever formally authorized this
+expansion, or whether successive thrones simply stopped asking, is UNDEVELOPED.
+
+TWO BRANCHES: The organization is effectively split in two.
+- THE INTERNAL BRANCH, within T'sarra's borders, still fills the original role:
+  archaeologists, curators, translators, keepers of what has been recovered.
+  These members largely understand the Var Harma as the founding decree
+  describes it, and many are sincere in that belief.
+- THE EXTERNAL BRANCH operates beyond T'sarra's borders. Spies, assassins,
+  thieves, and treasure hunters make up the majority of Var Harma encountered
+  outside the kingdom. They acquire artifacts of power by whatever means are
+  available, gather information, and work against the stability of other
+  kingdoms where it serves T'sarra.
+Moving from the internal branch to the external one is not a transfer of duty
+but an initiation — a member is approached, told what the organization actually
+does, and asked. This is the principal reason the internal need-to-know
+structure exists. How much of the external branch's work the internal branch
+suspects is UNDEVELOPED.
+
+THE DRASIAN TONGUE: Centuries of excavation have uncovered a great volume of
+Drasian writing. The language itself was silenced at the Sundering and no living
+race speaks it, but its traits survive beneath many present-day languages — see
+the Drasu entry in the Races file. Holding the daughter tongues side by side
+against the written original, the Var Harma have pieced together a partial
+working knowledge of Drasian. Their reconstruction is incomplete. How much they
+can read, and what else they have read, is UNDEVELOPED.
+Among the writings they deciphered, the Draak were mentioned.
+
+THE NORTHWARD ENVOYS: On the strength of those mentions, the Var Harma have
+over the years sent envoys north into Alios to find the fallen civilization of
+the Draak. Envoys are instructed not to divulge their purpose to anyone they
+meet.
+Whether any succeeded is UNDEVELOPED. A significant number never reported back.
+Some of those saw how the rest of the world actually operates, understood that
+what they had been taught in T'sarra was false, and cut ties — defecting rather
+than returning. Others simply preferred the lands they found and settled there,
+away from T'sarra's politics and influence. A fair number remain loyal and still
+operate with T'sarra's interests in mind. No specific envoys, names, or actions
+have been established.
+Maeglin Leralonde is the most recent of these envoys. See Characters & Items.
+
 HEADQUARTERS: Rumored to be in the ruins of Atral, directly above the Drasian
 Vault. The Var Harma have been excavating Atral for centuries.
-THE DRASIAN VAULT: Tentatively, the Var Harma have likely found it by 432 AW
-given the scope and duration of their excavations. Whether they found it
-through excavation alone or with Adomorn's guidance is undecided. Adomorn has
-contact with the highest ranks only and would have involved himself to manage
-the dangerous knowledge within. NOT YET CONFIRMED.
-ADOMORN CONNECTION: Has contact only at the highest ranks. Lower members
-including Maeglin likely unaware. The relationship may have begun when Adomorn
-rematerialized at Atral during High Elf excavations — undecided.
-Internal structure: UNDEVELOPED in detail, but characterized as follows.
+
+THE DRASIAN VAULT: The Vault has never been opened and cannot be opened by the
+Var Harma. It admits only a Drasu. Whether they have located it by 432 AW is
+undecided; finding it and entering it are separate problems, and only the second
+one matters. See Geography.
+NO CONNECTION TO ADOMORN: The Var Harma have no relationship with Adomorn. He is
+aware of their excavations at Atral and is untroubled by them, because he knows
+the Vault will not open for them. Any earlier lore suggesting he had contact
+with their highest ranks is superseded.
+
+THE HERRINGERS
+Defined not by blood but by common cause and belief. Originally an Iron Dwarf
+family of great wealth. Matron Arrama Herringer used family resources to resist
+Bourbac's enslavement of Iron Dwarves. Organized resistance under political
+protection of Lord Yllyndel the Ancient (Plains Elves). Believed to have
+funded Evander's assassination of Bourbac. After Evander freed the Dwarves:
+protection vanished; Arrama killed by bandits near Ash Mountains foothills.
+Rekindled as Tarik's reign took hold. Grimmon Herringer (born 372 AW, died
+429 AW) rebuilt the name, personally organized the coordinated overthrow, told
+Mya Li firsthand stories of Tarik's atrocities. Was present at the overthrow
+at age 41 (413 AW). Founded Herrington. Grimmon killed by Orc raiders in 429 AW.
+Leadership and future: UNDECIDED. Grimmon did not officially name a successor.
+TENTATIVE — succession would likely come down to a vote or group decision among
+the higher-ranking Herringers, who would elect Qenwick Orcsbane. See Characters
+& Items. Note this makes the internal structure more load-bearing, since a
+voting body implies defined ranks and some means of convening a scattered
+membership.
 TENTATIVE STRUCTURE — A LOOSE, INFORMAL ALLIANCE: Not a formal society. There
 are no membership rolls, no initiation, and nothing to join. A person is a
 Herringer because they did the work — gave money, hid someone, carried a
@@ -258,24 +356,6 @@ the organization. The circuit and the summons are the same journey.
   CONFIRMED: Bor, Maeglin, and Skitter — who made that circuit with Qenwick —
   were aware of what he was doing. The four were close, and he called the
   convocation openly rather than in rooms they weren't in.
-
-THE HERRINGERS
-Defined not by blood but by common cause and belief. Originally an Iron Dwarf
-family of great wealth. Matron Arrama Herringer used family resources to resist
-Bourbac's enslavement of Iron Dwarves. Organized resistance under political
-protection of Lord Yllyndel the Ancient (Plains Elves). Believed to have
-funded Evander's assassination of Bourbac. After Evander freed the Dwarves:
-protection vanished; Arrama killed by bandits near Ash Mountains foothills.
-Rekindled as Tarik's reign took hold. Grimmon Herringer (born 372 AW, died
-429 AW) rebuilt the name, personally organized the coordinated overthrow, told
-Mya Li firsthand stories of Tarik's atrocities. Was present at the overthrow
-at age 41 (413 AW). Founded Herrington. Grimmon killed by Orc raiders in 429 AW.
-Leadership and future: UNDECIDED. Grimmon did not officially name a successor.
-TENTATIVE — succession would likely come down to a vote or group decision among
-the higher-ranking Herringers, who would elect Qenwick Orcsbane. See Characters
-& Items. Note this makes the internal structure — currently undeveloped beyond a
-need-to-know hierarchy — more load-bearing, since a voting body implies defined
-ranks and some means of convening a scattered membership.
 NOTE — THE KINGDOM DREAM IS NOT A HERRINGER AMBITION: The dream of a new
 Dwarven kingdom in the Tarantar Mountains belongs to Grimmon and Bor personally
 and is rooted in their Dwarven heritage, not in the Herringer cause. The
@@ -631,5 +711,5 @@ Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
          around a Kobold's neck. Valindra walks the shore of her lake.
 
 ================================================================================
-END OF LANAMYR KINGDOMS & HISTORY — v002
+END OF LANAMYR KINGDOMS & HISTORY — v003
 ================================================================================

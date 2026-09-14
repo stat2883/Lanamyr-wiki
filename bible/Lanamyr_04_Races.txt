@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v002
+LANAMYR WORLD BIBLE — RACES — v003
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -23,6 +23,22 @@ the Drasu — the Sundering revealed and amplified rather than created these
 qualities. Split into elves, dwarves, gnomes, humans, orcs, and others.
 Adomorn is the last surviving Drasu. Takes human form. Galstaff Quint is one
 of the rare few to have seen his true Drasu form.
+THE DRASIAN TONGUE: The Drasu had a language of their own, and it was silenced
+at the Sundering. No one woke from that catastrophe still speaking it, and no
+living race speaks it today. It survives only in writing, on the walls and
+tablets of Atral.
+It did not vanish entirely, however. Just as the descendant races inherited
+their progenitors' attributes in muted and partial form, the languages that
+emerged after the Sundering carry the bones of the Drasian tongue beneath very
+different skin. Nheqethi, Aiwiya, Antathi, Stone Speak, Andari and the rest
+share structures, root forms, and habits of construction that all trace back to
+the same silenced source. No speaker of any one of them would recognize the
+kinship — the daughter tongues are far too changed, and too changed from one
+another. The relationship is visible only to someone holding many of them side
+by side against the written original, which is the work the Var Harma have been
+doing at Atral for centuries. See Kingdoms_History.
+The languages of the Draak-descended races stand outside this family entirely,
+having fractured from a different progenitor.
 
 DRAAK
 Most closely resembled present-day dragons but larger and more powerful.
@@ -506,5 +522,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v002
+END OF LANAMYR RACES — v003
 ================================================================================

@@ -87,9 +87,27 @@ the Dales.
 | 388–391 AW | 2–6 | Shows great promise from the start. Grows into leadership. |
 | 392 AW | 7–9 | Commands. Survives Diquyk's push. Kills Shedyak. |
 
-Keep her **roughly comparable to the PCs** in the early years. She should not
-outshine them mechanically — her significance is narrative, and making her a
-superior combatant would undercut both her arc and theirs.
+### Power Curve — when she pulls ahead
+
+**387–390 AW: comparable.** She levels in step with the PCs and does not
+outshine them. She is a promising recruit among promising recruits.
+
+**391 AW: she begins to pull ahead.** Half a level to a level above the party,
+and — more visibly — she starts being *right* more often. Others begin
+deferring to her before anyone gives her the authority to expect it. The gap
+should first appear as judgment and command presence, not as damage output.
+
+**392 AW: she is decisively above them.** By the council of war she is a
+different order of soldier, and the blades make it unmistakable. This is
+earned across five years of the party watching it happen, which is the point.
+
+The transition should be legible in the fiction before it is legible on a
+statblock. The players should notice she has outgrown them and feel something
+about it.
+
+**Weapons:** she receives **Crimson and Sear** at the 392 AW council of war, and
+takes the **Bow of the Dales** from Shedyak in the final battle. Stats in
+`../reference/magic-items.md`.
 
 ---
 

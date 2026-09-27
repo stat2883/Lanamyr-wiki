@@ -22,9 +22,14 @@ At the start of every campaign session, before doing anything else:
 4. Read `campaign/campaign-status.md` — this is the single source of truth for
    where the party is, what date it is in-world, and what is currently in play.
 5. Read both character sheets in `campaign/characters/`.
-6. Read the most recent file in `campaign/sessions/`.
-7. Skim `campaign/reference/` and `campaign/npcs/` for anything the status file
-   flags as active.
+6. Read `campaign/sessions/journal.md` in full — the running player-facing
+   recap. It is short and gives the shape of the story so far.
+7. Read the most recent **numbered** file in `campaign/sessions/` for the
+   detailed record of the last session.
+8. Skim `campaign/reference/` and `campaign/npcs/` for anything the status file
+   flags as active. **`campaign/npcs/combat-blocks.md` holds the authoritative
+   statblocks for every named NPC** — read it before running any encounter and
+   never improvise numbers that contradict it.
 
 Do **not** use web search or `web_fetch` to reach the repo.
 
@@ -143,8 +148,17 @@ conventions, not just homebrew. Summary of the load-bearing ones:
 in-world date, party location, PC level/HP/resources, active quest threads, or
 NPC status. It is the file a future session reads to resume play.
 
-Each session gets a numbered file in `campaign/sessions/` recording what
-happened, XP and loot awarded, and any unresolved cliffhanger.
+Two things are written at the end of every session:
+
+1. **A numbered file** in `campaign/sessions/` (`001-<short-title>.md`) — the
+   detailed DM record: what happened, decisions made, loot, NPC changes,
+   unresolved threads.
+2. **An appended entry in `campaign/sessions/journal.md`** — the running
+   player-facing recap. A few short paragraphs, written to be read. No stat
+   blocks, no mechanics, no DM notes. Newest entry at the bottom.
+
+The journal is also the fastest way for a future session to recover the shape
+of the story without re-reading every numbered file.
 
 ---
 

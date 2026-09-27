@@ -99,6 +99,13 @@ costing lives.
 
 ---
 
+## Mechanics
+
+**All statblocks live in `combat-blocks.md`** — the one-line class notes above
+are shorthand only. Use the blocks, not the shorthand.
+
+---
+
 ## DM Notes
 
 - Named NPCs advance in capability across 387–392 AW alongside the PCs, but

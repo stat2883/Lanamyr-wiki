@@ -64,6 +64,19 @@ would need to change.
 - **Recommendation:** Do not promote unless the user wants the bible to take a
   position on resurrection generally. Flag it in a bible session if so.
 
+### Statistics for Crimson, Sear, and the Bow of the Dales
+- **Established:** Full 5e mechanics — see `magic-items.md`.
+- **Bible status:** The bible confirms the blades exist, that Aer'Raenal gifted
+  them to Mya at the 392 AW council of war, and their glow colors (Crimson soft
+  red, Sear soft white-yellow). It confirms the Bow's origin, its purple-pink
+  bolts, and that it needs no conventional ammunition. **No statistics of any
+  kind are given.**
+- **Design constraint honored:** the blades are explicitly NOT spellcasting,
+  because Diquyk is banished when Mya and Adomorn switch to physical combat and
+  his fuel is cut off. Spell-based blades would break the confirmed ending.
+- **Recommendation: DO NOT PROMOTE.** Game statistics are table mechanics, not
+  lore. The bible has no need of them.
+
 ---
 
 ## Contradictions Flagged (bible-side, not campaign-side)

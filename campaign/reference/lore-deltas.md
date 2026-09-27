@@ -53,6 +53,17 @@ would need to change.
 - **Recommendation:** Flag to the user in a bible session if a name is ever
   wanted. Do not promote "Draconic" — it is an out-of-setting name.
 
+### Resurrection — campaign ruling, NOT for promotion
+- **Established:** Resurrection exists in Lanamyr but is exceedingly rare,
+  costly, and practiced by uncommon individuals. Never routine.
+- **Source:** User ruling, session 0.
+- **Bible status:** The bible confirms clerics serve the twenty Irridae and that
+  divine magic functions, but is silent on raising the dead.
+- **Does not contradict** anything confirmed. Necessary so that Kharis Ailwin's
+  death and the Marauders' sacrifice retain their weight.
+- **Recommendation:** Do not promote unless the user wants the bible to take a
+  position on resurrection generally. Flag it in a bible session if so.
+
 ---
 
 ## Contradictions Flagged (bible-side, not campaign-side)

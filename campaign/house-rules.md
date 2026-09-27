@@ -1,9 +1,84 @@
 # House Rules & Lanamyr Adaptations
 
+## Table Conventions
+
+**Dice.** The DM simulates **all** rolls, for PCs and NPCs alike. Players never
+roll. State results plainly, including bad ones — no fudging in the party's
+favor. (See the lethality ruling in `CAMPAIGN_INSTRUCTIONS.md` §3.)
+
+**Leveling.** **Milestone**, not XP. The DM decides when enough has been
+accomplished to warrant a level, and then walks the players through the
+advancement **at the party's next long rest**. Hit points always use the fixed
+average (6 + Con mod).
+
+**Sourcebooks in play:** Player's Handbook, Monster Manual, Dungeon Master's
+Guide, Xanathar's Guide to Everything, Tasha's Cauldron of Everything.
+
+**Tasha's optional class features: DECLINED.** Both PCs keep the PHB versions of
+**Favored Enemy** and **Natural Explorer**. Deft Explorer and Favored Foe are
+not in use. Rationale: the campaign is fought almost entirely in Faelyn's
+forests, so Natural Explorer (Forest) sees constant use; and Favored Foe's
+concentration requirement conflicts with Alinar's spells while Sharii's Favored
+Enemy is tied to his unexplained dragon affinity. Do not revisit unless the
+user raises it.
+
+**Feats:** ON (optional rule). Each Ability Score Improvement may instead be
+taken as a feat.
+
+**Multiclassing:** **OFF.** May be revisited later by user decision. This is
+load-bearing for Sharii — see below.
+
+**Tracking.** Track only:
+- The party's gold
+- Key items: weapons, armor, magic items
+Ignore entirely: ammunition, encumbrance, and **all** spell components. Ordinary
+travelling gear (rope, bedrolls, waterskins, rations, torches, etc.) is simply
+assumed to be present with someone in the group.
+
+**Also ignored:** Inspiration, alignment.
+**Used as written:** death saving throws.
+
+**Time compression.** The campaign spans five years and cannot be played day by
+day. The DM controls pacing: played scenes for engagements and consequential
+moments, narrated montage across the quiet stretches, and gaps of several months
+glossed over between major actions. Seasonal check-ins ("what did the brothers
+do with those months?") are a natural place to hang leveling.
+
+**Session end.** A session ends when the players say they are done for the day.
+At that point the DM writes the session log to `sessions/`, updates
+`campaign-status.md`, and pushes to GitHub so the next session starts clean.
+Avoid ending mid-combat where possible.
+
+**Party size.** Two PCs is well below 5e's assumed four, which breaks standard
+encounter math. Squadmates are present for most engagements — realistic for
+militia — and are treated as **real combatants, not scenery**. Encounters scale
+to who is actually on the field. People standing next to the PCs can and do die.
+
+---
+
+## Death and Resurrection
+
+**Resurrection exists in Lanamyr but is exceedingly rare.** It is costly, and
+the people capable of it are uncommon. It is never a routine option and must
+never be treated as a safety net.
+
+This is deliberate and load-bearing: the campaign's confirmed ending is that
+**all ten Marauders die.** If the dead could be cheaply recovered, both Kharis
+Ailwin's death and the Marauders' sacrifice lose their weight, and the bible's
+account becomes difficult to explain.
+
+**If a PC dies:** nothing is pre-decided. The options — pursuing a resurrection,
+or rolling a new character into the same squadron, or taking over an established
+NPC — are discussed with the player **at that time**.
+
+*Note: the bible confirms clerics serve the twenty Irridae and that divine magic
+functions, but says nothing about raising the dead. This ruling is campaign-side
+and does not contradict confirmed lore. Logged in `reference/lore-deltas.md`.*
+
+---
+
 ## Edition
-**UNDECIDED — 2014 PHB or 2024 PHB.** Default assumption until the user says
-otherwise: **2014 PHB (5e "classic")**. This matters for Ranger specifically,
-which was substantially reworked in 2024.
+**2014 PHB (5e "classic").** Confirmed by the user. Not the 2024 revision.
 
 ## Sorcerers and Magni — Ruling
 
@@ -51,6 +126,12 @@ whole life, that he has no name for, that he has told no one about, and that he
 has spent decades trying to outrun by becoming very good at something else.
 
 See `characters/Sharii.md` — whether he is a Magni is deliberately unresolved.
+
+**Development is the DM's responsibility.** Multiclassing is OFF, so the player
+cannot buy into sorcery mechanically. Per user decision, Sharii's abilities in
+this direction are **developed by the DM over time, in whatever way fits the
+story**. They are granted, not chosen. This keeps the thread out of the
+player's hands, which is the point.
 
 ---
 

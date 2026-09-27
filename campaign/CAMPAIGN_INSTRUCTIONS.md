@@ -120,7 +120,18 @@ offensive.
 
 ## 5. Rules
 
-- See `campaign/house-rules.md` for edition, homebrew, and Magni mechanics.
+**`campaign/house-rules.md` is required reading** — it holds all table
+conventions, not just homebrew. Summary of the load-bearing ones:
+
+- **The DM simulates all dice.** Players never roll.
+- **Milestone leveling**, applied at the next long rest after the DM judges a
+  level earned.
+- **2014 PHB**, plus MM, DMG, Xanathar's, Tasha's.
+- **Feats ON. Multiclassing OFF.**
+- Track only gold and key items. Ignore ammo, encumbrance, spell components,
+  Inspiration, alignment.
+- **Resurrection is exceedingly rare, costly, and never a safety net.**
+- Squadmates fight alongside the two PCs and are real combatants who can die.
 - NPCs use standard 5e classes and levels, adapted from bible source material.
 - Magni receive additional homebrew mechanics beyond standard classes.
 

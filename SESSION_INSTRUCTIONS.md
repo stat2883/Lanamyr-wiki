@@ -231,3 +231,22 @@ occasional deliverable, not a substitute for keeping the topic files current.
 - Confirmed lore is locked. Tentative lore is flagged and subject to change.
 - Flag contradictions and arithmetic errors when noticed, rather than papering
   over them.
+
+---
+
+## 10. Campaign Sessions
+
+The `campaign/` directory holds a D&D 5e campaign set in Lanamyr. It is
+**separate from the bible and is not part of bible versioning or the archive.**
+
+**Do not read it during normal world-building sessions.** It is a large amount
+of context that has no bearing on lore work.
+
+Read it **only** when the user indicates they want to play or work on the D&D
+campaign. In that case, start with `campaign/CAMPAIGN_INSTRUCTIONS.md`, which is
+authoritative for all campaign workflow and directs what to read from there.
+
+Campaign material may never contradict confirmed bible lore. Anything
+established during play that belongs in the bible is logged as a candidate in
+`campaign/reference/lore-deltas.md` and promoted only by explicit user decision,
+following §5–7 of this file.

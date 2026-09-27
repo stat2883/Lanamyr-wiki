@@ -92,6 +92,15 @@ Nothing in `campaign/` may contradict `bible/` in the other direction.
 The DM is not required to protect them, fudge rolls in their favor, or engineer
 survival. Play it straight.
 
+**Clarified session 1:** the intent of the ruling above is narrower than it
+reads — PCs are not *immune to consequences of their own choices*, not that
+the DM is barred from ever protecting anyone. Whether to protect a PC in a
+given moment is DM discretion, same as for lesser NPCs. That discretion does
+**not** extend to Mya Li, Kharis Ailwin (before his 392 AW death), Diquyk, or
+Adomorn — the DM should actively keep these from dying off-script to an
+unlucky roll. See `../house-rules.md` → "Roll visibility" for the full policy
+and how it's implemented at the table.
+
 ---
 
 ## 4. NPC Companions

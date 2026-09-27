@@ -62,15 +62,27 @@ to who is actually on the field. People standing next to the PCs can and do die.
 dice. NPC and monster rolls are **not** shown — kept under the hood, with
 room for DM judgment on pacing and outcome.
 
-**⚠ Scope note, not a blanket safety net.** This does *not* supersede the
-lethality ruling in `CAMPAIGN_INSTRUCTIONS.md` §3 ("play it straight... the DM
-is not required to protect them, fudge rolls in their favor, or engineer
-survival") or the general "no fudging in the party's favor" principle at the
-top of this file. Hidden NPC rolls create room for pacing discretion; they are
-not license to protect the PCs from consequences the dice would otherwise
-deliver, and they must never be used in a way that quietly guarantees
-Kharis's death, the Marauders' fate, or any other fixed beat lands softer than
-the fiction earns. If this scope ever needs revisiting, raise it explicitly.
+**⚠ Scope, clarified session 1.** The original "no fudging in the party's
+favor" line above, and the "play it straight" lethality ruling in
+`CAMPAIGN_INSTRUCTIONS.md` §3, were both about one thing: **PCs are not
+immune to the consequences of their own choices.** A death from a poor
+decision is fine and will not be softened.
+
+That is distinct from whether the DM ever protects anyone via the
+hidden NPC rolls above. The actual policy:
+
+- **Plot anchors — protected.** Mya Li, Kharis Ailwin (until his scripted
+  392 AW death), Diquyk, and Adomorn are load-bearing to the story the
+  players chose to tell. The DM should use hidden-roll discretion to keep
+  them from dying prematurely or off-script to an unlucky roll. Their
+  fates land on schedule, not by accident.
+- **Everyone else — DM's call, serving the story.** Lesser NPCs (Wick,
+  Neva, Ohren, Tam, Thale, etc.) and the **PCs themselves** are both left
+  to DM discretion each time it comes up. There is no standing guarantee
+  either way for these two groups — protect, or don't, whichever serves
+  the moment. A PC dying to bad decisions remains always in bounds.
+
+If this scope ever needs revisiting, raise it explicitly.
 
 ---
 

@@ -121,8 +121,12 @@ push. The token must **never** be committed to the repo. Redact it from any
 command output. Suggest the user rotate it after the session if it appeared in
 conversation.
 
-**Git identity:** if git prompts for an author identity, ask the user rather
-than guessing at an email address.
+**Git identity:** commits to this repo are always authored as
+`stat2883 <stat2883@users.noreply.github.com>`. Set this before the first
+commit of any session — do not ask, and never substitute a different name or
+invent an email address. Verify with `git log -1 --format='%an <%ae>'` after
+committing; if the author is anything else, the identity was set wrong and
+must be corrected before pushing.
 
 ---
 

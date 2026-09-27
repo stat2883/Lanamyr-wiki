@@ -4,8 +4,8 @@
 **Race:** Wood Elf (male) · **Class:** Ranger · **Background:** Outlander
 **Age:** 45 (born 342 AW) — young adult by Wood Elf standards (42–62)
 **Twin brother of Sharii** — Alinar is the younger by a few minutes
-**Level:** 2
-**Combat focus:** Dual-wielding melee, finesse weapons
+**Level:** 3
+**Combat focus:** Dual-wielding melee, finesse weapons · Hunter (Colossus Slayer)
 
 ---
 
@@ -34,8 +34,8 @@ Raw set: 16, 15, 14, 11, 11, 9 — total 76.*
 - **Armor Class:** 15 (leather armor 11 + Dex 4)
 - **Initiative:** +4
 - **Speed:** 35 ft (Fleet of Foot)
-- **Hit Dice:** 2d10
-- **Hit Points:** 20 (10 + Con 2, then 6 + Con 2)
+- **Hit Dice:** 3d10
+- **Hit Points:** 28 (10 + Con 2, then 6 + Con 2, then 6 + Con 2)
 - **Passive Perception:** 15
 
 ### Saving Throws
@@ -114,16 +114,36 @@ included in the attack table above.)
 ### Spellcasting
 Wisdom-based. **Spell save DC 13 · Spell attack +5.**
 
-- **Spell Slots:** 2 × 1st level
-- **Spells Known (2):**
+- **Spell Slots:** 3 × 1st level
+- **Spells Known (3):**
   - **Hunter's Mark** — bonus action, +1d6 damage on every hit against one
     target, 1 hour, **concentration**.
   - **Fog Cloud** — 20 ft radius heavily obscured sphere, 1 hour,
     **concentration**.
+  - **Ensnaring Strike** — bonus action on a weapon hit, target restrained by
+    thorny vines, 1 minute, **concentration**.
 
-**⚠ Concentration conflict:** both of Alinar's spells require concentration.
-He can never run Hunter's Mark and Fog Cloud simultaneously. Every fight
-forces a choice between damage and escape.
+**⚠ Concentration conflict:** all three of Alinar's spells require
+concentration. He can only ever have one active at a time. Every fight forces
+a choice between damage, escape, and control.
+
+---
+
+## Class Features — Level 3
+
+### Ranger Archetype: Hunter — Colossus Slayer
+Once per turn, when Alinar hits a creature with a weapon attack and that
+creature is below its hit point maximum, the attack deals an extra
+**1d8 damage**. No action cost. Particularly brutal against large, tough
+single targets — proved out immediately against the Stone Giants in the
+Ashwell engagement (session 1).
+
+### Primeval Awareness
+Action, expend a spell slot: sense the presence (not location or number) of
+aberrations, celestials, dragons, elementals, fey, fiends, or undead within
+1 mile — 6 miles in favored terrain (**forest**, for Alinar). Creatures of
+Olum do not register on this list at this table — ruled monstrosities, not
+undead (see `../house-rules.md`).
 
 ---
 

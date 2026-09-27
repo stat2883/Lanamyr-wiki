@@ -1,18 +1,22 @@
 # Campaign Status
 
-**Last updated:** Session 0 — setup complete. Characters finished at level 2.
-Campaign has not yet begun; no sessions played.
+**Last updated:** Session 1 complete — first patrol and first combat played.
+Both PCs milestone-leveled to 3 at the long rest closing the session.
 
 ---
 
 ## Current State
 
-- **In-world date:** 387 AW, 3rd Epoch — not yet fixed to a season. Campaign
-  opens with the party's arrival at the militia.
-- **Party location:** Caldalus, Faelyn (intended opening — not yet played).
-- **Party level:** Creating at 1, advancing to 2 before play begins as a test
-  of the leveling process.
-- **Status:** Character creation in progress. No sessions played.
+- **In-world date:** 387 AW, 3rd Epoch — autumn, night after the Ashwell
+  engagement. Season now fixed (autumn) as of session 1.
+- **Party location:** Ashwell, a small farming settlement half a day's travel
+  south-southeast of the squadron's first patrol position — DM-invented,
+  not in the bible. Squadron is bedded down on floor space offered by the
+  village headman, Aldric.
+- **Party level:** **3** (milestone level-up at the long rest ending session 1).
+  Full HP and spell slots restored.
+- **Status:** Session 1 played and closed. Long rest taken. Ready to open
+  session 2.
 
 ---
 
@@ -20,8 +24,8 @@ Campaign has not yet begun; no sessions played.
 
 | PC | Player | Race | Class | Level | Notes |
 |---|---|---|---|---|---|
-| Sharii | Player 1 | Wood Elf (male) | Ranger | **2** | Elder twin. AC 15, HP 18. Archery. WIS 18 / CHA 18. Scale mail — Stealth disadvantage. Has *Unbidden*. |
-| Alinar | Player 2 | Wood Elf (male) | Ranger | **2** | Younger twin. AC 15, HP 20. Two-weapon melee. DEX 18. Stealth +6. |
+| Sharii | Player 1 | Wood Elf (male) | Ranger (Beast Master) | **3** | Elder twin. AC 15, HP 25. Archery. WIS 18 / CHA 18. Scale mail — Stealth disadvantage. Has *Unbidden*. Companion: **Knight**, a black wolf, acquired at Ashwell (session 1). |
+| Alinar | Player 2 | Wood Elf (male) | Ranger (Hunter — Colossus Slayer) | **3** | Younger twin. AC 15, HP 28. Two-weapon melee. DEX 18. Stealth +6. Colossus Slayer proved out immediately against the Stone Giants. |
 
 **Twin brothers**, both 45 in 387 AW.
 
@@ -45,6 +49,9 @@ the DM is not required to protect them.
    and determines how hard Kharis's death lands in 392.
 4. **Whether Sharii's borrowed conviction becomes his own.** He enlisted because
    Alinar did. Five years is a long time.
+5. **Knight, Sharii's wolf companion.** Found orphaned at Ashwell's treeline
+   after the giants tore through the area, session 1. Narrative
+   significance beyond a Beast Master mechanic: undeveloped, open to play.
 
 ---
 
@@ -52,10 +59,10 @@ the DM is not required to protect them.
 
 | NPC | Status | Notes |
 |---|---|---|
-| Mya Li | Alive, age 40 in 387 AW | **Same squadron as the PCs.** Raw recruit, no rank. Insists on no special treatment. See `npcs/mya-li.md`. |
+| Mya Li | Alive, age 40 in 387 AW | **Same squadron as the PCs.** Raw recruit, no rank. Insists on no special treatment. Stood alone over unconscious Neva against a Stone Giant at Ashwell (session 1), took a heavy hit, held the line. Early flash of what she becomes. See `npcs/mya-li.md`. |
 | Kharis Ailwin | Alive, age 40 in 387 AW | **Same squadron as the PCs.** Family killed in Stone Giant attack. **Dies 392 AW.** See `npcs/kharis-ailwin.md`. |
 | Sgt. Serwyn Thale | Alive | Squadron sergeant, the twins' direct superior. |
-| Neva Corrin | Alive | Squadron's best archer. Will needle Sharii about the scale mail. |
+| Neva Corrin | Alive | Squadron's best archer. Will needle Sharii about the scale mail. **Dropped to 0 HP at Ashwell (session 1), stabilized by Sharii's Cure Wounds.** First brush with real mortality — may shift her deflection/bravado over time. |
 | Bellis Ordow | Alive | Quartermaster, gossip hub, no combat value. |
 | Ohren Kade | Alive | Hillfolk human, eager, mediocre. |
 | Wick Pallowen | Alive | Woodland Gnome scout. Natural pair with Alinar. |
@@ -80,7 +87,15 @@ the DM is not required to protect them.
 - **RESOLVED:** *Unbidden* house rule for Sharii — see `house-rules.md`.
 - Personality details — ideals, bonds, flaws — remain undeveloped for both PCs.
   Intended to emerge through play rather than be written up front.
-- **Session 1 has not been run.** Opening scene not yet chosen.
+- **RESOLVED:** Session 1 played — recruitment, muster, first patrol, and
+  first combat (two Stone Giants at Ashwell). See `sessions/001-ashwell.md`.
+- **RESOLVED:** Archetypes chosen — Sharii: Beast Master (Knight). Alinar:
+  Hunter (Colossus Slayer).
+- **RESOLVED (session 1):** Two new house rules adopted — free weapon
+  switching, and DM-hidden NPC rolls with scoped discretion (see
+  `house-rules.md` for the full text and the scope caveat tied to the
+  lethality ruling).
+- **Session 2 has not been run.** Opens at Ashwell, morning after the fight.
 
 ### Age Note (bible inconsistency flagged)
 `Lanamyr_02_Overview_Cosmology.txt` lists Wood Elf childhood as 0–42 and young

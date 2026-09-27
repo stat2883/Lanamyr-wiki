@@ -4,8 +4,8 @@
 **Race:** Wood Elf (male) · **Class:** Ranger · **Background:** Outlander
 **Age:** 45 (born 342 AW) — young adult by Wood Elf standards (42–62)
 **Twin brother of Alinar** — Sharii is the elder by a few minutes
-**Level:** 2
-**Combat focus:** Ranged (longbow)
+**Level:** 3
+**Combat focus:** Ranged (longbow) · Beast Master (companion: Knight)
 
 ---
 
@@ -32,8 +32,8 @@ knowingly non-optimal.*
 - **Armor Class:** 15 (scale mail 14 + Dex 1, max +2)
 - **Initiative:** +1
 - **Speed:** 35 ft (Fleet of Foot)
-- **Hit Dice:** 2d10
-- **Hit Points:** 18 (10 + Con 1, then 6 + Con 1)
+- **Hit Dice:** 3d10
+- **Hit Points:** 25 (10 + Con 1, then 6 + Con 1, then 6 + Con 1)
 - **Passive Perception:** 16
 
 ### Saving Throws
@@ -108,10 +108,49 @@ attack bonus above.)
 ### Spellcasting
 Wisdom-based. **Spell save DC 14 · Spell attack +6.**
 
-- **Spell Slots:** 2 × 1st level
-- **Spells Known (2):**
+- **Spell Slots:** 3 × 1st level
+- **Spells Known (3):**
   - **Cure Wounds** — touch, heals 1d8+4. The party has no other healing.
   - **Speak with Animals** — 10 minutes, converse with beasts.
+  - **Longstrider** — touch, +10 ft speed for 1 hour.
+
+---
+
+## Class Features — Level 3
+
+### Ranger Archetype: Beast Master
+Gains an animal companion.
+
+### Primeval Awareness
+Action, expend a spell slot: sense the presence (not location or number) of
+aberrations, celestials, dragons, elementals, fey, fiends, or undead within
+1 mile — 6 miles in favored terrain (**forest**, for Sharii). Creatures of
+Olum do not register on this list at this table — ruled monstrosities, not
+undead (see Alinar's sheet and `house-rules.md`).
+
+---
+
+## Companion — Knight
+
+Black wolf, found orphaned at the wood's edge in the aftermath of the Ashwell
+engagement (session 1) — den or pack likely scattered by the fighting. Did
+not run from Sharii; simply never left. Shares Sharii's initiative and acts
+immediately after him. On his own, can only Dash, Disengage, Dodge, or Help;
+anything else requires a bonus action command from Sharii (no action
+required once Sharii reaches 7th level).
+
+- **AC** 13 · **HP** 12 (4 × ranger level) · **Speed** 40 ft
+- **STR** +1 · **DEX** +2 · **CON** +1 · **INT** −4 · **WIS** +1 · **CHA** −2
+- **Bite:** +4 to hit, **1d4+2** piercing. Target fails a **DC 11 Strength
+  save** or is knocked prone.
+- **Pack Tactics:** advantage on attacks against a creature if another of
+  Knight's allies is within 5 ft of it and not incapacitated.
+- **Keen Hearing and Smell:** advantage on Perception checks relying on
+  hearing or smell.
+- **Skills:** Perception +3, Stealth +4
+
+*Full stat block also maintained in
+`../npcs/combat-blocks.md` for DM reference during encounters.*
 
 ---
 

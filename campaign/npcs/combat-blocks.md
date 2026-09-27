@@ -46,6 +46,23 @@ significance is narrative; outshining the PCs mechanically undercuts both.
 
 ---
 
+## Knight (Sharii's Companion)
+**Wolf, Beast Master companion** · scales with Sharii's ranger level (3)
+*See `../characters/Sharii.md` for narrative origin.*
+
+- **AC** 13 · **HP** 12 (4 × ranger level) · **Speed** 40 ft
+- **STR** +1 · **DEX** +2 · **CON** +1 · **INT** −4 · **WIS** +1 · **CHA** −2
+- **Bite** +4 to hit, 1d4+2 piercing. DC 11 Strength save or prone.
+- **Pack Tactics:** advantage on attacks vs. a creature if another of
+  Knight's allies is within 5 ft of it and not incapacitated.
+- **Keen Hearing and Smell:** advantage on Perception (hearing/smell).
+- **Skills:** Perception +3, Stealth +4
+- Shares Sharii's initiative, acts immediately after him. Only self-directed
+  actions: Dash, Disengage, Dodge, Help. Anything else needs a bonus-action
+  command from Sharii (free at ranger level 7+).
+
+---
+
 ## Sergeant Serwyn Thale
 **Fighter 3 (Champion)** · Wood Elf, 212 · Squadron sergeant
 

@@ -54,6 +54,24 @@ encounter math. Squadmates are present for most engagements — realistic for
 militia — and are treated as **real combatants, not scenery**. Encounters scale
 to who is actually on the field. People standing next to the PCs can and do die.
 
+**Free weapon switching.** Switching which equipped weapon(s) a PC is wielding
+(e.g., longbow to shortswords) costs no action. Established session 1.
+
+**Roll visibility.** From session 1 onward, the DM shows player-facing rolls
+(PC attacks, saves, skill checks) in full, including the modifiers and raw
+dice. NPC and monster rolls are **not** shown — kept under the hood, with
+room for DM judgment on pacing and outcome.
+
+**⚠ Scope note, not a blanket safety net.** This does *not* supersede the
+lethality ruling in `CAMPAIGN_INSTRUCTIONS.md` §3 ("play it straight... the DM
+is not required to protect them, fudge rolls in their favor, or engineer
+survival") or the general "no fudging in the party's favor" principle at the
+top of this file. Hidden NPC rolls create room for pacing discretion; they are
+not license to protect the PCs from consequences the dice would otherwise
+deliver, and they must never be used in a way that quietly guarantees
+Kharis's death, the Marauders' fate, or any other fixed beat lands softer than
+the fiction earns. If this scope ever needs revisiting, raise it explicitly.
+
 ---
 
 ## Death and Resurrection

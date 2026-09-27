@@ -48,3 +48,64 @@ And a woman with green eyes, which is uncommon among Wood Elves, who would very
 much prefer that nobody mention whose daughter she is.
 
 *Next: the recruitment line.*
+
+---
+
+## Session 1 — Ashwell
+
+*387 AW. Caldalus to the Tempest foothills to a burning village and back.*
+
+They stood in the recruitment line and told Sergeant Thale the truth, more or
+less: foragers, hunters, the occasional bear when one got too curious. Thale
+didn't laugh. He wrote it down and put them where self-sufficiency mattered
+more than swordwork.
+
+The first night in the barracks, Sharii found the woman with green eyes and
+learned nothing of her family and something of her reasons — she's here to
+become something she chose instead of something she was handed, same as him.
+She warned him, gently, not to go digging at the quiet man's history. Alinar
+found the gnome, Wick, and discovered a partner in the specific, particular
+art of not being seen. And somewhere in the middle of an evening full of
+stew and bad jokes, Sharii wore his scale mail like an argument and won it —
+Neva Corrin, the squadron's best archer, decided he was **bear bait**, said
+it like an insult, and hasn't managed to make it sound like one since.
+
+Weeks of drill went by in a blur of forms and marches, the way training does.
+Then, word came down: Stone Giants, closer than anyone alive remembers them
+coming. Not a drill. A patrol, into ground that might have something looking
+back.
+
+They found the first track on the second day — a footprint the size of a
+cart wheel, a day old, heading the wrong direction: toward people, not away
+from them. Alinar found a second track nobody else had caught, smaller,
+staggered half a day behind the first. Two giants. Not walking together.
+Nobody knew why, and there wasn't time to wonder — a small farming
+settlement called Ashwell sat directly in their path, closer than home.
+
+They pushed the last daylight hard and got there anyway too late to stop the
+burning. Smoke over a barn and a grain store. Two giants already inside the
+fences, and villagers running for a treeline that wasn't nearly far enough.
+
+What followed was the worst two minutes any of them had lived through. Sharii
+ran straight at one of them, loud on purpose, bear bait for real this time,
+and led it away from the fleeing villagers into an ambush that very nearly
+wasn't fast enough — he went down under a blow that should have killed him,
+came back from the edge of it on nothing but luck, and was on his feet again
+before the giant even finished falling. Alinar closed to blades and helped
+finish what the arrows started. Somewhere behind them, Mya Li stood alone
+over an unconscious Neva Corrin and held a second giant off her with nothing
+but her own two blades and whatever it is that makes her the kind of person
+who does that, and didn't move until it was dead too.
+
+By the time the smoke cleared, both giants were down. Nobody in the squadron
+died. Sharii healed Neva back to her feet, and the first thing out of her
+mouth was an insult, which everyone took as a good sign. The village headman,
+a farmer named Aldric, gave them floor space for the night and more
+gratitude than either brother knew what to do with.
+
+Somewhere in the trees near the ruined fences, a black wolf pup watched the
+whole thing from a safe distance and, for reasons of his own, decided not to
+leave. Sharii named him Knight.
+
+*Next: whatever Ashwell needs in the morning — and whatever's out there that
+made two giants leave home at the same time, going the same way, alone.*

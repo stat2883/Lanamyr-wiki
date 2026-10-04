@@ -141,6 +141,44 @@ those ruins is left open — and if they ever recover a text describing the
 Drasu-only seal, they will hold a door they cannot open and the memory of the
 only key in the world.
 
+### Added — how Diquyk survived the final battle
+
+The end of the Elf War previously stopped at "they switched to physical combat
+and he was banished," which explained why he stopped getting stronger but not
+why he lived. He lives because of a barrier he threw up at the last instant,
+beaten to the edge of death — near-reflexive rather than tactical, a body
+protecting itself. Nothing could break it. Mya beat against it in fury and it
+held.
+
+Adomorn read it as a shell behind which Diquyk would recover and draw fresh
+energy, and acted before that could happen: he tore a doorway into the
+banishment plane. That casting went uncontested. Diquyk's ability to seize a
+spell mid-cast never depended on what he had stored — it was simply what he was
+— but he was beaten past the point of reacting. Mya and Adomorn pushed him
+through still sealed inside his own barrier, and Adomorn closed it behind him.
+The thing that preserved him is the thing that made him movable, which is the
+shape of his whole arc in miniature.
+
+This also establishes that Adomorn can open a door to another plane directly.
+Whether his working and Diquyk's gate-craft are the same thing is left open.
+
+### Added — why Adomorn has never banished the Abaculus
+
+A consequence of the above, recorded before it could become a hole. Exile is not
+containment. The ambient energy of Lanamyr is the only thing masking the
+Abaculus; removing it from this dimension would strip that cover and leave it
+exposed to any Irridae able to search. Adomorn would also lose sight of it
+permanently and could never account for where it went or who reached it. This is
+why the solution he pursued early in the 2nd Epoch was a chamber that masks
+rather than a door that removes, and it makes Heaven's Oak the right answer
+rather than merely the available one.
+
+### Corrected — Faelyn's location
+
+Faelyn's 3rd Epoch entry described it as occupying the "eastern and lower western
+arm" of Alios, which contradicted the Wood Elf origin point, the Road running
+west from Fardar, and the Epoch 3 map. It sits in the western arm.
+
 ### Still unresolved, carried forward
 
 The identity of the founding ruler and the date of the decree; the length of time

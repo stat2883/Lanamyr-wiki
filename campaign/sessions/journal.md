@@ -109,3 +109,136 @@ leave. Sharii named him Knight.
 
 *Next: whatever Ashwell needs in the morning — and whatever's out there that
 made two giants leave home at the same time, going the same way, alone.*
+
+---
+
+## Session 2 — The Hall Under the Tempest Peaks
+
+*387 AW. Ashwell, a hole in a mountain, and a captain's office in Caldalus.*
+
+Morning after the giants. Alinar went round Ashwell with a tally and came back
+with two problems: the village had lost its seed corn along with its bread, and
+two of its people weren't in it. An old woman named Hestra Fenn and her grandson
+Coll, nine years old, gone up the north draw with the goats the day before the
+giants came through.
+
+Sharii spent a spell talking to the wolf, which turned out to be the single most
+useful thing anyone did all day. Knight's mother had moved the den four or five
+nights before any giant came near — moved them downhill, at night, one at a
+time, frightened in a way her pup had never smelled on her before. Not of
+giants. He has a whole separate smell for giants. Of something else that had
+come through the ridge on two legs and never made a sound. Cold, he said. It
+smelled of being *underneath*.
+
+Sharii told that to Thale in front of everyone and added that an animal hasn't
+got the equipment to lie, and that everyone else standing in the yard had.
+Thale took the wolf as a witness. Then Sharii turned to Mya and asked her
+opinion first, by name, before anyone else's, which she understood perfectly
+and said nothing about.
+
+They went up the draw. They found the goats, and a dead one bled clean with a
+single haunch taken, and the boy wedged in a gap between two boulders where he
+had been for thirty hours because his grandmother told him to stay there. And
+they found a crack in the ridge that wasn't a crack — chisel work decades old,
+steps cut into the floor, and warm air coming out of it in autumn.
+
+Six of them went down. The stair came out onto a corridor that was already
+there: dressed stone, three hundred and fifty feet of it, writing cut at chest
+height the whole length in a hand none of them could read. At the end of it a
+collapse, with a crawl pulled through and the stones stacked tidily to one side,
+and on the far side of twelve feet of rubble somebody tapping a rock on the
+floor. Three strikes. Pause. Over and over, for a day and a half, by a blind
+old woman with a broken ankle who had decided that was what you did.
+
+Alinar went in first, on his stomach. Sharii followed, because that's what
+Sharii does. Mya took off her chain shirt and came third. Knight would not go
+near the hole and nothing on earth was going to make him.
+
+What was on the other side was not a cave. Pillars going off further than
+anyone's eyes reached, a floor and walls carved over with the same writing,
+and the air warm and dry and dead still. Hestra was propped against a post with
+water set by one hand and food by the other and three fresh scratches cut into
+the stone above her head. They'd taken her, waited when her ankle went, never
+said one word to her or to each other, left her alive, and gone off into the
+dark. *You don't water a thing you've finished with*, she said. *They're coming
+back for me.*
+
+They got her out. On the way, something a hundred feet off in the pillars
+switched a light on — pale, steady, no flame, sitting over a stone box somebody
+had carried down there and set on the floor inside a circle of freshly cut
+writing. Then a second light, further out. Then a third. The second one went
+dark and came on again closer without ever crossing the ground in between.
+Alinar was the last man into the crawl and got the only clear look at any of it.
+Behind them, as they formed up to run, somebody set a stone down neatly on stone
+at the far end of the hole.
+
+Nothing followed them. Three hundred and fifty feet of corridor, forty of stair,
+and out into grey daylight and Neva Corrin's drawn bow. They walked through
+Ashwell and kept walking, in the dark, four days to Caldalus.
+
+The report did not go well at first. Captain Vaeroth has four hundred years of
+survey telling him there is nothing under the Tempest Peaks but rock, and three
+recruits, a sergeant and a blind woman telling him otherwise. Mya argued it on
+the arithmetic — if we're wrong you waste a scouting party, if we're right and
+you do nothing then in six months something comes out of a door in our own
+border that we knew about. He asked her whether that was her assessment or her
+father's. She said she hadn't spoken to her father in six weeks.
+
+Then Sharii called her the princess, in front of the captain, and the room went
+cold — and instead of backing out of it he went further in. He told Vaeroth
+about the thing that happens to him. The presence. Less than a dozen times in a
+life, never pleasant, always leaving him weak, and twice in one day under that
+mountain. And then he said, to her and not to the captain, that he hadn't
+invoked her title for its weight; he'd done it because she had put her name at
+risk by opening her mouth at all, and somebody ought to say so.
+
+It was a reckless thing to do and it worked. Vaeroth didn't laugh. He said his
+grandmother had had something like it, and that he wasn't going to pretend it
+wasn't real in front of three witnesses who'd watched it work, and that he
+wasn't going to write it down either — because the first tactician who reads
+*the scout had a feeling* stops reading. He told Sharii plainly that covering
+him and using him were the same act.
+
+What actually turned the captain was Alinar, reciting a flat list with no
+adjectives in it. Raiders take the whole goat; these ones bled it and took a
+haunch, which is rationing, which means they mean to stay. They don't speak,
+which means either they can't or they've a way of speaking you can't hear. They
+left a prisoner watered against a marked post, which is not mercy and not
+carelessness — that's a thing set aside to be collected. And they're installing
+equipment, in a line, inside a building they can read and you can't.
+
+*They're not squatters, Sergeant. They're a working party. Somebody sent them,
+somebody is supplying them, and somebody expects a result.*
+
+And the hall runs north. Under the Peaks. The direction everything has come
+from since midsummer.
+
+Survey party authorised. Twenty, with engineers, inside the week. A second
+letter over the captain's own seal to Faelyn's tacticians saying that in his
+judgement the giants are not the whole of what is happening to us. And Ashwell's
+grain submitted as a requisition rather than a request.
+
+Eight days in the capital after that. Sharii spent his mornings with the wolf
+and the rest of his slots on it, and came out the other end with a set of hand
+signals Knight will answer without any magic at all — and the discovery that the
+animal can tell when the thing happens to him. His afternoons went on getting
+out of the scale mail, which took a leatherworker Bellis knows, all of Alinar's
+money, eight gold from Neva Corrin that she will deny to her grave, and a hazard
+payment Thale appears to have invented on the spot.
+
+Alinar spent his eight days on paper. It turns out Ashwell isn't a chartered
+settlement — four families on crown ground — and crown grain comes out against
+charters, and there isn't a box on the form for forty-one people who simply
+exist. He went back to the same desk four days running and read the same list of
+names until somebody dealt with him. He got forty days of flour out of a militia
+column, and then, by accident on the fifth day, he found a different store under
+a different office with a box on the form for crown ground under cultivation.
+
+Seed corn. Ashwell can plant in the spring. That was the one that was going to
+kill them, and a clerk named Ivell Sarrow told him the rest of the answer on the
+way out: get them attached to a bigger village's roll and they stop being
+invisible. A place called Dorn's Ford, a day east, with a mill.
+
+*Next: back up the draw. Twenty surveyors and engineers, the whole squadron as
+escort, the flour and the seed corn on the carts — and Captain Vaeroth coming
+up that mountain himself.*

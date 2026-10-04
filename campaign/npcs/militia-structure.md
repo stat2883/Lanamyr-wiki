@@ -87,6 +87,13 @@ squadron can take** — he should be likable and he should not be protected.
 
 ---
 
+### Dalla Sarn
+Wood Elf. Previously one of the unnamed ten; named in session 2 when she
+escorted Coll Fenn down the north draw alongside Wick Pallowen. No further
+detail established. Use **Guard** (MM 347).
+
+---
+
 ## Company Command
 
 ### Captain Ilyen Vaeroth

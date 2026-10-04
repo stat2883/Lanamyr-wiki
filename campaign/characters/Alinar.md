@@ -166,7 +166,11 @@ undead (see `../house-rules.md`).
   waterskin, 50 ft hempen rope)
 
 Outlander gear: staff, hunting trap, a trophy from a past hunt, traveler's
-clothes, belt pouch with 10 gp.
+clothes, belt pouch. **0 gp** — he handed his entire 10 gp to Sharii toward the
+studded leather in session 2, without being asked and without comment.
+
+Also carrying: a jar of apple preserve, pressed on him by Aldric of Ashwell,
+who had nothing else to give and apologised for it.
 
 ---
 
@@ -210,12 +214,25 @@ at the time.
 to stand by. They enlisted for the same reason, from opposite ends of Faelyn's
 society. Worth surfacing in play if the moment comes.
 
-**Personality, ideals, bonds, flaws:** undeveloped.
+**Personality, ideals, bonds, flaws:** undeveloped as declared traits — and
+deliberately so. See **`behavior-log.md`** for the dated record of what he has
+actually done, which is what the DM should reason from.
+
+**One thing the log has surfaced (sessions 1–2):** Alinar leads by *going
+first* rather than by arguing. He committed silently to not leaving the hall
+without Hestra and never said so out loud. He opens decisions to the room — the
+boy at the meadow shelf — and then moves without waiting once the room has
+spoken. He is persuasive precisely because he does not attempt to be: the flat,
+adjective-free list he gave Captain Vaeroth is what turned the man, not
+Sharii's argument.
 
 ---
 
 ## Open Items
 
-- Personality, ideals, bonds, flaws.
+- Personality, ideals, bonds, flaws — accumulating in `behavior-log.md` rather
+  than being written up front.
 - Appearance details.
 - Does Alinar know Sharii gave up the pull toward magic to follow him?
+- **Who taught the twins Ukuri, and why.** Both brothers speak Dark Elf. Neither
+  has ever thought to ask. Live as of session 2.

@@ -111,6 +111,47 @@ takes the **Bow of the Dales** from Shedyak in the final battle. Stats in
 
 ---
 
+## Her Judgement of the PCs — Running Record
+
+Per the instruction above, tracked and updated as play shifts it.
+
+**Session 1.** Met Sharii the first evening in the barracks. He asked nothing
+about her family; she volunteered nothing. The conversation turned to why he
+followed his brother, and he gave her a truthful but incomplete answer. She
+noticed the extra weight in it and filed it without pressing. She asked him to
+go gently on Kharis's history. **Neutral-positive. Curious.**
+
+**Session 2, Ashwell.** Sharii asked for her opinion **first, by name, in front
+of the whole squadron**, specifically so that she would be heard as a soldier.
+She knew exactly what he had done. She did not thank him and will not. **She
+put it somewhere she keeps things.** Her recommendation was substantially what
+the sergeant adopted — the first time anyone has acted on her judgement.
+
+**Session 2, the hall.** Watched Sharii's *Unbidden* fire twice. The second
+time it dropped him to one knee and she was three feet away. Her response was
+to ask **"Which direction"** and nothing else — treating him as an instrument
+rather than a problem, which was the fastest and least kind thing available and
+exactly what he needed. On the road afterward she told him plainly: *it's
+yours; if it becomes the squadron's you'll tell me and I'll believe you; until
+then I don't need to know what it is, I need to know I can use it.*
+
+**Session 2, Caldalus.** Sharii called her "the princess" in a captain's office
+— the one word nobody has said in front of her in six weeks. Then, rather than
+retreat, he disclosed his own secret to a superior officer and named why he had
+invoked her: not for the weight of her title, but for **the risk to her
+identity that she took by speaking at all.** Vaeroth corrected him on the
+politics of it; she defended him anyway ("He didn't know, sir"). Afterward, in
+the corridor: *"That was the single stupidest thing anyone has done for me since
+I enlisted. Don't do it again."* And then, without turning round: *"I noticed."*
+
+**Current standing:** strongly positive, and specific. She has not decided they
+are friends. She has decided they are **people who do the thing rather than the
+easy version of the thing**, and she has begun relying on that. Alinar she
+rates for competence and for going first; Sharii she rates for seeing what
+things cost people.
+
+---
+
 ## Hard Limits — What She Cannot Know
 
 - The **Abaculus** exists or directed the war.

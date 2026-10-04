@@ -29,7 +29,7 @@ knowingly non-optimal.*
 ## Core Statistics
 
 - **Proficiency Bonus:** +2
-- **Armor Class:** 15 (scale mail 14 + Dex 1, max +2)
+- **Armor Class:** 13 (studded leather 12 + Dex 1) — *scale mail traded away, session 2*
 - **Initiative:** +1
 - **Speed:** 35 ft (Fleet of Foot)
 - **Hit Dice:** 3d10
@@ -152,6 +152,33 @@ required once Sharii reaches 7th level).
 *Full stat block also maintained in
 `../npcs/combat-blocks.md` for DM reference during encounters.*
 
+### Working vocabulary (established session 2)
+
+Eight days in Caldalus, three *Speak with Animals* castings a day, spent finding
+out what Knight already understands rather than teaching him obedience. The
+discovery that reframed it: Knight had already assigned himself a job — *be
+between Sharii and the thing* — and every attempt to train him out of it failed
+while everything built inside it worked immediately.
+
+**No change to the statblock.** What exists now is fiction that functions
+without the spell:
+
+- **Flat hand, palm down** — stop and go quiet. Instant, held, reliable.
+- **Two fingers and a direction** — go there and wait. Reliable inside ~40 ft;
+  unreliable beyond it, and he will abandon it if he thinks Sharii has moved.
+- **Low whistle through the teeth** — come back now, no questions.
+- **Knight's own signal:** a hard, silent shoulder-press against Sharii's leg,
+  meaning *something is wrong and I am not going to explain.* He did it twice on
+  the meadow shelf. Sharii treats it as an order.
+
+**Known limits:** cannot count past three; cannot tell dangerous from merely
+present except by smell and movement; will not go where he cannot smell Sharii;
+is four months old and chases cats.
+
+**And one thing nobody asked for:** on the seventh day, Unbidden brushed Sharii
+during a drill and Knight's head came up and looked straight at *him*, not at a
+sound. **The wolf can tell when it happens.**
+
 ---
 
 ## House Rule — Unbidden
@@ -183,18 +210,26 @@ intent.
 
 ## Equipment
 
-- **Scale mail** (AC 14 + Dex max 2) — **disadvantage on Stealth checks**
+- **Studded leather** (AC 12 + Dex) — **no Stealth penalty**
 - Two shortswords
 - Longbow, quiver of 20 arrows
 - Explorer's pack (bedroll, mess kit, tinderbox, 10 torches, 10 days rations,
   waterskin, 50 ft hempen rope)
 
-**Stealth consequence:** Sharii rolls Stealth at +1 with disadvantage. In a
-two-elf scouting unit where Alinar rolls +6, Sharii is the loud one. Play this
-straight — it should shape how the brothers operate on patrol.
+**The armor trade (session 2).** Sharii left the scale mail in Ashwell before
+going up the north draw rather than be the loud one on the approach, then spent
+eight days in Caldalus replacing it permanently. The quartermaster refused a
+swap; it took a leatherworker of Bellis's, all of Alinar's money, 8 gp from Neva
+Corrin that she denies, and a hazard disbursement Thale appears to have invented.
+
+**He has traded AC 15 for AC 13.** Stealth is now a clean **+1** instead of +1
+with disadvantage — he is still not quiet, merely survivable to stand next to.
+With 25 HP and a documented habit of running at large things on purpose, this is
+a dangerous bargain. The player made it knowingly and asked that it not be
+softened. **Play it straight.**
 
 Outlander gear: staff, hunting trap, a trophy from a past hunt, traveler's
-clothes, belt pouch with 10 gp.
+clothes, belt pouch. **0 gp** (spent on the studded leather, session 2).
 
 ---
 
@@ -260,11 +295,16 @@ He did not enlist out of conviction. He enlisted because his brother did. Over
 five years of war, whether that becomes conviction of his own is an open
 question and a live thread.
 
-**Personality, ideals, bonds, flaws:** undeveloped.
+**Personality, ideals, bonds, flaws:** undeveloped as declared traits — and
+deliberately so. See **`behavior-log.md`** for the dated record of what he has
+actually done, which is what the DM should reason from.
 
 ---
 
 ## Open Items
 
-- Personality, ideals, bonds, flaws.
+- Personality, ideals, bonds, flaws — accumulating in `behavior-log.md` rather
+  than being written up front.
 - Appearance details.
+- **Who taught the twins Ukuri, and why.** Both brothers speak Dark Elf. Neither
+  has ever thought to ask. Live as of session 2.

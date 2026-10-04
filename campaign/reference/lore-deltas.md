@@ -77,6 +77,56 @@ would need to change.
 - **Recommendation: DO NOT PROMOTE.** Game statistics are table mechanics, not
   lore. The bible has no need of them.
 
+### Campaign locations and NPCs invented in play — NOT for promotion
+- **Established:** **Ashwell** (small unchartered farming settlement, ~41
+  people, half a day south-southeast of the meadow shelf, headman **Aldric**);
+  **Dorn's Ford** (larger village with a mill, a day east of Ashwell); the
+  **north draw** and its meadow shelf; **Hestra Fenn** and **Coll Fenn**;
+  **Ivell Sarrow**, granary clerk in Caldalus; **Dalla Sarn**, militiaman.
+- **Source:** Sessions 1 and 2.
+- **Recommendation: DO NOT PROMOTE.** Table scaffolding at a scale far below
+  anything the bible tracks. Logged here for transparency only.
+
+### The hall under the Tempest Peaks — campaign-invented, HANDLE WITH CARE
+- **Established in play (session 2):** beneath the Tempest Peaks, reached by a
+  seam in the ridge above a goat meadow with decades-old chisel work and cut
+  steps. Below it a T-junction onto a corridor that was already there: 350 ft,
+  dressed and squared, continuous inscription at chest height in a script that
+  is **not Aiwiya, Common or Ukuri**. Past an old collapse, a pillared hall of
+  unknown extent, similarly inscribed. Occupied in 387 AW by a silent,
+  disciplined, self-supplied working party installing stone cubes with
+  flameless lights inside freshly cut inscription circles.
+- **Bible status:** the bible says nothing about anything beneath the Tempest
+  Peaks. Confirmed lore gives the Peaks as the origin of the Stone Giants and
+  the northern front of the Elf War; `Lanamyr_03_Geography.txt` describes them
+  only as a range of significant elevation. **Nothing here contradicts
+  confirmed lore.** It fills a silence rather than overwriting an entry.
+- **Why it needs care:** the bible is specific that Diquyk recruited the Stone
+  Giants of the Tempest Peaks and the Dark Elves of The Deep *separately*, and
+  that he placed Jaunt Gates near both locations. Anything the campaign
+  eventually decides about who built this hall, what the cubes are, and what
+  the "quiet ones" are has to sit inside those constraints without altering
+  them.
+- **Recommendation: DO NOT PROMOTE** unless and until the campaign resolves
+  what it actually is **and** the user wants the bible to take a position.
+  At present its nature is deliberately undeveloped on the DM side too.
+- **Related open bible threads it must not accidentally trample:**
+  `Lanamyr_08_Open_Questions.txt` — the Draak settlement in the Black
+  Mountains, the Drasian tongue and its daughter languages, and the Var Harma's
+  northward envoys. The hall is **not** currently tied to any of these. Do not
+  tie it to one casually.
+
+### Sharii's *Unbidden* and the unfilled Magni slot
+- **Established:** Sharii disclosed *Unbidden* to Captain Vaeroth in session 2.
+  Whether he is a Magni remains deliberately unresolved at the table.
+- **Bible status:** `Lanamyr_08_Open_Questions.txt` reserves an unfilled slot
+  for a more recent Magni, born within Aer'Raenal's lifetime (b. 244 AW) and
+  less powerful than Diquyk, to give the 392 AW council of war a shared
+  reference point. **That slot is still open and Sharii has not been placed in
+  it.**
+- **Recommendation:** do not promote anything. Flag it in a bible session only
+  if the campaign actually resolves the question, and note the slot exists.
+
 ---
 
 ## Contradictions Flagged (bible-side, not campaign-side)

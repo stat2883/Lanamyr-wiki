@@ -157,7 +157,22 @@ conventions, not just homebrew. Summary of the load-bearing ones:
 in-world date, party location, PC level/HP/resources, active quest threads, or
 NPC status. It is the file a future session reads to resume play.
 
-Two things are written at the end of every session:
+Also maintained continuously: **`campaign/characters/behavior-log.md`** — a
+dated record of what the PCs actually *did*, session by session, plus what
+NPCs observed them doing. Adopted session 2.
+
+The rule is **behaviour, not traits**. Record "S2: asked Mya's opinion first
+and in public," never "Sharii is empathetic." The character sheets leave
+personality, ideals, bonds and flaws undeveloped on purpose so they emerge
+through play; a log of declared traits would defeat that, because the DM
+inevitably plays toward whatever is written down. A log of dated actions
+preserves the pattern across sessions without foreclosing anything, and any
+entry remains reversible — if a character turns out to be someone else, the
+entry simply becomes a thing he used to do.
+
+Append to it at the end of every session, alongside the two files below.
+
+Three things are written at the end of every session:
 
 1. **A numbered file** in `campaign/sessions/` (`001-<short-title>.md`) — the
    detailed DM record: what happened, decisions made, loot, NPC changes,
@@ -165,6 +180,8 @@ Two things are written at the end of every session:
 2. **An appended entry in `campaign/sessions/journal.md`** — the running
    player-facing recap. A few short paragraphs, written to be read. No stat
    blocks, no mechanics, no DM notes. Newest entry at the bottom.
+3. **Appended entries in `campaign/characters/behavior-log.md`** — dated
+   observed actions for each PC, and anything significant an NPC witnessed.
 
 The journal is also the fastest way for a future session to recover the shape
 of the story without re-reading every numbered file.

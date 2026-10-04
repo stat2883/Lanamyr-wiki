@@ -97,7 +97,7 @@ Fardar: Black Mountains, central Alios. Iron Dwarves. One of the richest
   Fardar's borders but distant enough to avoid significant conflict.
 Ellendale: Central-west Alios. Plains Elves. Played a key role in overthrow
   of Tarik alongside the Herringers. Ruler undeveloped.
-Faelyn: Eastern and lower western arm of Alios. Wood Elves. Capital: Caldalus.
+Faelyn: Western arm of Alios. Wood Elves. Capital: Caldalus.
   Home of Guardians of the Tree. Mya Li is from Faelyn.
 Hellar: Underground city in Forbidden Peaks, western arm of Alios. Dark Dwarves.
   Effectively blinded by daylight without protection.
@@ -208,8 +208,14 @@ others drawing on ambient energy extended to the significant magical activity
 of gate use — and was tipped off to Adomorn's approach, foiling the ambush.
 Despite this, Diquyk was still engaged on two fronts. He intercepted Adomorn's
 spells and redirected them as blue flame, killing multiple Marauders. When Mya
-and Adomorn switched to physical combat, cutting off Diquyk's fuel supply, he
-was finally banished. All 10 Marauders were dead by battle's end. Only Mya and
+and Adomorn switched to physical combat, cutting off Diquyk's fuel supply, a
+barrier went up around him — raised at the last instant and close to reflexive,
+the body's answer to a beating that had nearly killed him. Adomorn tore open a
+doorway into the banishment plane. Diquyk's ability to intercept a casting never
+depended on what he had stored; it was simply his. What failed him was the
+physical state he was in. He did not react in time, and the two of them pushed
+him through the opening still sealed inside his own shell. Adomorn closed it
+behind him. All 10 Marauders were dead by battle's end. Only Mya and
 Adomorn survived — though see tentative note in Adomorn's entry (Characters
 file) regarding his possible death immediately after the banishment.
 Individual member names and backgrounds: UNDEVELOPED.
@@ -662,8 +668,12 @@ Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
          transit and is tipped off. Diquyk intercepts Adomorn's spells and
          redirects them as blue flame, killing multiple Marauders. Mya defeats
          and kills Shedyak, acquires the Bow of the Dales. When Mya and Adomorn
-         switch to physical combat, cutting off Diquyk's fuel supply, he is
-         finally banished. All 10 Marauders dead. Only Mya and Adomorn survive
+         switch to physical combat, cutting off Diquyk's fuel supply, a barrier
+         goes up around him — near-reflexive, the body's answer to a beating
+         that had nearly killed him. Adomorn tears open a doorway into the
+         banishment plane. Diquyk, too physically broken to react, fails to
+         intercept it, and the two push him through still sealed inside his own
+         shell. Adomorn closes it behind him. All 10 Marauders dead. Only Mya and Adomorn survive
          the battle itself. TENTATIVE: Adomorn, badly wounded, dies shortly
          after banishing Diquyk — eventually rematerializes at Atral. Mya,
          unaware of his true nature, believes him dead. Diquyk banished to a

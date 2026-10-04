@@ -106,6 +106,14 @@ nor the full consequence of Diquyk's ability to intercept and redirect magic.
 Diquyk is possibly the most powerful Magni ever born, eclipsing even Arias
 Graymist. This gap in Adomorn's intelligence contributed to the cost of the
 final battle.
+THE FINAL CASTING: Adomorn did not cast again until the end. Every spell he had
+thrown had been caught and turned on Mya's people, so he and Mya closed to
+physical combat to starve Diquyk of fuel. When a barrier went up around Diquyk
+at the last instant, Adomorn spent his one remaining opening on tearing a
+doorway into the banishment plane. Diquyk did not intercept it — not for want of
+stored power, which interception never required, but because he was beaten past
+the point of reacting. It is the only spell of the battle that reached its
+target.
 TENTATIVE — DEATH AT END OF ELF WAR: It is tentatively considered that
 Adomorn suffered a physical death immediately after banishing Diquyk in 392 AW
 — spending everything he had in the final confrontation and succumbing to his
@@ -177,6 +185,19 @@ ELF WAR (387-392 AW): The early years (387-391 AW) consisted of a two-front
   fear. The feelings of someone cast out while life continued without him. The
   Abaculus pushes those feelings aside quickly, repurposing rather than
   suppressing them. He is now focused entirely on his mission.
+THE BANISHMENT ITSELF: Beaten to the edge of death and nearly spent, Diquyk
+  threw up a barrier around himself — raised at the last instant, closer to
+  reflex than strategy, a body protecting itself. None of them could penetrate
+  it. Mya beat against it in fury and it would not break. From outside, Adomorn
+  saw what it would become if left alone: a shell behind which Diquyk could
+  recover and draw fresh energy from the ambient field, whatever his reason for
+  raising it. Adomorn had to act first. He tore a doorway open into the
+  banishment plane. Diquyk's ability to take hold of a casting was never a
+  matter of reserves — it was simply what he was — but in the state his body was
+  in he did not react in time, and the one spell of the battle that mattered
+  went uncontested. With Diquyk still on the ground and still sealed inside his
+  own barrier, Mya and Adomorn pushed him through, and Adomorn closed it behind
+  him. The barrier that preserved him is what made him movable.
 BANISHMENT: Diquyk was banished to a separate plane of existence — not the
   same plane used by the Jaunt Gates, which is a featureless void. The
   banishment plane is a parallel physical world with its own features and
@@ -268,6 +289,9 @@ contacted. Her father Aer'Raenal urged her to seek out Adomorn — a figure of
 great and ancient reputation. Mya knew him only as a powerful legendary wizard;
 she was entirely unaware of his true Drasu nature or his immortality. The
 Marauders were formed and the final battle occurred within the same year — 392 AW.
+THE BANISHMENT: She could not break the barrier Diquyk raised at the end and had
+to settle for pushing it, alongside Adomorn, through the doorway he opened.
+Diquyk left Lanamyr alive, on the ground, and protected by his own shell.
 MYA'S FIRST LOVE INTEREST: Kharis Ailwin. Wood Elf, born 347 AW — the same
 age as Mya. Joined the militia at essentially the same time as Mya — he was
 among the survivors of a Stone Giant attack on a small Wood Elf village, part
@@ -827,6 +851,9 @@ Peaks and near The Deep entrance to coordinate his two-front campaign. During
 banishment after the Elf War, Diquyk created a gate from the banishment realm
 back to the Nexus to escape. The specific mechanics of the gate creation process
 are not yet fully developed.
+Adomorn demonstrated the same capability at the end of the Elf War, tearing a
+doorway into the banishment plane directly rather than using an existing gate.
+Whether his method and Diquyk's are the same working is undeveloped.
 
 HARBINGER SET (Cloak, Staff, Amulet): Created by Arias Graymist 2111, 2nd Epoch.
 Each summons a powerful creature individually. Combined effect scales

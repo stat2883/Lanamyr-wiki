@@ -110,6 +110,28 @@ and does not contradict confirmed lore. Logged in `reference/lore-deltas.md`.*
 ## Edition
 **2014 PHB (5e "classic").** Confirmed by the user. Not the 2024 revision.
 
+---
+
+## Class Availability — Ruling (session 3 prep)
+
+**No class is restricted on lore grounds.** Where Lanamyr's cosmology is silent
+or doesn't obviously support a class's assumptions, default to **standard 5e /
+Forgotten Realms** assumptions and reskin the names — most often by putting an
+Irridae in place of a Forgotten Realms deity.
+
+User's rationale: the campaign is already explicitly non-canon at its endpoint,
+nothing is promoted to `bible/` except by separate deliberate decision, and the
+narrative arc does not engage with the Irridae or their absence. A new player's
+enjoyment outweighs cosmological tidiness.
+
+**Scope.** This is campaign-side only and is **never** promoted to the bible.
+It does not license contradicting confirmed lore in the other direction.
+
+**The one seam to respect.** The ambient-current framing stays, because it is
+load-bearing for Diquyk's spell theft and Sharii's *Unbidden*. There is no
+Weave; casters draw on the ambient field. That is vocabulary and fiction, not
+mechanics — it changes nothing about how any class works at the table.
+
 ## Sorcerers and Magni — Ruling
 
 Sorcerers exist in Lanamyr as a normal 5e class, bound by standard 5e mechanics
@@ -168,9 +190,14 @@ player's hands, which is the point.
 ## Character Generation
 - **Ability scores:** 4d6 drop lowest, with guardrails — any individual score
   below 8 is rerolled, and the six-score total must be at least 76.
-- **Starting level:** 1, advancing to 2 before play begins.
+- **Starting level:** 1, advancing to 2 before play begins. *(This applied to
+  the twins at campaign open.)*
 - **Hit points on level up:** fixed average (6 + Con modifier) for both PCs,
   for all levels going forward. Player decision, applies permanently.
+
+**Characters joining mid-campaign** start at the **party's current level**, not
+at 1. Confirmed for PC3 joining at session 3: she begins at **level 3**,
+matching Sharii and Alinar, and the whole party advances together from there.
 
 ---
 

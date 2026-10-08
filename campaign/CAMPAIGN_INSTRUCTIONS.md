@@ -16,17 +16,31 @@ At the start of every campaign session, before doing anything else:
 
 1. Clone the repo with git via the bash/computer tool:
    `git clone https://github.com/stat2883/Lanamyr-wiki.git`
-2. Read the root `SESSION_INSTRUCTIONS.md` and all 8 files in `bible/` in full.
-   The campaign is set inside confirmed lore and cannot be run without it.
+2. Read the root `SESSION_INSTRUCTIONS.md` in full, then the scoped bible
+   pre-load described in §1a below. The campaign is set inside confirmed lore
+   and cannot be run without it.
 3. Read this file.
 4. Read `campaign/campaign-status.md` — this is the single source of truth for
    where the party is, what date it is in-world, and what is currently in play.
-5. Read both character sheets in `campaign/characters/`.
-6. Read `campaign/sessions/journal.md` in full — the running player-facing
-   recap. It is short and gives the shape of the story so far.
-7. Read the most recent **numbered** file in `campaign/sessions/` for the
+5. Read all character sheets in `campaign/characters/` — one per PC. Read
+   every sheet present, not a fixed number; the party has grown before.
+6. Read `campaign/characters/behavior-log.md` — **the most recent three
+   sessions' entries only**, not the whole file. The complete log stays in the
+   file and remains searchable when a specific question comes up ("has Alinar
+   ever lied to an officer?"), but the session-start cost must not grow without
+   bound. Never condense old entries into a summary: a summary is a declared
+   trait, which is precisely what §6 exists to prevent.
+7. Read `campaign/sessions/journal.md` in full — the running player-facing
+   recap. It is short and gives the shape of the story so far. It also carries
+   the campaign's *voice*, not just its facts, which is what keeps narration
+   from drifting across many sessions; this is why it is read whole while the
+   behavior log is windowed. Revisit around session 10–12: when it grows
+   unwieldy, fold the oldest years into a digest and keep recent entries
+   verbatim. Unlike the behavior log, condensing recap loses nothing
+   structural.
+8. Read the most recent **numbered** file in `campaign/sessions/` for the
    detailed record of the last session.
-8. Skim `campaign/reference/` and `campaign/npcs/` for anything the status file
+9. Skim `campaign/reference/` and `campaign/npcs/` for anything the status file
    flags as active. **`campaign/npcs/combat-blocks.md` holds the authoritative
    statblocks for every named NPC** — read it before running any encounter and
    never improvise numbers that contradict it.
@@ -35,6 +49,66 @@ Do **not** use web search or `web_fetch` to reach the repo.
 
 If the repo cannot be reached, say so plainly rather than proceeding from
 memory.
+
+---
+
+## 1a. Scoped Bible Pre-Load — Campaign Sessions Only
+
+**This scoping applies to campaign play only.** Lore-building sessions read all
+8 bible files in full, per root `SESSION_INSTRUCTIONS.md` §1. That rule is
+unchanged and remains absolute, because lore work edits canon and a hidden
+contradiction actually bites there.
+
+The full read is ~245KB, paid before a word of play. Campaign sessions pre-load
+roughly 175KB of it instead. **Sections are named, not line-numbered**, so the
+list survives edits to `bible/`.
+
+| File | Pre-load |
+|---|---|
+| `01_Maps_Reference` | **Full** — small, and geography is constant. |
+| `02_Overview_Cosmology` | **Full** — load-bearing. The Abaculus, Creatures of Olum, the Irridae and the Sundering underpin the hall threads. |
+| `03_Geography` | **Full** — small, regional detail used constantly. |
+| `04_Races` | `THE DRASU AND DRAAK`, `RACE APPEARANCE TABLE`, `ELVES — GENERAL`, `DARK ELVES`, and the four gnome entries (Wick Pallowen is a gnome). **Skip** kobold and goblin subtypes, Shepherds, Water Whisperers, Snow Elves, Sea Elves, and all dwarf entries. |
+| `05_Kingdoms_History` | `ORGANIZATIONS` → `GUARDIANS OF THE TREE` and `THE MARAUDERS`, `THE FOUR CROWNS`, and the full `TIMELINE` (all three epochs). **Skip** `KINGS OF HARRAD` and its succession table, `THE VAR HARMA`, `THE HERRINGERS`. |
+| `06_Characters_Items` | `ADOMORN THE IMMORTAL`, `DIQUYK LOCKWOOD`, `MYADONNA LIAPHYRA`, `PHELLODEN LIAPHYRA`, `AENDRONTIAG (GREYHAWK)`, and `ITEMS AND ARTIFACTS`. **Skip** all other character entries. |
+| `07_Stories_Outlines` | `UNLIT (WORKING TITLE) — THE PARALLEL` only — this is the campaign's script. **Skip** the other two outlines. |
+| `08_Open_Questions` | **Full** — knowing what is deliberately undecided prevents accidentally hard-canonising it during play. |
+
+**Do not keep a digest copy.** A curated summary in `campaign/` would drift out
+of sync the first time a lore session edits `bible/`, and the campaign would
+quietly run on stale canon. Always read from `bible/` itself.
+
+### Scope is a floor, not a ceiling
+
+**The pre-load is the minimum, not the limit.** The full bible is in the local
+clone and remains fully accessible at all times. Reducing what is pre-loaded
+never reduces what may be read.
+
+The DM has standing permission — no need to ask — to go read any skipped
+section the moment play reaches toward it. Expected triggers include:
+
+- The party encounters a race, kingdom, organisation or character outside the
+  pre-load (Iron Dwarves turn up, someone names a Harrad king, the Var Harma
+  are mentioned).
+- A player asks an in-world question the pre-load does not answer.
+- An open thread resolves toward material that was skipped — in particular the
+  hall, the quiet ones, the cubes, and the thing below, any of which may reach
+  into cosmology or 2nd Epoch history.
+- Anything the DM is about to narrate that it cannot source from what it read.
+
+**Read first, narrate second.** Inventing something and reconciling it later is
+the failure this scoping must not cause. When in doubt, go read the file — it
+costs seconds and the clone is already local.
+
+If a particular section turns out to be needed session after session, say so and
+promote it into the standing pre-load table above rather than re-reading it ad
+hoc every time.
+
+**Var Harma and Herringers — settled.** Both were skipped by explicit user
+decision. Nothing in confirmed lore ties either to the Elf War, and nothing
+rules them out either; they are simply not being forced in. Do not re-raise
+this each session. If play ever turns up a reason to involve them, read the
+sections then under the standing permission above.
 
 ---
 

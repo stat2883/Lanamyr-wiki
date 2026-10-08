@@ -250,6 +250,12 @@ occasional deliverable, not a substitute for keeping the topic files current.
 - Confirmed lore is locked. Tentative lore is flagged and subject to change.
 - Flag contradictions and arithmetic errors when noticed, rather than papering
   over them.
+- **File formats for the user.** Anything produced for the user to read, keep
+  or annotate goes out as **Word (.docx) or PDF**, never Markdown — Markdown
+  opens in R-Studio on their machine and reads as raw syntax in Word. Markdown
+  remains correct for files that live in this repo, where it is cheap and
+  diffs cleanly. When in doubt: in the repo, Markdown; in their hands, Word
+  or PDF.
 
 ---
 

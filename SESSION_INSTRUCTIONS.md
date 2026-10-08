@@ -115,11 +115,26 @@ automatically.
   user forgot to mention they were finished. Keep it to a single short question,
   not a ritual. If the session is continuing, carry on normally.
 
-**Token:** pushing requires a valid GitHub personal access token scoped to this
-repo. If none has been provided in the session, ask for one before attempting to
-push. The token must **never** be committed to the repo. Redact it from any
-command output. Suggest the user rotate it after the session if it appeared in
-conversation.
+**Push access:** the **Claude GitHub App is installed on this repository** as of
+2026-10-07. Pushing is authenticated through that installation. **Do not ask the
+user for a personal access token** — none is needed, and asking invites them to
+create a credential that then has to be rotated for nothing.
+
+If a push is refused with a 403 saying Claude lacks GitHub access to this repo,
+the usual cause is that the repo is not yet in *this session's* authorised set.
+That is per-session and separate from the app installation. If the session
+offers a tool to attach a repository (`add_repo` or equivalent), call it for
+`stat2883/Lanamyr-wiki` with push access, then retry the push once. Cloning and
+reading work without this; only pushing needs it.
+
+If a push is still refused after that, the app installation itself may have been
+removed or had its repository access changed. Report the error verbatim rather
+than working around it — the remedies are installing the Claude GitHub App at
+`github.com/apps/claude/installations/select_target`, or reconnecting GitHub at
+`claude.ai/customize/connectors`.
+
+If a token is ever supplied anyway, it must **never** be committed to the repo,
+must be redacted from any command output, and should be rotated afterwards.
 
 **Git identity:** commits to this repo are always authored as
 `stat2883 <stat2883@users.noreply.github.com>`. Set this before the first

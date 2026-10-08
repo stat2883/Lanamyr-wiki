@@ -282,5 +282,8 @@ checks and the version/archive process.
   go-ahead, and only the specific files that changed.**
 - The campaign directory is **not** part of the bible's version numbering and is
   **not** copied into `archive/`. The archive mirrors `bible/` text files only.
-- A push token must never be committed to the repo and must be redacted from
-  any command output. Suggest rotation after any session in which it appeared.
+- **No push token is needed.** Authentication goes through the Claude GitHub
+  App installed on this repository. Do not ask the user for one. See root
+  `SESSION_INSTRUCTIONS.md` §5 for the full procedure, including what to do if
+  a push is refused with a 403. If a token is supplied anyway, never commit it,
+  redact it from output, and suggest rotation.

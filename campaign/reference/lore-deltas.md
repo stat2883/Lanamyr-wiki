@@ -164,10 +164,20 @@ would need to change.
   mechanics for this campaign. The bible carries no game statistics for
   anything and has no need of these.
 
-### Tieflings exist in Lanamyr — ruled, but undefined
-- **Established:** Tieflings exist and are **not common in these parts**.
-  Ignis (PC3) is one.
-- **Source:** User ruling at her creation, 2026-10-09.
+### Tieflings exist in Lanamyr — campaign-only, NOT for promotion
+- **Established:** Tieflings exist **for the purposes of this campaign only**,
+  by explicit user ruling, and are **not common in these parts**. Ignis (PC3)
+  is one. Her people are from the **Iron Peaks, southern Edura**; she is a
+  wanderer who left long ago and was already travelling in Alios when word of
+  the Stone Giant attacks reached her.
+- **Source:** User ruling at her creation, 2026-10-09. The user framed it
+  explicitly as a campaign convenience that may never become relevant.
+- **Geography is consistent.** `Lanamyr_03_Geography.txt` places the Iron
+  Peaks in southern Edura with Woodland Gnomes originating nearby, far from
+  T'sarra in the north. The wanderer framing is load-bearing: southern Edura
+  to Faelyn is most of the width of the known world, so no messenger from
+  Caldalus could have recruited her at home within the war's first year. She
+  was already on this continent.
 - **Bible status:** `Lanamyr_04_Races.txt` lists every confirmed race of
   Lanamyr. **Tieflings are not among them**, and neither are halflings,
   half-elves or half-orcs. The Sundering account in

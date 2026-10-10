@@ -183,8 +183,13 @@ softened.
 - **RESOLVED (pre-s3):** Ignis's armour — leather plus a small wooden shield
   strapped to her off-hand forearm. **AC 15.** Ruled to leave her off hand
   free, since it is strapped rather than carried; see `characters/Ignis.md`.
-- **OPEN:** Ignis's age, guild, druidic focus, and the nature of Tieflings in
-  Lanamyr.
+- **RESOLVED (pre-s3):** Tieflings exist **for this campaign only**, uncommon
+  in these parts. Ignis's people are from the **Iron Peaks, southern Edura**;
+  she is a wanderer who answered Caldalus's call while already travelling in
+  Alios. Campaign-side only, never promoted — see `reference/lore-deltas.md`.
+- **OPEN:** Ignis's age, guild and druidic focus. Also deliberately undecided:
+  what Tieflings *are* cosmologically, and her racial language. Neither needs
+  an answer.
 - Personality details for all three PCs remain undeveloped **as declared
   traits**, by design. Accumulating as observed behaviour instead.
 - **Session 3 has not been run.** The granary yard scene is a prologue to it,

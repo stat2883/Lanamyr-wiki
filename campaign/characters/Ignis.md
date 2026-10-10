@@ -2,12 +2,14 @@
 
 **Player:** Player 3
 **Race:** Tiefling (female) · **Class:** Druid · **Background:** Guild Artisan
+**Origin:** the Iron Peaks, southern Edura — a wanderer, long away from home
 **Age:** undecided
 **Level:** 3 — joined at the party's current level per `../house-rules.md`
 **Combat focus:** Wild Shape (Circle of the Moon) · thrown darts · support casting
 
-**Joined session 3.** Arrived in Caldalus with an early draft of reinforcements
-the evening before the survey column marched. See
+**Joined session 3.** Answered Caldalus's call for help after the Stone Giant
+attacks began, and arrived with an early draft of reinforcements the evening
+before the survey column marched. See
 `../sessions/journal.md` and the behaviour log.
 
 ---
@@ -81,11 +83,46 @@ the statistics are a dart's. No homebrew involved.
   rest. At 5th level, *Darkness* once per long rest. **Charisma-based: save
   DC 12**, separate from her druid DC of 13.
 
-**⚠ OPEN — what a Tiefling is in Lanamyr.** The user ruled that Tieflings exist
-but are uncommon in these parts. Beyond that, nothing is settled: Lanamyr has
-no devils and no Nine Hells, so the standard 5e origin does not apply, and her
-racial language (normally Infernal) has no name yet. Logged in
-`../reference/lore-deltas.md`. **Nothing mechanical depends on it.**
+### Tieflings in Lanamyr — settled for the campaign
+
+**User ruling.** Tieflings exist **for the purposes of this campaign only**.
+They are **not common in these parts** — Faelyn in 387 AW has essentially
+never seen one.
+
+**Her people are from the Iron Peaks, southern Edura.** Confirmed bible
+geography: southern Edura, cooling toward tundra at the continent's tip, with
+Woodland Gnomes originating nearby. Far from T'sarra and the High Elves of
+the north.
+
+**She is a wanderer and adventurer**, and left the Iron Peaks some time ago.
+Caldalus sent messengers out when the Stone Giant attacks began; word reached
+her **while she was already travelling in Alios**, and she came in with the
+southern draft of reinforcements along with several others who answered the
+same call.
+
+**Her level is her biography.** The house rule starts a mid-campaign PC at
+the party's current level, but in the fiction she is level 3 because she had
+already been adventuring for some time before she ever met a messenger from
+Faelyn. **She is the only member of this party who was not a raw recruit.**
+The twins learned everything they know inside the militia across one autumn;
+Ignis arrived already knowing how to handle herself, from somewhere nobody
+here can ask her about. What she did out there is undefined and hers to fill
+in.
+
+*Why the wandering matters mechanically to the fiction: the Iron Peaks are
+most of the width of the known world from Faelyn — across Alios, over the
+Blackwing Hills corridor, and down the western arm. No messenger could have
+reached southern Edura and returned a contingent within this year. She was
+already on this continent. Her people are from there; she is not recently
+from there.*
+
+**Deliberately not decided:** what Tieflings actually *are* in this
+cosmology. Lanamyr has no devils and no Nine Hells, and no Irridae has been
+bound to the world since the Sundering, so the standard 5e infernal-pact
+origin has nothing to attach to. Her racial language (normally Infernal) has
+no name. **Nothing mechanical depends on any of it**, and the campaign is
+explicitly non-canon at its endpoint. Logged in
+`../reference/lore-deltas.md`.
 
 Note the resonance available if wanted: Sharii also has a thing about himself
 that nobody in this world has a framework for. Do not force the parallel.
@@ -235,7 +272,9 @@ dated record of what she has actually done, which is what the DM reasons from.
 3. Druidic focus.
 4. Her age.
 5. Which guild she belongs to.
-6. **What a Tiefling is in Lanamyr**, and what replaces Infernal.
+6. ~~What a Tiefling is in Lanamyr~~ — **PARTLY RESOLVED.** Origin settled
+   (Iron Peaks, southern Edura; she is a wanderer). What Tieflings *are*
+   cosmologically, and her racial language, remain deliberately undecided.
 7. **What goes next to her name on Ordow's board.** In the fiction she
    answered "support for the escort squadron," which Ordow wrote down and
    visibly recognised as a non-answer. He left room beside it. This is a live

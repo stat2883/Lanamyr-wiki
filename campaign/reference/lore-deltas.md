@@ -145,14 +145,20 @@ would need to change.
   references to reconcile.
 - **Consistency:** nothing confirmed is contradicted. A hardened shell still
   dissolves to harmless black dust on death.
-- **STATUS: AWAITING PROMOTION.** This is not a candidate the user needs to be
-  persuaded of — it is confirmed lore with a gap in the record. It was **not**
-  written into `bible/` when stated, because it was stated during a campaign
-  session and `CAMPAIGN_INSTRUCTIONS.md` §7 bars editing `bible/` from one.
-  Promote it in a **lore session**, following root `SESSION_INSTRUCTIONS.md`
-  §5–7: edit CREATURES OF OLUM in `02_Overview_Cosmology`, bump the version
-  marker in **all 8 files** as a set, add a CHANGELOG entry, and copy the
-  archive last.
+- **STATUS: PROMOTED 2026-10-09.** Written into `Lanamyr_02_Overview_Cosmology.txt`
+  → CREATURES OF OLUM as `PHYSICAL PROGRESSION WITH AGE`, immediately above
+  the existing aging and dissolve-to-dust lines.
+- **Two deviations from normal workflow, both by explicit user instruction**,
+  recorded here so a future session does not read them as mistakes:
+  1. The edit was made **during a campaign session**, which
+     `CAMPAIGN_INSTRUCTIONS.md` §7 normally bars. The user directed it, and
+     root `SESSION_INSTRUCTIONS.md` grants the user the override.
+  2. **No version bump, and no CHANGELOG entry.** The bible remains at v003
+     across all 8 files. The user judged a single clarifying line too small to
+     warrant a version. `archive/v003/` was re-synced from `bible/` so the two
+     remain byte-identical, preserving the §6 invariant — meaning **v003 now
+     denotes slightly different content than it did before this commit.** Git
+     history is the record; the commit is the only place this is dated.
 
 #### Half two — the damage rules. CAMPAIGN MECHANICS. Never promote.
 

@@ -57,6 +57,20 @@ to who is actually on the field. People standing next to the PCs can and do die.
 **Free weapon switching.** Switching which equipped weapon(s) a PC is wielding
 (e.g., longbow to shortswords) costs no action. Established session 1.
 
+**Create or Destroy Water — played loose.** Per user ruling at Ignis's
+creation: read the spell generously and reward creative use rather than
+holding the player to the letter of the text. Ten gallons, a 30-foot cube of
+rain, or a 30-foot cube of fog created or dispelled are the shape of it, not
+a fence. Say yes to dousing fires, soaking ground or rope or cloth, clearing
+or raising fog, washing a surface clean, filling every container in a camp,
+fouling someone's footing, laying dust, or anything else of comparable scale
+that a clever player thinks of.
+
+*Two limits that keep it a utility spell:* it does not become a damage spell
+through creative framing, and it never targets the water inside a living
+creature — no dehydrating, no boiling, no destroying the blood in someone's
+body. Those are the only hard noes. Everything short of them gets a yes.
+
 **Roll visibility.** From session 1 onward, the DM shows player-facing rolls
 (PC attacks, saves, skill checks) in full, including the modifiers and raw
 dice. NPC and monster rolls are **not** shown — kept under the hood, with
@@ -285,7 +299,36 @@ standard 5e statblock and reflavor, preserving bible-confirmed physical traits.
 - **Stone Giant (antagonist):** Standard 5e Stone Giant. Origin Tempest Peaks,
   directly north of Faelyn. Recruited by Diquyk with a promise of plunder —
   they respect strength above all.
-- **Creatures of Olum:** See `campaign/bestiary/`. Not standard undead —
-  corrupted living creatures, sickly gray-to-black with glowing red eyes, drawn
-  mostly from wildlife (bears, deer, boars). Dissolve to harmless black dust on
-  death. Age into large tentacled pack leaders that form birthing chambers.
+- **Creatures of Olum:** Not standard undead — corrupted living creatures,
+  sickly gray-to-black with glowing red eyes, drawn mostly from wildlife
+  (bears, deer, boars). Dissolve to harmless black dust on death. Age into
+  large tentacled pack leaders that form birthing chambers.
+  Ruled **monstrosities** at this table, not undead — see both PC sheets.
+  *(`campaign/bestiary/` is referenced in earlier notes but does not exist.
+  Statblocks are built as needed; see below.)*
+
+### Aged Olum — hardened exterior (user ruling, pre-session 3)
+
+Once a Creature of Olum has aged far enough that its **original hide has
+fallen away and been replaced by a hardened exterior**, and at every stage
+beyond that:
+
+- **Resistance to bludgeoning damage**
+- **Vulnerability to radiant damage**
+
+This applies from the hardened stage onward, including the large tentacled
+pack leaders that form birthing chambers. Younger Olum that still carry the
+hide of the animal they were made from are unaffected by this rule.
+
+Everything else about these creatures — statblocks, the other damage types,
+how visibly the hardening reads at a glance, and where the threshold sits in
+their life cycle — is DM-side and built as needed.
+
+**Lore note — the fiction here is canon, the mechanics are not.** Per the
+user: after corruption an Olum's original body slowly withers while something
+worse grows underneath, until whatever skin or hide it had is gone and
+replaced by a hardened exterior like natural armor. That is **confirmed
+Lanamyr lore** that has simply never been written into `bible/` — not a
+campaign invention. It is logged for promotion in a lore session in
+`reference/lore-deltas.md`. The resistance and vulnerability above are
+campaign mechanics only and are never promoted.

@@ -1,7 +1,8 @@
 # PC Behaviour Log
 
-A running, dated record of **what the twins actually did** — observed actions,
-not declared traits.
+A running, dated record of **what the player characters actually did** —
+observed actions, not declared traits. Covers Sharii, Alinar, and (from her
+arrival before session 3) Ignis.
 
 **Why this file exists.** The character sheets list personality, ideals, bonds
 and flaws as *undeveloped*, deliberately, so they can emerge through play. This
@@ -143,6 +144,40 @@ front of a captain for someone neither of them has known for two months.
 
 ---
 
+## Ignis
+
+*Joined before session 3. Entries begin with the granary yard scene on the eve
+of the survey column's departure.*
+
+**Pre-S3 — 387 AW, the granary yard, Caldalus.** First act on meeting the
+party was to **put her hand out to the wolf before speaking to either human**,
+and to greet the animal warmly and by no name at all — *"Hey handsome."*
+Animal Handling 12 (unproficient). Knight did not come to her hand; he crossed
+four feet, scented her at length, and **sat down just out of reach.** Sharii
+noted aloud that this is not something Knight does with anyone.
+
+**Pre-S3 — 387 AW, the granary yard.** Gave Ordow her name when asked,
+plainly and without embroidery.
+
+**Pre-S3 — 387 AW, the granary yard.** Asked directly by Ordow *what she is
+for*, in front of a listening squadron, she answered **"I am here as support
+for the escort squadron."** She did not name her class, her training, her
+guild, or her craft. Ordow wrote it down verbatim, told her to her face that
+it was an honest word that lets a person not say a thing, and **deliberately
+left room on the board beside it.** Alinar visibly wanted to ask and did not.
+
+### Pattern so far — observations, not conclusions
+- Too early for one. Two data points: she went to the animal before the
+  people, and she gave a true answer that disclosed nothing.
+
+### Live question
+**What goes next to her name on Ordow's board.** Not a DM puzzle — an open
+invitation the player can take up whenever she likes, or not. Ordow will
+remember either way; watching whether what people tell him turns out to be
+true is the whole of what Ordow does.
+
+---
+
 ## What NPCs have observed
 
 **Mya Li.** Has watched Sharii's Unbidden fire twice and **chose not to ask**.
@@ -172,3 +207,21 @@ behind Alinar's desk argument for four days. Said *"You got them spring."*
 **Per `../npcs/mya-li.md`, this closeness is what determines whether the twins
 are among the few who know about him and Mya from 388/389 AW onward. It is now
 forming.**
+
+**Bellis Ordow.** Has Ignis's name on his tally board with the word
+*support* written beside it and space left deliberately empty. Told her
+plainly that it was a word that lets a person not say a thing. He is not
+hostile about it and will not raise it again unprompted; he writes down what
+people tell him and then watches to see whether it was true.
+
+**Knight.** Broke his own established pattern on meeting Ignis — neither
+making a fool of himself nor putting himself between her and Sharii, which
+are the only two things he has ever done with a stranger. He crossed to within
+four feet, scented her, sat, and later walked her across the yard to her door
+and came back unbidden. **Neither brother knows what it means and neither do
+I. Leave it unexplained for now.**
+
+**Alinar.** Registered that Ignis had dodged Ordow's question and chose not to
+press it, then volunteered useful information about Ashwell instead. Also told
+her, unprompted, how to read Ordow — which is the closest thing to a welcome
+he has offered anyone outside the squadron.

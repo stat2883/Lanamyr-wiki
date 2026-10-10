@@ -1,7 +1,7 @@
 # Campaign Status
 
-**Last updated:** Session 2 complete — the hall under the Tempest Peaks, and
-the report at Caldalus. No combat, no level-up, no deaths.
+**Last updated:** Session 2 complete, plus a short pre-session-3 scene in
+which **PC3 (Ignis) joined the party**. No combat, no level-up, no deaths.
 
 ---
 
@@ -11,8 +11,10 @@ the report at Caldalus. No combat, no level-up, no deaths.
   the Ashwell engagement. Evening before the survey party marches.
 - **Party location:** **Caldalus.** Eight days of downtime just ended.
 - **Party level:** **3.** No level-up in session 2.
-- **Status:** Session 2 played and closed. Both PCs rested, resupplied, full
-  slots. Ready to open session 3 at first light with the survey party.
+- **Status:** Session 2 played and closed. All three PCs rested, resupplied,
+  full slots. **Ignis joined on the eve of departure** (granary yard scene —
+  see `sessions/journal.md`). Ready to open session 3 at first light with the
+  survey party.
 
 ---
 
@@ -22,8 +24,21 @@ the report at Caldalus. No combat, no level-up, no deaths.
 |---|---|---|---|---|---|
 | Sharii | Player 1 | Wood Elf (male) | Ranger (Beast Master) | **3** | Elder twin. **AC 13** (studded leather — scale mail traded away s2). HP 25. Archery. WIS 18 / CHA 18. **Stealth now +1 with no disadvantage.** Has *Unbidden*. Companion: **Knight**, black wolf, plus a working hand-signal vocabulary established s2. **0 gp.** |
 | Alinar | Player 2 | Wood Elf (male) | Ranger (Hunter — Colossus Slayer) | **3** | Younger twin. AC 15, HP 28. Two-weapon melee. DEX 18. Stealth +6. **0 gp** — gave it all to Sharii's armour. |
+| Ignis | Player 3 | Tiefling (female) | Druid (Circle of the Moon) | **3** | **New.** HP 24. **AC UNDECIDED** — 13 leather / 15 with wooden shield. WIS 16. Darts +4. Wild Shape CR 1 as a bonus action, 2/short rest. Resistance to fire. *Healing Word*, *Pass Without Trace*, *Moonbeam*. Medicine +5. **15 gp.** |
 
-**Twin brothers**, both 45 in 387 AW.
+**Sharii and Alinar are twin brothers**, both 45 in 387 AW. Ignis is
+unrelated and newly arrived.
+
+**New capabilities Ignis brings:** the party's first **bonus-action heal** at
+60 ft; **Pass Without Trace** (+10 Stealth to everyone within 30 ft — Alinar
+to +16, Sharii to +11); **Medicine +5**, which nobody else has; and a **CR 1
+beast form** as a disposable second body, which is the closest thing this
+party has ever had to a front line.
+
+**⚠ Ignis has unresolved items** — armour/AC, age, guild, druidic focus, and
+**what a Tiefling is in Lanamyr** (plus her racial language, normally
+Infernal). None block play. See `characters/Ignis.md` and
+`reference/lore-deltas.md`.
 
 **Personality is tracked by observed action, not declared trait** — see
 `characters/behavior-log.md`. Adopted session 2; practice written into
@@ -64,9 +79,22 @@ softened.
 5. **Knight.** Narrative significance beyond the Beast Master mechanic still
    open. Note: he refused to enter the hall, and he can tell when Unbidden
    fires.
-6. **NEW — who taught the twins Ukuri, and why.** Both brothers speak Dark Elf.
+6. **Who taught the twins Ukuri, and why.** Both brothers speak Dark Elf.
    Neither has ever thought to ask. Neither has ever seen a Dark Elf, nor met
    anyone who has; in Faelyn in 387 AW The Deep is a children's story.
+6a. **NEW — what Knight made of Ignis.** On meeting her he broke his own
+   established pattern entirely: neither bounding over nor putting himself
+   between her and Sharii, but crossing four feet, scenting her at length, and
+   sitting down just out of reach. Later walked her to her door and returned
+   unbidden. Sharii said out loud that this is not a thing Knight does.
+   **Deliberately unexplained. Do not resolve it, and do not let it become a
+   detect-the-Tiefling mechanic.** It may mean nothing; Knight is four months
+   old and assigns himself jobs nobody understands.
+6b. **NEW — what goes next to Ignis's name on Ordow's board.** Asked what she
+   was *for*, she said "support for the escort squadron." Ordow wrote it
+   verbatim, named it as an evasion without rancour, and left space beside it.
+   **This is a player-facing invitation, not a DM puzzle.** Do not force it.
+   Ordow will not raise it again unprompted.
 
 ### The hall (opened session 2)
 
@@ -143,9 +171,22 @@ softened.
   section 6.
 - **RESOLVED (s2):** *Speak with Animals* clarified as 10 minutes, no
   concentration.
-- Personality details for both PCs remain undeveloped **as declared traits**,
-  by design. Accumulating as observed behaviour instead.
-- **Session 3 has not been run.**
+- **RESOLVED (pre-s3):** PC3 built — Ignis, Tiefling Druid (Circle of the
+  Moon), level 3, Guild Artisan. Joined in the granary yard the night before
+  the march. See `characters/Ignis.md`.
+- **RESOLVED (pre-s3):** Aged Creatures of Olum with a hardened exterior have
+  **resistance to bludgeoning** and **vulnerability to radiant**. See
+  `house-rules.md`. The hardened-exterior fiction is confirmed lore missing
+  from `bible/` — see `reference/lore-deltas.md`.
+- **RESOLVED (pre-s3):** *Create or Destroy Water* is played loose. See
+  `house-rules.md`.
+- **OPEN:** Ignis's armour/AC, age, guild, druidic focus, and the nature of
+  Tieflings in Lanamyr.
+- Personality details for all three PCs remain undeveloped **as declared
+  traits**, by design. Accumulating as observed behaviour instead.
+- **Session 3 has not been run.** The granary yard scene is a prologue to it,
+  not a session; no numbered file was written. **Session 3's numbered file
+  should open with that scene.**
 
 ### Session 3 opens
 
@@ -153,6 +194,12 @@ Caldalus, first light. Marching out with the survey party: **20 plus two
 engineers and a surveyor, Thale's full squadron attached as escort, and
 Capt. Vaeroth attending personally.** Four days to Ashwell, carrying the flour
 and the seed corn. Ashwell is the forward base; the shelf is half a day beyond.
+
+**Ignis marches with them**, attached the night before and formally on
+nobody's roll — she came up with the southern draft and the office that holds
+her paperwork was shut. Ordow's phrase: *tonight you're mine and tomorrow
+you're an argument.* That argument has not happened yet and is available as a
+scene if wanted.
 
 Twenty-two armed strangers about to billet on a village of forty-one that lost
 its barn two weeks ago. Aldric still does not know what is under his mountain.

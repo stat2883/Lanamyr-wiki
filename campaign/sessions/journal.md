@@ -242,3 +242,62 @@ invisible. A place called Dorn's Ford, a day east, with a mill.
 *Next: back up the draw. Twenty surveyors and engineers, the whole squadron as
 escort, the flour and the seed corn on the carts — and Captain Vaeroth coming
 up that mountain himself.*
+
+---
+
+## Interlude — The Granary Yard
+
+*387 AW. Caldalus, the night before the column marches north.*
+
+The reinforcements came up from the southern holdings in the rain, three days
+on the road, and nobody in Caldalus was expecting them this week. The clerk at
+the gate wrote the names onto the wrong roll. The first barracks was full. So
+was the second.
+
+Which is how a Tiefling named **Ignis** ended up in the mud behind the granary
+at an hour when a city ought to be asleep, in a yard full of lantern light and
+soldiers loading sacks onto carts for a dawn march, being told to ask for a man
+called Ordow.
+
+She went to the wolf first. Before either of the two men, before the
+quartermaster with the tally board — she put her hand out to a four-month-old
+black wolf in the rain and called him handsome.
+
+Knight did not come to her hand. He got up, crossed four feet of mud, took her
+in properly, and sat down just out of reach, and that is not a thing anybody in
+this squadron has seen him do. He either makes a fool of himself or he gets
+behind Sharii. He does not sit down and consider.
+
+*"That's new,"* Sharii said.
+
+Ordow took her name for the roll and asked the only two questions he ever asks:
+can you walk four days, and what are you *for*. She told him she was here as
+support for the escort squadron. He wrote it down exactly as she said it, read
+it back to himself, and told her without any unkindness at all that support was
+an honest word, and also a word that lets a person not say a thing. Then he
+left a space beside it on the board and went back to counting sacks.
+
+Alinar came through the gate at a fast walk with a document case pressed dry
+under his coat, wanting to know whether the seed corn was on the second cart
+and under the sheet. He looked at her for the same half-second his brother had,
+recovered the same way, and did not ask the question Ordow had just left
+hanging. He told her about Ashwell instead — forty-one people, a lost barn,
+forty days of flour, and twenty-two armed strangers about to land on them —
+and said that most of the squadron thought the mountain was the hard part.
+
+Then, on his way to the carts, he told her how to read Ordow. *He writes down
+what people tell him and then he watches to see if it was true. He's been doing
+it two hundred years and he's very rarely surprised.* A pause. *He likes being
+surprised.*
+
+When she turned for the tack room, the wolf got up and walked her there. Four
+feet off her left side, all the way across the yard, with Sharii watching from
+his crate and not calling him back. At the step down Knight stopped, looked
+into the dark, looked at her — and then trotted back and went to sleep across
+his master's boots.
+
+Dawn came grey and still raining. Twenty surveyors and engineers. Three carts
+under sheets. A sergeant with a list, a captain who had never once come along
+before, and a column forming up in the mud, pointed north at a mountain.
+
+*Next: four days to Ashwell.*

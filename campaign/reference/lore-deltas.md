@@ -116,6 +116,82 @@ would need to change.
   northward envoys. The hall is **not** currently tied to any of these. Do not
   tie it to one casually.
 
+### Aged Creatures of Olum — hardened exterior
+**This entry has two halves that must not be confused. Read both.**
+
+#### Half one — the physical progression. CONFIRMED LORE. Missing from the bible.
+
+- **Established:** After corruption, a Creature of Olum's original body slowly
+  **withers away while something worse grows underneath.** Eventually whatever
+  skin or hide it had is entirely gone, replaced by a **hardened exterior, like
+  natural armor.**
+- **Source:** Stated by the user 2026-10-09 as **existing confirmed lore** that
+  had simply never been written into the bible — not a campaign invention and
+  not a new decision. It predates this campaign.
+- **Bible status: ABSENT.** `Lanamyr_02_Overview_Cosmology.txt` → CREATURES OF
+  OLUM gives the corruption, the sickly gray-to-black coloring with glowing red
+  eyes, the primary directive, the source creatures, the nesting behavior, the
+  aging into large tentacled pack leaders that form birthing chambers, and the
+  dissolve-to-black-dust rule. **The withering and the hardened exterior appear
+  nowhere.**
+- **Cross-file check (done 2026-10-09):** the physical description of Olum
+  exists in exactly **one** place in the bible — `02_Overview_Cosmology`, the
+  CREATURES OF OLUM section. Olum are referenced in `03_Geography` (Adenburry,
+  the Burnt Plains), `05_Kingdoms_History` (Nusul, the timeline),
+  `06_Characters_Items` (Greyhawk's forced dragon corruption, Adomorn's search)
+  and `07_Stories_Outlines` (Diquyk's nest raids), but **none of those describe
+  what one looks like.** `04_Races` and `01_Maps_Reference` do not mention them
+  at all. A promotion is therefore a single-site edit with no duplicate
+  references to reconcile.
+- **Consistency:** nothing confirmed is contradicted. A hardened shell still
+  dissolves to harmless black dust on death.
+- **STATUS: AWAITING PROMOTION.** This is not a candidate the user needs to be
+  persuaded of — it is confirmed lore with a gap in the record. It was **not**
+  written into `bible/` when stated, because it was stated during a campaign
+  session and `CAMPAIGN_INSTRUCTIONS.md` §7 bars editing `bible/` from one.
+  Promote it in a **lore session**, following root `SESSION_INSTRUCTIONS.md`
+  §5–7: edit CREATURES OF OLUM in `02_Overview_Cosmology`, bump the version
+  marker in **all 8 files** as a set, add a CHANGELOG entry, and copy the
+  archive last.
+
+#### Half two — the damage rules. CAMPAIGN MECHANICS. Never promote.
+
+- **Established:** from the hardened stage onward, aged Olum have
+  **resistance to bludgeoning** and **vulnerability to radiant** damage.
+- **Source:** User ruling, pre-session 3. Recorded in `../house-rules.md`.
+- **Recommendation: DO NOT PROMOTE, ever.** The user has stated explicitly that
+  the damage types, resistances and vulnerabilities are strictly 5e table
+  mechanics for this campaign. The bible carries no game statistics for
+  anything and has no need of these.
+
+### Tieflings exist in Lanamyr — ruled, but undefined
+- **Established:** Tieflings exist and are **not common in these parts**.
+  Ignis (PC3) is one.
+- **Source:** User ruling at her creation, 2026-10-09.
+- **Bible status:** `Lanamyr_04_Races.txt` lists every confirmed race of
+  Lanamyr. **Tieflings are not among them**, and neither are halflings,
+  half-elves or half-orcs. The Sundering account in
+  `Lanamyr_02_Overview_Cosmology.txt` ends its list of descendant races with
+  "and all others," which is the only door this fits through.
+- **What is NOT settled, and matters:** standard 5e Tieflings descend from an
+  infernal pact. **Lanamyr has no devils and no Nine Hells.** The nearest
+  cosmological neighbours are the Onwu Irridae, but no Irridae has been bound
+  to Lanamyr since the Sundering, so a living pact is not straightforwardly
+  available either. Her racial language (normally Infernal) therefore has no
+  name.
+- **Mechanically irrelevant.** Her sheet works regardless. This is a fiction
+  question only.
+- **Recommendation: DO NOT PROMOTE** as written. A new playable race is a far
+  larger bible change than anything else in this file, and the campaign is
+  explicitly non-canon at its endpoint. If the user ever wants Tieflings in
+  `bible/`, it is a lore session with real cross-file consequences —
+  `04_Races` (race list, appearance table, language), `02_Overview_Cosmology`
+  (the Sundering account and lifespans), and possibly `08_Open_Questions`.
+- **Option worth remembering if it ever is pursued:** leaving her origin
+  unknown *to everyone including her* costs nothing and rhymes with Sharii,
+  who also has a thing about himself that nobody in this world has a framework
+  for. That parallel should be available, never forced.
+
 ### Sharii's *Unbidden* and the unfilled Magni slot
 - **Established:** Sharii disclosed *Unbidden* to Captain Vaeroth in session 2.
   Whether he is a Magni remains deliberately unresolved at the table.

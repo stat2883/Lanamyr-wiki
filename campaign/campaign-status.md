@@ -24,7 +24,7 @@ which **PC3 (Ignis) joined the party**. No combat, no level-up, no deaths.
 |---|---|---|---|---|---|
 | Sharii | Player 1 | Wood Elf (male) | Ranger (Beast Master) | **3** | Elder twin. **AC 13** (studded leather — scale mail traded away s2). HP 25. Archery. WIS 18 / CHA 18. **Stealth now +1 with no disadvantage.** Has *Unbidden*. Companion: **Knight**, black wolf, plus a working hand-signal vocabulary established s2. **0 gp.** |
 | Alinar | Player 2 | Wood Elf (male) | Ranger (Hunter — Colossus Slayer) | **3** | Younger twin. AC 15, HP 28. Two-weapon melee. DEX 18. Stealth +6. **0 gp** — gave it all to Sharii's armour. |
-| Ignis | Player 3 | Tiefling (female) | Druid (Circle of the Moon) | **3** | **New.** HP 24. **AC UNDECIDED** — 13 leather / 15 with wooden shield. WIS 16. Darts +4. Wild Shape CR 1 as a bonus action, 2/short rest. Resistance to fire. *Healing Word*, *Pass Without Trace*, *Moonbeam*. Medicine +5. **15 gp.** |
+| Ignis | Player 3 | Tiefling (female) | Druid (Circle of the Moon) | **3** | **New.** HP 24. **AC 15** (leather + forearm-strapped wooden shield; off hand stays free — see her sheet). WIS 16. Darts +4. Wild Shape CR 1 as a bonus action, 2/short rest. Resistance to fire. *Healing Word*, *Pass Without Trace*, *Moonbeam*. Medicine +5. **15 gp.** |
 
 **Sharii and Alinar are twin brothers**, both 45 in 387 AW. Ignis is
 unrelated and newly arrived.
@@ -180,8 +180,11 @@ softened.
   from `bible/` — see `reference/lore-deltas.md`.
 - **RESOLVED (pre-s3):** *Create or Destroy Water* is played loose. See
   `house-rules.md`.
-- **OPEN:** Ignis's armour/AC, age, guild, druidic focus, and the nature of
-  Tieflings in Lanamyr.
+- **RESOLVED (pre-s3):** Ignis's armour — leather plus a small wooden shield
+  strapped to her off-hand forearm. **AC 15.** Ruled to leave her off hand
+  free, since it is strapped rather than carried; see `characters/Ignis.md`.
+- **OPEN:** Ignis's age, guild, druidic focus, and the nature of Tieflings in
+  Lanamyr.
 - Personality details for all three PCs remain undeveloped **as declared
   traits**, by design. Accumulating as observed behaviour instead.
 - **Session 3 has not been run.** The granary yard scene is a prologue to it,

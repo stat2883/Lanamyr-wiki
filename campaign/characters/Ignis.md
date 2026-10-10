@@ -33,7 +33,7 @@ Charisma drives her Infernal Legacy save DC.*
 ## Core Statistics
 
 - **Proficiency Bonus:** +2
-- **Armor Class:** **UNDECIDED** — 13 in leather, 15 with a wooden shield
+- **Armor Class:** **15** (leather 11 + Dex 2 + shield 2)
 - **Initiative:** +2
 - **Speed:** 30 ft
 - **Hit Dice:** 3d8
@@ -158,6 +158,8 @@ it. Note Alinar has the same problem with all three of his spells.
 
 ## Equipment
 
+- **Leather armour** (AC 11 + Dex) — no stealth penalty
+- **Wooden forearm shield** (+2 AC) — see ruling below
 - Darts; dagger
 - Explorer's pack
 - Alchemist's supplies; herbalism kit
@@ -165,8 +167,29 @@ it. Note Alinar has the same problem with all three of his spells.
 - **A letter of introduction from her guild**
 - **15 gp**
 
-**Undecided:** armour, whether she carries a wooden shield, and her druidic
-focus (sprig of mistletoe, totem, wooden staff, or yew wand).
+### The shield — ruling, established at creation
+
+Her shield is **not a carried shield.** It is a small-profile wooden shield
+**strapped to her off-hand forearm** — like a bracer, slightly larger. Player's
+description, adopted as written.
+
+**Mechanically it is a standard shield: +2 AC, total AC 15.** One departure
+from RAW follows from the fiction and is deliberate:
+
+- **Her off hand stays free.** RAW a shield is wielded in a hand and takes an
+  action to don or doff. Strapped to the forearm it does neither. She can
+  throw darts, hold a druidic focus, and perform somatic components without
+  juggling, and the shield is simply always on.
+- **Why this is fine:** it costs the table nothing it tracks, it is consistent
+  with the free-weapon-switching rule from session 1, and the alternative is a
+  first-time player discovering mid-combat that her shield and her spells
+  compete for the same hand.
+- **It is still a shield.** Wooden, so it clears the druid's metal taboo. It
+  can be sundered, ruled non-functional, or lost like any other item, and it
+  melds or drops on Wild Shape like the rest of her gear.
+
+**Undecided:** her druidic focus (sprig of mistletoe, totem, wooden staff, or
+yew wand).
 
 *The gold cost of her guild membership and alchemist's supplies was waived by
 user ruling at creation.*
@@ -191,7 +214,9 @@ answer is the player's.
 ## Character
 
 **Appearance.** Visibly a Tiefling — horns, and eyes people look at a beat too
-long. In Faelyn in 387 AW this makes her the most conspicuous person in any
+long. Wears a small wooden shield strapped flat to her off-hand forearm,
+close enough to a heavy bracer that people do not always register it as
+armour. In Faelyn in 387 AW this makes her the most conspicuous person in any
 room she enters, which is the exact inverse of the twins, who are explicitly
 impossible to pick out of a crowd.
 
@@ -203,8 +228,8 @@ dated record of what she has actually done, which is what the DM reasons from.
 
 ## Open Items
 
-1. **Armour and shield** — sets her AC at 13 or 15. The only unresolved number
-   on the sheet.
+1. ~~Armour and shield~~ — **RESOLVED.** Leather plus a forearm-strapped
+   wooden shield. AC 15. No unresolved numbers remain on the sheet.
 2. Whether the dagger is her starting simple weapon or sits alongside a
    scimitar.
 3. Druidic focus.

@@ -4,7 +4,8 @@
 **Race:** Tiefling (female) · **Class:** Druid · **Background:** Guild Artisan
 **Origin:** the Iron Peaks, southern Edura — a wanderer, long away from home
 **Age:** undecided
-**Level:** 3 — joined at the party's current level per `../house-rules.md`
+**Level:** 4 — joined at the party's current level per `../house-rules.md`;
+levelled to 4 with the party at the end of session 3
 **Combat focus:** Wild Shape (Circle of the Moon) · thrown darts · support casting
 
 **Joined session 3.** Answered Caldalus's call for help after the Stone Giant
@@ -23,7 +24,7 @@ before the survey column marched. See
 | Constitution | 15 | — | **15** | +2 |
 | Intelligence | 13 | +1 | **14** | +2 |
 | Wisdom | 16 | — | **16** | +3 |
-| Charisma | 13 | +2 | **15** | +2 |
+| Charisma | 13 | +2 | **16** | +3 | *(+1 from Telepathic, L4)*
 
 *Rolled 4d6-drop-lowest with house guardrails (no score below 8, total ≥76).
 Raw set: 16, 15, 14, 13, 13, 9 — total 80. The player initially placed the 9 in
@@ -38,15 +39,15 @@ Charisma drives her Infernal Legacy save DC.*
 - **Armor Class:** **15** (leather 11 + Dex 2 + shield 2)
 - **Initiative:** +2
 - **Speed:** 30 ft
-- **Hit Dice:** 3d8
-- **Hit Points:** 24 (8 + Con 2, then 5 + Con 2, then 5 + Con 2)
+- **Hit Dice:** 4d8
+- **Hit Points:** 31 (8 + Con 2, then 5 + Con 2 x3)
 - **Passive Perception:** 13 — **the lowest in the party by three points**
 - **Spell Save DC:** 13 · **Spell Attack:** +5 (Wisdom)
 
 ### Saving Throws
 - **Intelligence** +4 *(proficient)*
 - **Wisdom** +5 *(proficient)*
-- Strength −1 · Dexterity +2 · Constitution +2 · Charisma +2
+- Strength −1 · Dexterity +2 · Constitution +2 · Charisma +3
 
 ### Skills
 | Skill | Ability | Mod | Source |
@@ -54,7 +55,7 @@ Charisma drives her Infernal Legacy save DC.*
 | **Insight** | WIS | +5 | Guild Artisan |
 | **Medicine** | WIS | +5 | Druid |
 | **Arcana** | INT | +4 | Druid |
-| **Persuasion** | CHA | +4 | Guild Artisan |
+| **Persuasion** | CHA | +5 | Guild Artisan |
 
 ---
 
@@ -81,7 +82,7 @@ the statistics are a dart's. No homebrew involved.
 - **Infernal Legacy** — knows *Thaumaturgy* (does not count against her druid
   cantrips). At 3rd level, *Hellish Rebuke* as a 2nd-level spell once per long
   rest. At 5th level, *Darkness* once per long rest. **Charisma-based: save
-  DC 12**, separate from her druid DC of 13.
+  DC 13**, separate from her druid DC of 13.
 
 ### Tieflings in Lanamyr — settled for the campaign
 
@@ -145,24 +146,54 @@ a bonus action to regain **1d8 HP per slot level**.
 
 ### Level 2 — Circle of the Moon: Circle Forms
 Beast forms up to **CR 1** (rather than CR 1/4). No flying forms until 8th
-level, no swimming forms until 4th. Duration 1 hour.
+level. **Swimming forms unlocked at 4th.** Duration 1 hour. CR stays at 1
+until 6th level.
 
 ### Level 3 — 2nd-level spells
 Slots become four 1st and two 2nd. Prepared count rises to six.
+
+### Level 4 — Ability Score Improvement, third cantrip, third 2nd-level slot
+**Feat taken: Telepathic** (Tasha's), with its **+1 to Charisma** (15 → 16).
+
+- **Speak telepathically** to any creature she can see within **60 feet**. One
+  way only — she cannot read its thoughts and it cannot answer. It understands
+  her only if it knows at least one language. No action, no components, no
+  save.
+- ***Detect Thoughts* once per long rest** without expending a slot, and with a
+  slot thereafter. **Charisma** chosen as its casting ability — **save DC 13**.
+
+Also at 4th: a **third cantrip** (*Guidance*), slots rise to **four 1st and
+three 2nd**, and prepared spells rise to **seven**.
+
+*Taken four days after meeting a people who cannot speak and do not signal.
+Entirely unused so far.*
 
 ---
 
 ## Spells
 
-**Cantrips:** Thorn Whip, Druidcraft *(+ Thaumaturgy from her race)*
-**Prepared (6):** Fog Cloud, Speak with Animals, Healing Word,
-Create or Destroy Water, Pass Without Trace, Moonbeam
-**Slots:** 4 × 1st · 2 × 2nd
+**Cantrips:** Thorn Whip, Druidcraft, **Guidance** *(+ Thaumaturgy from her
+race)*
+**Prepared (7):** Speak with Animals, Healing Word, Create or Destroy Water,
+**Thunderwave**, Pass Without Trace, Moonbeam, **Locate Object**
+**Slots:** 4 × 1st · **3 × 2nd**
 
-**⚠ Concentration.** Four of her six prepared spells require it and she can
-hold only one: Fog Cloud, Pass Without Trace, Moonbeam, and any future
-concentration pick. Only Healing Word and Create or Destroy Water are free of
-it. Note Alinar has the same problem with all three of his spells.
+*Druids prepare from the entire druid list, not from a fixed known list — this
+seven is rebuilt freely after every long rest.* **Fog Cloud dropped** at the
+level-4 rebuild: it competes with *Pass Without Trace* for concentration, and
+*Create or Destroy Water* now covers fog with none.
+
+**Locate Object — the standing plan.** Range 1,000 ft; she has handled the wax
+tablet within 30 ft; stone does not block it (only lead does). She can stand on
+the **meadow shelf** and know whether the tablet is still lying in the junction
+without anyone going down the stair. **Out of range from Ashwell.**
+
+**⚠ Concentration.** Pass Without Trace, Moonbeam and Guidance all require it
+and she can hold only one. Healing Word, Create or Destroy Water, Thunderwave,
+Speak with Animals and Locate Object are free of it — *Locate Object* is the
+exception worth remembering, since it is concentration **up to 10 minutes** and
+will lock out Pass Without Trace while it runs. Note Alinar has the same
+problem with all three of his spells.
 
 **Create or Destroy Water is played loose** at this table by user ruling — see
 `../house-rules.md`.
@@ -235,6 +266,11 @@ user ruling at creation.*
 making her by some distance the wealthiest member of the party. Unremarked on
 so far in the fiction.
 
+**Carried since session 3:** a matched **river stone**, unmarked, body-warm
+when taken, worn pocket-smooth, made of rock that does not occur anywhere in
+Faelyn. Given to her by one of the quiet ones in the junction beneath the
+Tempest Peaks.
+
 ---
 
 ## Background Feature — Guild Membership
@@ -275,7 +311,9 @@ dated record of what she has actually done, which is what the DM reasons from.
 6. ~~What a Tiefling is in Lanamyr~~ — **PARTLY RESOLVED.** Origin settled
    (Iron Peaks, southern Edura; she is a wanderer). What Tieflings *are*
    cosmologically, and her racial language, remain deliberately undecided.
-7. **What goes next to her name on Ordow's board.** In the fiction she
-   answered "support for the escort squadron," which Ordow wrote down and
-   visibly recognised as a non-answer. He left room beside it. This is a live
-   thread, not an oversight — see the behaviour log.
+7. ~~**What goes next to her name on Ordow's board.**~~ **ANSWERED, s3** —
+   but answered to **Captain Vaeroth at the Caldalus gate**, in front of the
+   column, not to Ordow. *"I'm a druid and I'm great for healing, which you're
+   going to need."* Ordow was not there and his board has not been updated in
+   the fiction. Small and open and hers.
+8. **Telepathic, unused.** See the behaviour log.

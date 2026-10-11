@@ -47,10 +47,10 @@ significance is narrative; outshining the PCs mechanically undercuts both.
 ---
 
 ## Knight (Sharii's Companion)
-**Wolf, Beast Master companion** · scales with Sharii's ranger level (3)
+**Wolf, Beast Master companion** · scales with Sharii's ranger level (**4**)
 *See `../characters/Sharii.md` for narrative origin.*
 
-- **AC** 13 · **HP** 12 (4 × ranger level) · **Speed** 40 ft
+- **AC** 13 · **HP** 16 (4 × ranger level) · **Speed** 40 ft
 - **STR** +1 · **DEX** +2 · **CON** +1 · **INT** −4 · **WIS** +1 · **CHA** −2
 - **Bite** +4 to hit, 1d4+2 piercing. DC 11 Strength save or prone.
 - **Pack Tactics:** advantage on attacks vs. a creature if another of
@@ -185,6 +185,57 @@ aware of it before anyone says it to him.
 **Note:** the squadron's information exchange and unofficial conscience. Knows
 everything about everyone before they do. The route to any social information
 about another soldier.
+
+---
+
+## Maevis Tarn
+**Noncombatant civilian** · Wood Elf, 200+ · Office of Works engineer
+*Attached to the survey party, session 3. Not militia.*
+
+- **AC** 10 · **HP** 7 · **Speed** 35 ft
+- **STR** −1 · **DEX** +0 · **CON** +0 · **INT** +3 · **WIS** +2 · **CHA** +0
+- **Skills:** History +5, Investigation +5, Perception +4; **tool proficiency:
+  mason's tools** (and she is the only person in the column who has it)
+- No meaningful attack. If Maevis is in a fight, protect her or lose her.
+- Darkvision 60, Fey Ancestry, Mask of the Wild
+
+**Note:** she is **not** covered by *Pass Without Trace* when the party is at
+its cap of six, and her unaided Stealth is +0. This has already cost them once
+— see session 3, the raw tunnel. Expect it to cost them again if she keeps
+being brought underground.
+
+**Note:** her judgement on stone, tooling and construction is excellent and
+should be played as reliable. Her judgement on **who the quiet ones are** is
+not, and she knows it.
+
+---
+
+## Dovin Reyl
+**Noncombatant civilian** · Wood Elf · Surveyor
+Use Maevis's block. Skills: Investigation +5, Perception +4, and he can plot
+an underground route onto the surface given an accurate account of it.
+
+---
+
+## The Quiet Ones — NO STATBLOCK
+**Deliberately not statted.** Nothing is known about their combat capability
+because **they have never once been hostile**, through a fortnight of
+opportunities including a prisoner, a sealed door, a six-person intrusion onto
+a working ledge, and a five-hundred-foot pursuit by one of them with empty
+hands.
+
+Observed, confirmed: 6'2"–6'6"; built very thin, long in forearm and shin;
+white translucent skin with visible vasculature; white hair tied back; long
+hands with heavy working callus, split nails and old stone-chip scars; long
+swept pointed ears; **enormous entirely black eyes with no whites and no
+visible iris**; sight in total darkness with no light source; veiled across
+the upper face in daylight; breathes roughly four times a minute; **completely
+silent and never looks at another of its own kind**; coordinates without
+looking. Carries no weapon and wears no armour. *Unbidden does not register
+them* — at least one was not drawing on ambient energy at a range of 30 feet.
+
+**Do not build a statblock until the fiction forces one.** If it does, the
+first question to settle is whether they fight at all.
 
 ---
 

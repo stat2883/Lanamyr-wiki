@@ -144,11 +144,58 @@ politics of it; she defended him anyway ("He didn't know, sir"). Afterward, in
 the corridor: *"That was the single stupidest thing anyone has done for me since
 I enlisted. Don't do it again."* And then, without turning round: *"I noticed."*
 
+**Session 3.** The session in which she became the party's judgement rather
+than its conscience.
+
+- **The north face.** She talked the party out of capturing the first one of
+  them anyone has ever had in bow range — not on the standing order, which she
+  treated as irrelevant, but on two arguments: *they don't speak, so there is
+  no interrogation*, and *taking one costs us the quiet we need to open the
+  plug.* She said explicitly that she would go either way and was arguing only
+  that they go in knowing the price.
+- **The private meeting.** Sharii convened the forward party out past the horse
+  lines to share his view of the captain. She attended, **agreed with the
+  substance**, and objected to the venue in terms entirely specific to her:
+  *"Six people out past the horse lines agreeing about the captain. There is a
+  word for that and it is not caution... If this ever gets repeated with my
+  name in it, the only fact that survives is that I was here."* And then: *"You
+  stood up in a captain's office and named the risk I take by opening my mouth.
+  You've just walked me out here and sat me in it."* She backed him anyway, and
+  said she would not do that part again.
+- **The shadow.** Sharii told her he found his brother's shadow comfortable.
+  Her answer is the clearest thing she has ever said about herself: *"A
+  shadow's comfortable because you don't have to stand in the weather... Mine
+  was a very comfortable shadow. People bowed in it. And the reason I know it
+  was a shadow and not a home is that the day I stepped out of it, nobody
+  actually stopped me. Turned out it was me."*
+- **The language.** She was the first to work out that the three scratches, the
+  stone on the stair, the stone set down at the end of the crawl and the line
+  of matched river stones are **not markers but speech** — *"they put things
+  down. That's not a trail of crumbs, it's writing."*
+- **The middle path.** When the captain refused contact on jurisdiction, she
+  found the option everyone adopted: **answer the exchange rather than open a
+  conversation.** Leave an object where the stone was, walk away, don't go back
+  for a week. No meeting, nobody in reach, reversible.
+- **THE DECISION.** Sharii handed her the final choice of what to leave, in
+  front of the captain, for the second time in two sessions. *"You have got to
+  stop doing that."* **And then she took it.** She chose the wax tablet over
+  the chisel, and the reasoning is hers entirely:
+  > *"The chisel is the right answer... and that's the problem with it. A thing
+  > that cannot go wrong cannot do anything either. We don't have the room for
+  > that."*
+
 **Current standing:** strongly positive, and specific. She has not decided they
 are friends. She has decided they are **people who do the thing rather than the
 easy version of the thing**, and she has begun relying on that. Alinar she
 rates for competence and for going first; Sharii she rates for seeing what
 things cost people.
+
+**Added s3:** she now also rates them as people who hand her things — which she
+finds genuinely irritating, has said so twice, and which has twice put her in
+the position of making a decision that mattered. She has not worked out whether
+Sharii is deferring to her or using her, and the honest answer is probably that
+he hasn't either. **Ignis she has no fixed read on yet**, beyond that the druid
+walked up to the thing in the corridor alone and nobody asked her to.
 
 ---
 

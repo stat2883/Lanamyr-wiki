@@ -208,6 +208,47 @@ would need to change.
   who also has a thing about himself that nobody in this world has a framework
   for. That parallel should be available, never forced.
 
+### The void, the cubes and the quiet ones — campaign-invented, HANDLE WITH CARE
+- **Established in play (session 3), extending the session-2 hall entry:** the
+  left-hand corridor descends to a depot and then to the **end of the original
+  construction** — the inscription stops mid-line and the dressed stone stops
+  eight feet later. Beyond it is raw tunnel being cut now, with the same script
+  already being carved into the new walls, continuing the same sentence.
+  **They are finishing someone else's building, not excavating it.**
+  The tunnel opens onto a ledge above a space with no visible far wall or
+  ceiling, with 50+ pale flameless lights in arcs on its floor, each above a
+  three-foot cube, one whole arc still unlit, emitting a slow physical pulse
+  that is driving wildlife off the mountain. A staircase down into it is being
+  cut **after** the cubes were placed, by some other route.
+- **The quiet ones, observed in lantern light:** 6'2"–6'6", very thin, white
+  translucent skin with visible vasculature, white hair, long heavily-callused
+  working hands, long swept pointed ears, **enormous entirely black eyes with
+  no whites**, sight in full darkness, veiled in daylight, silent even to each
+  other, never look at one another, coordinate without looking, carry no
+  weapons and wear no armour, and have been **non-hostile through every
+  opportunity.** They communicate by **placing objects**.
+- **Bible status:** the bible says nothing about anything beneath the Tempest
+  Peaks and nothing resembling this people appears in `Lanamyr_04_Races.txt`.
+  **Nothing here contradicts confirmed lore.** It fills a silence.
+- **Recommendation: DO NOT PROMOTE.** Its nature is still deliberately
+  undeveloped on the DM side. The session-2 entry's warnings all still apply,
+  and one more is now live: the **Stone Giants of the Tempest Peaks are
+  confirmed lore and are Diquyk's northern strike force.** The campaign has
+  generated an in-fiction hypothesis that the giants may be *leaving* rather
+  than invading. **That hypothesis is unproven in play and must never be
+  promoted**, because it would rewrite a confirmed element of the Elf War.
+- **Related open bible threads it must not accidentally trample:** the Draak
+  settlement, the Drasian tongue and its daughter languages, the Var Harma's
+  northward envoys, and the Dark Elves of The Deep. **The hall is not currently
+  tied to any of these.** Maevis Tarn speculated aloud that it is "a Drasian
+  sort of thing" **on a natural 1, with no evidence, and retracted it.** That
+  is in-fiction noise and is not a DM signal.
+
+### Campaign NPCs and locations added session 3 — NOT for promotion
+- **Maevis Tarn** (Office of Works engineer), **Dovin Reyl** (surveyor),
+  **Merrick Dorn** (miller, Dorn's Ford). Table scaffolding, logged for
+  transparency only.
+
 ### Sharii's *Unbidden* and the unfilled Magni slot
 - **Established:** Sharii disclosed *Unbidden* to Captain Vaeroth in session 2.
   Whether he is a Magni remains deliberately unresolved at the table.
@@ -218,6 +259,10 @@ would need to change.
   it.**
 - **Recommendation:** do not promote anything. Flag it in a bible session only
   if the campaign actually resolves the question, and note the slot exists.
+- **Session 3 note:** *Unbidden* fired once, at the end of the raw tunnel, on
+  the vast cold structured thing below — and was **completely silent** with one
+  of the quiet ones standing thirty feet away. That is a data point about the
+  quiet ones, not about Sharii. Still unresolved either way.
 
 ---
 

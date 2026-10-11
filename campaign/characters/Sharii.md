@@ -4,7 +4,7 @@
 **Race:** Wood Elf (male) · **Class:** Ranger · **Background:** Outlander
 **Age:** 45 (born 342 AW) — young adult by Wood Elf standards (42–62)
 **Twin brother of Alinar** — Sharii is the elder by a few minutes
-**Level:** 3
+**Level:** 4
 **Combat focus:** Ranged (longbow) · Beast Master (companion: Knight)
 
 ---
@@ -14,8 +14,8 @@
 | Ability | Roll | Racial | Final | Mod |
 |---|---|---|---|---|
 | Strength | 13 | — | **13** | +1 |
-| Dexterity | 11 | +2 | **13** | +1 |
-| Constitution | 13 | — | **13** | +1 |
+| Dexterity | 11 | +2 | **14** | +2 | *(+1 ASI, L4)*
+| Constitution | 13 | — | **14** | +2 | *(+1 ASI, L4)*
 | Intelligence | 15 | — | **15** | +2 |
 | Wisdom | 17 | +1 | **18** | +4 |
 | Charisma | 18 | — | **18** | +4 |
@@ -29,17 +29,17 @@ knowingly non-optimal.*
 ## Core Statistics
 
 - **Proficiency Bonus:** +2
-- **Armor Class:** 13 (studded leather 12 + Dex 1) — *scale mail traded away, session 2*
-- **Initiative:** +1
+- **Armor Class:** 14 (studded leather 12 + Dex 2) — *scale mail traded away, session 2*
+- **Initiative:** +2
 - **Speed:** 35 ft (Fleet of Foot)
-- **Hit Dice:** 3d10
-- **Hit Points:** 25 (10 + Con 1, then 6 + Con 1, then 6 + Con 1)
+- **Hit Dice:** 4d10
+- **Hit Points:** 36 (Con +2 applies retroactively: 10+2, then 6+2 x3)
 - **Passive Perception:** 16
 
 ### Saving Throws
 - **Strength** +3 *(proficient)*
-- **Dexterity** +3 *(proficient)*
-- Constitution +1 · Intelligence +2 · Wisdom +4 · Charisma +4
+- **Dexterity** +4 *(proficient)*
+- Constitution +2 · Intelligence +2 · Wisdom +4 · Charisma +4
 
 ### Skills
 | Skill | Ability | Mod | Source |
@@ -57,8 +57,8 @@ knowingly non-optimal.*
 
 | Weapon | Attack | Damage | Notes |
 |---|---|---|---|
-| Longbow | +5 | 1d8+1 piercing | Range 150/600, two-handed, heavy. Includes Archery +2. |
-| Shortsword | +3 | 1d6+1 piercing | Finesse, light |
+| Longbow | +6 | 1d8+2 piercing | Range 150/600, two-handed, heavy. Includes Archery +2. |
+| Shortsword | +4 | 1d6+2 piercing | Finesse, light |
 
 ---
 
@@ -127,6 +127,22 @@ aberrations, celestials, dragons, elementals, fey, fiends, or undead within
 1 mile — 6 miles in favored terrain (**forest**, for Sharii). Creatures of
 Olum do not register on this list at this table — ruled monstrosities, not
 undead (see Alinar's sheet and `house-rules.md`).
+
+---
+
+## Class Features — Level 4
+
+### Ability Score Improvement
+**+1 Dexterity, +1 Constitution** (13 → 14 each). Both modifiers move from
++1 to +2.
+
+Consequences: **AC 13 → 14**, **HP 25 → 36** (the Con bonus applies to every
+level retroactively), Initiative +1 → +2, Stealth +1 → +2, Dexterity save
++3 → +4, Constitution save +1 → +2, and +1 to hit and damage with every
+weapon.
+
+*No new spell slot and no new spell known — Ranger 4 grants neither. Still
+3 x 1st-level slots and 3 spells known. Proficiency bonus stays +2 until 5th.*
 
 ---
 
@@ -210,7 +226,7 @@ intent.
 
 ## Equipment
 
-- **Studded leather** (AC 12 + Dex) — **no Stealth penalty**
+- **Studded leather** (AC 12 + Dex) — **no Stealth penalty**. Stealth **+2**.
 - Two shortswords
 - Longbow, quiver of 20 arrows
 - Explorer's pack (bedroll, mess kit, tinderbox, 10 torches, 10 days rations,
@@ -222,8 +238,8 @@ eight days in Caldalus replacing it permanently. The quartermaster refused a
 swap; it took a leatherworker of Bellis's, all of Alinar's money, 8 gp from Neva
 Corrin that she denies, and a hazard disbursement Thale appears to have invented.
 
-**He has traded AC 15 for AC 13.** Stealth is now a clean **+1** instead of +1
-with disadvantage — he is still not quiet, merely survivable to stand next to.
+**He traded AC 15 for AC 13 at session 2** (now AC 14 after the level-4 Dex
+bump). Stealth is a clean **+2** instead of +1 with disadvantage — he is still not quiet, merely survivable to stand next to.
 With 25 HP and a documented habit of running at large things on purpose, this is
 a dangerous bargain. The player made it knowingly and asked that it not be
 softened. **Play it straight.**

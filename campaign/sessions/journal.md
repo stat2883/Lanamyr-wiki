@@ -301,3 +301,181 @@ under sheets. A sergeant with a list, a captain who had never once come along
 before, and a column forming up in the mud, pointed north at a mountain.
 
 *Next: four days to Ashwell.*
+
+---
+
+## Session 3 — The Ledge
+
+*387 AW. Nine days. Caldalus to a sealed door, and what was behind it.*
+
+It started at the gate in the rain, with the captain on a horse counting
+nineteen and finding twenty. He asked the Tiefling what she was for and got an
+answer — because Sharii volunteered one on her behalf and was wrong about it,
+and she corrected him flat in front of the column. *I'm a druid. And I'm great
+for healing, which you're going to need.*
+
+Vaeroth put her mid-column, ordered the whole squadron to learn her face by
+nightfall, and told her to her face that she had just become the most valuable
+body in it and the one everything would run toward when it went wrong.
+
+Four days north. Alinar walked beside her and handed over everything he knew
+about Ashwell without being asked for any of it. Sharii spent a spell asking a
+wolf what he made of her and got back that she smells like the far side of a
+fire, that she *was still arriving*, and that she is one of the ones — of which
+there appear to be about six. Every night she dried the ground under forty
+bedrolls and laid fog around the camp, until the engineers started putting
+themselves near her without discussing it.
+
+Ashwell stood in the road and counted them coming, which is what a village of
+forty-one does when twenty-two armed strangers appear on the horizon. Then
+Aldric found Alinar's face in the column and the relief that went through him
+was not a thing anyone wanted to watch. He took the flour without reacting. He
+had already done the arithmetic on forty days and knew it was January. Then
+Alinar said *seed corn*, and the man put his hand over his eyes and left it
+there. *We'd have eaten it. Come March, we'd have eaten the seed and known we
+were doing it.*
+
+Nobody slept in the village. They camped outside the walls and refused
+everything offered, and the village kept putting things down anyway. Alinar and
+Wick split the flour four ways instead of stacking it in one building, because
+last time it was all in one barn and a giant stepped on the barn. Ignis spent
+the evening setting an old woman's ankle properly and then teaching a
+nine-year-old to do it himself for the next three weeks — and his grandmother
+took her aside afterward and said *be careful what you tell him, lass. He does
+what he's told. All the way down.*
+
+Then up the draw. And the door was shut.
+
+Not fallen in. **Shut** — cut stone, fitted dry, keyed into the rock, two feet
+thick, laid from the inside by somebody who took the rubble away with them. The
+goats were gone. And beside it, cut fresh into the mountain, were three
+scratches: the same mark they'd found over Hestra Fenn's head in the dark.
+
+What they had was an engineer, a wolf, a gnome who notices draughts, and a
+druid who can make ten gallons of water out of nothing. What they did with it
+took two nights and a day. Oak wedges in the joints, kept wet so they swelled.
+Every crack in the face flooded at dusk so the frost could split it overnight —
+and the stone ticked in the dark like something cooling. Then a bonfire jammed
+against it all day, which Ignis turned violet and green for an hour for no
+reason except that forty people had been carrying wood since dawn. Then the
+quench, and a noise like a dropped anvil, and a face crazed white like the
+glaze on an old cup.
+
+In between, they went over the shoulder onto the north face, where no Wood Elf
+has walked in living memory. They found the far end of it: a patch of green
+grass with no frost on it and a four-inch crack breathing warm air. They found
+the goats' tracks — driven out alive, bunched, with long narrow footprints
+walking the outside of the herd like a drover. And they found one of *them*,
+four hundred yards off, walking downhill on a route it clearly knew, wrapped
+and veiled with not an inch of skin showing.
+
+They had it. Six of them, invisible, with the best archer in the company lying
+flat and ready. They talked about taking it, and worked out what it would
+cost, and let it walk — and Mya made the argument that decided it, which was
+that these things don't speak, so there would have been no interrogation, only
+a corpse and a kingdom that had lost its quiet. Then they stayed put four more
+minutes and got paid for it: a second one came up the same path, and the two
+passed each other at six feet without a nod, a glance, or any acknowledgement
+at all.
+
+And somewhere in those two days Alinar reached for everything he knew about
+Dark Elves and found a hole where the knowledge should be. No face. No colour.
+Nothing but a children's story about a place under the world. And at the bottom
+of that hole, the thing he has never once in forty-five years thought to ask:
+*he speaks their language.* Both brothers do. Somebody taught them, as
+children, deliberately, for years.
+
+The door came open on the seventh day.
+
+What was behind it was not a corridor. Past the junction, down the left-hand
+passage nobody had ever walked, there was a line of river stones laid out every
+thirty feet like a measure — in a mountain with no river. There was a depot:
+water, rope, tools laid out by size, and forty or fifty folded veils stacked
+like linen in a cupboard. There was the place where the old writing **stopped
+mid-line**, and eight feet on where the dressed stone stopped too, and beyond
+that raw rock, freshly cut, still being cut — with the inscription already
+being carved into the new walls, picking up exactly where the old sentence
+ended.
+
+*They're not digging it out,* the engineer said. *They're finishing it.*
+
+And then the tunnel opened, and there was no far wall and no ceiling and the
+floor was a very long way down, and on it were fifty pale lights standing
+absolutely still in long arcs, like the lamps of a city seen from a hill —
+except that cities don't lay their lamps in arcs and their lights flicker. One
+whole arc of them was still dark.
+
+Eighty feet along the ledge, nine of them were cutting a staircase down into
+it. In total darkness. In total silence. Two of them working a face fifteen
+inches apart, passing tools back and forth, and **never once looking at each
+other.**
+
+They were six foot four and thin as wire, with pale hair tied back and long
+hands and no weapons of any kind. And they had already put fifty lamps down
+there — which means they got down some other way, which means the staircase
+isn't for them.
+
+So the party turned round and left, and that would have been the end of it,
+except the engineer slipped.
+
+All nine stopped at once. Three seconds, each where they stood, facing nothing.
+Then they went back to work at exactly the rate they'd been working — and the
+one furthest away, facing entirely the wrong direction, put down its basket and
+started walking.
+
+It followed them five hundred feet up a corridor at a walking pace. Never
+closed. Never fell behind. Never called out, because it has nothing to call
+with, and never drew anything, because it was carrying nothing at all.
+
+They held the junction to let Maevis take her copy of the wall. At thirty feet
+Alinar challenged it and it stopped. And in the lantern light they finally saw
+one properly: white skin you could see the veins through, white hair, and
+enormous black eyes with no whites in them at all.
+
+It crouched, with both empty hands in plain view, and put a stone on the floor
+halfway between them. Then it stood, and stepped back three paces, and waited.
+
+Ignis walked up and took it. Close to, it breathes about four times a minute
+and its hands are a working man's — split nails, old scars, callus like
+saddle leather. The stone was warm from somebody's pocket and worn smooth from
+being carried. She bowed. It didn't bow back; you don't bow to someone who
+isn't looking at you.
+
+Then it turned and walked away — and eighty feet out, at the edge of the light,
+**it stopped and turned its head**, which is the first time anyone has ever seen
+one of them do that at all.
+
+Nobody can agree what it was looking at. Neva swears it was Sharii. Wick says
+the wolf. Mya says the stair. Sharii saw it and hasn't said.
+
+They came up into daylight with no injuries, a wax rubbing of a dead language,
+and a warm river stone made of rock that doesn't exist on this mountain.
+
+The captain heard it twice through and then said the thing nobody wanted
+spelled out: *that door was shut, and we opened it, and we cannot shut it
+again.* He is writing to the king. He has never written to a king.
+
+And they decided to answer.
+
+Not with gold — that only says what you can be bought with. Not with food —
+that's either tribute or what you put out for a dog, and you can't tell which.
+And above all not with a stone, because you cannot read their writing and you
+do not sign a document in a language you don't speak.
+
+Sharii thought of the wax, and gave the decision to Mya, who took it.
+
+*The chisel's the right answer,* she said. *And a thing that cannot go wrong
+cannot do anything either. We don't have the room for that.*
+
+So at first light on the ninth day, six of them went back down and left a blank
+wax tablet on the floor of the junction, with the stylus seated in its spine
+and one short stroke cut in the corner — the mark a mason makes to check the
+tool is taking, which says *this is a surface and this is how you mark it* and
+says nothing else in any language.
+
+Then the whole column walked off that mountain and left it lying there.
+
+Knight was the only one who looked back.
+
+*Next: four days home, and a week in which nobody is allowed up that draw.*
+

@@ -4,7 +4,7 @@
 **Race:** Wood Elf (male) · **Class:** Ranger · **Background:** Outlander
 **Age:** 45 (born 342 AW) — young adult by Wood Elf standards (42–62)
 **Twin brother of Sharii** — Alinar is the younger by a few minutes
-**Level:** 3
+**Level:** 4
 **Combat focus:** Dual-wielding melee, finesse weapons · Hunter (Colossus Slayer)
 
 ---
@@ -14,7 +14,7 @@
 | Ability | Roll | Racial | Final | Mod |
 |---|---|---|---|---|
 | Strength | 9 | — | **9** | −1 |
-| Dexterity | 16 | +2 | **18** | +4 |
+| Dexterity | 16 | +2 | **20** | +5 | *(+2 ASI, L4 — capped)*
 | Constitution | 14 | — | **14** | +2 |
 | Intelligence | 11 | — | **11** | +0 |
 | Wisdom | 15 | +1 | **16** | +3 |
@@ -23,24 +23,24 @@
 *Rolled 4d6-drop-lowest with house guardrails (no score below 8, total ≥76).
 Raw set: 16, 15, 14, 11, 11, 9 — total 76.*
 
-**Note:** Dexterity can reach 20 at the first Ability Score Improvement
-(level 4).
+**Note:** Dexterity reached 20 at the level-4 Ability Score Improvement and is
+now **capped**. Every future ASI is free for a feat.
 
 ---
 
 ## Core Statistics
 
 - **Proficiency Bonus:** +2
-- **Armor Class:** 15 (leather armor 11 + Dex 4)
-- **Initiative:** +4
+- **Armor Class:** 16 (leather armor 11 + Dex 5)
+- **Initiative:** +5
 - **Speed:** 35 ft (Fleet of Foot)
-- **Hit Dice:** 3d10
-- **Hit Points:** 28 (10 + Con 2, then 6 + Con 2, then 6 + Con 2)
+- **Hit Dice:** 4d10
+- **Hit Points:** 36 (10 + Con 2, then 6 + Con 2 x3)
 - **Passive Perception:** 15
 
 ### Saving Throws
 - **Strength** +1 *(proficient)*
-- **Dexterity** +6 *(proficient)*
+- **Dexterity** +7 *(proficient)*
 - Constitution +2 · Intelligence +0 · Wisdom +3 · Charisma +0
 
 ### Skills
@@ -50,7 +50,7 @@ Raw set: 16, 15, 14, 11, 11, 9 — total 76.*
 | **Athletics** | STR | +1 | Outlander |
 | **Nature** | INT | +2 | Ranger |
 | **Perception** | WIS | +5 | Keen Senses (racial) |
-| **Stealth** | DEX | +6 | Ranger |
+| **Stealth** | DEX | +7 | Ranger |
 | **Survival** | WIS | +5 | Outlander |
 
 ---
@@ -59,12 +59,15 @@ Raw set: 16, 15, 14, 11, 11, 9 — total 76.*
 
 | Weapon | Attack | Damage | Notes |
 |---|---|---|---|
-| Shortsword (main hand) | +6 | 1d6+4 piercing | Finesse, light |
-| Shortsword (off hand) | +6 | 1d6+4 piercing | Bonus action. Includes Two-Weapon Fighting style. |
-| Longbow | +6 | 1d8+4 piercing | Range 150/600, two-handed, heavy |
+| Shortsword (main hand) | +7 | 1d6+5 piercing | Finesse, light |
+| Shortsword (off hand) | +7 | 1d6+5 piercing | Bonus action. Includes Two-Weapon Fighting style. |
+| Longbow | +7 | 1d8+5 piercing | Range 150/600, two-handed, heavy |
 
 *Note: with Strength 9, Alinar relies entirely on finesse and ranged weapons.
-Any non-finesse melee weapon would attack at −1 and deal reduced damage.*
+Any non-finesse melee weapon would attack at −1 and deal reduced damage. This
+also costs him badly when carrying anything heavy — see session 3, where he
+carried the engineer uphill out of the raw tunnel at the limit of what he can
+lift.*
 
 ---
 
@@ -144,6 +147,22 @@ aberrations, celestials, dragons, elementals, fey, fiends, or undead within
 1 mile — 6 miles in favored terrain (**forest**, for Alinar). Creatures of
 Olum do not register on this list at this table — ruled monstrosities, not
 undead (see `../house-rules.md`).
+
+---
+
+## Class Features — Level 4
+
+### Ability Score Improvement
+**+2 Dexterity** (18 → **20**). Capped; every future ASI is free for a feat.
+
+Consequences: **AC 15 → 16**, **HP 28 → 36**, Initiative +4 → +5, Stealth
++6 → **+7**, Dexterity save +6 → +7, and **+1 to hit and damage with both
+blades and the bow** — including the off-hand, since Two-Weapon Fighting adds
+the modifier there too.
+
+*No new spell slot and no new spell known — Ranger 4 grants neither. Still
+3 x 1st-level slots and 3 spells known, all three of which still require
+concentration. Proficiency bonus stays +2 until 5th.*
 
 ---
 

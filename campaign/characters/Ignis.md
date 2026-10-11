@@ -219,8 +219,43 @@ problem with all three of his spells.
 - **Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs,
   scimitars, sickles, slings, spears
 - **Tools:** alchemist's supplies, herbalism kit
-- **Languages:** Common, Aiwiya (Wood Elf), Druidic, + one racial language
-  (**undecided** — see Tiefling note)
+- **Languages:** Common, **the Obsidian Dragonborne tongue** *(table
+  shorthand: "Draconic")*, Druidic, + one racial language (**undecided** —
+  see Tiefling note)
+
+**How she knows it — settled, and the geography does the work.** Her Guild
+Artisan background language was Aiwiya at creation and was swapped after
+session 3. Walking from the **Iron Peaks of southern Edura** to Alios, the
+**Blackwing Hills are the only land connection between the two continents** —
+and `Lanamyr_03_Geography.txt` places them "between the Void Sands of Edura to
+the east and **the Obsidian Dragonborne swamp region of southwestern Alios to
+the west.**" A wanderer on foot with no ship does not take another route. She
+came down out of those hills directly into Obsidian Dragonborne country and
+picked the tongue up there. How long she stayed, and what she did, is hers.
+
+**It is not the dragon tongue.** The Obsidian Dragonborne are a separate
+Draak-descended race from dragons, exactly as Wood Elves and Dark Elves are
+separate Drasu-descended races speaking Aiwiya and Ukuri. The bible confirms
+dragons have a language of their own and **never names it**, and says nothing
+at all about what dragonborne speak. **"Draconic" is an out-of-setting
+placeholder label only**, kept for table convenience — see
+`../reference/lore-deltas.md`.
+
+**⚠ UNDECIDED — does she understand Sharii?** Sharii's language comes from
+Favored Enemy: *Dragons*, so his is the **dragon** tongue, not this one.
+Whether the two are mutually intelligible is an open table ruling. The argument
+*for* is that the Draak family should have drifted far less than the Drasu
+family: the Drasian tongue was **silenced** at the Sundering and then drifted
+for millennia across races living 80–250 years, while the Draak side has
+dragons at **3,000** years and dragonborne at 290–350 — a fraction of the
+generations in the same elapsed time, and generational turnover is what drives
+language change. **Not yet ruled either way.**
+
+**She does not speak Wood Elf** — in a Wood Elf squadron, in a Wood Elf
+kingdom. Everything runs in Common, which the bible supports
+(`Lanamyr_04_Races.txt`: "Common is widely spoken as a second language across
+most of Lanamyr"), but she is the one person present who requires the room to
+switch.
 
 ---
 

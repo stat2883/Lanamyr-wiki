@@ -52,6 +52,50 @@ would need to change.
   table convention.
 - **Recommendation:** Flag to the user in a bible session if a name is ever
   wanted. Do not promote "Draconic" — it is an out-of-setting name.
+- **UPDATED after session 3: a second PC now carries a Draak-descended
+  language, but NOT the same one.** Ignis swapped her Guild Artisan background
+  language from Aiwiya to **the Obsidian Dragonborne tongue** (table shorthand
+  "Draconic"). Sharii's comes from Favored Enemy: *Dragons*, so his is the
+  **dragon** tongue. These are two different Draak-descended races and
+  therefore, on a strict reading, two different languages — exactly as Wood
+  Elves and Dark Elves speak Aiwiya and Ukuri.
+- **In-fiction justification for Ignis — geographically airtight, campaign-side
+  only.** `Lanamyr_03_Geography.txt` establishes the **Blackwing Hills as the
+  only land connection between Edura and Alios**, located "between the Void
+  Sands of Edura to the east and the Obsidian Dragonborne swamp region of
+  southwestern Alios to the west." A wanderer travelling on foot from the Iron
+  Peaks of southern Edura to Alios **has no other route** and arrives directly
+  in Obsidian Dragonborne territory. **This uses confirmed bible geography and
+  invents nothing** — it does not name the language, date anything, or
+  establish any fact about the Obsidian Dragonborne themselves. **Nothing to
+  promote.**
+- **OPEN TABLE RULING, not a bible question:** whether the dragon tongue and the
+  Obsidian Dragonborne tongue are mutually intelligible. Argument in favour, if
+  ever wanted: the Drasu family drifted enormously because the Drasian tongue
+  was *silenced* at the Sundering and then drifted for millennia across races
+  living 80–250 years, whereas the Draak side has dragons at **3,000** years and
+  dragonborne at 290–350 — far fewer generations in the same elapsed time, and
+  generational turnover is what drives language change. **This is a campaign
+  convenience with a lore-shaped argument attached; it is NOT confirmed lore and
+  must not be promoted on the strength of sounding plausible.**
+- **The wider gap, noted while checking this:** **every one of the nineteen
+  named languages in the bible belongs to a Drasu-descended race** — Common,
+  Andari, Tapyr, Hikri, Antathi, Aiwiya, Nheqethi, Tuavasy, Ukuri, Vhitoshi,
+  Malsili, Obathi, Stone Speak, Tecali, Irturi, Enaric, Omathi, Eugali, Jagati.
+  **Not a single Draak-descended language is named anywhere**, for dragons,
+  dragonborne, kobolds or wyrms. The asymmetry is structural, not just a missing
+  table row: the Drasu have `THE DRASIAN TONGUE` with its silencing, its
+  survival in writing at Atral, and the Var Harma's centuries of comparative
+  work on its daughter tongues — while the `DRAAK` entry in
+  `Lanamyr_04_Races.txt` has **no language section at all** and no named
+  progenitor tongue. The one line establishing the second family is that
+  Draak-descended languages "stand outside this family entirely, having
+  fractured from a different progenitor."
+- **If ever developed, it probably wants deciding as a set** — a Draak
+  progenitor tongue frames dragons, dragonborne, kobolds and wyrms at once, and
+  creates a second written family the Var Harma cannot read, which is a live
+  hook given they have spent centuries on the other one. **A lore-session
+  decision, not a campaign one.**
 
 ### Resurrection — campaign ruling, NOT for promotion
 - **Established:** Resurrection exists in Lanamyr but is exceedingly rare,

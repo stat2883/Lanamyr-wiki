@@ -308,9 +308,60 @@ would need to change.
   of the quiet ones standing thirty feet away. That is a data point about the
   quiet ones, not about Sharii. Still unresolved either way.
 
+### Campaign NPCs, locations and arrangements added session 4 — NOT for promotion
+- **Merrick Dorn** (miller of Dorn's Ford, holds the charter), **Keth** (tallies
+  and snare lines), **Jorrun** (hunter). Table scaffolding, logged for
+  transparency.
+- **Faelyn charter and levy administration** — rolls, relief obligations, levy
+  by the head, the spring assessment, and the clause relieving a chartered
+  settlement that hosts and victuals a crown post. **Entirely campaign-invented.**
+  The bible says nothing about Faelyn's internal administration. It fills a
+  silence and contradicts nothing, but it is table machinery built to make a
+  negotiation work, not a statement about how Faelyn is governed.
+  **DO NOT PROMOTE.**
+- **The Ashwell watch** and its standing orders. Campaign-side only.
+
+### The quiet ones — new observation, session 4 (extends the s3 entry)
+- **Established in play:** Hestra Fenn, blind, held by them for roughly a day
+  and a half in s2, reported a fortnight later that there were **three** of
+  them (counted by breathing, one lighter on the floor), and that **the first
+  time they set water by her it was out of her reach and every time after it
+  was exactly where her hand came down.** They observed her once and corrected
+  without being asked, without speaking, and without touching her.
+- **Also established:** an object left for them at the junction was **collected
+  within roughly half an hour** and carried **down and north**, deeper, at a
+  walking pace. Confirmed by *Locate Object*, not by sight. **Nobody saw who.**
+- **Status: DO NOT PROMOTE.** All warnings on the s2 and s3 entries still
+  apply. Their nature remains deliberately undeveloped on the DM side. Note in
+  particular that "they adjust to an individual's needs" is a strong
+  characterisation and was arrived at in play through a blind NPC's testimony,
+  not by any DM decision about what they are.
+- **The game migration** now has observed confirmation from the far side — a
+  village a day south-east reporting an unprecedented glut while the hills are
+  empty. **The in-fiction hypothesis that the Stone Giants are leaving rather
+  than invading is now better supported and is still unproven, and it must
+  NEVER be promoted**, because confirmed lore has the Giants as Diquyk's
+  northern strike force.
+
 ---
 
 ## Contradictions Flagged (bible-side, not campaign-side)
+
+### Snow Elf hair colour — table vs. entry
+- `Lanamyr_04_Races.txt`, RACE APPEARANCE TABLE, gives Snow Elves hair as
+  **"Silver, Gray, White"** and eyes as "Bright, Light tones".
+- The extended **SNOW ELVES** entry in the same file says their hair is
+  **"dark — blacks and dark tones — contrasting sharply with their eyes"**, and
+  explicitly makes that contrast the thing that marks them out: *"The
+  combination of dark hair and vivid eyes against pale skin makes them
+  immediately distinctive."*
+- The two cannot both be true, and the entry's whole descriptive point depends
+  on the hair being dark. **The table row looks like the error.**
+- Noticed during the session-4 campaign pre-load. Flagged per root
+  `SESSION_INSTRUCTIONS.md` §9. **No campaign impact whatsoever** — no Snow Elf
+  has appeared or is likely to. Raised only so it is not lost.
+- **Resolution: PENDING USER DECISION.** Belongs to a bible session; fixing it
+  touches `Lanamyr_04_Races.txt` only, in one cell.
 
 ### Wood Elf childhood boundary vs. Mya's enlistment age
 - `Lanamyr_02_Overview_Cosmology.txt` gives Wood Elves childhood 0–42, young

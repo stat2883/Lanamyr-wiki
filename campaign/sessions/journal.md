@@ -479,3 +479,202 @@ Knight was the only one who looked back.
 
 *Next: four days home, and a week in which nobody is allowed up that draw.*
 
+---
+
+## Session 4 — Dorn's Ford
+
+*387 AW. Nine days out to seventeen. A spell on a frozen slope, an old blind
+woman's testimony, and a miller.*
+
+They were ten minutes down the draw when Ignis went up the column against the
+flow of it and asked the captain whether he wanted her to spend a slot finding
+out whether the tablet was still lying where they'd left it.
+
+Vaeroth stopped walking. He asked one question — *does it tell them you're
+doing it* — and on being told no, halted forty-two people on a frozen slope and
+stood them in the cold for ten minutes so one person could shut her eyes. *Don't
+give me the good answer. Give me the one you get.*
+
+Maevis did the counting. Behind, and below, and not moving. One minute. Three.
+Five. Seven, and by seven everybody standing there had quietly decided they knew
+the answer and didn't much like it.
+
+**At eight minutes it moved.** Away. Down, and north — not up the stair — at a
+walking pace, in no hurry at all. And at somewhere past nine and a half it was
+simply gone, because forty-two people had walked her out of range of it while it
+was still going.
+
+Nobody came for it for the better part of half an hour, and then somebody did.
+*That's not a patrol finding it*, Maevis said. *Somebody went and fetched it.*
+
+And Mya, who hadn't said anything: *that's not them tolerating us. That's them
+answering the post.*
+
+Ignis told the captain afterward, without being asked, that she could never have
+seen *who*. Only that it started moving. To see who, somebody has to be sitting
+in that junction in the dark with their eyes open, and he said plainly that he
+would not order that this month, this winter, or on his own authority at all.
+
+---
+
+In Ashwell, Alinar told Aldric everything flat and in order — the door that
+won't close, the people who have never raised a hand, and the goats, alive and
+penned and *fed*, which is the word the man couldn't get past. *You don't feed a
+stolen goat. You eat it.*
+
+Then Aldric asked whether *no danger* was the captain's word or Alinar's, and
+Alinar wouldn't answer it. He sent him to Hestra instead — the only one who'd
+actually been in their hands.
+
+They sat on that bench a long time. What came out of it was the thing a blind
+woman knows and nobody else could: there were three of them, she counted their
+breathing, and one was lighter on the floor than the others. And the first time
+they set water down for her it was a hand's width past her reach, and she went
+hunting along the stone for it and nearly had it over — and every time after
+that, it was exactly where her hand came down.
+
+They watched her fail once, and then they never let her fail again.
+
+*I've been fed by people in my life and I've been kept by people, and those are
+different, and I know which one that was.*
+
+Aldric came back up the lane and gave three rulings. Nobody goes up the draw.
+The north meadow gets grazed in the spring anyway. And he tells the whole
+village, all of it, because sitting on a thing is how a headman turns into a
+liar.
+
+Wick and Dalla got the hill. The party wrote their orders themselves and the
+captain added three lines to them. Ignis found a nine-year-old had been
+re-splinting his grandmother's ankle every day for a fortnight at exactly the
+same hour, to exactly the mark he'd been shown, on a leg that had got thinner —
+and had rubbed it raw, and had checked his work twice as taught, and had carried
+on, because nobody told him to stop.
+
+And the night before they split, she turned into a wolf and fought Knight in the
+frozen grass for an hour until Ohren Kade had to sit down laughing. At the end
+of it the pup went and fetched a deer bone and put it on the ground exactly
+halfway between her and Sharii, and stepped back, and sat.
+
+*It's a puppy,* Wick said loudly, *with a bone. That's what they do.*
+
+*It is,* Mya agreed, in a voice that agreed with nothing.
+
+Nobody picked it up.
+
+---
+
+The twins didn't go east. Alinar laid out everything he'd spent a fortnight
+collecting, handed it to four other people, and walked west with the column. He
+told Aldric it wasn't his forte, and Aldric told him to his face that was a lie,
+and a kind one, so he'd allow it.
+
+Dorn's Ford has a mill, two hundred people, and a river. Aldric stopped in the
+road a hundred yards out and said *they'll know me*, and they did.
+
+He asked badly and then honestly, with his hat in his hands, in the open, in
+front of a dozen people — including the part about his grandfather walking out
+and there being no way to say any of it that didn't mean *we couldn't manage*.
+
+Merrick Dorn didn't gloat. He said it was the first honest thing said in that
+yard since the spring, and that he'd have signed it twenty years ago at that
+table in an afternoon, and that it wasn't twenty years ago. Then he laid out why
+he couldn't: a roll is a list of who *owes*. Ashwell on his book meant his barn
+feeding them through a winter he hadn't the grain for, and two more of his boys
+going north to a war, and he could name them, and one has a wife expecting in
+March.
+
+*And I'd still rather find a way than tell you no in front of my own people. So
+somebody had better give me one, because I can't.*
+
+So Ignis asked him whether anybody here had noticed the wildlife coming down off
+the mountain.
+
+A woman by the weighbeam said *Ha*, once, like a cough. Best autumn for game in
+living memory. Snare lines full every morning since the leaves turned. Roe in
+the stubble in daylight that barely move for you. A boar in the orchard twice.
+And Jorrun went three days up into the hills a fortnight back because that's
+where you go, and came back with two birds and a face on him.
+
+*Everything's here. Nothing's there.*
+
+And Merrick Dorn stood very still and said, to nobody, *the wheat* — because
+he's a miller, and he'd just worked out that he had deer in his winter corn all
+through the hungry months and had spent a season thanking the gods for it.
+
+Then he asked what they knew and where from, and warned them he'd take it for a
+threat if it came out wrong.
+
+She gave him all of it. The hall, the silent people, the door the militia opened
+and cannot shut, the goats, the letter on its way to a king, the pulse under the
+mountain that has emptied it of everything that walks. That a fox told her, and
+a crow, and that she'd rather say it plainly than be caught dressing it up. Then
+the trade: you have too much meat and no bread to spare, they have no meat and
+forty days of flour, let them take game under your hedges and your wheat gets
+guarded all winter by the hungriest people in the valley and you never open your
+barn.
+
+And then the thing that actually turned him, which wasn't an argument at all —
+that she'd spent an evening teaching a nine-year-old to set a bone, because she
+wasn't going to be there. *I'd rather be the one who taught the boy than the one
+who was needed.*
+
+*I believe you,* he said. *And I want that noted by everyone stood here. Because
+nobody inventing a tale tells you the part that's their own fault.*
+
+The game he gave them outright. The levy he could not, until Thale — who had
+promised to stand in that yard in uniform and say nothing, and who asked her
+permission first, and who announced out loud that he was breaking his word
+before he broke it — produced a clause older than the war: a village that houses
+and feeds a crown post is relieved against its levy by the heads it supports.
+There are two militia going on that hill tomorrow. *That's a post.* He can't
+grant it. He can put his name on the recommendation, over his own captain's
+signature, and he said so without selling it as anything more.
+
+And Dovin opened his case and pointed out the thing nobody had thought of: no
+clerk amends a roll against a village with no drawn boundary, and the north edge
+of a crown plan carries the neighbour's name on it, in ink, forever.
+
+The ink was out before dark. The game, outright. The boundary, surveyed. And the
+charter — signed, and conditional, and it lapses in March if the crown says no.
+
+*That's not me hedging against you, Aldric. That's me being able to stand in the
+chapel on Sunday.*
+
+Aldric stopped once in the lane on the way back and stood there a moment, and
+then carried on.
+
+---
+
+The column reached Caldalus on the thirteenth day and the others came in four
+days behind it, in the first snow. The captain's letter to the king went while
+they were still walking — he wrote it four times and sent the shortest — and it
+has not one word in it about a levy or a charter or a miller, because none of it
+had happened yet.
+
+Maevis lost the rubbing. A scholar couldn't read it, couldn't place it, didn't
+believe it was descended from anything he knew, and asked to keep it; she said
+no; and three days later somebody much more senior asked rather less politely,
+and it went up the chain and out of her hands.
+
+The old letter to the tacticians finally got its answer: four lines, thanking
+the captain for his diligence, and noting that the kingdom's attention is
+presently on the eastern approaches.
+
+Which is where the war was, that week. A mixed probe out of the east, two
+villages touched, a company engaged, dead on both sides. Nobody they knew. It
+was the first time in a fortnight anyone in the barracks had talked about the
+actual war, and it landed oddly, like remembering an appointment.
+
+Alinar met them at the gate, because he'd been going to the gate for two days,
+and asked only whether he'd signed. Then he worked through the whole shape of it
+out loud — a village on a book because of a petition nobody's written, over the
+signature of a captain who hasn't heard of it, in a war that just took two
+villages — and concluded that it was a better position than they'd had.
+
+Thale didn't stop in the yard at all. He went straight past everyone, with the
+road still on him, to the captain's door.
+
+It stayed closed a long time.
+
+*Next: six more days before anyone is allowed to look at that draw.*
+

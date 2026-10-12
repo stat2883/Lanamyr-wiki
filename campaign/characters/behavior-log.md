@@ -141,6 +141,21 @@ took the decision anyway.
 - **New, s3:** he hands decisions to other people. Mya twice, his brother
   twice, the room once. He also answers for people who did not ask him to.
 
+**S4 — 387 AW, the draw.** Asked nothing and proposed nothing during the
+*Locate Object* decision — **stood back and let another PC take it to the
+captain.** Contrast with s3, where he answered a captain's question on her
+behalf before she could.
+
+**S4 — 387 AW, Ashwell.** Present for the handoff briefing and did not speak
+in it. **Did not go to Dorn's Ford**, and did not say why.
+
+**S4 — 387 AW, the camp.** Watched his brother's wolf be asked to leave him
+and **did not intervene either way** — neither offering Knight nor forbidding
+it. Let the animal answer.
+
+**S4 — 387 AW, Caldalus.** Eight days in the capital. No record of what he did
+with them. *(Open for the player to fill if they want it.)*
+
 ### Live question
 Per `../campaign-status.md` thread 4: he enlisted because Alinar did. The open
 question is whether that borrowed conviction becomes his own. **Note for the
@@ -260,6 +275,32 @@ dismantled the party's plan and produced a better one.
   was his first. Three separate times.
 - **New, s3:** he notices who in the room has not spoken, and asks them.
 
+**S4 — 387 AW, Ashwell.** Gave Aldric the complete account of the hall flat and
+in order, **including the parts that reflect badly on the militia** — that they
+opened a door they cannot shut — and stated plainly that he could not be sure
+about the giants.
+
+**S4 — 387 AW, Ashwell.** Asked directly by Aldric whether "no danger" was his
+word or the captain's, **he refused to answer and sent him to Hestra Fenn
+instead** — the only person who had actually been in their custody. *"Don't take
+my word for whether it's safe."* The deflection produced the session's single
+most important new fact.
+
+**S4 — 387 AW, Ashwell.** **Handed the Dorn's Ford negotiation away entirely.**
+Briefed four other people on all three levers he had spent a fortnight
+assembling, and did not go. Told Aldric it was not his forte. Aldric told him
+to his face that this was a lie, and listed the evidence; Alinar did not argue.
+
+**S4 — 387 AW, Caldalus.** **Went to the gate yard two days running** waiting
+for the Dorn's Ford party to come in. First question on their arrival was not
+how they were but *"Did he sign?"*
+
+**S4 — 387 AW, Caldalus.** On hearing the deal's full shape — a conditional
+charter resting on an unwritten petition over an uninformed captain's
+signature, in a week the war took two villages in the east — assembled it
+accurately in one sentence and concluded: *"That's a better position than we
+had."*
+
 ### Live question
 Per `Alinar.md`: does he know Sharii gave up the pull toward magic to follow
 him? Still unaddressed in play. He now knows that Sharii will put himself in
@@ -350,7 +391,53 @@ stone it had put down, and bowed her head before turning her back on it.
 the head-turn was *"a comma, not a period"* — and that the beings who know what
 is emptying the mountain are the only ones who can say so.
 
+**S4 — 387 AW, the draw.** Had a fifteen-minute window and a reason to use it,
+and **went and asked the captain's permission rather than casting.** When he
+asked whether the spell would alert them, answered the actual question. He
+halted a column of forty-two for her.
+
+**S4 — 387 AW, the draw.** Chose **Maevis** as a witness and recorder before
+casting, unprompted, so that the result would be an observation rather than
+her word.
+
+**S4 — 387 AW, the draw.** Asked afterward whether she could have seen *who*
+took the tablet, **she said no and volunteered the limitation in full** — only
+that it moved, never who, never how far — to a commanding officer who was about
+to write to a king and was visibly hoping for a better answer.
+
+**S4 — 387 AW, Ashwell.** Found her own instructions had done harm: a
+nine-year-old re-splinted to the exact mark for fourteen days on a leg that had
+changed, and rubbed it raw. **Received the finding from the boy himself without
+blaming him**, and he showed her immediately, braced.
+
+**S4 — 387 AW, the camp.** Asked Knight to come with her, was refused, and
+**let it go without argument and without spending a slot to press it**, then
+spent an hour as a wolf playing with him anyway.
+
+**S4 — 387 AW, the mill yard.** **Stayed silent and gave the floor to Aldric**
+while he failed twice to say the sentence in front of his own neighbours, and
+did not rescue him.
+
+**S4 — 387 AW, the mill yard.** Broke the deadlock by **asking a question
+instead of making an argument** — whether anyone had noticed the wildlife
+coming down — which turned the miller's objection into the miller's problem.
+
+**S4 — 387 AW, the mill yard.** Told a stranger with every reason to use it
+against her **the entire truth**, including that the militia opened the door
+and that a fox and a crow were her sources, said flatly and without softening.
+Persuasion 22. His stated reason for believing her was that she told him the
+part that was her own fault.
+
+**S4 — 387 AW, the mill yard.** Having been given the floor, **gave it away
+twice** — invited Thale to break the promise of silence he had made to her, and
+then looked to Dovin to add his piece.
+
 ### Pattern so far — observations, not conclusions
+- **New, s4:** she asks permission from the person who carries the
+  consequence, and she volunteers the limits of what she can do before anyone
+  thinks to ask for them.
+- **New, s4:** she holds a floor and then hands it to whoever can actually use
+  it — Aldric, Thale, Dovin, in that order, in one afternoon.
 - She tells people her capabilities, in detail, unprompted, to anyone who can
   use them — and gives the same answer to a captain, a sergeant and a wolf.
 - She spends herself on people outside her own unit: a village, a column, a
@@ -477,3 +564,76 @@ junction. **Was not fooled for an instant by wolf-Ignis** — crossed thirty fee
 in the dark the moment the shape changed, with no checking and no hesitation.
 Slept between the two of them afterward. Was the only one who looked back at
 the mountain. *Still unexplained. Leave it.*
+
+---
+
+### Added session 4
+
+**Capt. Ilyen Vaeroth.** Halted a column of forty-two on a frozen slope for one
+caster's ten minutes, on being told the spell would not alert anyone. Asked for
+the real answer rather than the useful one. **Delegated the watch's standing
+orders to the recruits who had been within thirty feet of one** — the second
+formal authority he has handed a recruit in a fortnight. Ruled on the tablet
+himself and conceded aloud that he had drawn the line where it suited him.
+Wrote to the king. **His letter is already out of date and he does not know
+it yet.**
+
+**Sgt. Serwyn Thale.** Kept a promise of silence through an entire negotiation.
+Broke it **only on Ignis's explicit invitation**, and announced that he was
+breaking it, and why, before he said anything else. Supplied the levy clause
+and **put his own name on a recommendation binding his captain**, selling it as
+a petition and not a promise. On reaching Caldalus he **went straight past the
+reunion to Vaeroth's door** rather than let him hear it secondhand. Earlier the
+same session he warned that the third lever is a gift or a threat depending on
+whose mouth it comes out of, and that out of a uniform only one meaning is
+available.
+
+**Mya Li.** Named the collection of the tablet as *answering the post* before
+anyone else had the sentence. Otherwise low profile; she marched west.
+
+**Maevis Tarn.** Counted and recorded the *Locate Object* timings without being
+asked to and refused to interpret while she did it. **Objected on the record**
+to the take-and-leave-nothing order and asked that the objection be written
+down. Lost the rubbing to the chain of command in Caldalus and has told
+everyone who will stand still.
+
+**Dovin Reyl.** Supplied the one piece nobody knew was load-bearing — that no
+clerk amends a roll against a village with no drawn boundary — and the detail
+that a crown plan carries the neighbour's name on its north edge permanently.
+
+**Merrick Dorn (new).** Wanted to say yes from the first minute and could not
+see how. Named two objections, neither of them a grudge, and asked to be given
+a way through rather than refusing. **Believed the whole account of the hall and
+said so in front of witnesses**, his stated reason being that nobody inventing a
+tale tells you the part that is their own fault. Signed the game rights
+outright, the boundary gladly, and the charter **conditionally, with a March
+deadline**, so that he could stand in his own chapel on Sunday.
+
+**Keth (new).** Had known something was wrong with the hunting for weeks and
+had no words for it until someone asked her the right question.
+
+**Aldric.** Asked for his own village, in his own voice, in another man's yard,
+badly and then honestly. Told his whole village everything rather than sit on
+it. **Allowed the spring grazing on the strength of Hestra's testimony alone.**
+Told Alinar that his modesty was a lie and listed the evidence.
+
+**Hestra Fenn.** Counted three of them by their breathing. Supplied the
+water-within-reach detail — **that they watched her fail once and never let her
+fail again** — which is the most significant single fact anyone has established
+about the quiet ones.
+
+**Coll Fenn.** Did exactly what he was told, every day, at the same hour, to the
+exact mark, for fourteen days, on a leg that had changed — and rubbed it raw,
+and checked his own work twice as instructed, and carried on. **The warning has
+now come true once at no real cost. Next time there may be a cost.**
+
+**Bellis Ordow.** Heard from Neva what Ignis told the captain at the gate,
+listened all the way through, and **did not pick up his pencil.** *"That's hers
+to tell me."* The space on his board is still empty.
+
+**Knight.** Would not go east — the established limit held. Played with
+wolf-Ignis as an equal rather than submitting as he did in s3. At the end of it
+**fetched a deer bone and set it down exactly halfway between her and Sharii,
+stepped back, and sat.** Nobody picked it up; it was still there in the
+morning. Unsettled for three days in Caldalus and then not. *Still unexplained.
+Still leaving it.*

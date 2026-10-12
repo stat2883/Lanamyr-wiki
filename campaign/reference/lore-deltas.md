@@ -347,21 +347,28 @@ would need to change.
 
 ## Contradictions Flagged (bible-side, not campaign-side)
 
-### Snow Elf hair colour — table vs. entry
-- `Lanamyr_04_Races.txt`, RACE APPEARANCE TABLE, gives Snow Elves hair as
+### Snow Elf hair colour — table vs. entry — ***RESOLVED***
+- `Lanamyr_04_Races.txt`, RACE APPEARANCE TABLE, gave Snow Elves hair as
   **"Silver, Gray, White"** and eyes as "Bright, Light tones".
 - The extended **SNOW ELVES** entry in the same file says their hair is
   **"dark — blacks and dark tones — contrasting sharply with their eyes"**, and
   explicitly makes that contrast the thing that marks them out: *"The
   combination of dark hair and vivid eyes against pale skin makes them
   immediately distinctive."*
-- The two cannot both be true, and the entry's whole descriptive point depends
-  on the hair being dark. **The table row looks like the error.**
+- The two could not both be true, and the entry's whole descriptive point
+  depends on the hair being dark.
 - Noticed during the session-4 campaign pre-load. Flagged per root
-  `SESSION_INSTRUCTIONS.md` §9. **No campaign impact whatsoever** — no Snow Elf
-  has appeared or is likely to. Raised only so it is not lost.
-- **Resolution: PENDING USER DECISION.** Belongs to a bible session; fixing it
-  touches `Lanamyr_04_Races.txt` only, in one cell.
+  `SESSION_INSTRUCTIONS.md` §9. No campaign impact — no Snow Elf has appeared.
+- **RESOLVED 2026-10-11 by user decision: Snow Elves have dark hair.** The
+  table row was the error and was corrected to **"Blacks, Dark tones"**. The
+  SNOW ELVES prose entry was already correct and was left untouched. No other
+  file in `bible/` references Snow Elf hair — checked.
+- **Note on process:** the user directed that the bible version **not** be
+  bumped for this correction, and no archive copy was made. This is a
+  deliberate exception to root `SESSION_INSTRUCTIONS.md` §6, taken on the
+  grounds that it is a one-cell typo fix rather than a lore change. Recorded
+  here so a future session does not read the unchanged version marker as
+  evidence that nothing was edited.
 
 ### Wood Elf childhood boundary vs. Mya's enlistment age
 - `Lanamyr_02_Overview_Cosmology.txt` gives Wood Elves childhood 0–42, young

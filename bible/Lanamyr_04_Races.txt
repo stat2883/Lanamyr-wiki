@@ -186,7 +186,7 @@ Humans — Water Whisp.  | 5'9"     | 5'4"     | Lean               | Variety   
 Elves — Plains         | 5'11"    | 5'6"     | Lean, Slender      | Light browns, Bronze       | Light tones            | Variety                    | Antathi
 Elves — Wood           | 5'7"     | 5'2"     | Lean, Slender      | Light tan                  | Dark tones             | Dark tones                 | Aiwiya
 Elves — High           | 5'7"     | 5'2"     | Lean, Athletic     | Light yellow, Golden       | Variety                | Variety                    | Nheqethi
-Elves — Snow           | 5'1"     | 5'1"     | Thick, Powerful    | Pallid, Blue-tinged        | Silver, Gray, White    | Bright, Light tones        | Tuavasy
+Elves — Snow           | 5'1"     | 5'1"     | Thick, Powerful    | Pallid, Blue-tinged        | Blacks, Dark tones     | Bright, Light tones        | Tuavasy
 Elves — Dark           | 5'9"     | 5'4"     | Lean, Athletic     | Dark gray, Deep purple hint| Silver, Gray, White    | Cloudy gray, Pale blue     | Ukuri
 Elves — Sea            | 5'6"     | 5'1"     | Lean, Slender      | Aqua, Light blue-green     | Blues, Greens          | Variety                    | Vhitoshi
 Dwarves — Ice          | 4'9"     | 4'8"     | Broad, Powerful    | Gray, Silver               | White, Silver          | Blue, Gray                 | Malsili

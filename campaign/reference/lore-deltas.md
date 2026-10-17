@@ -343,6 +343,77 @@ would need to change.
   NEVER be promoted**, because confirmed lore has the Giants as Diquyk's
   northern strike force.
 
+### The vents, the arc and the staircase — session 5, HANDLE WITH CARE
+*Extends the s2 hall entry and the s3 void entry. Every warning on both still
+applies.*
+
+- **Established in play (session 5):** the mountainside above the hall carries
+  **eleven patches of bare, warm, snow-free ground with living moss**, running
+  east and a little north along the shoulder over roughly two and a half miles.
+  Visible only against lying snow. Ten breathe warm air; **one (the seventh) is
+  choked, dead about a year, with an old overgrown cleared heap beside it.**
+  At every live vent the spall that would naturally choke the fissure has been
+  **removed and stacked a yard to the left**. **Nothing has ever walked on any
+  of them**, in a mountain stripped of game.
+- **Measured, not inferred:** through one vent, tool-strikes from a long way
+  below resolve into **three working pairs**, counted twice on different days.
+  A staircase being cut down into the void is estimated at **two months to a
+  year, most likely spring**, on a **cathedral pitch, four or five abreast.**
+- **Plotted:** the eleven surveyed points lie on a shallow **arc**; a centre
+  constructed twice from different trios falls **north, deep under the high
+  Tempest Peaks**, with a radius of miles.
+- **⚠ The in-fiction counter-argument is part of the record.** Maevis Tarn
+  demolished the arc herself — natural fissures follow bedding planes and faults
+  and curve exactly like that, and a centre constructed through three holes is
+  arithmetic, not a place. **Both the finding and its demolition are canon-side
+  neutral and neither is evidence of anything.**
+- **Bible status:** the bible says nothing about anything beneath or above the
+  Tempest Peaks beyond their elevation and the Stone Giant origin. **Nothing
+  here contradicts confirmed lore.** It fills a silence.
+- **Recommendation: DO NOT PROMOTE.** The nature of the hall, the void, the
+  cubes and the quiet ones remains deliberately undeveloped on the DM side. The
+  Stone Giants of the Tempest Peaks are confirmed as **Diquyk's northern strike
+  force**, and the campaign's in-fiction *giants are leaving home* hypothesis —
+  now further complicated by eastern testimony placing four of them at the rear
+  of a Dark Elf line, guarding a load — **must NEVER be promoted.**
+- **Also not for promotion:** the eastern engagement, Captain Ferrow's company,
+  Oris Venn's testimony, and the detail that the Dark Elves broke contact
+  simultaneously. Note that confirmed lore **does** say Diquyk equipped the Dark
+  Elves with magical and enchanted weapons — so Venn's unsworn account of a
+  blade through shield and mail is **consistent with the bible without needing
+  to be added to it.** Do not write it in.
+
+### Faelyn administration, the crown and the writ — session 5, NOT for promotion
+- **Established:** a crown officer with a writ collecting an unreadable artifact
+  from a college annex; crown and Office of Works purchasing of sulphur; granary
+  fumigation ahead of winter storage; a register system by which writs can be
+  traced to an issuing office; a levy petition signed and lodged by a company
+  captain.
+- **Recommendation: DO NOT PROMOTE.** The bible says nothing about Faelyn's
+  internal administration or the crown's apparatus, and this is table machinery
+  built to make a winter of paperwork and suspicion work. It fills a silence and
+  contradicts nothing, but it is not a statement about how Faelyn is governed.
+
+### Campaign NPCs added session 5 — NOT for promotion
+- **Oris Venn** (eastern command, invalided to Caldalus), **Phessa Molt**
+  (glassblower and herbalist, Caldalus), **Vennory** (college scholar),
+  **the annex porter**, **Capt. Ferrow** (eastern command, offscreen),
+  **Hessel Dray** (offscreen). Table scaffolding, logged for transparency only.
+
+### Knight's limits and Speak with Animals — table mechanics, NOT for promotion
+- **Established:** a beast-master companion's refusal to leave its master is
+  governed by **breaks in a scent trail rather than distance**; *Speak with
+  Animals* is retained through Wild Shape; a beast's comprehension does not
+  extend to future-tense abstractions like training or intent.
+- These are 5e table rulings and animal-behaviour fiction. **The bible carries
+  no game mechanics and has no need of any of this. Never promote.**
+- **Note for a future DM, not for the bible:** Knight has reported that Sharii
+  sometimes *goes somewhere without moving*, that he knows it instantly, and
+  that he does not know it by smell. **This is a datum about how *Unbidden*
+  looks from outside. It resolves nothing about whether Sharii is a Magni**, and
+  the unfilled Magni slot in `Lanamyr_08_Open_Questions.txt` remains open and
+  unassigned. See the *Unbidden* entry above.
+
 ---
 
 ## Contradictions Flagged (bible-side, not campaign-side)

@@ -678,3 +678,322 @@ It stayed closed a long time.
 
 *Next: six more days before anyone is allowed to look at that draw.*
 
+---
+
+## Session 5 — The Vents
+
+*387 AW. Three weeks of winter, a mountainside full of holes, and a stair for
+somebody who hasn't arrived yet.*
+
+The captain's door opened in the afternoon of the seventeenth day and Thale came
+out of it having not changed his clothes in nineteen hours, and said the captain
+wanted four of them in an hour, and somebody had better go and find Tarn.
+
+Alinar spent that morning chasing the war. Ordow gave him the shape of it and
+then he went and found a man it had actually happened to — a soldier called Oris
+Venn, sat on the infirmary step with his arm strapped up because the ward smells
+and the snow helps. No moon either night. Thirty Dark Elves who fought in the
+dark like they live in it and then broke off all at once, as if somebody said so.
+A blade that went through a shield and a chain sleeve and the shoulder behind
+it, which he would not swear to in front of an officer and said so without being
+asked.
+
+And four giants who came up *behind* the line, stood in the field, and did not
+chase anybody when Ferrow's company pulled back into the trees. They stayed with
+the carts.
+
+*Everyone's telling it as giants came down on us. They didn't come down on
+anybody.*
+
+Ignis spent the same morning finding out that you cannot walk the eastern
+quarter of Caldalus with Sharii's wolf, because the wolf has drawn a circle with
+Sharii at the middle of it and will not discuss the radius. What she could reach
+was a glassblower on the Low Weaving called Phessa Molt, who finished looking at
+her instead of looking away quickly, and sold her a restock of everything except
+sulphur — because there isn't any. Three men from the Office of Works bought out
+the shops a fortnight ago, and then the crown bought whatever came in behind
+them, and Phessa didn't ask either of them why because she'd like to keep
+sleeping.
+
+---
+
+The captain had cleared his desk — properly cleared it, everything put somewhere
+else on purpose — and ruled a sheet of paper down the middle.
+
+What a man saw on the left. What it means on the right. *And they do not go in
+the same letter.*
+
+He wanted the east written as *the giants stood in the field and did not
+pursue*, because that cannot be argued with, and any man who knows his business
+will arrive at *somebody is controlling them* on his own and think he thought of
+it. *That's not me softening it. That's me loading it.*
+
+Mya asked the only question nobody had. **What did they take?** Because a raid
+takes what it'll carry and burns the rest, and it doesn't post four giants on a
+cart while thirty soldiers go chasing men into trees. *That's not plunder.
+That's a load. Somebody set a guard on it.* And if somebody's hauling, there's a
+line, and it has two ends, and we've been staring at the other one for a
+fortnight.
+
+He wouldn't write that either. But he sent east for the grain schedules, as the
+most boring administrative question a man can ask, because if what they took is
+food then somebody is feeding something and he would like to know how many
+mouths.
+
+Maevis had three days of fury in a case on her knees. The scholar who couldn't
+read her rubbing was honest and she said so. The man who took it wasn't college
+— plain clothes, no seal, a crown writ she wasn't allowed to read properly. And
+an old porter on the annex door, who likes company in the cold, says he'd seen
+that same gentleman *two days before.* Before anybody had shown the college
+anything at all.
+
+She asked him twice and got a different number the second time, and reported
+that herself before anyone could use it on her.
+
+*I have spent three weeks worrying that nobody above me is listening*, the
+captain said. *It had not occurred to me to worry that somebody is.*
+
+He kept her notebook of remembered inscription overnight and copied it out by
+hand — badly, on purpose — so there'd be two bad copies in two buildings instead
+of one, and neither of them would be the single point at which it stopped
+existing.
+
+Then he signed the levy petition. Nineteen hours behind that door, and what came
+out of it was: Thale was right about the clause, wrong about the order of it,
+and punishing a man for finding the only lever in the county means forty-one
+people fall off a roll in March to make a point.
+
+And he told Mya to her face, in front of witnesses, that her name was on page
+one of a letter to her father. Not asking. Telling, so she wouldn't find out
+afterward.
+
+*Name everyone,* she said. *Same weight, no rank on any of them. If I'm the only
+name he recognises, it won't matter what you wrote.*
+
+---
+
+They had days to fill, so Ignis took the wolf out to a hedge line to teach him
+to hunt, and found out he had never been taught — orphaned at eight weeks when
+the fighting scattered the pack, and everything he knows he learned off an elf.
+He has the nose. He has no patience and no idea how to run at where a thing is
+going to be, and on every single approach, in the last twenty yards, **he looks
+back at Sharii** — which costs him half a second, which is the half second the
+hare uses.
+
+Told to stop, he didn't refuse. He couldn't understand the question. *But then I
+wouldn't know.*
+
+She tried the other way round and pretended to attack his master, and found that
+he was never fooled for one second, and that he doesn't threaten and doesn't
+pursue — he just *stands in front*, every time, and will not leave the spot even
+to meet something at twenty feet. One move. Already perfect. And on the seventh
+pass, when she came in like she meant it, something answered in his chest before
+he did and made a sound none of them had heard, and the whistle that has never
+once failed **took three.**
+
+He wouldn't eat from her hand that night. He slept on Sharii's boots.
+
+So she spent ten minutes as a wolf, talking to a wolf, and told him it had been
+pretending, and found that he'd known that all along and it was never the
+problem. The problem was that *you came the way the thing comes*, and that
+something had happened in him that he didn't choose, and that he knows it took
+three.
+
+She told him he was right to stand in front. That helped.
+
+And then he asked her something, which he has never done.
+
+Sometimes Sharii **goes somewhere without moving.** The wolf knows the instant
+it happens — he knew it once across a drill yard with his back turned — and he
+does not know it by smell, and his whole world is smell, and he has nothing to
+compare it to.
+
+*Is he coming back?*
+
+The spell ran out in the middle of it.
+
+---
+
+Mya had asked for a calendar instead of more weather, so Ignis got one. Two
+hours of Maevis complaining and refusing and then doing it anyway: the floor two
+to four hundred feet down, good stone which means slow stone, one to three
+treads a day a pair — and two holes she couldn't close, because nobody knows if
+they sleep and nobody knows how much is already cut.
+
+**Two months to a year. Most likely spring.** *That's not a figure. That's a
+season, and a season is a worthless thing to plan around.*
+
+But she was certain about the stonework. Shallow rise, deep tread — a cathedral
+pitch — and wide. Four or five abreast, two hundred feet down, by hand, in the
+dark.
+
+*Nobody cuts a cathedral stair four abreast for one slow old man. That's a stair
+for a column.*
+
+And Mya, standing at the butt range in the last of the light, worked out the
+other half: the draw shuts in January. The stair finishes in spring.
+
+**Faelyn goes blind for exactly as long as it takes them to finish, and walks
+back up that mountain the week after it's done.**
+
+---
+
+Then Dalla Sarn came down off the hill a day and a half early with ice in her
+eyebrows and a report that said *nothing has happened* — twelve days, nobody in,
+nobody out, no light, no sound. And a second page, in Wick's hand, which was a
+map.
+
+Twelve days of lying snow and a trapper with nothing to do. Snow falls on that
+mountainside everywhere and there are places where it doesn't stay — dark wet
+ground, green moss, in the third week of winter. He had walked the whole visible
+face at four hundred yards and marked every one.
+
+**Eleven.** Running east and a little north. The furthest the better part of two
+miles out.
+
+*You could not see these in autumn. There was nothing to see them against.*
+
+*That hill is breathing out of eleven places. We found one of them and thought
+we'd found the thing.*
+
+---
+
+The orders came down with something new in them: an end on every line. Daylight
+only. Stop if the weather closes. *Eleven is a number, not a target* — nine is
+an answer. Anything wider than a man's shoulders, ten paces and walk away. And
+the whole order expires in fourteen days whatever's left undone.
+
+*I have about twenty people who do exactly what they're told*, the captain said.
+*And I have been writing orders for forty years without once putting an end on
+one of them.*
+
+He'd got that off a nine-year-old with a splint.
+
+Six of them walked all eleven in four days. Every live one the same: bare warm
+ground, clean edge, living moss — and **nothing has ever walked on any of them.**
+In a mountain stripped of every animal that can leave, the most attractive patch
+of ground for miles, untouched. And beside every single one, the loose stone
+that should have choked it taken out and set down in a tidy heap a yard to the
+left.
+
+*Somebody comes out here and cleans it. Eleven times. Along two miles. And they
+come up from underneath, because there's no track on this snow but ours.*
+
+At the fourth one you could put your ear to the rock and hear **tools.** Very
+faint, very regular, a long way down. Maevis lay in the wet moss for a long time
+and came up with a number: three pairs working, not in step, which is how you
+know it's three and not an echo. She counted again two days later at another
+vent and got three again.
+
+It was almost dark and they were still at it.
+
+At the same vent the thing happened to Sharii, out of nowhere, and put him on
+one knee — the same cold vast structured thing he felt at the bottom of the raw
+tunnel three weeks ago. **And it was no weaker**, two-thirds of a mile away on a
+different face of the mountain.
+
+*Then either it's enormous*, Mya said, *or we're walking along the top of it.*
+
+The seventh vent was dead. Choked, grey, a season gone — and an old cleared heap
+beside it, overgrown, from the last time anybody did the job. *They maintained
+this one, and then they stopped. A year ago. And they've kept the other ten
+since.*
+
+The ninth was two feet across, which is wider than a man's shoulders, and the
+order was read out loud and obeyed. They marked it, took a bearing from
+distance, and walked away from the most interesting hole any of them had ever
+seen.
+
+And somewhere in those three days Ignis stopped asking whether the wax tablet
+was still in the junction and started treating the question as a *method* —
+casting into every hole she had a spell left for. Ten of them gave nothing.
+
+**The fourth one answered. Down, and north, and not moving.**
+
+---
+
+Dovin spent an evening in Aldric's kitchen with a rule and a candle and put all
+eleven on paper, and they are not in a line. They sit on a long shallow curve,
+and when he took three of them and constructed the centre, and then did it again
+with three others, the two answers landed a few hundred yards apart.
+
+North. Deep under the high Peaks, past the seam, past the draw, past anywhere
+any Wood Elf has walked in living memory. And the radius so large that eleven
+vents over two and a half miles are not a circle at all. They're a scrape along
+the edge of one.
+
+*The lamps were laid in arcs*, Sharii said.
+
+And Maevis took the whole thing apart before anyone else could, because that is
+what she is for — faults curve, cracks follow the rock, and a centre constructed
+through three holes by a man with a rule in a farmhouse kitchen is not a place,
+it's arithmetic.
+
+*All of which is true. And I'd also tell him that a natural fault doesn't have
+somebody walking two and a half miles of it with a shovel, stacking the spoil on
+the left-hand side every single time.*
+
+---
+
+The captain heard all of it in one sitting without interrupting, and then stood
+and looked at his wall for a while.
+
+*Four months ago this company's whole business was a goat trail and two giants.*
+
+And then he told them what he meant by asking more of them, which was not a
+compliment: that he has no engineers and no scouts and one healer, that they are
+the only people in Faelyn who have been down there, and that in five weeks
+they've handed him four reports and every one contained the thing that weakened
+it. *Men write what makes them look right. You three keep handing me the knife.*
+
+So he will reach for them every time. And somebody will have to be the first
+person back up that mountain after the thaw, into a hall with eleven vents and a
+staircase four abreast that somebody spent a winter finishing, and he is not
+going to pretend he doesn't know who.
+
+Then he turned to the one of them who isn't Faelyn, and isn't sworn to anything,
+and told her — once, in front of witnesses, while nothing was on fire — that she
+can go. Any week of this winter. Because the next time he asks her for
+something, he wants to be certain she's there by choice.
+
+---
+
+In the morning they asked to go after the tablet. Not to take it. To see where
+it went.
+
+Maevis found the flaw in a minute — the tablet answered at the *fourth* vent and
+they were proposing to climb in at the *ninth*, a mile further on. The captain
+found the second flaw and it was his own: nobody knows what that hole does past
+the lip, because his own order had six obedient people stand ten paces back from
+the only measurement that mattered.
+
+Thale killed the fallback outright. *A fallback is an instruction with no
+condition on it, agreed in a warm room and carried out by tired people at the
+end of a long day. The stair is its own question. They don't get to fall into
+it.*
+
+And Mya asked what nobody had.
+
+*We left them a thing, on purpose, after an argument. And they came and fetched
+it and nothing bad happened. That's the only exchange anyone in this kingdom has
+ever had with them. And now we're proposing to go into their house in the dark
+and take it back. I'd like somebody to tell me what sentence that is.*
+
+*I'd go. But in fifteen weeks they have never once raised a hand to us, and if
+that ends, I want us to be able to say honestly who ended it. Because at the
+minute, it would be us.*
+
+So the order got written, with its own ending on it, the way they all do now.
+Everyone goes. Everyone holds at ten paces. One scout, one hour, counted out
+loud from outside and called at forty — and the one line the captain actually
+cared about:
+
+**Go no further in than you can still see daylight behind you. The moment you
+can't see the opening, you turn round.**
+
+Not *when you judge it's getting risky.* A thing your eyes tell you, not a thing
+you have to decide.
+
+*Next: six people north in the deep of winter, and a hole nobody has looked
+into.*
+

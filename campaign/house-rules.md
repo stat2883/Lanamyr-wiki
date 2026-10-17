@@ -2,6 +2,19 @@
 
 ## Table Conventions
 
+**Out-of-character marker — `(( ))`.** Anything the user wraps in **double
+parentheses is out of character**: a rules question, a request for a recap, a
+retroactive clarification, a note about pacing, a decision about whether to keep
+playing. It is the player talking to the DM, not a character talking in the
+world. Phrases like *"out of game"* or *"OOC"* mean the same thing and are
+usually inside the double parentheses as well.
+
+Answer OOC content **as the DM, directly and out of character** — do not narrate
+it, do not have an NPC respond to it, and never treat it as something a
+character said or did. Established session 5. Retroactive clarifications are
+normal and welcome here (see the *Locate Object* castings in session 5): rule on
+them honestly, apply the actual mechanics, and fold the result into the fiction.
+
 **Dice.** The DM simulates **all** rolls, for PCs and NPCs alike. Players never
 roll. State results plainly, including bad ones — no fudging in the party's
 favor. (See the lethality ruling in `CAMPAIGN_INSTRUCTIONS.md` §3.)

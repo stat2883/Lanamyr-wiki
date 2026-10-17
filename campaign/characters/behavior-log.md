@@ -171,6 +171,35 @@ Later the same day he deferred to Alinar's preference and walked out of his own
 meeting. **Both of those are now on the record and they do not agree with each
 other.**
 
+**S5 — 387 AW, Caldalus.** Asked a captain, in a room, whether the crown was
+watching them or had known before they reached the cave — **a question about
+the chain of command, asked openly and upward**, rather than convened privately
+past the horse lines. Contrast with s3.
+
+**S5 — 387 AW, Attery Street.** Sent to fetch Maevis Tarn and took the wolf to
+do it by scent. Found her outside the college annex and **let her give him the
+whole account on the step without once interrupting or evaluating it.** She told
+him the porter's date was unreliable and he did not argue her out of it.
+
+**S5 — 387 AW, the hedge line.** Agreed without discussion to be used as the
+subject of his own wolf's protection drill, including being repeatedly charged
+by a friend at speed. **Stood still for all seven passes.**
+
+**S5 — 387 AW, the hedge line.** Let himself be hidden from, repeatedly, by an
+animal that panics when it loses his trail — and when it failed at the stream,
+**came back across and let himself be found** rather than making the wolf solve
+it.
+
+**S5 — 387 AW, vent four.** *Unbidden* fired and dropped him to one knee. He
+reported it in the flat affectless voice — direction, depth, sameness,
+comparison, nothing else — **and volunteered the comparison that made it
+frightening** (that it was no weaker two-thirds of a mile away) rather than
+just the sensation.
+
+**S5 — 387 AW, Aldric's kitchen.** Supplied the one line that connected the arc
+to the session-3 ledge: *"The lamps were laid in arcs."* Said it once and did
+not defend it when Maevis took it apart.
+
 ---
 
 ## Alinar
@@ -310,6 +339,40 @@ front of a captain for someone neither of them has known for two months.
 meetings about the chain of command, and his response was to say, quietly and
 without heat, *"You've been doing a lot of leading lately for a man who
 follows."* He did not push it further. He never does.
+
+**S5 — 387 AW, Caldalus.** Wanted to go east and **chased the rumour himself
+rather than asking to be sent.** Went to Ordow, then found a firsthand witness,
+then sat down on a cold step beside a wounded stranger and **did not push**,
+and got the account because he didn't.
+
+**S5 — 387 AW, the captain's office.** Gave the eastern report as a flat list
+with the sourcing attached — *third-hand*, said in the same breath as the
+casualty figure — and **volunteered his own assessment of his witness's
+reliability unprompted**, including that Venn under-claimed twice.
+
+**S5 — 387 AW, the captain's office.** Was told his conclusion (*somebody is
+controlling the giants*) would not go in the letter, and **did not argue for
+it.** Accepted the two-column discipline without defending his own sentence.
+
+**S5 — 387 AW, Caldalus.** Asked *"why wait for the thaw?"* directly of a
+captain who had just finished explaining how careful he intends to be.
+
+**S5 — 387 AW, the first vent.** Found the thing that mattered in the first
+thirty seconds by looking at the ground: **nothing had ever walked on it.**
+
+**S5 — 387 AW, the orders.** The orders did not go east. **He said nothing at
+all about it**, asked two useful questions about the plan, was first on the yard
+with his pack — and then went and sat on the infirmary step with Oris Venn
+twice before marching north.
+
+### Live question
+Per `Alinar.md`: does he know Sharii gave up the pull toward magic to follow
+him? Still unaddressed in play.
+
+**New, s5 — and it is now larger.** A wolf has told a druid, in the only
+language it has, that Sharii *goes somewhere without moving*, that it knows the
+instant it happens, and that it does not know it by smell. **Ignis has that.
+Alinar does not, and neither does Sharii.** What she does with it is hers.
 
 ---
 
@@ -459,6 +522,85 @@ people who cannot speak, do not signal, and will not look at one another. She
 has not used it. Whether doing so would be the key to everything or the single
 most alarming thing anyone has ever done to one of them is not knowable, and
 should not be resolved in advance.
+
+**S5 — 387 AW, Caldalus.** Kept the wolf's leash radius as a hard constraint on
+her own errand, **turning back three times rather than making the animal choose**
+between her and his limit, and gave up a whole quarter of the city to it.
+
+**S5 — 387 AW, the captain's office.** Put two competing theories on the table
+and **argued for neither**, explicitly flagging that they are not the same
+theory and lead to different places.
+
+**S5 — 387 AW, the captain's office.** Raised the sulphur in the room where the
+only Office of Works engineer in Faelyn was sitting, **without framing it as an
+accusation**, and let Maevis hear her own sentence and stop mid-way through it.
+
+**S5 — 387 AW, the hedge line.** Found that her own training drill had put
+something in Knight that she did not intend, **on the seventh pass, that she
+had chosen to run.** Did not minimise it and did not repeat the pass.
+
+**S5 — 387 AW, the hedge line.** Spent a second slot and a second hour going
+back **to explain herself to the animal** — and when the abstractions would not
+translate, made the sentence smaller and smaller until it was one a wolf could
+hold.
+
+**S5 — 387 AW, the hedge line.** Was asked a question she could not answer and
+**had the spell run out mid-way through it.** Has not told Sharii what was said.
+
+**S5 — 387 AW, Caldalus.** Took Mya's suggestion and acted on it the same day —
+and when she carried the result to Thale, **kept Mya's name off it**
+deliberately. Thale noticed inside a minute and let it stand, on the stated
+grounds that leaving a name out and putting a different one in are not the same
+act.
+
+**S5 — 387 AW, the armoury lean-to.** Asked a direct personal question
+(*why do you care*) and **answered it straight**, including the part that makes
+her strange: that she doesn't belong anywhere in particular and something pulled
+her here.
+
+**S5 — 387 AW, the vent line.** Asked a question about her own failed castings
+and then **turned the failure into a method** — cast *Locate Object* at every
+one of eleven holes across three days, spending essentially every second-level
+slot she had, for ten negatives and one answer.
+
+**S5 — 387 AW, vent four.** Having got the one hit, **volunteered the full
+limits of it before anyone asked** — no distance, no surroundings, no identity —
+to a party that badly wanted it to mean more. Third session running she has done
+this.
+
+**S5 — 387 AW, the captain's office.** Asked, in a room, what *"a great deal
+more of you"* actually meant, rather than letting it sit as a compliment.
+
+**S5 — 387 AW, the captain's office.** Asked a captain to reverse an order he
+had given twenty minutes earlier — **the specific clause that named her** — and
+made the argument on efficiency rather than on being trusted.
+
+**S5 — 387 AW, the captain's office.** Clarified unprompted that the party did
+not intend to **take** the tablet, only to see where it went, which moved Mya
+from *theft* to *trespass* and changed the terms of the order.
+
+### Pattern so far — observations, not conclusions
+- **New, s5:** she turns a failed attempt into a repeatable method rather than
+  abandoning it. The eleven castings came out of two that returned nothing.
+- **New, s5:** she protects other people's attribution — Mya's name off the
+  January finding, Maevis chosen as a witness in s4, Thale invited to break his
+  own word in s4 rather than being quoted.
+- **New, s5:** she goes back to repair something she did, at her own cost, and
+  does it in the other party's language rather than her own.
+- She asks permission from the person who carries the consequence, and she
+  volunteers the limits of what she can do before anyone thinks to ask.
+- She holds a floor and then hands it to whoever can actually use it.
+- She spends herself on people outside her own unit: a village, a column, a
+  child, an animal.
+- She has gone toward every unknown thing since day one.
+
+### New live question, s5
+**She has been told, by the commanding officer, in front of witnesses, that she
+is free to walk out of the gate any week of this winter**, with his signature on
+whatever needs signing and no word against her name.
+
+**She has not answered.** Do not answer it for her, and do not let an NPC press
+her on it — Vaeroth said it once deliberately and would not say it twice.
 
 ---
 
@@ -637,3 +779,93 @@ wolf-Ignis as an equal rather than submitting as he did in s3. At the end of it
 stepped back, and sat.** Nobody picked it up; it was still there in the
 morning. Unsettled for three days in Caldalus and then not. *Still unexplained.
 Still leaving it.*
+
+---
+
+### Added session 5
+
+**Capt. Ilyen Vaeroth.** Ruled a letter down the middle and **refused to put
+any conclusion in it**, including correct ones, on the grounds that a conclusion
+is what makes a tactician stop reading. **Signed the levy petition** he had not
+asked for, after nineteen hours, and said aloud that the alternative was
+punishing a man for finding the only lever in the county. Told Mya to her face,
+in front of witnesses, that her name was in a letter to her father. **Copied
+Maevis's worthless notebook by hand so there would be two bad copies in two
+buildings.** Started writing **stopping conditions into every line of an order**
+and credited Coll Fenn by name for the idea. Publicly identified that one of his
+own conditions had cost him the one measurement he needed. Named himself as the
+hole in his own company. And **told Ignis, once, unprompted, that she is free to
+leave** — because he intends to keep asking her for things and wants to know she
+is there by choice.
+
+**Sgt. Serwyn Thale.** Came out of the captain's door and immediately
+contradicted the party's own comfortable assumption that the charter would sort
+itself out through normal channels, correctly and with evidence. **Noticed a
+name had been kept off a finding and let it stand out loud, on principle** —
+*"leaving one out is a kindness; putting a different one in is a lie."* Told
+Ignis in advance that he would answer a direct question directly if asked one.
+**Killed the fallback plan** and had it made a standing ruling. Objected, for
+the second time, to sending the healer somewhere nobody can follow — and was
+overruled again, and said so without resentment.
+
+**Mya Li.** Asked *what did they take.* Produced the load-under-guard read and
+the two-ended-line inference before anyone else. **Demanded that every name in
+the letter carry equal weight**, specifically so that hers would not be the only
+one recognised. Told Ignis that being pulled somewhere and being right to go are
+two different facts with the same shape, and that she was wrong for years about
+what she was being pulled toward. Gave the *I go where there's nobody else*
+argument for the north over the east, while saying plainly that every part of
+her wanted the east. **Named the trespass** in the final meeting — *they came and
+fetched it and nothing bad happened; now we're proposing to go into their house
+in the dark* — and set the order's only player-side condition: if the scout says
+she saw nothing, **we believe her the first time and we don't send her back in.**
+
+**Maevis Tarn.** Refused three times to guess and then produced the staircase
+estimate anyway, complaining throughout, and **demolished her own range before
+anyone could use it** (*a season is not a date*). Confident only on the
+stonework, which is correct: cathedral pitch, four or five abreast, *a stair for
+a column*. **Counted three pairs working through solid rock, twice, on different
+days.** Found the cleared spall at every live vent. **Took apart Dovin's arc and
+his constructed centre herself** and then refused to take apart the shovel.
+Found the nine-is-not-four error in under a minute. Heard her own sentence about
+how the Office buys sulphur and **stopped halfway through it.**
+
+**Wick Pallowen.** Found all eleven vents alone, at four hundred yards, out of
+boredom, and wrote a line that was not his job to write. **Volunteered that he
+had noticed nothing was using them and had thrown the observation away** because
+he didn't trust his own eyes at that range — and then stood on the ground and
+found out they were good enough. Accepted the ten-pace order on vent nine and
+was unhappy about it for four hundred yards and then wasn't.
+
+**Dalla Sarn.** Walked a report down a day and a half early, alone, in closing
+weather, on Wick's judgement that a late report is worse than a cold walk.
+
+**Dovin Reyl.** Put all eleven on paper, found the curve, **constructed the
+centre twice with different trios**, and plotted the campaign's first
+below-ground point. Said twice that two methods agreeing does not make either
+right.
+
+**Bellis Ordow.** Gave Alinar the east before being asked twice, and named the
+strange thing himself: *nobody has ever come in here and said Dark Elves and
+giants in the same sentence before this summer.* Board still blank beside
+Ignis's name.
+
+**Oris Venn (new).** Did not want to talk, then did, because nobody pushed.
+Under-claimed twice and flagged his own uncertainty unasked.
+
+**Phessa Molt (new).** Finished looking at Ignis rather than looking away
+quickly to prove she hadn't been looking. Knocked something off the price and
+did not explain why.
+
+**Knight.** **Cannot hunt** — never taught, orphaned at eight weeks. **Checks on
+Sharii mid-stalk every single time** and cannot parse a request to stop: *but
+then I wouldn't know.* **Cannot disengage** — the low whistle took three.
+**His limit is a BREAK in the trail, not distance**: six hundred yards is
+nothing, a stream is the end of the world. Was never once fooled by wolf-Ignis.
+What upset him on the seventh pass was not her but **what happened in his own
+chest** — *you came the way the thing comes* — and he knows it took three
+whistles. On the bone: nothing. No shape of intention anywhere in it.
+**And he asked a question**, the first he has ever asked: that Sharii sometimes
+*goes somewhere without moving*, that he knows the instant it happens, that he
+does not know it by smell, and — *is he coming back?* **The spell ran out
+mid-answer. Leave all of this unexplained.**

@@ -15,6 +15,38 @@ character said or did. Established session 5. Retroactive clarifications are
 normal and welcome here (see the *Locate Object* castings in session 5): rule on
 them honestly, apply the actual mechanics, and fold the result into the fiction.
 
+### ⚠ An OOC question NEVER advances the scene — established session 6
+
+**An OOC question is not a declared action and must never be played as one.**
+When the user asks a rules question, asks what a character can perceive, asks
+about a spell's range or a creature's size or whether something is possible —
+they are **gathering information in order to decide what to do.** They have not
+decided yet.
+
+**Answer the question. Stop. Hand it back.** Do not assume the answer implies
+the action, do not spend a resource, do not move the clock, do not narrate a
+consequence. Leave the scene frozen exactly where it was.
+
+Two session-6 failures that produced this rule, both of which required a
+retcon:
+
+- Sharii's player asked **whether** *Speak with Animals* could reach a Wild
+  Shaped Ignis at that distance. The DM answered and **also had Sharii cast it
+  and break position.** He had not decided to cast it, and after discussion the
+  players chose not to. Slot and movement both had to be taken back.
+- Ignis's player asked whether a Tiefling could fit through the passage. The DM
+  answered and **also had her exit as a badger**, spending her second Wild
+  Shape. She wanted to squeeze through precisely *to save it.*
+
+The tell is simple: **if the question is "can I / could she / what would
+happen if," the answer is information, not an action.** Resources stay
+unspent, position stays unchanged, and the next player message is what decides
+what actually happens.
+
+This also applies to a question that arrives mid-scene with a clock running.
+Answering it costs the characters no time. The clock does not move until the
+players declare.
+
 **Dice.** The DM simulates **all** rolls, for PCs and NPCs alike. Players never
 roll. State results plainly, including bad ones — no fudging in the party's
 favor. (See the lethality ruling in `CAMPAIGN_INSTRUCTIONS.md` §3.)

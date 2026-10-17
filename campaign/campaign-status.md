@@ -1,21 +1,48 @@
 # Campaign Status
 
-**Last updated:** **Session 5 complete.** No combat, no damage taken, no
-deaths. **No level change — party remains 4.** Eleven vents surveyed. The
-staircase has a season on it. **The levy petition is signed.** An order is
-written and the march is in the morning.
+**Last updated:** **⚠ SESSION 6 IS IN PROGRESS AND PAUSED MID-SCENE.** It was
+paused to resume in a new conversation. **Read
+`sessions/006-the-ladder.md` in full — especially its WHERE PLAY IS PAUSED
+section — before doing anything else.** That file is the live state; this one
+is the summary.
+
+No combat, no damage, no deaths, no level change. **Vent nine has been entered.
+FIRST CONTACT HAS HAPPENED, by touch, initiated by Ignis, two orders broken.**
+
+---
+
+## ⚠ RESUME POINT
+
+**387 AW, day forty-two. On the Tempest Peaks shoulder, ten paces from vent
+nine, immediately after Ignis's report to the party.**
+
+Present: **Sharii, Alinar, Ignis, Wick Pallowen, Mya Li, Maevis Tarn, Knight.**
+Thale is in Ashwell. **No officer is present**, and an order has just been
+broken twice.
+
+**The order is discharged** — vent nine has been looked into and nobody has to
+go back in.
+
+**Clocks running:**
+- **Weather: a day and a half to two days** before it shuts the mountain.
+- **The order expires day 49.** Eight days.
+- Four days to Caldalus; one day back to Ashwell.
+- **Draw shuts in January. Stair finishes in spring.**
+- **Thale's letter** putting the contact question to Vaeroth went south day 41.
+
+**The question on the table, asked and unanswered: *what now?***
 
 ---
 
 ## Current State
 
-- **In-world date:** 387 AW, 3rd Epoch — **deep winter. Day thirty-seven**, with
-  the march north set for **day thirty-eight**.
-- **Party location:** **Caldalus**, all three together, packed.
-- **Party level:** **4.** Unchanged this session.
-- **Status:** Session 5 played and closed. **The order for vent nine is written
-  and signed.** Snow closing; the draw shuts in **January**; the staircase under
-  the mountain most likely finishes in **spring**.
+- **In-world date:** 387 AW, 3rd Epoch — **deep winter, day forty-two.**
+- **Party location:** **the shoulder of the Tempest Peaks, at vent nine.**
+- **Party level:** **4.** Unchanged.
+- **Resources at the pause:** Sharii **2 of 3** 1st-level slots. Ignis **4×1st,
+  3×2nd untouched**, *Hellish Rebuke* unspent, **1 of 2 Wild Shapes left.**
+  Ignis is scraped and bleeding slightly from squeezing out of the lip; no HP
+  lost. Nobody is injured.
 
 ---
 
@@ -52,7 +79,57 @@ the bible. Death is permitted at any stage.
 
 ---
 
-## ⚠ THE STANDING ORDER — carries into session 6
+## ⚠ WHAT SESSION 6 HAS ESTABLISHED SO FAR
+
+Full detail in `sessions/006-the-ladder.md`. The load-bearing items:
+
+1. **VENT NINE IS NOT A VENT.** Four feet of natural crack (≈14 inches at the
+   tightest), then **cut passage** — tooled, domed, walkable stooped, **floor
+   worn smooth by generations of feet**, walls completely **blank**. It bends
+   right at ~30 ft into a **domed 15-ft room**.
+2. **THE VENTS ARE THE TOPS OF LADDERS.** The room's far floor opens into a
+   **square-cut shaft with hand- and foot-holds worn smooth**, going down past
+   sight. This is how they reach the surface.
+3. **A CUBE, UP HERE.** Three feet, **covered edge to edge in the script so
+   finely it reads as texture** — more writing than the whole 350-ft corridor —
+   with a **flameless light** above it and an **inscription circle on the floor
+   two-thirds cut**, chips swept **a hand's span to the left**, and **tools laid
+   out by size in pick-up order.**
+4. **THE SMELL:** people, continuous; **the same smell as the river stone**;
+   and **no food, no waste, no latrine, and nothing has ever denned there.**
+5. **THE CUBE IS WARM AND IT GIVES.** Touched as a badger: **failed CON save,
+   body locked six seconds, THE LIGHT FLICKERED ONCE** (they do not flicker),
+   and somebody began climbing.
+6. **FIRST CONTACT.** One came up. Seen **in light, unveiled, at eight feet**
+   for the first time. It put **its own hand on the same face and nothing
+   happened to it**; **looked directly at her and held it**; **held out an open
+   hand**; **took one breath out of rhythm when shown the river stone** — the
+   only involuntary reaction any of them has ever shown; **took her hand**
+   (cool, dry, working hands, **and the pulse is NOT in it**); **guided her hand
+   to the cube, slowly, letting her refuse**; and on her consent **it went
+   through her instead of seizing her.**
+7. **WHAT THE PULSE IS.** Not the cube — the cube is **somewhere it passes
+   through**. It runs **north, down, and far past measuring**. **There are many
+   others**, and **some are not doing it yet — an absence with a shape.** And
+   **it is not SENDING. It is HOLDING** — strain, like a rope under load, like a
+   hand on a dam. What bleeds off the edge is what emptied the mountain.
+8. **IT DISMISSED HER.** Looked at her, at the passage, back. *Go.* No threat.
+   Then knelt and resumed cutting — and **every tool in the shaft restarted at
+   once.**
+9. **THE WOLF'S TESTIMONY** (road, day 40): nobody drove them off; ***"we did
+   not leave, we stopped being able to stay"***; ***"it did not grow, it
+   STEPPED"***, several times; worst **high, north, deep**; ***"they are not
+   it"*** — independently confirmed two days later by touch; **"there are
+   fewer" giants**; a **clean NO** on anything rotten or dead-that-moves; and
+   her own question — ***"Is it coming down?"***
+10. **ASHWELL'S FOUR DEAD**, settled retroactively. See `001-ashwell.md`.
+11. **TWO ORDER BREACHES**, both volunteered by Ignis unprompted: she went round
+    the bend and lost sight of daylight, and she touched the cube twice.
+12. **THE WHISTLE DOES NOT STOP KNIGHT. IGNIS DOES.**
+
+---
+
+## ⚠ THE ORDER — now discharged (text kept for the report)
 
 Signed day 37. Six north with the rotation: **Sharii, Alinar, Ignis, Wick
 Pallowen, Mya Li, Maevis Tarn.** Thale commands from Ashwell.
@@ -257,7 +334,7 @@ the tablet, only to see where it went.
 | Neva Corrin | Alive | Offscreen this session. Still certain about the head-turn. |
 | Ohren Kade | Alive | Reported the light under the captain's door at the fourth hour, loudly, several times. |
 | Tam Ellisan | Alive | **Still positioned as the first meaningful loss. Still unprotected.** |
-| Aldric / Hestra / Coll Fenn | Alive, Ashwell | Village quiet. Aldric has stopped asking what they found, visibly, as a policy. **Coll's splint is off.** |
+| Aldric / Hestra / Coll Fenn | Alive, Ashwell | Village quiet. Aldric has stopped asking what they found, visibly, as a policy. **Coll's splint is off.** **⚠ Ashwell lost four people in the s1 giant attack — settled retroactively in s6; see `sessions/001-ashwell.md` → Correction Note.** Marrin Sowle, Hesk Varran, two Arrowood brothers. Killed in the burning before the squadron arrived, not in the fight. Aldric lost no family of his own and carries it badly for that reason. Village was 45; the 41 in every document is the post-attack count. |
 | Merrick Dorn / Keth / Jorrun | Alive, Dorn's Ford | Offscreen. Boundary being walked with Merrick personally. |
 | **Oris Venn** | Alive, Caldalus infirmary | **NEW, s5.** Wood Elf, eastern command, arm strapped. Honest, under-claims, flags his own uncertainty. Alinar has sat with him three times. Arm out of strapping shortly. |
 | **Phessa Molt** | Alive, Caldalus | **NEW, s5.** Glassblower and herbalist of the Low Weaving. Finished looking rather than looking away. **Has no sulphur and knows who took it.** |

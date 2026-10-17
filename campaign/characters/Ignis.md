@@ -208,7 +208,7 @@ problem with all three of his spells.
   arguably the single largest capability shift the party has gained.
 - **Medicine +5** — no one else has the skill at all.
 - **A CR 1 beast form is a second body.** A brown bear at 34 HP standing where
-  Sharii (AC 13, 25 HP) currently stands changes the party's durability
+  Sharii (AC 14, 36 HP) currently stands changes the party's durability
   substantially.
 
 ---
@@ -268,7 +268,7 @@ switch.
 - Alchemist's supplies; herbalism kit
 - Traveller's clothes, belt pouch
 - **A letter of introduction from her guild**
-- **15 gp**
+- **10 gp** *(15 at creation; 5 spent at Phessa Molt's, session 5)*
 
 ### The shield — ruling, established at creation
 
@@ -297,7 +297,7 @@ yew wand).
 *The gold cost of her guild membership and alchemist's supplies was waived by
 user ruling at creation.*
 
-**Party gold note:** both brothers are at **0 gp**. Ignis arrives with 15,
+**Party gold note:** both brothers are at **0 gp**. Ignis arrived with 15,
 making her by some distance the wealthiest member of the party. Unremarked on
 so far in the fiction.
 

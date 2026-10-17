@@ -155,7 +155,7 @@ immediately after him. On his own, can only Dash, Disengage, Dodge, or Help;
 anything else requires a bonus action command from Sharii (no action
 required once Sharii reaches 7th level).
 
-- **AC** 13 · **HP** 12 (4 × ranger level) · **Speed** 40 ft
+- **AC** 13 · **HP** 16 (4 × ranger level) · **Speed** 40 ft
 - **STR** +1 · **DEX** +2 · **CON** +1 · **INT** −4 · **WIS** +1 · **CHA** −2
 - **Bite:** +4 to hit, **1d4+2** piercing. Target fails a **DC 11 Strength
   save** or is knocked prone.
@@ -238,9 +238,9 @@ eight days in Caldalus replacing it permanently. The quartermaster refused a
 swap; it took a leatherworker of Bellis's, all of Alinar's money, 8 gp from Neva
 Corrin that she denies, and a hazard disbursement Thale appears to have invented.
 
-**He traded AC 15 for AC 13 at session 2** (now AC 14 after the level-4 Dex
+**He traded AC 15 for AC 13 at session 2** (now **AC 14** after the level-4 Dex
 bump). Stealth is a clean **+2** instead of +1 with disadvantage — he is still not quiet, merely survivable to stand next to.
-With 25 HP and a documented habit of running at large things on purpose, this is
+With 36 HP and a documented habit of running at large things on purpose, this is
 a dangerous bargain. The player made it knowingly and asked that it not be
 softened. **Play it straight.**
 

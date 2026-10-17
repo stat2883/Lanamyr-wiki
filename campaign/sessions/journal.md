@@ -99,9 +99,20 @@ who does that, and didn't move until it was dead too.
 
 By the time the smoke cleared, both giants were down. Nobody in the squadron
 died. Sharii healed Neva back to her feet, and the first thing out of her
-mouth was an insult, which everyone took as a good sign. The village headman,
-a farmer named Aldric, gave them floor space for the night and more
-gratitude than either brother knew what to do with.
+mouth was an insult, which everyone took as a good sign.
+
+Ashwell was not so lucky, and they only found out properly the next morning.
+Four of its people had died before the squadron ever came over the rise — a
+woman caught in the open going for the trees, an old man who would not leave
+his house, and two brothers who went into the grain store after the seed corn
+and did not come out of it. The store burned anyway. Forty-five people lived
+in Ashwell on the morning the giants came through, and forty-one lived in it
+afterward.
+
+The village headman, a farmer named Aldric, gave them floor space for the
+night and more gratitude than either brother knew what to do with, and he had
+not lost anybody of his own, and that is the part he could not seem to put
+down.
 
 Somewhere in the trees near the ruined fences, a black wolf pup watched the
 whole thing from a safe distance and, for reasons of his own, decided not to

@@ -111,12 +111,34 @@ engaged from cover once in range.
 - **Both giants killed. No squadron deaths.** Neva was stabilized by Sharii's
   Cure Wounds the moment the fight ended.
 
-**Aftermath:** Villagers safe, barn and grain store lost, no other buildings
-burned. Sharii healed Neva (full consciousness, immediately talking again).
-Alinar and Kharis worked triage on villagers and Sharii's own wound. Thale
-credited the twins specifically — the second print, and whatever kept the
-fight from being worse — and gave the squadron leave to rest. The village
-headman, **Aldric**, offered floor space for the night.
+**Aftermath:** Barn and grain store lost, no other buildings burned. Sharii
+healed Neva (full consciousness, immediately talking again). Alinar and Kharis
+worked triage on villagers and Sharii's own wound. Thale credited the twins
+specifically — the second print, and whatever kept the fight from being worse
+— and gave the squadron leave to rest. The village headman, **Aldric**,
+offered floor space for the night.
+
+**⚠ FOUR VILLAGERS DIED.** See the correction note at the foot of this file.
+They were killed **before the squadron arrived**, in the burning rather than
+in the fight. The party never fought over them and could not have reached
+them; the cost was in being half a day late, not in anything done on the
+field.
+
+- **Marrin Sowle** — caught in the open between the barn and the treeline.
+  Hers and one other were the figures visible at distance through the smoke
+  during the approach, which nobody went to check.
+- **Hesk Varran** — elderly, would not leave his house. The roof came down.
+- **Two of the Arrowood brothers** — at the grain store, dragging sacks clear.
+  The store burned anyway. *(Their seed corn was in it — the same seed corn
+  Alinar spent eight days prising out of a Caldalus clerk in session 2.)*
+
+**Aldric lost no family of his own**, and carries it badly for exactly that
+reason: he sent the village to the treeline and four of them went the wrong
+way and he is fine.
+
+**Village population: 45 before the attack, 41 after.** Every figure in
+sessions 2–5 — the flour, the levy, the charter, "forty-one people" — is the
+post-attack count and is unaffected.
 
 Sharii closed the evening with one more "bear bait" callback ("now I can add
 2 giants to the two bears"), left deliberately ambiguous as to whether the
@@ -187,3 +209,35 @@ Neva Corrin was introduced at the muster under the name "Corran" in the
 DM's live narration; this was an error — she and Neva Corrin (as named in
 `../npcs/militia-structure.md` and `../npcs/combat-blocks.md`) are the same
 person. Standardized on **Corrin** in this log and going forward.
+
+---
+
+## Correction Note — Ashwell's dead (settled session 6, 2026-10-17)
+
+**This log originally read "Villagers safe." That was wrong, and it was wrong
+in the write-up rather than at the table.**
+
+What actually happened in play: on the approach, the DM described figures near
+the burning barn and said explicitly that it could not be told at that
+distance and through the smoke how many there were or whether they were
+moving. **Nobody went to check and the DM never resolved it.** The aftermath
+narration mentioned only minor injuries. This log then asserted "Villagers
+safe," which claims more than the scene supported, while the journal said the
+squadron arrived "too late to stop the burning."
+
+**Both players came away from session 1 believing there had been casualties.**
+The question surfaced again in session 6 when Sharii referred to Ashwell's
+dead in Aldric's kitchen, and the user settled it: **there were four.**
+
+This is a retroactive settlement of a scene the DM left unresolved, not a
+retcon of something established. Nothing played in sessions 2–5 contradicts
+it: the village count of 41 is post-attack throughout, Aldric's "plainly still
+in shock" in session 1 fits, and his standing policy of not asking what the
+party found reads differently and better with it.
+
+**Amended alongside this:** `journal.md` (session 1 entry), `campaign-status.md`
+(Ashwell NPC row), `reference/lore-deltas.md` (campaign NPC log).
+
+**Not amended:** the milestone level-up note above still reads "no deaths" as
+the DM's judgement at the time. That referred to the squadron and remains
+accurate.

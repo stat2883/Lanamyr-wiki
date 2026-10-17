@@ -122,8 +122,12 @@ would need to change.
   lore. The bible has no need of them.
 
 ### Campaign locations and NPCs invented in play — NOT for promotion
-- **Established:** **Ashwell** (small unchartered farming settlement, ~41
-  people, half a day south-southeast of the meadow shelf, headman **Aldric**);
+- **Established:** **Ashwell** (small unchartered farming settlement, **45
+  people before the 387 AW giant attack and 41 after**, half a day
+  south-southeast of the meadow shelf, headman **Aldric**); its four dead —
+  **Marrin Sowle**, **Hesk Varran**, and **two Arrowood brothers** (settled
+  retroactively in session 6; see `../sessions/001-ashwell.md` → Correction
+  Note);
   **Dorn's Ford** (larger village with a mill, a day east of Ashwell); the
   **north draw** and its meadow shelf; **Hestra Fenn** and **Coll Fenn**;
   **Ivell Sarrow**, granary clerk in Caldalus; **Dalla Sarn**, militiaman.
@@ -413,6 +417,80 @@ applies.*
   looks from outside. It resolves nothing about whether Sharii is a Magni**, and
   the unfilled Magni slot in `Lanamyr_08_Open_Questions.txt` remains open and
   unassigned. See the *Unbidden* entry above.
+
+### Vent nine, the ladders and the first contact — session 6, HANDLE WITH CARE
+*Extends the s2 hall, s3 void and s5 vent entries. **Every warning on all three
+still applies**, and this entry is the most sensitive in the file.*
+
+- **Established in play (session 6):** vent nine is a natural fissure for four
+  feet and **cut stone** thereafter — a tooled, domed passage with a floor
+  **worn smooth by generations of feet** and **no inscription at all**, bending
+  into a **domed hand-cut room**. The room holds a **three-foot cube covered
+  edge to edge in the same script**, a **flameless light**, an **inscription
+  circle two-thirds cut**, chips swept **a hand's span to the left**, **tools
+  laid out by size in pick-up order**, and a **square-cut shaft with worn
+  hand- and foot-holds** descending past sight. **The vents are the tops of
+  ladders.**
+- **The cube is body-warm and yields slightly under pressure.** Touched by a
+  Wild Shaped PC it locked her body for about six seconds and **the light
+  flickered once.** Touched by one of the quiet ones, nothing happened. Touched
+  by the same PC a second time **while one of them held her hand**, it passed
+  through her without seizing her.
+- **What she perceived, and it is sensation, not explanation:** the cube is
+  **somewhere the thing passes through**, not its source; it runs **north, down
+  and far past measuring**; **there are many others**; **some are not active —
+  an absence with a shape**; and **it is not transmitting, it is bearing load.**
+  Strain, like a rope under tension. What bleeds off the edge of it is what has
+  emptied the mountain of animals.
+- **FIRST PHYSICAL CONTACT.** One of them climbed up, **looked a person directly
+  in the face**, **held out an open hand**, **took one breath out of rhythm when
+  shown the river stone**, took her hand, **guided it to the cube slowly and
+  with every opportunity for her to refuse**, and afterwards **dismissed her
+  toward the exit without any threat** and resumed work.
+- **Corroboration across two independent sources:** a wolf stated *"they are not
+  it"*; two days later a PC had her hand in one of their hands and found **the
+  pulse absent from it.** Both are in-fiction testimony. **Neither is lore.**
+- **Bible status:** the bible says nothing about anything beneath or above the
+  Tempest Peaks beyond their elevation and the Stone Giant origin. **Nothing
+  here contradicts confirmed lore.** It fills a silence.
+- **Recommendation: DO NOT PROMOTE — and the reason is now stronger than it was.**
+  The campaign has produced a *holding / strain* framing for a large hidden
+  mechanism under a mountain, and `bible/` already contains several large hidden
+  mechanisms with established and locked explanations — the Abaculus beneath the
+  Burnt Plains, the Heaven's Oak containment chamber, the ambient field that
+  masks the Abaculus. **The resemblance is a trap.** Nothing in play has tied
+  the hall to any of them, the DM has made no such decision, and **a future
+  session must not quietly resolve the hall into existing lore because the
+  shapes rhyme.** It also must not be tied casually to the Draak settlement, the
+  Drasian tongue, the Var Harma's northward envoys, or the Dark Elves of The
+  Deep.
+- **Also not for promotion:** the body-lock on contact, the save mechanics, the
+  flicker, and the honey-badger / Giant Badger ruling. Table mechanics.
+- ⚠ **The wolf testimony is NOT lore either.** *"There are fewer giants up
+  there"* is now the **third** in-fiction brick under the *giants are leaving
+  home* hypothesis, alongside Alinar's s3 reasoning and Oris Venn's s5 account.
+  Confirmed lore has the Stone Giants as **Diquyk's northern strike force.**
+  **This hypothesis must NEVER be promoted, no matter how many bricks the
+  campaign stacks under it.**
+
+### Ashwell's four dead — settled session 6, NOT for promotion
+- **Established:** Ashwell lost **four people** in the 387 AW Stone Giant attack
+  — **Marrin Sowle**, **Hesk Varran**, and **two Arrowood brothers** — killed in
+  the burning before the squadron arrived. **Village 45 before, 41 after**, so
+  every figure in sessions 2–5 is the post-attack count and is unaffected.
+  Aldric lost no family of his own.
+- **Source:** a scene the DM left unresolved in session 1 and a log that then
+  overclaimed *"villagers safe."* Both players came away believing there had
+  been casualties; settled by user decision in session 6. See
+  `../sessions/001-ashwell.md` → Correction Note.
+- **Recommendation: DO NOT PROMOTE.** Table scaffolding at a scale far below
+  anything the bible tracks, exactly like the rest of Ashwell. Logged for
+  transparency.
+
+### Campaign NPCs added session 6 — NOT for promotion
+- **Marrin Sowle, Hesk Varran, two Arrowood brothers** (Ashwell's dead, s1,
+  named retroactively); **Jaelin Arrowood** (Ashwell, bereaved); **the
+  torn-eared female** (wolf, unnamed, road north). Table scaffolding.
 
 ---
 

@@ -200,6 +200,43 @@ just the sensation.
 to the session-3 ledge: *"The lamps were laid in arcs."* Said it once and did
 not defend it when Maevis took it apart.
 
+**S6 — 387 AW, the road north.** His wolf walked at nine strange wolves and the
+whistle was never going to stop him. **He did not shout, did not chase, did not
+draw** — and when Ignis's arrival stopped the animal where no order could, he
+said so out loud afterwards as a fact about his own limits rather than hers.
+
+**S6 — 387 AW, the road north.** Asked the pack leader whether they were driven
+off the mountain or left of their own accord — **a question about causation
+rather than about threat**, and the one that produced *"we did not leave, we
+stopped being able to stay"* and *"it did not grow, it stepped."*
+
+**S6 — 387 AW, the road north.** Worked out from a treeline at eighty yards that
+the pack had no young, was two broken packs, and was **not hungry** — and then
+got as far as *nine adults off that mountain with all their young gone, and a
+pup orphaned at eight weeks at Ashwell*, **and did not finish the thought or say
+it to anybody.**
+
+**S6 — 387 AW, Ashwell.** Spent a slot to explain to his wolf that he had nearly
+been killed, **led with the facts rather than the mistake, kept the word *wrong*
+out of it entirely**, and did not correct *"I thought they were more of her."*
+
+**S6 — 387 AW, Aldric's kitchen.** **Put a harder sentence in his brother's
+mouth than the one his brother said** — *"what my brother means to say is: let's
+speed this up before more people die"* — in front of a sergeant, a princess, a
+civilian engineer and the headman of the village in question. **Third time he
+has answered for somebody who did not ask him to** (Ignis at the gate, s3;
+Alinar twice now). Told so privately afterward and did not argue.
+
+**S6 — 387 AW, Aldric's kitchen.** The thing he was pointing at was **true** —
+four people died at Ashwell because the squadron was half a day late — and he
+reached for it on behalf of somebody who had not claimed it.
+
+**S6 — 387 AW, vent nine.** Heard *the light flickered once* and said the one
+sentence that made it matter — *"they don't flicker, that's the one thing we
+know about them"* — and then **said nothing else for a long time.** Later
+supplied *"one arc of them was never lit"* against her *absence with a shape*,
+once, without pushing it.
+
 ---
 
 ## Alinar
@@ -373,6 +410,24 @@ him? Still unaddressed in play.
 language it has, that Sharii *goes somewhere without moving*, that it knows the
 instant it happens, and that it does not know it by smell. **Ignis has that.
 Alinar does not, and neither does Sharii.** What she does with it is hers.
+
+**S6 — 387 AW, the road north.** Found the thing that mattered at the kill in
+one line — *"that's the same fact as the moss outside, found from the inside"* —
+having said nothing for the preceding ten minutes.
+
+**S6 — 387 AW, Aldric's kitchen.** Said plainly that he **also** wanted to go
+back in and talk to them, **and that orders are orders and he would follow his
+sergeant** — with his impatience audible in the tone and nowhere in the words.
+
+**S6 — 387 AW, Aldric's kitchen.** Had a harder sentence put in his mouth by his
+brother in front of the room and **did not correct him publicly**. Said so
+privately afterwards, without heat, in two sentences, and then offered him the
+last of the preserve. *"I didn't correct you in there and I'm not going to."*
+
+**S6 — 387 AW, the march.** An animal told them there are **fewer giants** on
+that mountain — the third independent brick under a hypothesis that is his, that
+he offered once in s3 as unprovable, and that he has never pushed since.
+**He said nothing about it. Again.**
 
 ---
 
@@ -601,6 +656,45 @@ whatever needs signing and no word against her name.
 
 **She has not answered.** Do not answer it for her, and do not let an NPC press
 her on it — Vaeroth said it once deliberately and would not say it twice.
+
+**S6 — 387 AW, the road north.** With a four-month-old pup walking at nine adult
+wolves, **she spent a spell and her own body to go and stand next to him** —
+and it worked because she was there, not because anybody was obeyed.
+
+**S6 — 387 AW, the road north.** Opened a conversation with a hostile pack by
+**conceding their ground before being made to**, apologising in a shape a wolf
+could hold, and then asking about the mountain rather than about the kill.
+
+**S6 — 387 AW, Ashwell.** Proposed going back in to talk to them — and **then
+left the room so the others could say no without her in it.** Mya named it
+immediately as the opposite of what the last person to call a meeting did.
+
+**S6 — 387 AW, vent nine.** Went round the bend and **lost sight of daylight,
+deliberately, having decided to before she entered** — breaking the one line of
+the order the captain actually cared about.
+
+**S6 — 387 AW, vent nine.** Put her hand on an unknown thing, **failed the save,
+had her body locked for six seconds** — and then, when the thing that came up
+the ladder offered to put her hand on it again, **went the last four inches
+herself.**
+
+**S6 — 387 AW, vent nine.** Shown an open empty hand by something that has never
+asked anybody for anything, **she produced the river stone first** — the thing
+it gave her — rather than her own hand or a weapon or a spell.
+
+**S6 — 387 AW, vent nine.** Had an unknown, unstatted, six-foot-four being
+**hold her hand thirty feet inside a mountain where nobody could have reached
+her**, and did not reach for *Thunderwave*, *Moonbeam*, *Hellish Rebuke* or her
+last Wild Shape at any point.
+
+**S6 — 387 AW, vent nine.** Chose to squeeze out through fourteen inches of rock
+as herself, taking skin off her arm and four minutes off the clock, **rather
+than spend a resource the party might need.**
+
+**S6 — 387 AW, the shoulder.** Gave the full account standing in the snow and
+**volunteered both order breaches unprompted, first**, before any of the
+findings. Fourth session running she has led with the thing that weakens her own
+report.
 
 ---
 
@@ -869,3 +963,75 @@ whistles. On the bone: nothing. No shape of intention anywhere in it.
 *goes somewhere without moving*, that he knows the instant it happens, that he
 does not know it by smell, and — *is he coming back?* **The spell ran out
 mid-answer. Leave all of this unexplained.**
+
+---
+
+### Added session 6
+
+**Sgt. Serwyn Thale.** Took the Knight-or-Maevis ruling without argument and
+**read it back so there could be no misunderstanding later.** Held the line that
+each objective gets its own order and its own date, **and then volunteered the
+only real speed-up available** — writing the contact question to Vaeroth *while
+the party walked north* rather than after they came back. Refused the giants
+outright with his name on it. And when a recruit said *before more people die*,
+**he did not ask who — he named them**: Marrin Sowle, Hesk Varran, and the two
+Arrowood brothers who went into the grain store after seed corn that burned
+anyway. *"We're both right and only one of us gets to be right in time."*
+
+**Mya Li.** Named Ignis leaving the room as the inverse of Sharii's s3 private
+meeting, **to Sharii's face, without looking at him.** Produced the sentence
+that ended the kitchen argument: *"We were late to Ashwell because we were
+looking for the wrong thing. We're not late to this one. We're EARLY."* Was the
+only person to catch what the **breath out of rhythm** meant — *"it wasn't the
+wax, and it wasn't the chisel, and it wasn't six people on a ledge. It was you
+holding up a rock."* And closed the session's biggest scene with
+**"they answered."**
+
+**Maevis Tarn.** Counted the tool-strikes a third time at vent four twelve days
+on and got **three again**, and said what it meant: *"that's a staffed job, not
+a desperate one."* Conceded, unprompted and an hour late, that her own objection
+about tracks had already been lost. Had her demolished arc handed straight back
+to her — *"a fault doesn't have STEPS CUT IN IT"* — and took it. On the chips
+swept left and the tools laid out by size: **the two details she alone could
+read**, and she read both instantly. Asked for the account in Ignis's own words
+and **offered to sign as witness to the account and not to the act.**
+
+**Wick Pallowen.** Unprompted, on the march, took the party's plan apart by
+pointing out that nothing has ever walked on those vents — and was **right about
+the principle and wrong about the urgency**, which Maevis then conceded. Said
+the thing nobody else did at the seam: *"we've been so worried about the door we
+opened that nobody's noticed they don't use it."* And made the session's biggest
+inference in one line: **"eleven holes, eleven ladders, eleven rooms, eleven
+boxes. And the seventh one's been shut a year."**
+
+**Aldric.** Put down an armful of wood in his own doorway and claimed standing
+over the phrase *before more people die*: **"it'd be US, and it'd be me counting
+them again in the morning... It's my village. I'd like a vote in the sentence."**
+Has lost no family of his own and carries it badly for exactly that reason.
+
+**Capt. Ilyen Vaeroth.** Came to a gate yard at an hour he had no business being
+in one, **looked at Ignis for a second and a half and said nothing at all** about
+the door he had left open behind her.
+
+**Kharis Ailwin.** On screen for the first time in three sessions, for one
+gesture: **lifted a mug an inch to Alinar** from the armoury step, and went back
+to looking at the cold.
+
+**Knight.** Gave his silent shoulder-press warning — **and then went anyway**,
+because the whistle has never been able to hold him. **Stopped for Ignis's
+arrival when no order could.** Told nine strange wolves ***"I am with him"***
+before anyone could speak for him, having been told *"that one is with
+nothing."* Explained himself afterwards: ***"I thought they were more of her."***
+He has met one other wolf in his life. **And after vent nine he would not go
+near Ignis**, and stood behind Sharii's leg for the whole report. *Unexplained.
+Leave it.*
+
+**The torn-eared female (new, unnamed).** Leader of two broken packs by
+competence rather than kin. Gave more usable intelligence in four minutes than
+Faelyn has gathered in four months, asked for nothing, **and asked the one
+question nobody in this kingdom has asked.**
+
+**The one from the ladder (new, unidentified, not to be named).** Looked a
+person in the face. Held out an open hand. **Took one breath out of rhythm.**
+Took her hand and guided it, slowly, with every chance to refuse. Dismissed her
+kindly. Went back to work. *No statblock. Do not build one.*

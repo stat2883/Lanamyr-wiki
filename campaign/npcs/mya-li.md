@@ -197,6 +197,55 @@ Sharii is deferring to her or using her, and the honest answer is probably that
 he hasn't either. **Ignis she has no fixed read on yet**, beyond that the druid
 walked up to the thing in the corridor alone and nobody asked her to.
 
+**Session 5.** Became the company's strategist without being given the job. Asked
+*what did they take* and produced the load-under-guard read before anyone else.
+**Demanded that every name in the king's letter carry equal weight**, specifically
+so hers would not be the only one recognised. Told Ignis that being pulled
+somewhere and being right to go are two different facts with the same shape, and
+that she herself was wrong for years about what she was being pulled toward. Gave
+the *I go where there's nobody else* argument for the north while saying plainly
+that every part of her wanted the east. **Named the trespass** — *"we're
+proposing to go into their house in the dark; I'd like somebody to tell me what
+sentence that is"* — and set the order's only player-side condition: if the scout
+says she saw nothing, **we believe her the first time and we don't send her back
+in.**
+
+**Session 6.** The session in which she became the person who finds the thing
+wrong with the paper.
+
+- **The breath out of rhythm.** She was the only person who caught what it meant:
+  *"in nineteen weeks everything they've done has been an arrangement. That's the
+  first time anything any of us has done has got a REACTION out of one of them.
+  And it wasn't the wax, and it wasn't the chisel, and it wasn't six people on a
+  ledge. **It was you holding up a rock.**"* And then closed it: *"I asked three
+  weeks ago what sentence we were writing. I still don't know. But that one isn't
+  ours any more — **they answered.**"*
+- **Sharii, twice.** Named his leaving-the-room inverse out loud —
+  *"she's done that so you can say no without her in the room; that is not what
+  the last person who called a meeting about something did"* — to his face,
+  without looking at him. And later, on his refusal to split: *"we've been split
+  three times in four weeks and none of it was our choice. **You're not arguing
+  against a plan. You're arguing against being in a militia.**"*
+- **The missing return date**, which nobody else saw, in a company that puts an
+  ending on every line. Vaeroth acted on it within the hour and credited her by
+  name in the letter.
+- **The courier.** Told a nineteen-year-old he was right not to hand over a
+  sealed sheet, in front of everybody.
+- **The palace rider.** Told it was not about her, she said *"Good"*, and the word
+  did a great deal of work.
+- **Kharis volunteered for the east and she has said nothing about it in any
+  room.** She looked at the table for about half a second when he said why, and
+  Ignis is the only person positioned to have seen it. **Do not have anybody
+  remark on it. Do not resolve it for her.**
+
+**Current standing with the PCs:** unchanged in substance and sharper in detail.
+She rates Alinar for going first and for asking the room before planning. She
+rates Sharii for seeing what things cost people and is now openly impatient with
+him answering for other people — she has named it twice. **Ignis she has a read on
+for the first time**, and it is not a comfortable one: she thinks the druid is
+right about the quiet ones, and she thinks being certain from the inside is the
+exact thing she herself got wrong for sixty years, and she said both.
+
 ---
 
 ## Hard Limits — What She Cannot Know

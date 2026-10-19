@@ -237,6 +237,46 @@ know about them"* — and then **said nothing else for a long time.** Later
 supplied *"one arc of them was never lit"* against her *absence with a shape*,
 once, without pushing it.
 
+**S6 — 387 AW, the descent.** Watched his own wolf take the long outside line on
+bad snow with a drop under it rather than pass Ignis on the inside, **and said
+nothing about it to anybody.**
+
+**S6 — 387 AW, Ashwell.** Spent a real slot (rangers have no ritual casting) to
+tell his wolf that the druid went to the underneath **on purpose and came back**
+— and in doing so **answered a question Knight had asked Ignis four minutes
+earlier that Sharii does not know was asked**, with her standing there hearing
+both halves.
+
+**S6 — 387 AW, Ashwell.** **Told a wolf what the wolf's problem was, and was
+gently wrong about it.** Fourth time he has told somebody their own position
+(Ignis at the gate s3, Alinar twice in s6). The animal did not take it
+personally and had no equipment to.
+
+**S6 — 387 AW, Ashwell.** Had six minutes of his own spell left after the wolf
+finished and **asked nothing further with them.** The slot bought four minutes.
+
+**S6 — 387 AW, the captain's office, past midnight.** With a captain visibly
+looking for a reason not to punish her, **he volunteered the strongest argument
+against her in the room** — *"my thing is right that something's there and wrong
+about what it is nearly every time"* — once, flat, undefended, about himself,
+with no stake in winning it.
+
+**S6 — 387 AW, the mess.** Said he is opposed to splitting the company — **not
+this split, ever.** Did not argue it, did not dress it as tactics, and did not
+answer Kharis when Kharis named out loud what it was actually about.
+
+**S6 — 387 AW, the captain's office.** **Asked, for the first time in the
+campaign, for something for himself** — *don't split us* — was given a smaller
+promise than he asked for, and took it without complaint.
+
+**S6 — 387 AW, the office.** Read *nobody follows her in*, said *"you're
+ordering us to stand outside and listen,"* was told plainly he would hate it for
+five years, **and then said the sentence out loud to her face and signed under
+it. Last, and he took the longest.**
+
+**S6 — 387 AW, the mess.** Was teased for the first time in six sessions, by the
+person he had answered for in s3. **Let all of it land and defended none of it.**
+
 ---
 
 ## Alinar
@@ -428,6 +468,45 @@ last of the preserve. *"I didn't correct you in there and I'm not going to."*
 that mountain — the third independent brick under a hypothesis that is his, that
 he offered once in s3 as unprovable, and that he has never pushed since.
 **He said nothing about it. Again.**
+
+**S6 — 387 AW, Ashwell.** **Pulled the lead nobody had touched in three
+sessions** — walked the engineer over to the surveyor about the crown seal —
+having worked out that the only man in the county who could read it was the man
+everybody had filed under *boundaries.* Said four sentences and then stopped
+talking.
+
+**S6 — 387 AW, Ashwell.** When Dovin's answer killed the register lead outright,
+**supplied the replacement from his own granary-desk education**: *"then don't
+ask who cut it — ask who's **allowed** to."* And then named the cost nobody had:
+*"every desk writes down who asked."*
+
+**S6 — 387 AW, the captain's office.** Counted the whole case for the quiet ones
+out on a table — flat, no adjectives, six items, in order — on behalf of someone
+else's argument, **and gave her the credit in the same breath** (*"that's not an
+instinct, sir"*).
+
+**S6 — 387 AW, the office.** Read paragraph 5 and **found the one hole in it
+nobody else had**: that a clause people will be standing outside a hole relying
+on must be **said out loud, every time**, not merely initialled. It went in as
+5(b), in his words, on the spot.
+
+**S6 — 387 AW, the mess.** **Convened the squadron in the open** — midday, full
+room, Kharis and Neva and Tam included — rather than past the horse lines.
+Mya noticed where it was happening before she noticed what it was about.
+
+**S6 — 387 AW, the mess.** Asked the room *is anyone absolutely certain they want
+to go* **before** anybody planned anything, and **waited** — which is how Kharis
+Ailwin came to say out loud, for the first time in front of anyone, why he
+enlisted.
+
+**S6 — 387 AW, Caldalus.** **Stood alone in front of the eastern request on
+Ordow's board after everyone else went to eat**, and read it, and said nothing.
+
+**S6 — 387 AW, the office.** Asked the captain whether there would still be a
+chance in the east *after the mountain business is finished* — and was told to
+his face that **there is no *finished*, that waiting for it is a fallback with no
+condition on it, and that *if you ask me, you go, but you have to ask.***
+**He did not ask. Fourth time.**
 
 ---
 
@@ -695,6 +774,66 @@ than spend a resource the party might need.**
 **volunteered both order breaches unprompted, first**, before any of the
 findings. Fourth session running she has led with the thing that weakens her own
 report.
+
+**S6 — 387 AW, Ashwell, behind the byre.** Asked Sharii's permission before
+speaking to his wolf and **ritual-cast rather than spend a slot** — then asked
+the animal directly why it would not come near her, and **did not take the
+comfortable exit when it was offered.**
+
+**S6 — 387 AW, Ashwell.** Having been told she smells of the thing that emptied
+the mountain, **asked the wolf for a job rather than for reassurance**: *tell me
+when it's gone.* He took it in nine seconds and built a procedure. **She asked
+for the only answer an animal who cannot count past three was capable of
+giving.**
+
+**S6 — 387 AW, Ashwell.** **Reconstructed the floor of a room she was in for
+four minutes**, from memory, with an engineer and two candles — and **stated the
+limits of her own recall before any of it was written down**, including that the
+script was simply gone.
+
+**S6 — 387 AW, the road south.** Used **Druidcraft** every morning to forecast —
+the first time in four months anybody thought of it — and **put the party into
+Caldalus a full day early**, plus dry ground and a lit fire every night, plus one
+flower out of frozen turf beside Maevis's boot for no stated reason.
+
+**S6 — 387 AW, the gate.** **Chose to report that night rather than in the
+morning**, and gave the reason: *"every hour I hold it is an hour I spent
+deciding how to tell it."*
+
+**S6 — 387 AW, the captain's office.** Asked what condition she would have
+obeyed and **answered honestly with something unusable** — *trust my instinct* —
+rather than giving a captain a sentence he could write down.
+
+**S6 — 387 AW, the office.** **Asked the captain directly where the greater need
+was**, east or north — a question nobody else asked and which cost him something
+to answer.
+
+**S6 — 387 AW, the mess.** **Teased Sharii** — *"now look who can't keep his big
+mouth shut"* — with the joke aimed at herself first. **First light moment anybody
+has made at that table in six sessions, and it arrived about four seconds after
+the heaviest thing Kharis Ailwin has ever said.**
+
+**S6 — 387 AW, the mess and the office.** **Put a name IN that its owner had
+refused to say out loud.** Neva declined to be certain in a room; Ignis told the
+captain anyway that Neva should go east. **This is the inverse of s5, where she
+deliberately kept Mya's name off a finding**, and Vaeroth said so to her face
+while taking the information.
+
+**S6 — 387 AW, the corridor.** Pressed Neva once she had the exit refused, and
+**got the one honest sentence out of her that four months of the whole squadron
+had not** — and then let her leave on her own terms. Neva went and volunteered
+herself two hours later.
+
+**S6 — 387 AW, the office.** **Signed paragraph 9** — judgement hers, consequence
+hers, no sentence to stand behind — with no oath on her and the October door
+still open and nobody having raised it.
+
+**S6 — 387 AW, the yard.** Asked Ordow, confused and annoyed, **what one would
+even write in that spot** — and when handed the pencil, **rubbed out the
+captain's word and wrote her own breach on a public board in a yard**:
+*where she was told not to go.* Fifth session running that she has volunteered
+the thing that weakens her own account, and the first time she has done it in
+writing where strangers can read it.
 
 ---
 
@@ -1035,3 +1174,158 @@ question nobody in this kingdom has asked.**
 person in the face. Held out an open hand. **Took one breath out of rhythm.**
 Took her hand and guided it, slowly, with every chance to refuse. Dismissed her
 kindly. Went back to work. *No statblock. Do not build one.*
+
+---
+
+### Added session 6, second half (days 42–49)
+
+**Sgt. Serwyn Thale.** Was standing when they came in, which means he saw them on
+the lane. Heard the whole account without interrupting, **asked for lines four
+and six to be read back before saying anything**, and then refused to be right at
+anybody: *"I objected twice and I was overruled twice, and I didn't have a better
+idea and I still haven't got one."* **Put both breaches in the first two lines of
+his own cover sheet over his own name** so it could not look like the party had
+managed the story on a four-day walk. Found the letter-overtaking-letter problem
+nobody had looked at. **Took the Aldric question onto himself** rather than leave
+it lying, offered to be overruled, and gave his reason: *"I'm the one who winters
+here."* Had not changed his clothes.
+
+**Capt. Ilyen Vaeroth.** Asked four questions and not a fifth. **Dismantled his
+own winter's doctrine in front of six people** — a stopping condition is a
+promise, not a wall; it works on people who want to stop; and he built the whole
+thing on the most obedient child in Ashwell. Named the thing nobody could have
+used against him: *"the only person who has broken one of my conditions is the one
+person I deliberately made it impossible to discipline. I disarmed myself in
+October and I was pleased with myself for it."* **Took no disciplinary action and
+said why** (*"punishing it would be theatre"*). **Put the breaches in his own hand
+to the king**, left column, unsoftened. **Refused to settle anything at midnight,
+citing his own sergeant's fallback ruling against himself**, and promised
+something nobody has had: *you'll read it before I sign it.* **Found paragraph 3
+in her account rather than her answer.** Wrote paragraph 9. **Signed last, under
+everybody, for the first time in forty years.** Told Neva whose assessment was in
+his file, because *"I'll not run a company where people discover their own names
+secondhand."* **Posted the eastern request in the open rather than choosing
+quietly, and asked for volunteers** — the first open call anybody in this
+campaign has seen. Chose the shape of the detachment and said that was the only
+real decision he had. Wrote for a return date the same hour and credited Mya by
+name in the body of it. **Kept his promise about the twins and said so to their
+faces before the board went up.** Told Alinar *if you ask, you go — but you have
+to ask.* **And had the October offer sitting right there as a lever and visibly
+did not touch it.**
+
+**Mya Li.** Told Sharii, levelly, that he was not arguing against a plan but
+against being in a militia. **Found the missing return date** on the one piece of
+palace paper in a company that puts an ending on everything. Told the courier he
+was right not to hand over a sealed sheet, in front of everybody. Answered
+*"Good"* when told the palace rider was not about her, and the word did a great
+deal of work. Gave Ignis the cleanest warning anybody has given her —
+*"I was wrong for about sixty years about what I was being pulled toward, and I
+was never once unsure while I was wrong"* — and restated her own north argument
+once and **refused to perform it twice.** **Said nothing at all about Kharis going
+east**, in any room, on any day. Looked at the table for half a second when he
+said why he was going, and Ignis was the only person positioned to see it.
+
+**Maevis Tarn.** Approved the decision to walk off the mountain and said she did
+not trust how fast they got there. **Gave up the fourth tool-count to the weather
+and named it out loud** as the second measurement lost to a stopping condition.
+Made Ignis reconstruct the circle and then **asked a flat procedural question for
+her own reasons and found the lamp-before-circle sequence** — then demolished it
+inside thirty seconds and **signed it anyway.** Refused to compare one bad copy
+against another. Read *cube placed first, circle cut around it* off a kneeling
+position. **Refused to reconcile the mid-character stop with the tidied tools.**
+And turned the spoil-on-the-left from a habit into **a trade standard**, which is
+the first social fact anybody has established about the quiet ones: *"somebody
+TAUGHT them where to put the chips."* Read her own statblock out loud at the mess
+table to kill a bad plan, and credited the half of it that was good. Objected
+that paragraph 3 puts the party's stopping condition in the hands of the thing
+being studied — and accepted the answer.
+
+**Dovin Reyl.** Did not say anything clever about having been overlooked for
+three sessions. **Named the five crown dies and the two-word problem** — *"two is
+not an office"* — and **demolished his own inference before anyone could use it**
+(*"this isn't even two methods, it's one bad one"*). Will look at the schedule of
+warrants **once, in passing, on limits he set himself unprompted**: no questions
+to any clerk, no copy taken, book shut if it isn't there in the open. *"The errand
+is real. That's the whole of what makes it safe."*
+
+**Wick Pallowen.** Made the biggest inference of the session in one line —
+**eleven holes, eleven ladders, eleven rooms, eleven boxes, and the seventh shut a
+year** — and the one nobody else made at the seam: *"we've been so worried about
+the door we opened that nobody's noticed they don't use it."* Wanted the north and
+**put on the record that his reason was selfish.** Noticed that six sessions had
+gone by without anybody asking the druid what the weather was doing.
+
+**Bellis Ordow.** **Filled in the space he had left beside her name since the
+granary yard** — with a word he asked the captain for and copied, because he
+writes down what he is told and had no word of his own for a person who goes out
+of sight. Then explained the board (*"it isn't what people are good at — it's
+where to look for you when it's gone wrong"*), **named Tam's space as blank
+because "he hasn't done anything yet"**, held the pencil out blunt end first, and
+**let her rub out his word and replace it with her own.** Then added two words of
+his own: ***and back.*** *"Things that go out and come back are stores. Things
+that go out and don't are losses."* **Has now been surprised twice and said so
+both times.**
+
+**Kharis Ailwin.** **On screen properly for the first time in three sessions, and
+it cost him.** Saw what Sharii was actually asking for and said it to the room:
+*"he's not talking about the company — there's two of them and they've never been
+more than a field apart in forty-five years; don't argue him out of it like it is
+one."* Then **answered Alinar's question first, instantly, before it had
+finished**, and gave the reason out loud for the first time in front of anybody:
+*"I came to Caldalus to tell somebody what happened to my village. I stayed
+because of what did it. I don't care which end of the kingdom they're standing in.
+I'd walk to Fardar."* **It is the most he has ever said in one go and the room knew
+it. He is now posted east.**
+
+**Tam Ellisan.** **Put his hand up**, went red, and said it anyway. *"I was at
+Ashwell. I'm on the list. That's the only list I've ever been on."* **Worked out
+the captain's own arithmetic about which four he could spare, without help, and
+chose to say it rather than be told it.** He is right about all of it. Ordow's
+board has had his space blank since the autumn because *"he hasn't done anything
+yet."* **Posted east. Still unprotected, and now four hundred miles from anybody
+in this party.**
+
+**Neva Corrin.** **Refused to be certain in a room** — *"ask me that on a road"* —
+then found the one true thing available (*"you've never seen us fight"*) and then
+**let the mask off for exactly one sentence**: *"I went down at Ashwell in the
+first ten seconds. I don't remember any of it. The best shot in this squadron has
+never knowingly been in a fight. I was asleep for mine."* Four months of smugness
+is cover. **Then went to the captain's door the same afternoon and put her own
+name in**, specifically so the line would be hers and not Ignis's — *"and don't
+you dare look pleased."* **Posted east.**
+
+**Ohren Kade.** Reported the light under the captain's door at the eleventh hour,
+loudly, to the whole yard, with satisfaction. **Volunteered within an hour of the
+board going up and told the yard twice.** Brave, defends badly, volunteers first —
+for the second time this winter. **Posted east.**
+
+**Aldric.** Asked **one** narrow question in the lane — *is there anything coming
+down off that hill that I want my people somewhere else for* — took the honest no,
+and then declined the rest of it: *"I'll not ask, because you'd tell me, and then
+I'd know it, and I'd still be here."* Gave Alinar bread and the last of the hard
+cheese, and said *"somebody count them when they come back through."*
+
+**The green courier (new, unnamed).** Wood Elf, about nineteen, **eleven days in
+the service, wrong boots, never been north of Caldalus**, making a very good job
+of it. **Would not hand over a sealed sheet addressed to somebody else and was
+told by a princess that he was right not to.** Gave the shape and not the content.
+
+**Knight.** Took the long outside line on bad snow rather than pass her on the
+inside. **Explained himself when asked**: she smells *of* underneath **and of
+herself at the same time**, and he has no shelf for that; he is frightened
+**near** her and not **of** her and insisted on the difference twice; and the only
+thing his mother ever taught him about that smell was to move away from it.
+*"I do not want to. I am doing the only thing."* **Took a job in nine seconds and
+invented a procedure for it** — once a day, downwind, same hour, same mark —
+knowing it means walking toward the thing he was taught to walk away from.
+**Could not place the idea of a pack of six at all**: what he has is *him, and the
+ones who are with him*, a radius with a centre. And: ***"She was already with
+him. She has been since the rain."*** Stopped moving when told she went down on
+purpose and came back, and repeated it twice to check it would hold. **Crossed
+four feet of frozen mud to smell her — first voluntary approach since vent nine —
+and by day 49 was sitting on the same side as her instead of opposite.**
+**Two feet. Less. Not gone.** *Leave the gradient slow.*
+
+**The one from the ladder (unidentified, not to be named).** Nothing further. The
+room it worked in is now shut behind the weather, and **every tool in that shaft
+restarted the moment it knelt back down.** *No statblock. Do not build one.*

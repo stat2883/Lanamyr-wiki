@@ -60,6 +60,56 @@ Keep him roughly comparable to the PCs.
 
 ---
 
+## ⚠ SESSION 6 — HE IS POSTED EAST, AND THIS NEEDS WATCHING
+
+In deep winter 387 AW the palace asked Vaeroth's company for four soldiers who
+had stood in front of a Stone Giant and lived. **Kharis volunteered first,
+instantly, before Alinar had finished asking the question** — and gave his reason
+out loud, in front of the whole squadron, for the first time in the campaign:
+
+> *"The paper says they want people who've stood in front of a Stone Giant and
+> are still here. There's four of them in a field out east and nobody there knows
+> what to do about it."*
+>
+> *"I came to Caldalus to tell somebody what happened to my village. **I stayed
+> because of what did it.** I don't care which end of the kingdom they're standing
+> in. I'd walk to Fardar."*
+
+It is the most he has said in one go in six sessions, and the room knew it.
+He also, quietly and unprompted, read Sharii correctly in front of everybody —
+*"he's not talking about the company; there's two of them and they've never been
+more than a field apart in forty-five years"* — which is the squadron's emotional
+anchor doing exactly what he is for.
+
+**He departs on the twenty-eighth. Mya is not on the detachment and has said
+nothing about it to anybody.** On the day before the board went up they were both
+at the butt range for about forty minutes, at opposite ends, and neither of them
+shot particularly well.
+
+### ⚠ The canon constraint
+
+Confirmed lore requires:
+
+- **387 AW** — their first year, in which they *"built deep trust, going on
+  missions together."* Most of that year has already happened.
+- **388/389 AW** — their second year, in which **they become serious, kept quiet,
+  only their closest friends knowing.**
+- **392 AW** — he is killed in Diquyk's first major push, *"along with several
+  other men under her command."*
+
+**He therefore has to come back, and reasonably soon.** The eastern request
+arrived with **no return date**, which is the live problem — Mya spotted it
+herself and Vaeroth wrote to the palace for one the same hour and has had no
+answer. **Do not let the detachment quietly become permanent**, and do not solve
+it by having an NPC announce a recall; the honest routes are the unanswered
+letter, a rotation when the draw opens, or the war moving. The relationship beat
+is confirmed lore and must land on schedule.
+
+**He remains a protected plot anchor while away** — see `../house-rules.md` →
+Roll visibility. Being offscreen does not make him killable.
+
+---
+
 ## DM Notes
 
 - He is the squadron's emotional anchor for five years, which is the point. The

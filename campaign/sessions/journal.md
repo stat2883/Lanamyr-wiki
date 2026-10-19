@@ -1008,3 +1008,707 @@ you have to decide.
 *Next: six people north in the deep of winter, and a hole nobody has looked
 into.*
 
+---
+
+## Session 6 — The Ladder
+
+*387 AW. Twelve days. Caldalus to a two-foot hole in a mountain and back again,
+and nobody drew a weapon once.*
+
+They marched out of the gate yard at an hour when the captain had no business
+being in one. He came anyway, looked at the Tiefling for about a second and a
+half, and said nothing at all about the door he'd left open behind her, which
+was the only honest thing available to him. Kharis Ailwin lifted a mug an inch
+to Alinar from the armoury step. Then six of them went north under an order with
+its own ending written on it.
+
+On the third day out they walked into nine adult wolves on a fresh kill, eighty
+yards off the road. Knight gave his silent warning and then went anyway, because
+the whistle has never once been able to hold him — and what stopped him was
+Ignis arriving beside him in the shape of a white wolf, which is a fact about
+this squadron that Sharii said out loud afterwards as a limit of his own rather
+than a credit to hers.
+
+What they got out of that pack was more than Faelyn has gathered in four months.
+No young — not one animal under three years old, in the third week of winter.
+Two broken packs holding together under a torn-eared female who leads because
+she was the one who got them down. And they weren't hungry, which meant there
+was nothing to trade them; the only currency was distance.
+
+*Nothing came for us. I would know a thing that came for us.*
+
+*We did not leave. We stopped being able to stay.*
+
+It's in the ground, she said. Not a smell, not a sound. You can't get away from
+it sideways, only downward. It began before the leaves went. And then the thing
+nobody was ready for: *it did not grow. It stepped.* More times than she can
+count, and every step shed more animals, which is how two packs became one
+group. Worst high, and north, and deep.
+
+The tall silent ones that smell of under? She's walked past one close enough to
+touch and it didn't turn round. They were there before it got bad, and they've
+never hunted anything. ***They are not it.***
+
+The giants have always been up there. There are fewer.
+
+And then she asked them something nobody in this kingdom has asked: *The
+feeling. Is it coming down?*
+
+Neither of them had an answer.
+
+In Aldric's kitchen that night it turned into an argument about speed, and the
+argument got away from everybody. Ignis said she wanted to go back in and
+*talk* to them — and then left the room so the others could say no without her
+in it, which Mya named immediately as the opposite of what the last person to
+call a meeting had done. Thale refused the giants outright with his name on it.
+And when Sharii put a harder sentence in his brother's mouth than the one his
+brother had said — *let's speed this up before more people die* — Thale didn't
+ask who. He named them. Marrin Sowle. Hesk Varran. The two Arrowood brothers,
+who went into the grain store after seed corn that burned anyway.
+
+*We were late because nobody knew, not because anybody dithered. None of what
+we've got now came from moving fast. Which doesn't make you wrong. It means
+we're both right and only one of us gets to be right in time.*
+
+And Mya: *We were late to Ashwell because we were looking for the wrong thing.
+We're not late to this one. We're EARLY. That's the only advantage anybody in
+this kingdom has got.*
+
+And Aldric, from his own doorway, having lost nobody of his own: *It'd be US,
+and it'd be me counting them again in the morning. It's my village. I'd like a
+vote in the sentence.*
+
+---
+
+Then the shoulder, and vent nine, and the order read out loud, all nine lines.
+
+She went in as a badger. Four feet of natural crack, fourteen inches at the
+tightest — and then it stops being natural. Cut walls. Tooled, squared, lightly
+domed. A floor sloping down and **worn smooth in a band eighteen inches wide**,
+by feet, a great many, over a very long time. No inscription anywhere. The smell
+of people soaked into the stone, continuous, and no food, no waste, no latrine,
+and nothing has ever denned in the warmest driest hole on that mountainside.
+
+Thirty feet in it bends right, and pale steady flameless light lay on the wall
+of the bend. Going round it meant losing sight of the opening, which was the one
+line the captain actually cared about.
+
+She went round it. She'd decided to before she went in.
+
+A domed room, hand-cut, fifteen feet across. A three-foot stone cube covered
+edge to edge in that script so finely it reads as texture — more writing on that
+one object than on the whole three hundred and fifty feet of corridor. A light
+standing a hand's width clear of it, touching nothing, lighting nothing. A
+circle cut into the floor around it, two-thirds finished, stopping mid-character,
+the chips swept into a tidy heap a hand's span to the left. Tools laid out in a
+row by size, in the order you'd pick them up.
+
+And in the far floor, a square-cut shaft going down past sight, with hand- and
+foot-holds chiselled into opposing walls and worn smooth.
+
+**The vents are the tops of ladders. That is how they get to the surface.**
+
+She put a paw on the cube. It is body-warm and it is not stone — it gives by a
+hair, like a drumhead. Her body locked rigid for six seconds. The light
+flickered once, and these lights do not flicker. And somebody started climbing,
+unhurried, perfectly even, the pace of a person on a ladder they have used ten
+thousand times.
+
+She turned back into herself and waited, and chose a spell, and did not cast it.
+
+Six foot four. Translucent white skin with the vessels visible in the throat.
+White hair tied back. Entirely black eyes that take light and keep it. Four
+breaths a minute, no weapon, no armour, and the hands of a lifetime stonecutter.
+It stood still for three seconds on arriving, walked past her within four feet
+without looking at her, and put its own hand flat on the exact face she had
+touched — and nothing happened to it.
+
+Then it turned and looked directly at her, and held it.
+
+Then it held out one open hand, palm up, empty, at chest height. And waited.
+
+She showed it the river stone, and **it took one breath out of rhythm** — half a
+beat early and deeper, then straight back to four a minute. In twenty weeks of
+prisoners and sealed doors and working ledges, that is the only involuntary thing
+any of them has ever done.
+
+It didn't want the stone. The hand stayed open. So she put her palm in it: cool
+as a cellar wall, dry, split nails, heavy callus, old scars — and the pulse is
+not in it. Then it turned her hand over and moved it toward the cube, slowly,
+with every chance to refuse, and stopped four inches off and waited, looking at
+her face rather than her hand.
+
+She went the last four inches herself.
+
+And because its hand never left hers, the thing went *through* her instead of
+seizing her, and she felt the shape of it for the first time. The cube is not
+the source — it's somewhere the thing passes through. It reaches north, and
+down, and much further than she has any instrument for. There are others. Many.
+And some are not doing it yet; there is an absence in it with a shape.
+
+It is not sending anything. No horn, no drum, no signal, no warning.
+
+**It feels like strain. Like a rope under load. Like standing with a hand flat on
+a dam. Something very large is holding something, very carefully, and has been
+for a long time — and what bleeds off the edge of it is what emptied the
+mountain.** Nothing in it is in a hurry. Nothing in it is angry.
+
+Then it lifted its hand off hers, looked at her, looked at the passage, and
+looked back. *Go.* No threat in it — the gesture you make to somebody standing in
+a doorway you need. Then it knelt, took the third tool from the row, and started
+cutting four feet from her without looking up again.
+
+And every tool in the shaft started again at once, settling straight back into
+the three rhythms Maevis has been counting from a mountainside, as though
+something had been waiting to be told it could.
+
+She came out through fourteen inches of rock as herself, on her side, one
+shoulder at a time, to save a Wild Shape the party might need. Out at
+twenty-nine minutes on a forty-minute clock, with skin off her forearm and a
+long tear in her coat.
+
+Knight would not come near her, and stood behind Sharii's leg for the whole
+report.
+
+*It had you by the hand, thirty feet inside a mountain, and nobody would ever
+have found you,* Mya said. *And it put you on the stone and then it pointed at
+the door. I asked three weeks ago what sentence we were writing. I still don't
+know. But that one isn't ours any more — **they answered.**
+
+---
+
+They went down off the shoulder the same afternoon and the weather shut the
+mountain behind them that night.
+
+In Ashwell, Thale heard the whole thing — breaches first, because she always
+leads with those — and said he wasn't going to stand there and be right at
+anybody, and then found the problem: his own letter asking the captain whether
+they might make contact was going to land one day *before* the news that it had
+already happened. So the party carried the news south themselves.
+
+Behind the byre, in the sleet, she asked the wolf why he wouldn't come near her.
+
+She smells of underneath. Not like it — *of* it. The cold-inside-of-a-stone
+smell; the one his mother had on her the nights she moved the den downhill, one
+at a time. And she still smells of herself at the same time, and he has no shelf
+anywhere in his head for a thing that is two smells at once. He isn't frightened
+*of* her. He's frightened *near* her, and he insisted on the difference twice.
+And the only thing his mother ever taught him about that smell was to move away
+from it, and it's the only instruction another wolf has ever given him, and he is
+carrying it out on a friend.
+
+*I do not want to. I am doing the only thing.*
+
+So she gave him a job: tell me when it's gone. He was on his feet before she
+finished and invented a procedure in about nine seconds — once a day, downwind,
+same hour, same mark, starting the day after tomorrow, because he's honest about
+what he can manage. To do the job he has to walk toward the thing he was taught
+to walk away from. Every day. On purpose. He took it anyway, because jobs are the
+only shelf in his head that holds.
+
+Then Sharii spent a slot and for four minutes all three of them were in the same
+conversation, which this party has never had. What got through was the part that
+mattered: *she went to the underneath on purpose, and she came back.* Knight
+stopped moving and repeated it twice, because it breaks the rule he inherited.
+
+Four minutes earlier he had asked her whether she was coming back, and Sharii,
+who doesn't know that question was asked, had just answered it.
+
+What didn't get through was the six. He turned it over and couldn't find anywhere
+to put it. He has Sharii, and the ones who are with him — a radius with a centre,
+not a circle of equals. *I am with him* was singular on purpose. And then, with
+no idea he was correcting anybody: *She was already with him. She has been since
+the rain.*
+
+The granary yard. Five weeks ago. Her belonging was never the question.
+
+At the end of it he crossed four feet of frozen mud and smelled her for two
+seconds with his weight back and his ears flat, and retreated, and sat down
+facing her.
+
+---
+
+Two other things happened at Aldric's long table while the weather screamed off
+the shoulder.
+
+Alinar walked the engineer over to Dovin Reyl and sat them down about the seal
+on the writ that took her rubbing — the lead that had been sitting in the open
+for three sessions, which Maevis had never pulled because she had the surveyor
+filed under *boundaries.* Two seconds, upside down, across a table, was all she
+ever had; made to draw it, she got one usable number out of it. Two word-breaks
+in the ring. Dovin handles five crown dies and every one of them carries a long
+office name — four breaks, five, six. *Two is not an office.* Which means
+household, or privy, or something cut for a person rather than a desk. Which
+means it was never registered, and the register everybody had been planning to
+ask has nothing to be asked.
+
+So Alinar said: then don't ask who cut it, ask who's *allowed* to. There's a
+schedule of warrants bound into the back of the plan-office standing orders.
+Nobody guards a list of seals; it isn't a secret, it's a reference. Dovin will be
+in that office inside the month anyway, because Ashwell's boundary needs a
+clerk's hand, and he set his own limits before anyone asked him to: he'll look at
+the page, once, in passing, and ask nobody anything, and shut the book if it
+isn't there in the open. *The errand is real. That's the whole of what makes it
+safe.*
+
+And then Ignis sat down with Maevis and two candles and tried to put the floor of
+that room on paper. The writing was never going to come back — she had seconds,
+in bad light, with a stranger holding her hand — and Maevis said so for her
+before she could apologise for it. *You were not there to copy a wall. You were
+there to not die.*
+
+What came back was the shape. A single band, cut into the floor. Characters
+facing inward, toward the cube, all of them. The gap on the side nearest the
+shaft, where somebody coming up the ladder would stand. One partial character at
+the stop, three strokes and the beginning of a fourth — which Maevis refused to
+compare against her own remembered notebook, because two bad copies agreeing is
+not a match, it's two people remembering the same way.
+
+Then she asked a flat question for her own reasons. *Was the lamp lit?*
+
+It was.
+
+And Maevis Tarn sat back in a farmhouse chair and said that in the autumn
+everybody — her included, reading the report — had the order of it the same way
+round. Box, circle, lamp, finished thing. And that lamp was burning over a circle
+two-thirds cut.
+
+**The writing isn't what makes it work.**
+
+She took her own finding apart inside thirty seconds — two observations, maybe
+lamps just burn where boxes are, maybe the circle is a dedication or a date or a
+receipt, *I took Dovin's arc apart for less* — and then wrote it down anyway and
+signed the page.
+
+She got two more things out of it. That the cube was set down first and the
+circle cut around it, which you can read off where a man has to kneel. And that
+the stop and the tools disagree and she will not reconcile them: the cut stops
+*mid-character*, which forty years says no tradesman does — and then he laid his
+tools out by size in pick-up order anyway. A man who tidies his tools didn't
+choose that stopping point. Something stopped the cut and then gave him all the
+time in the world.
+
+And last, the thing only the drawing surfaced. She'd thought the spoil swept a
+yard to the left at every vent was a habit. A habit is one man. That's a
+*standard* — identical above ground and below, over two and a half miles, by more
+than one pair of hands.
+
+*I sweep left because a man named Heddick Vull cuffed me for sweeping right when
+I was forty years old. That's how a trade gets into your arms. Somebody puts it
+there.*
+
+*They don't speak. They don't look at each other. And somebody* taught *them
+where to put the chips.*
+
+Nobody at that table had a follow-up.
+
+---
+
+They made Caldalus a full day early, because somebody finally thought to ask the
+druid what the weather was doing. It turns out Druidcraft will tell you the next
+twenty-four hours, and nobody had used it once in four months. She called a front
+under a hard clear sky on the second day and they pushed three hours before noon
+and took the sheltered lee, and were tucked in with a fire going when it sat on
+the road for six hours. Dry ground under every bedroll, a fire that caught first
+time, and on the last night a single white anemone opened out of frozen turf
+beside Maevis's boot. Maevis looked at it a long while and didn't say anything at
+all.
+
+Nine miles short of the gate they met the answer coming the other way: a courier
+on foot, nineteen years old, eleven days in the service and the wrong boots,
+carrying a sealed sheet for Sergeant Thale. The captain's ruling on whether they
+might make contact — written by a man who didn't know the question was five days
+dead. He wouldn't hand it over and Mya told him he was right not to, in front of
+everybody. What he'd give them was the shape: *he asked me how fast a man can get
+north in this weather. Twice.* And one piece of city news. There'd been a rider
+from the palace at the company office two days back.
+
+Nobody spoke for about thirty yards. The second letter went south with Mya's name
+in it at her own insistence.
+
+*Two bits of paper passing each other on a road in the dark,* Wick said, *and
+both of them are wrong.*
+
+---
+
+She chose to report that night, at the eleventh hour, with the road still on her.
+*Every hour I hold it is an hour I spent deciding how to tell it.*
+
+He read it twice and asked four questions and not a fifth. Then he told them what
+he'd written north, which was *yes* — yes to answering what they leave and
+leaving things to be answered, at the junction or the seam, in daylight, nobody
+out of sight of two other people. A day of his life to write it, five days too
+late to matter.
+
+*I gave permission for a conversation. And you had a meeting.*
+
+Then he stood up and took his own winter apart.
+
+*I have been writing stopping conditions into every line of every order since the
+autumn and I have been insufferable about it, and I got the idea off a
+nine-year-old with a splint. Coll Fenn did exactly what he was told, all the way
+down. That is the boy I built the whole thing on.*
+
+*A stopping condition is not a wall. It is a promise. It works on a person who
+wants to stop. I have spent three months congratulating myself on fences and what
+I had was a line of people being polite to me.*
+
+*And the first time I put one in front of somebody who had already decided to pay
+for crossing it, it did exactly nothing. It told her the price.*
+
+*The only person in my company who has broken one of my conditions is the one
+person I deliberately made it impossible to discipline. I disarmed myself in
+October and I was pleased with myself for it. I'd do it again. That's the
+trouble.*
+
+No charge. No reprimand. The breaches go to the king in his own hand, in the
+left-hand column, unsoftened — *my first letter was my judgement; this is evidence
+against my judgement; I don't take the knife out.* And then he asked her the thing
+he had no right to ask: not whether she was sorry, and not whether she'd do it
+again, but **what condition she would actually have obeyed.**
+
+She told him the truth, which was useless to him. The only order she'd have
+followed was to trust her own instinct, which told her there was nothing in that
+room that meant her harm — and that it wasn't selfish, because the people outside
+were in it too.
+
+He wrote it down word for word before he argued with it.
+
+*An order has to be the same sentence for everybody who reads it. Trust your
+instinct is not a sentence. It's a name. Put that in an order and in six months a
+nineteen-year-old with the wrong boots reads it at the mouth of a hole and it
+tells him that* his *feeling is an instruction. And he'll have one. And he'll be
+wrong, and the order will have told him he wasn't.*
+
+Then the room went to work on her, which is what that room does. Mya, who said
+three weeks ago that being pulled somewhere and being right to go are two facts
+with the same shape: *I was wrong for sixty years about what I was being pulled
+toward, and I was never once unsure while I was wrong.* Maevis: *a thing that has
+never been wrong is not the same as a thing that cannot be wrong, and your sample
+is one room* — and then, immediately, *and I can't take apart the part that
+matters, because she was in there and I wasn't.* Alinar counted it out flat, no
+adjectives: a watered prisoner, a door shut from inside with the rubble carried
+away, nine of them stopping and going back to work, one following five hundred
+feet carrying nothing, a tablet fetched and nothing done about it, a hand held in
+a room with nobody else in it. *That's not an instinct, sir. That's the
+best-evidenced thing anyone in this kingdom believes about them.*
+
+And Sharii said one sentence and never defended it: *My thing is right that
+something's there and wrong about what it is nearly every time.*
+
+What the captain found in the end was already his. He laid the autumn order beside
+the winter one and saw that he'd been running two doctrines at once — forward
+judgement for one scout, and an eyes-only stopping condition for another, handed
+to her in the one place on that mountain where nothing can be seen from outside at
+all.
+
+And he found her condition in her account rather than her answer. At the end of
+that room a thing looked at her, looked at the way out, and looked back, and she
+went — no argument, no delay, with the only piece of information this kingdom has
+in her hands. *That is the one instruction you have ever been given in that
+mountain that you obeyed inside a second. It wasn't mine. I'd be a fool to write
+anything else.*
+
+*Captain,* Maevis said, *paragraph three puts our stopping condition in the hands
+of the thing we're studying.*
+
+*Yes.*
+
+*You know how that reads.*
+
+*I do. And it is the only line on that page that the record says will actually
+work.*
+
+---
+
+The other thing waiting in Caldalus was the east.
+
+The palace rider had come about page two. Somebody, somewhere in four hundred
+miles of paper, had finally set *the Dark Elves broke contact all at once* beside
+*four giants stood in the field and did not pursue* — and the answer was a
+request for four experienced soldiers out of this company, before the end of the
+month, specifically people who have stood in front of a Stone Giant and lived.
+
+Which is this squadron. Not a conspiracy. A clerk doing his job with the only
+information anybody sent him.
+
+The captain did not pick four names quietly. He pinned the whole request up on
+Ordow's board where the duty lists go, with one line under it in his own hand:
+*If you want to go, come and say so to me. If you don't, say nothing and nothing
+will be said.*
+
+Asked straight out where the greater need was, he gave the answer and then told
+them to discount it. The east, and it isn't close — men died there this month.
+And the east has an army on it, and four bodies out of this company will matter
+enormously to the eleven men standing next to them and won't move that war by a
+hair. Nobody is dying on the mountain. By any measure he was taught it isn't a
+need at all. *And there is nobody else.*
+
+*East, if you want to be useful. North, if you want to be necessary. Those are
+different things and only one of them feels like anything while you're doing it.*
+
+*Now discount it. That mountain is mine. You have just asked a man whether the
+thing he has staked his name on is important, and he has said yes.*
+
+And then he said the part he wouldn't hide: if the people who've been down the
+hole stay, the four names he writes are the four he can most afford to lose from
+the work in front of him — the youngest, the newest, the ones with the least to
+put in a report. He did not say the name. *It's not east or north. It's east, or
+north and somebody else goes east instead. And I'm aware that telling you that is
+a lever, and I'd rather you had it than not.*
+
+So Alinar put the question to the squadron, in the mess, at midday, in front of
+everybody. Is there anyone here who is absolutely certain they want to be one of
+the four?
+
+Kharis Ailwin answered before the question had finished. *Yes.* And then, because
+Alinar waited, and because Alinar is the only person in that squadron who has ever
+waited for Kharis Ailwin, he said the rest of it out loud for the first time in
+front of anyone.
+
+*The paper says they want people who've stood in front of a Stone Giant and are
+still here. There's four of them in a field out east and nobody there knows what
+to do about it. I came to Caldalus to tell somebody what happened to my village. I
+stayed because of what did it. I don't care which end of the kingdom they're
+standing in. I'd walk to Fardar.*
+
+It is the most anybody has heard him say. Mya looked at the table and said
+nothing whatsoever.
+
+Tam Ellisan put his hand up. Actually put his hand up, and went red about it, and
+said it anyway. *It says people who've stood in front of one. I was at Ashwell. I
+know I didn't do anything much — I was on the left with a spear. But I was there.
+I'm on the list. That's the only list I've ever been on.* And then: *the captain's
+going to write four names and everyone in here knows which four he can spare. So
+I'd rather say it than be told it.*
+
+He is not wrong about any part of that.
+
+Neva Corrin wouldn't answer, and the way she refused was the answer. *Don't make
+me be certain about something in a room. Ask me that on a road and I'll tell
+you.* Wick wanted the north and said out loud that his reason was selfish. Mya
+restated hers once and refused to perform it twice — and found the thing nobody
+else had: there is no date on that request. The one company in Faelyn that has
+made a religion out of putting an ending on every line it writes has been handed a
+piece of paper with none.
+
+*Whoever goes east — nobody in this room can tell them when they're coming back.*
+
+Sharii said no to the split. Not this one. Ever. Mya told him, levelly, that
+they'd been split three times in four weeks and none of it had been their choice,
+and that he wasn't arguing against a plan but against being in a militia. And then
+Kharis, quietly, to nobody in particular: *He's not talking about the company.
+There's two of them and they've never been more than a field apart in forty-five
+years. That's not a tactical position. Don't argue him out of it like it is one.*
+
+Sharii didn't look up. Nobody picked it up.
+
+And into the silence that left, Ignis jerked her thumb at her own chest and said,
+*Oh, now look who can't keep his big mouth shut* — and the whole table fell on it
+gratefully, Neva first, and for about a minute this squadron was just a group of
+people eating lunch. Fifth time somebody has named Sharii's habit to his face.
+First time it was a kindness.
+
+Afterwards she caught Neva in a corridor and said what she actually meant: that
+Neva is ready for a fight, and north is standing outside a hole twiddling her
+thumbs.
+
+Neva went for the joke, didn't get the exit, and found the one true thing
+available. *You've never seen us fight. Six weeks. A sealed door, a ledge, eleven
+holes, a wolf on a road. Not one arrow loosed in anger since you walked into that
+granary yard. You've never once seen this squadron in a fight, and you've just
+told me which of us is ready for one.*
+
+And then, for exactly one sentence, the mask came off.
+
+*I went down at Ashwell in the first ten seconds. I don't remember any of it. I
+know Mya stood over me because other people told me, and I know Sharii put my feet
+back under me because he keeps the receipt. The best shot in this squadron has
+never knowingly been in a fight. I was asleep for mine. Everyone tells me I was
+brilliant right up until I wasn't.*
+
+*So no. I'm not certain. I don't know what I am yet, and I'm the only one in that
+mess who doesn't.*
+
+Then it slammed shut, and she went down the corridor, and stopped, and said
+without turning round: *And I'll go and tell him myself. Today. Because if that
+line's going in his file I'd rather it had my name on it than yours. And don't you
+dare look pleased.*
+
+She went to the captain's door that afternoon and put her own name in.
+
+---
+
+They brought him an honest, incomplete report — two volunteers, two for the
+north, nobody else committed, Sharii against any further split, and Ignis's own
+view that Neva should go, which Neva had declined to say in a room. And the four
+names were his.
+
+He took it, and told them exactly what he'd do with it. Kharis and Tam in the
+left-hand column, where what a person *said* goes. Ignis's view of Neva in the
+right, where assessments go, with her name on it. And then he'd go and find Neva
+and tell her to her face that it was there and who had put it there, *because I'll
+not run a company where people discover their own names secondhand.* And one
+observation, offered because somebody should: *this is the first time you have put
+a name in instead of keeping one out. I'd think about the difference between those
+two afternoons sometime.*
+
+Mya said nothing, and did not look at Ignis.
+
+On Tam: *that boy has done the arithmetic I did last night and got the same answer
+without anybody helping him. His volunteering changes nothing about whether he
+goes and everything about the paper. What it changes is that he gets to have
+chosen it, and that is the only part of this a man actually keeps.* And then the
+one thing actually in his power: *a detachment is not four separate people. It's a
+shape. Whoever I put round him decides what his odds are.*
+
+On the missing date he wrote to the palace that same hour, two sentences, and
+credited Mya by name in the body of it. It has not been answered.
+
+On Sharii he made the only promise he thought he could keep. *I can't promise you
+we'll never be split — if I promised it, the first time the war needed it I'd break
+it, and you'd have learned that my promises have a condition on them I didn't
+write down. Here's what I can promise. I will not split the two of you by
+accident. If it happens it will be because I decided it, for a reason, and I will
+say it to the both of you myself, in a room, before it's on any list. That is a
+smaller thing than you asked for. It's the size of thing I can actually hand you.*
+
+And at the end: *I have spent this entire winter handing authority down to
+recruits. And this afternoon the three of you walked in here and handed one back.
+Which is correct — naming four people out of twenty is a captain's job. I'd just
+like it on the record that I noticed, and that I don't yet know whether what I'm
+looking at is good judgement or relief, and neither do you.*
+
+Alinar asked him one more thing before he left, which was whether there'd still
+be a chance to be useful in the east after the northern business was finished.
+
+*Yes. Almost certainly yes, and I want you to hear how badly that should comfort
+you. A war does not run out of places that need you. It runs out of the people who
+were willing to go.*
+
+And then: *after the business in the mountain is finished. There is no finish on
+that. There's no line anywhere in that file that says what* done *looks like. So
+waiting for it is an instruction with no condition on it — and my own sergeant
+killed those, and I made it a standing ruling, and I signed it. If you're waiting
+for the north to be finished before you go east, you are not deciding. You are
+postponing, for ever, with my blessing.*
+
+*You have wanted the east since the autumn and you have never once asked me for
+it. I noticed. If you ask me, you go. But you have to ask. I am not going to do
+you the favour of putting you on a list so you never had to.*
+
+Alinar said thank you, sir, and left.
+
+---
+
+The board went up on the forty-ninth. Ailwin. Ellisan. Corrin. Kade — Ohren
+volunteered within the hour and told the yard about it twice. Two shields, a bow
+and a spear, *because a detachment is a shape and not only four heads.* They march
+on the twenty-eighth. There is still no return date.
+
+The twins are not on it, and the captain sent for them both before the sheet was
+pinned and said so to their faces. *It would have been convenient to. One of you
+east would have given them a second blade and a tracker and cost me almost nothing
+I can measure. I didn't do it. Remember that I chose not to, because there will be
+a day I choose the other way, and I'd like you to know the difference when it
+comes.*
+
+Mya is not on it. Kharis is. They have not spoken about it in front of anybody. On
+the forty-eighth they were both at the butt range for about forty minutes, at
+opposite ends, and neither of them shot particularly well.
+
+And then four of them stood in an office while the captain read paragraph nine out
+loud before anybody touched the pen.
+
+*The judgement is yours, and the consequence is held where the judgement is. No
+person acting under this order shall be described, in any report or inquiry, as
+having been following instructions. There are none to follow.*
+
+*An order is a thing that carries the blame. Coll Fenn rubbed his grandmother's leg
+raw for a fortnight and not one person in Ashwell thinks it was his fault, because
+he was doing what he was told, all the way down. That boy is protected by the
+sentence somebody gave him. If the judgement is yours in writing, there's no
+sentence between you and it. Not for me to hide behind, which is fine, I'm paid for
+that. And not for you.*
+
+And there was a half-second when every person in that room expected him to reach
+for the easy thing — *you can walk out of that gate any week of this winter* — and
+he didn't. He said it once in October, deliberately, and he was not going to use it
+as a lever now that it would work.
+
+She signed. Then each of them said *nobody follows you in* to her face, out loud,
+because Alinar had insisted the clause be spoken and not merely initialled, and
+Sharii said it last and took the longest about it. And then the captain signed
+under all of them and dated it — the first time in forty years of writing orders
+that he has been the last signature on one instead of the first.
+
+Out in the yard, Bellis Ordow had the pencil out.
+
+He'd left a space beside her name since the night she came in out of the rain,
+because *support* is an honest word and also a word that lets a person not say a
+thing, and because *that's hers to tell me.* He filled it in without asking her —
+one word, which he'd got off the captain on the way past the door, because he
+writes down what he's told and he hadn't got a word of his own for a person who
+goes out of sight.
+
+**IGNIS — judgement.**
+
+She asked him, annoyed and not quite sure why, what one would even write in that
+spot. And he told her she had the board the wrong way round. It isn't what people
+are good at. It's where to look for you when it's gone wrong, and it has never
+been anything else. *Kade — forward. Corrin — where she can see the whole of it.
+Pallowen — not where you left him. Ailwin — between. That's the only one I've
+never had to change.*
+
+And four spaces up, blank since the autumn — *not because I'm being delicate. He
+hasn't done anything yet. He's going east on the twenty-eighth and I expect I'll be
+filling it in off somebody else's report, and I don't like that, and nobody asked
+me.*
+
+*It's a pencil,* he said. *Everything on this board is pencil, because people
+change and I'm not in the business of being right about them for ever. I've rubbed
+out more words than I've written. I rubbed out* bear bait *about four months after I
+put it up, and the lad never knew it was there.*
+
+*Two hundred years of this and I am very rarely surprised. I'd like it on the
+record that I was.*
+
+Then he held the pencil out to her, blunt end first. *If you've got a better word
+than his, put it up yourself. It's your spot. I only keep the board.*
+
+She rubbed his word out with the side of her thumb and wrote her own.
+
+**IGNIS — where she was told not to go.**
+
+He read it, and said *huh*, and put his tally board down, which he hadn't done all
+morning. *I'm not rubbing that out, and it isn't because it's brave. There are
+nineteen entries on this board and yours is the only one that's actually an
+instruction. If you go missing, nobody wastes an hour looking where you were
+posted. They go and read the order, and then they go to the line in it that says*
+don't. *I have never had a better one of those off anybody.*
+
+And then he added two words in his own hand, which is the one privilege the job
+carries.
+
+**IGNIS — where she was told not to go — and back.**
+
+*Because that's the whole of my trade and it has been since before your
+grandmother. Things that go out and come back are stores. Things that go out and
+don't are losses. You went down and you came up. That's the bit you left off, and
+you'd have left it off, because you lot hand me the knife every time and think it's
+modesty.*
+
+*It's pencil. If it ever stops being true I'll rub out the last two words myself
+and I'll not enjoy it.*
+
+Then, to the sacks: *Surprised twice now. That's a record.*
+
+Across the yard the wolf was sitting at the foot of the armoury step with his nose
+into the wind, at the hour, downwind, waiting — because somebody gave him a job and
+he does exactly what he's told, every day, at the same hour, to the exact mark.
+
+She walked over to him, and he didn't move away.
+
+*Next: four people east on the twenty-eighth, a draw that shuts in January, a
+staircase that finishes in spring, and nothing written anywhere that says what done
+looks like.*

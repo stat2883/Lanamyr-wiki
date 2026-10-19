@@ -116,6 +116,28 @@ through creative framing, and it never targets the water inside a living
 creature — no dehydrating, no boiling, no destroying the blood in someone's
 body. Those are the only hard noes. Everything short of them gets a yes.
 
+**Druidcraft on the road — ruling, session 6.** The cantrip does what it says and
+no more, and what it says is more useful on a winter march than the table had
+noticed for six sessions:
+
+- **Predict the weather for the next 24 hours.** Free, every morning, no slot.
+  This is the load-bearing use. In session 6 it bought the party a full day on a
+  four-day march and kept them off an open crossing ahead of a front.
+- **Light or snuff a small flame** — a fire started instantly, in wind, on wet
+  tinder, with no fumbling.
+- **A harmless sensory effect** — a smell, a sound, a brief soft light. Morale is
+  a real thing at the end of a nine-day week.
+- **Bloom a flower**, in deep winter. Pure morale, and allowed.
+
+**What it does not do:** keep snow or sleet off a camp, dry ground, or warm
+anybody. A few-minutes patch of held-off weather a handful of feet across is the
+outer edge of the sensory effect and is as far as it goes.
+
+**The session-3 trick — dry ground under forty bedrolls, fog laid round a camp —
+is *Create or Destroy Water***, which is played loose by standing user ruling
+above. That is a 1st-level slot, and on the road it costs nothing real, because a
+long rest returns it every morning. Do not let Druidcraft quietly absorb it.
+
 **Roll visibility.** From session 1 onward, the DM shows player-facing rolls
 (PC attacks, saves, skill checks) in full, including the modifiers and raw
 dice. NPC and monster rolls are **not** shown — kept under the hood, with

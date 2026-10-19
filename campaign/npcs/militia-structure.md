@@ -94,6 +94,32 @@ detail established. Use **Guard** (MM 347).
 
 ---
 
+## ⚠ THE EAST DETACHMENT — session 6, 387 AW
+
+**Four of the squadron are posted to the eastern front**, departing the
+twenty-eighth day of the month in deep winter 387 AW. All four volunteered.
+Vaeroth posted the palace's request in the open on Ordow's board rather than
+naming people quietly, and chose the composition deliberately — *"a detachment is
+not four separate people, it's a shape"* — two shields, a bow and a spear.
+
+| | |
+|---|---|
+| **Kharis Ailwin** | Volunteered first and instantly. **⚠ CANON WATCH: he must be back under Mya's command before 388/389 AW.** See `kharis-ailwin.md`. |
+| **Tam Ellisan** | Volunteered with his hand up. Still unprotected, and now far from the party. |
+| **Neva Corrin** | Refused to commit in a room, then went to the captain's door and put her own name in. |
+| **Ohren Kade** | Volunteered within the hour and told the yard twice. |
+
+**There is no return date.** The request arrived without one, in the one company
+in Faelyn that now puts an ending on every line it writes; Mya found the gap and
+Vaeroth wrote for one the same hour, crediting her by name. **Unanswered.**
+
+**The squadron is therefore down to roughly sixteen bodies in Caldalus and
+Ashwell**, of whom the forward party for the mountain is Sharii, Alinar, Ignis,
+Mya, Wick and (as a civilian attachment) Maevis Tarn, with Thale commanding from
+Ashwell and Dalla Sarn on the watch.
+
+---
+
 ## Company Command
 
 ### Captain Ilyen Vaeroth

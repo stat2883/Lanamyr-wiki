@@ -492,6 +492,132 @@ still applies**, and this entry is the most sensitive in the file.*
   named retroactively); **Jaelin Arrowood** (Ashwell, bereaved); **the
   torn-eared female** (wolf, unnamed, road north). Table scaffolding.
 
+### The vent nine room, second pass — session 6, HANDLE WITH CARE
+*Extends the vent nine entry above. Every warning on it, and on the s2 hall, s3
+void and s5 vent entries, still applies.*
+
+- **Established in play:** the inscription circle on the floor of the vent nine
+  room was **two-thirds cut and stopped mid-character while the flameless light
+  above the cube was already burning.** Reconstructed after the fact from a PC's
+  memory with Maevis Tarn's assistance; the **script itself was not recoverable**
+  and only the geometry was (single band, characters facing inward, gap on the
+  shaft side, one partial glyph at the stop).
+- **The inference drawn in-fiction, and immediately demolished by the person who
+  drew it:** every account since the autumn had the sequence as *cube, circle,
+  lamp, finished installation.* Vent nine shows the lamp lit over an unfinished
+  ring, so **the inscription is not what makes the thing work.** Maevis Tarn then
+  took her own finding apart within thirty seconds — two observations; lamps may
+  simply burn where cubes are; the circle may be a dedication, a date, a name or
+  a receipt — **and recorded it anyway.** Both halves are in the campaign record
+  and **neither is evidence of anything.**
+- **Also established, from her craft rather than from inference:** the cube was
+  **placed first and the circle cut around it**; and the **mid-character stop is
+  irreconcilable with the tools having then been laid out by size in pick-up
+  order.** *"A man who tidies his tools did not choose that stopping point."*
+- **⚠ THE LARGEST ITEM, AND THE MOST TEMPTING:** the spoil swept a hand's span to
+  the left inside the room is identical to the spoil stacked a yard to the left
+  outside all eleven vents across two and a half miles, and to the stones beside
+  the session-2 crawl. Maevis — a mason of forty years — called it **a trade
+  standard rather than a habit**, on the grounds that a habit is one man:
+  *"they don't speak, they don't look at each other, **and somebody TAUGHT them
+  where to put the chips.**"*
+  **This is the first SOCIAL fact the campaign has produced about the quiet ones**
+  — it implies a teacher, an apprenticeship, and enough generations to wear a
+  stone floor smooth in an eighteen-inch band.
+- **Recommendation: DO NOT PROMOTE, and be especially careful with this one.**
+  *"They were taught"* is the kind of finding that invites a future session to
+  decide **who** taught them, and that decision would reach straight into the
+  bible's locked material — the Drasu and the silenced Drasian tongue, the Draak
+  settlement, the Var Harma's northward envoys, the Dark Elves of The Deep. **The
+  hall is tied to none of them and the DM has made no such decision.** The
+  resemblance of shapes is not evidence. Resolve nothing because it rhymes.
+- **Also not for promotion:** the lamp/circle sequence, the tool-row reading, the
+  mid-character stop, and the reconstruction method. Table material.
+
+### Faelyn's crown seals and the schedule of warrants — session 6, NOT for promotion
+- **Established:** five crown dies are handled routinely by a working surveyor
+  (chancery, revenue, Office of Works, surveyor-general, assize), **each carrying
+  the issuing office's name in a ring around the device, running to four, five or
+  six word-breaks.** A ring with **two** breaks would therefore not be an office
+  seal at all but a household, privy or single-commission seal — and so would not
+  appear in any register. A **schedule of warrants** listing what seals legitimately
+  exist is bound into the back of the plan-office standing orders, and is a
+  reference rather than a secret.
+- **Source:** played out in session 6 between Alinar, Maevis Tarn and Dovin Reyl,
+  from a two-second glimpse of the writ that removed the wax rubbing in session 5.
+  **The identification is explicitly weak and was demolished by the man who made
+  it** (*"one bad method, not two"*).
+- **Recommendation: DO NOT PROMOTE.** The bible says nothing whatever about
+  Faelyn's internal administration and has no need of a seal bureaucracy. This is
+  table machinery built to make a winter of paperwork and suspicion function. It
+  fills a silence and contradicts nothing, but it is not a statement about how
+  Faelyn is governed. Same standing as the charter, levy and roll machinery from
+  sessions 4 and 5.
+
+### The eastern detachment and the palace rider — session 6, NOT for promotion
+- **Established:** a rider from Caldalus's palace to a company office; a request
+  for four experienced soldiers to the eastern front, specifying soldiers who have
+  survived contact with Stone Giants; a company captain posting that request
+  openly and calling for volunteers rather than naming people; four named
+  militia detached with **no stated return date**; and a written request for one,
+  unanswered.
+- **Consistency with confirmed lore:** the two-front war is confirmed — mixed Dark
+  Elf and Stone Giant units probing from the north through the Tempest Peaks and
+  from the east out of The Deep, through 387–391 AW. **Moving militia between
+  fronts contradicts nothing.** Diquyk directs from between the two kingdoms via
+  Jaunt Gates and is not on the field until 392 AW; nothing here touches that.
+- **⚠ What it must not become.** The in-fiction chain that produced this request
+  runs through Oris Venn's account of **four giants standing at the rear of a Dark
+  Elf line, guarding a load, and not pursuing** — which is the second brick under
+  the campaign's *giants are leaving home / somebody has them* hypothesis, now
+  joined by a wolf's *"there are fewer."* **Confirmed lore has the Stone Giants as
+  Diquyk's northern strike force, recruited with a promise of plunder. THAT
+  HYPOTHESIS MUST NEVER BE PROMOTED, however many bricks the campaign stacks under
+  it.** The kingdom acting on the testimony inside the fiction is not evidence that
+  the testimony is correct.
+- **⚠ Canon watch, campaign-side:** **Kharis Ailwin is one of the four.** Confirmed
+  lore requires him with Mya through 388/389 AW and dead in 392 AW *"under her
+  command."* See `../npcs/kharis-ailwin.md`. This is a campaign scheduling problem,
+  **not** a licence to alter the bible.
+- **Recommendation: DO NOT PROMOTE** any of it.
+
+### The order with a named judgement — session 6, table material only
+- **Established:** a company order naming a single soldier as the holder of
+  forward judgement inside the ground, with the consequence explicitly held where
+  the judgement is and an express clause that nobody acting under it may be
+  described as having followed instructions; plus a clause forbidding anyone to
+  follow the scout in, to be **spoken aloud** before every entry rather than
+  merely signed.
+- **Recommendation: NEVER PROMOTE.** This is an invented military-administrative
+  instrument and a table convention about accountability. The bible carries no
+  military procedure for Faelyn and needs none.
+
+### Campaign NPCs and details added session 6, second half — NOT for promotion
+- **The green courier** (unnamed, Wood Elf, ~19, eleven days in the service);
+  **Heddick Vull** (Maevis Tarn's long-dead instructor, mentioned only, never seen).
+  Table scaffolding, logged for transparency.
+- **Neva Corrin's Ashwell blackout** — that she was unconscious for the only
+  engagement she has ever been in and has no memory of it. Character material,
+  campaign-side, invented in play. The bible does not know Neva Corrin exists.
+
+### Druidcraft, Speak with Animals and a beast's conceptual limits — table mechanics
+- **Established:** the Druidcraft ruling for travel (see `../house-rules.md`); that
+  two casters of *Speak with Animals* can hold a three-way conversation with one
+  beast while both durations overlap; and that a beast companion's social model may
+  be **a radius with a centre rather than a group** — Knight could not place the
+  concept of a six-person pack at all.
+- **NEVER PROMOTE.** 5e table rulings and animal-behaviour fiction. The bible
+  carries no game mechanics.
+- **Note for a future DM, not for the bible:** Knight reports that a person who
+  has been in physical contact with one of the cubes **smells of *underneath* and
+  of herself simultaneously**, that the effect is **fading on a measurable daily
+  gradient**, and that he distinguishes this cleanly from Sharii, who *"smells of
+  him"* and carries none of it. Taken together with his session-5 report that
+  Sharii sometimes *goes somewhere without moving* and that he **does not know it
+  by smell**, these are two separate observations about two separate phenomena.
+  **Neither resolves whether Sharii is a Magni**, and the unfilled Magni slot in
+  `Lanamyr_08_Open_Questions.txt` remains open and unassigned.
+
 ---
 
 ## Contradictions Flagged (bible-side, not campaign-side)

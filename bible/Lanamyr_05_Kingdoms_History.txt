@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v003
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v004
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -9,6 +9,163 @@ Stories_Outlines, Open_Questions. Confirmed lore is locked; tentative lore is
 flagged and subject to change. Cross-check kingdom locations against
 Lanamyr_Epoch1.jpg / Lanamyr_Epoch3.jpg and against race origin points in the
 Races file when either changes.
+
+================================================================================
+WESTERN ALIOS — FOUNDING HISTORY (2ND EPOCH, YEARS 0–221)
+================================================================================
+
+*** STATUS: PENDING USER REVIEW. This chain of events was drafted in session
+*** v004 and has NOT yet been reviewed and confirmed. Treat as tentative in
+*** full until that review happens. The race traits, populations, terrain
+*** readings, and trade structure it rests on ARE confirmed; the sequence and
+*** dating of events below are not.
+
+The three races of the western arm of Alios: Wood Elves in the forested
+lowland interior, Stone Giants in the Tempest Peaks along the northern coast,
+Dark Dwarves on the dry steppe and Forbidden Peaks of the southwest. See Races
+for trait values and Geography for terrain.
+
+GEOMETRY: measured on Lanamyr_Sundering.jpg, the Stone Giant origin lies
+roughly half as far from the Wood Elves as the Dark Dwarf origin does. Contact
+order follows from this: Wood Elves meet Stone Giants first, Dark Dwarves
+considerably later.
+
+THE SCATTER (years 0–20)
+Thousands of adults wake scattered across each region with no memory and no
+knowledge that anyone else exists. Language is intact, so the moment two
+strangers meet they can speak. Gathering takes months, not generations.
+Terrain determines the speed:
+- DARK DWARVES consolidate fastest. On open steppe smoke is visible for miles
+  and travel is unobstructed. The terrain that offers them no shelter offers
+  the quickest coalescence.
+- WOOD ELVES consolidate slowly. Forest limits sight and travel; bands form
+  along rivers and in clearings and only gradually learn of one another. With
+  High magic and little else to distinguish anyone, the earliest leaders are
+  those whose ability is most visible.
+- STONE GIANTS barely consolidate. Rugged ground, fewer bodies across it,
+  Minimal technology to ease travel. Clumps stay small and isolated. With
+  Minimal magic and Minimal craft, physical prowess is the only available axis
+  of distinction, so leadership forms around strength immediately. Their
+  regard for strength above all is not a value they adopted — it was the only
+  thing there was to respect.
+
+YEAR 7 — ADOMORN (confirmed lore; consequences drawn here)
+Adomorn arrives at a Wood Elf people seven years into gathering: bands and
+households, no kingdom and no throne. He chooses fewer than ten families and
+begins the Heaven's Oak chamber.
+- THE GUARDIANS PREDATE FAELYN. Their confirmed position outside normal Wood
+  Elf society structure follows directly: he founded them before that structure
+  existed. There was no king to ask.
+- THE GUARDIAN FAMILIES ARE A TECHNOLOGICAL ISLAND. Building a containment
+  chamber under Drasu direction placed Drasu-level knowledge in Wood Elf hands
+  in year 7. Those families know things no other Wood Elves know, permanently
+  and in secret.
+
+CONSOLIDATION (years 20–80) — THE ORIGIN OF COHESION
+Lifespan and terrain together determine whether each race became one people.
+- WOOD ELVES receive forty-five years of peace. Childhood runs to 42 and
+  reproduction begins at 50, so the first Wood Elf born after the Sundering is
+  not an adult until roughly year 45. For that entire span the population is
+  flat — no growth, no new mouths, no scarcity. Land is abundant against a
+  static population and there is nothing to fight over, so they sort themselves
+  out by negotiation. High cohesion is purchased by their lifespan.
+- STONE GIANTS receive nine. Adult at 8–12 and reproducing from 10, their
+  numbers climb within the first decade and never stop. By the time
+  consolidation might have occurred, rival holdings are entrenched with twenty
+  years of feud behind them, and leadership by strength means every claim is
+  contestable. Low cohesion is locked in by roughly year 50 and never comes
+  unlocked.
+- DARK DWARVES fall between and come out ahead. Adults at 26, giving a
+  generation of static population — long enough to consolidate before pressure
+  arrives, and they were already gathering fastest. High cohesion, and the
+  first of the three to function as a single people.
+
+FIRST CONTACT — THE STONE GIANTS (years ~40–60)
+Geometry places the Giants nearest; demography puts them in motion. They have
+been growing for thirty years while the Wood Elves have not grown at all. They
+come downhill.
+Unlike contact within a race, this encounter carries a language barrier and the
+first exchanges are mutually incomprehensible.
+THE PERMANENT STALEMATE: the Wood Elves answer with magic, which the Giants
+have never seen and cannot match. High magic against Minimal magic and Minimal
+technology. The Giants outweigh the elves and can take ground but cannot hold
+it against magic; the elves can repel anything that comes down but cannot
+pursue into the peaks against that size on that terrain. Neither side can ever
+finish the other.
+THE RAID CYCLE: Giant population booms against the carrying capacity of the
+boreal rain forest every few generations. Pressure has one direction to go —
+downhill into the elf lowlands. The elves push it back, losses reset the
+population, and it builds again. This repeats for the remainder of the epoch
+and beyond. It requires no villain and no grievance; the demography produces it
+on a schedule the elves can nearly predict and can never negotiate away,
+because a Giant chief's word dies with him inside twenty years and Low cohesion
+leaves no institution to outlast him.
+THE CANOPY AS DEFENSE: Wood Elf canopy construction is extraordinarily
+effective against Giants, whose size becomes a liability in a network of
+walkways built for smaller frames. They can smash and burn at ground level and
+cannot reach what is above it, and there is no wall to break because the
+structure is distributed across hundreds of trees.
+BEARING ON THE ELF WAR: this is why Diquyk's recruitment of the Stone Giants in
+383–387 AW worked. He was the first force in their history capable of
+neutralizing the elves' only advantage — offering not plunder so much as the
+end of a stalemate their ancestors had lost for a hundred generations. The
+plunder was the terms, not the reason.
+
+SECOND CONTACT — THE DARK DWARVES (years ~100–150)
+The Dark Dwarves come north and east looking for wood, having stripped the
+slow-growing boreal woodland on their own margins. They reach the Wood Elves at
+the dry southern edge of the forest.
+They arrive in the opposite mode to the Giants: with a proposition and
+something to offer. First contact is a negotiation rather than a collision.
+Within a century the Wood Elves therefore learn two incompatible lessons about
+outsiders — that strangers can be something to survive, and that strangers can
+be something worth having. This is the origin of their guarded-but-integrative
+disposition.
+
+THE BINDING TRADE (years ~150–221)
+Real ore reaches the Wood Elves for the first time. Bog iron was all they had
+ever had, which is why a century and a half of Average technology produced only
+simple forging.
+WHAT MOVES, AND WHAT DOES NOT:
+  Elves to Dwarves — worked timber: props, shoring, ladders, hafts, joinery.
+    Agricultural surplus: grain, fruit, fiber, which the steppe does not
+    provide. NOT bulk charcoal.
+  Dwarves to Elves — finished tools and implements, the bulk of the trade.
+    Cut stone and stonework. Raw ore only in limited quantity.
+THE PERMANENT FRICTION: smelting is the largest consumer of wood of any craft,
+and the Wood Elves will not sell fuel. This caps Dark Dwarf smelting at
+whatever their own depleted woodland supports, leaving them sitting on more ore
+than they can ever process beside an effectively limitless forest whose owners
+will not sell them the one thing they need. Magic offers them no escape:
+inefficiency scales badly and their need is industrial. The friction is
+permanent, structural, and contains no villain — the two peoples simply value a
+tree differently.
+WHY THE ELVES PREFER FINISHED GOODS: raw ore does not escape their problem, it
+imports it. Smelting ore themselves would require making charcoal, which means
+cutting. Finished tools cost them nothing, because the burning already happened
+on dwarf fuel. The consequence is that they remain dependent on dwarf craft
+permanently and never develop metallurgy of their own.
+Over this same period the Dark Dwarves go deeper and spend less time above
+ground. The long adaptation of their eyes begins here.
+
+YEAR 221 — THE ICE DWARVES (confirmed lore)
+An Ice Dwarf expedition from Icefall sails south, finds the Tempest Peaks and
+the Darkened Slopes already occupied, and establishes trade routes that build
+friendly relations with the neighboring peoples over time.
+They arrive BY SEA, which is the significant detail. Everything in western
+Alios to this point has been overland and local; a fleet on the coast is the
+region's first contact with the wider world.
+CONSEQUENCE: this gives the Stone Giants a source of worked metal that does not
+come through the Wood Elves — for the first time in two centuries they can
+obtain goods without going through the people they raid. What they do with that
+is UNDEVELOPED, and whether their Low cohesion even permits them to sustain a
+trading relationship is an open question.
+
+OPEN WITHIN THIS CHAIN (deliberately not decided):
+- The exact year of first Giant contact.
+- Whether that first meeting turns violent immediately or passes through a
+  brief confused peace.
+- Whether the Stone Giants ever take Ice Dwarf metal in quantity.
 
 ================================================================================
 NUSUL — THE LOST KINGDOM
@@ -539,11 +696,43 @@ Year 1334: Ah'Tabai returns to Lanamyr to prepare for the Onwu threat. In an
            No Irridae remain in the world from this point forward.
 
 --- 2ND EPOCH ---
+Year 0:    The races wake scattered across their home regions — adults only,
+           no memory, language and reasoning intact. Approximately 5,000
+           individuals of each Drasu-descended race and 300 of each
+           Draak-descended race (see Overview_Cosmology). Bands begin forming
+           within months. WESTERN ALIOS: Dark Dwarves coalesce fastest on open
+           steppe; Wood Elves slowly in dense forest; Stone Giants barely at
+           all in rugged terrain, with leadership forming around physical
+           strength from the first season.
 Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
            of Olum begin expanding outward from that location over the following
            centuries. Adomorn begins building Heaven's Oak chamber with Wood
            Elves. Chooses fewer than 10 Wood Elf families as Guardians of the
-           Tree.
+           Tree. The Guardians therefore predate the Wood Elf kingdom itself,
+           which is why they sit outside normal Wood Elf society structure.
+20-80:     WESTERN ALIOS (PENDING REVIEW): consolidation phase. Wood Elf
+           population is flat until roughly year 45 — no scarcity, so they
+           organize by negotiation and reach High cohesion. Stone Giant numbers
+           climb from year 9 onward; rival holdings entrench and Low cohesion
+           locks in by about year 50. Dark Dwarves consolidate early and reach
+           High cohesion.
+30-60:     WESTERN ALIOS (PENDING REVIEW): the Wood Elf minimal-impact
+           philosophy forms as the first permanent clearings become undeniable.
+           Canopy building predates the ethic; the ethic is a response to
+           witnessing their own damage.
+~40-60:    WESTERN ALIOS (PENDING REVIEW): first contact between Wood Elves and
+           Stone Giants. The Giants come downhill under population pressure.
+           The elves answer with magic. A permanent stalemate forms that
+           neither side can break, and the Stone Giant raid cycle begins.
+~100-150:  WESTERN ALIOS (PENDING REVIEW): first contact between Wood Elves and
+           Dark Dwarves, who come seeking timber after stripping their own
+           boreal woodland. They arrive with a proposition rather than a
+           threat. Dark Dwarf tools reach Faelyn and the great building age of
+           Caldalus follows.
+~150-221:  WESTERN ALIOS (PENDING REVIEW): the timber-for-metal trade
+           establishes. The Wood Elves refuse to sell charcoal, permanently
+           capping Dark Dwarf smelting. The Dark Dwarves go progressively
+           deeper underground and the adaptation of their eyes begins.
 Year 221:  First Ice Dwarf expeditions depart Icefall in multiple directions.
            One expedition sails south and finds the Tempest Peaks and Darkened
            Slopes region — finds much of it occupied but establishes trade
@@ -721,5 +910,5 @@ Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
          around a Kobold's neck. Valindra walks the shore of her lake.
 
 ================================================================================
-END OF LANAMYR KINGDOMS & HISTORY — v003
+END OF LANAMYR KINGDOMS & HISTORY — v004
 ================================================================================

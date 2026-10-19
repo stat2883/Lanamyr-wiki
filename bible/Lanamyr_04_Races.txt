@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v003
+LANAMYR WORLD BIBLE — RACES — v004
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -100,7 +100,8 @@ DRASU ANCESTRY:
   10% on land — not yet confirmed.
 - Elves — Snow: Large island just east of Utoa — close enough to be considered
   part of the continent. Island name and kingdom name: UNDEVELOPED.
-- Elves — Wood: Plains south of Tempest Peaks, western arm of Alios. Kingdom: Faelyn
+- Elves — Wood: Forested lowlands south of the Tempest Peaks, western arm of
+  Alios. Kingdom: Faelyn
 - Gnomes — Cave: Beneath Tarantar Mountains, northern Alios
 - Gnomes — Desert: Central-south transitional zone of Alios (cool temperate desert)
 - Gnomes — Rock: Western end of Coldwind Mountains, Utoa
@@ -122,6 +123,9 @@ DRASU ANCESTRY:
 GIANTKIN — CONFIRMED ORIGIN:
 - Stone Giants: Tempest Peaks, western arm of Alios (directly north of Faelyn).
   Recruited by Diquyk in 383-387 AW as a northern strike force in the Elf War.
+  Lifespan 50 years — born large and fast-growing, reaching adult size early
+  in proportion to that span. Among the shortest-lived of the larger races.
+  See Overview_Cosmology for life stages.
 
 GIANTKIN — ORIGIN NOT YET ESTABLISHED:
 Frost Giants, Hill Giants, Ogres, Swamp Giants
@@ -142,6 +146,102 @@ edges of the underground ruins of Atral. Hostile contact with Var Harma
 excavations occurs periodically when their paths intersect underground. The
 Trolls have at most found remnants of buried structures on the outer edges of
 Atral — nowhere near the Drasian Vault at the city's center.
+
+================================================================================
+RACE TRAIT FRAMEWORK
+================================================================================
+
+A standing set of traits used to describe every race. Applied to the western
+Alios races so far; to be extended to the rest as they are developed.
+
+TIERS (where a tier is used): Minimal, Low, Average, High, Maximum.
+
+MAGIC — fixed and absolute.
+A race's magical capacity derives from its progenitor inheritance, carried in
+diminished form through the Sundering. It is innate, it does not drift over
+time, and it cannot be taught to a race, traded for, or lost in a war. Because
+the baseline never moves, no era needs to be specified. See Overview_Cosmology,
+Magic System, for the Magni exception.
+
+TECHNOLOGY BASELINE — fixed, set at the opening of the 2nd Epoch.
+What a race woke up already knowing how to do. The Sundering preserved residual
+intelligence — language, reasoning, and the capacity to build and organize — so
+the baseline is simply how much practical craft survived in that race's
+fragment. Nobody taught anyone anything. Recorded as a description rather than
+a tier.
+
+INGENUITY — fixed tier. The rate of technological progress, measured against
+all of Lanamyr rather than regionally.
+Ingenuity sets the CEILING on how fast a race can advance. Actual progress is
+gated by circumstance, and four gates apply:
+  - RESOURCES. A craft cannot develop without the materials it requires.
+  - SURPLUS. Specialists require others to feed them. A small population has no
+    spare labor for invention.
+  - CONTACT. Isolated peoples stagnate; connected ones compound. Contact between
+    races is a technological event as well as a political one.
+  - CATASTROPHE. War, plague, and collapse push a people backward regardless of
+    ingenuity. Knowledge can be lost — see Nusul in Kingdoms_History.
+Because progress is gated, technological history is uneven and not always
+forward-moving. A race may forget nothing and still fall behind as others
+advance. Technology transfers between races through contact and conquest;
+magic never does.
+No specific dates are assigned to a race crossing from one level of capability
+to another. Technological eras are described organically within each
+civilization's history rather than pinned to a timeline.
+
+COHESION — an outcome, not an inherent trait.
+Whether a race acts as a single polity or as many. Determined during the
+scatter-and-consolidation phase at the opening of the 2nd Epoch (see
+Overview_Cosmology, The Scatter Pattern) and rarely changed afterward. Cohesion
+determines whether diplomacy with a race is even possible and whether an
+agreement can bind anyone beyond the individual who made it.
+
+OUTSIDER DISPOSITION — the cultural default on meeting a stranger. Described
+rather than tiered. Drifts slowly.
+
+WESTERN ALIOS — RECORDED VALUES:
+
+WOOD ELVES
+  Magic: High
+  Technology baseline: Accomplished woodworking — felling, shaping, joinery,
+    and construction in timber; bows, hafts, carts, boats, framed buildings;
+    cordage and woven fiber. Simple forging: able to heat, hammer, and shape
+    metal into serviceable tools and blades, but plain work with no refinement,
+    alloying, or mastery of temper. Stone and bone tools in common early use.
+  Ingenuity: Low
+  Cohesion: High
+  Outsider disposition: Guarded at first contact, integrative over time. By the
+    3rd Epoch Faelyn houses humans, gnomes, and other races.
+
+DARK DWARVES
+  Magic: Average
+  Technology baseline: Skilled forging well beyond simple shaping — control of
+    heat, quality, and finish, producing tools and weapons of real quality.
+    Expert mining: shaft-sinking, following a seam, moving stone safely
+    underground. Fine stonework, structural and worked. Weak at woodworking,
+    which they treat as a material to acquire rather than a craft they practice.
+  Ingenuity: Average — perfecters rather than inventors, refining a known craft
+    across centuries.
+  Cohesion: High
+  Outsider disposition: Transactional. The only one of the three western Alios
+    races that travels TO others rather than waiting to be found.
+
+STONE GIANTS
+  Magic: Minimal
+  Technology baseline: Clubs and thrown stone. Hide and bone worked by hand.
+    Shelter is caves where the mountains provide them and crude huts where they
+    do not — logs stacked and leaned rather than joined, roofed with hide or
+    boughs. No metalworking at all.
+  Ingenuity: Minimal
+  Cohesion: Low — clans and holdings, never a unified people. No Stone Giant
+    kingdom exists in any epoch.
+  Outsider disposition: Aloof and dismissive when fed; dangerous when crowded.
+    The boreal rain forest supplies nearly everything they need, so they have
+    little reason to deal with anyone.
+
+NOTE ON MINIMAL TECHNOLOGY AND MILITARY THREAT: a Minimal technology tier does
+not mean a race is militarily weak. Stone Giant size makes a thrown stone a
+siege weapon and a club a decisive one. Their bodies are their technology.
 
 ================================================================================
 RACE APPEARANCE TABLE
@@ -401,6 +501,63 @@ delicate features than most other races. They tend toward leaner and more slende
 builds than Hillfolk humans, though this varies by subtype. Elves have finite
 lifespans — they are not immortal. Elderly elves exist in the world.
 
+WOOD ELVES
+Origin: Forested lowlands south of the Tempest Peaks, western arm of Alios.
+Kingdom: Faelyn. Capital: Caldalus.
+The biome map records their origin region as Cool Temperate Moist Forest, with
+Cool Temperate Wet Forest to either side, grading to Boreal Wet Forest at the
+northern foothills and to Subtropical Dry Forest at the southern margin. They
+woke in forest and have never lived anywhere else.
+Native language: Aiwiya.
+
+MINIMAL-IMPACT PHILOSOPHY: Wood Elves do not clear large swaths of forest.
+They fell only what a structure requires and build among the larger trees left
+standing. This is a deliberate ethic, not an inability.
+ORIGIN OF THE ETHIC: The behavior came first and the philosophy followed. In
+dense forest a threat cannot be seen coming at ground level, so the earliest
+Wood Elf bands built upward for safety, and for protection from flooding and
+predators. The reverence came later — approximately years 30 to 60 of the 2nd
+Epoch, once the first clearings had stood long enough to be visibly permanent
+and a people who would live another two centuries understood they were looking
+at something they had done and could not undo. The ethic is a response to
+witnessing their own damage.
+
+CANOPY ARCHITECTURE: Wood Elf settlements are built high among the trees —
+networks of intricate, very well-built structures linked by walkways and
+bridges. The wet climate of the western arm is what makes a timber canopy city
+survivable; in the Subtropical Dry Forest at Faelyn's southern margin the style
+thins out considerably, and ground construction is proportionally more common
+there.
+THE CLEARINGS: Gathering and hauling the enormous quantity of material required
+to build in the canopy produced large clearings as a byproduct. Those clearings
+were then built into as well. Wood Elves did not clear land in order to build;
+they cleared it incidentally and then used what they had made. Over centuries
+this produced settlements that are both canopy and ground, including Caldalus.
+See Geography.
+
+METAL — THREE CEILINGS: Wood Elf metalworking is permanently small in scale,
+for three independent reasons that all land in the same place.
+  - POOR ORE. Forested lowland yields no minable ore. What they have is bog
+    iron, gathered from forest seeps and marsh bottoms rather than mined —
+    scarce and of poor quality. Stone and bone tools filled the gap in the
+    early centuries and remain in use for many purposes.
+  - NO FUEL THEY WILL BURN. Smelting is the single largest consumer of wood of
+    any craft. Producing charcoal at scale is incompatible with the
+    minimal-impact ethic, and they decline to do it.
+  - MAGIC SUBSTITUTES ONLY AT TINY SCALE. High magic provides an alternate heat
+    source for smelting, but it is extremely inefficient and wholly impractical
+    as a permanent method. A mage must continuously produce the heat for the
+    duration rather than lighting a fire that burns on its own. It is sufficient
+    for a small crucible and a few pounds of bog iron and useless for sustained
+    or industrial work.
+CONSEQUENCE: Wood Elf metalworking is a magical profession rather than a
+mechanical one — a smith in Faelyn is a spellcaster who works metal, not a
+craftsman who owns a forge. Metal goods are individually costly and therefore
+rare and significant rather than everyday. This is why Wood Elf forging remains
+"simple" into the 3rd Epoch despite millennia of trade with master smiths: they
+did not fail to develop metallurgy, they declined to. See Characters & Items
+regarding Crimson and Sear — whether they are of Wood Elf make is UNDECIDED.
+
 SNOW ELVES
 Origin: Large island just east of Utoa, close enough to be considered part of
 the continent. Island name and kingdom name undeveloped.
@@ -477,6 +634,36 @@ effectively blinded by daylight without protection. Their greater surface
 presence makes them more commonly encountered than Dark Elves.
 Native language: Tecali.
 
+TERRAIN OF ORIGIN: The biome map records their origin as Cool Temperate
+Steppes — open, dry, treeless high country, and the driest corner of the
+western arm. Warm Temperate Thorn Scrub lies to the south in the Forbidden
+Peaks; Boreal Moist Forest lies along the northern Darkened Slopes and inland
+to the east. They are the only one of the three western Alios races to have
+woken in open country.
+
+DAYLIGHT SENSITIVITY IS ACQUIRED, NOT INNATE: Dark Dwarves woke at the
+Sundering with normal eyesight. On open steppe offering no shade and no
+shelter, the only refuge available was caves, and their natural craftsmanship
+and skill drew them steadily deeper underground. The sensitivity to daylight
+developed afterward, over generations of subterranean life, as a latent
+predisposition expressing itself rather than as ordinary selection.
+This distinguishes them from the races that woke underground. Dark Elves and
+Cave Gnomes both emerged beneath the Tarantar Mountains and never had sight to
+lose; Dark Dwarves gave theirs up. It is why they remain the least sensitive of
+the underground races and the only one that still travels and trades in person.
+CONSEQUENCE FOR EARLY HISTORY: the first phase of Dark Dwarf history is a
+SURFACE history — a steppe people with herds. The underground identity accrued
+over time rather than being present from the start.
+
+TIMBER DEPENDENCY: Deep mining demands enormous quantities of worked timber —
+props, shoring, ladders, hafts — and charcoal for smelting, none of which
+steppe or thorn scrub provides. The Dark Dwarves exploited the boreal woodland
+on their northern and eastern margins first. Boreal forest grows slowly and
+recovers poorly, and stripping it is what eventually drove them to seek timber
+from the Wood Elves. Because they are poor woodworkers, what they want is not
+raw logs but finished Wood Elf joinery, cut and fitted. See Kingdoms_History
+for the western Alios founding history and the structure of that trade.
+
 ================================================================================
 GNOME SUBTYPES — EXTENDED ENTRIES
 ================================================================================
@@ -522,5 +709,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v003
+END OF LANAMYR RACES — v004
 ================================================================================

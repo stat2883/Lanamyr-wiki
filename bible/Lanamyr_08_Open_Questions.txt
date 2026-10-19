@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v003
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v004
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -14,6 +14,46 @@ mentioned in multiple places (e.g. a character entry and a story outline).
 ================================================================================
 OPEN QUESTIONS / UNDECIDED LORE
 ================================================================================
+
+WESTERN ALIOS FOUNDING HISTORY (2ND EPOCH 0–221):
+- *** PENDING USER REVIEW. *** The full chain of events in Kingdoms_History
+  was drafted in v004 and has not yet been reviewed and confirmed. The traits,
+  populations, terrain readings, and trade structure underneath it ARE
+  confirmed; the sequence and dating of events are not.
+- Exact year of first Wood Elf / Stone Giant contact: undecided.
+- Whether that first meeting turns violent immediately or passes through a
+  brief confused peace: undecided.
+- Whether the Stone Giants ever take Ice Dwarf metal in quantity, and whether
+  Low cohesion even permits them to sustain a trading relationship: undecided.
+- Stone Giant native language: UNDEVELOPED. They have one; it is unnamed.
+- Stone Giant appearance (height, build, coloring): UNDEVELOPED.
+
+RACE TRAIT FRAMEWORK:
+- RESOLVED: standing framework established in Races.txt — Magic (fixed),
+  Technology Baseline (fixed at the opening of the 2nd Epoch, described rather
+  than tiered), Ingenuity (fixed tier, gated by resources, surplus, contact and
+  catastrophe), Cohesion (an outcome of the scatter phase, not an inherent
+  trait), Outsider Disposition (described).
+- Values recorded for Wood Elves, Dark Dwarves and Stone Giants only. All other
+  races: UNDEVELOPED. To be filled in as each region is built out.
+- Technological eras are described organically within each civilization's
+  history. No crossover dates are assigned.
+
+REAL-WORLD REFERENCES IN THE BIBLE:
+- UNDECIDED. Three real-world comparisons currently exist: Geography (Alios and
+  Edura joined "similar to how Europe and Asia are"), Races (Jokul "similar to
+  Hawaii"), Races (Hillfolk "equivalent to real-world humans"). All three are
+  explanatory asides to the author rather than in-world lore prose.
+- Proposed rule, NOT YET ADOPTED: no real-world references in lore prose;
+  calibration notes to the author permitted and marked as such. The alternative
+  is a blanket ban, which would require removing the three above. A decision
+  belongs in SESSION_INSTRUCTIONS.md and takes effect the following session.
+
+CRIMSON AND SEAR:
+- Whether they are of Wood Elf make is UNDECIDED and deliberately open. Wood
+  Elf metalworking is magic-fired, small-batch, and performed by spellcasters
+  rather than craftsmen, which would make blades like these enormous
+  undertakings and fits their glow — but nothing confirms their origin.
 
 KARMA & THE BURNT PLAINS:
 - The specific mechanism of Greyhawk's curse is undeveloped.
@@ -281,8 +321,11 @@ RACES WITH NO ORIGIN LOCATION:
 - Trolls — Forest, Moss, Desert.
 
 RACE LIFESPANS NOT YET ESTABLISHED:
-- Orcs, Magni (follows base race), Giantkin subtypes, Troll subtypes,
+- Orcs, Magni (follows base race), Giantkin subtypes other than Stone Giants
+  (Frost Giants, Hill Giants, Ogres, Swamp Giants), Troll subtypes,
   Humans (Shepherds, Water Whisperers), Wyrms.
+- RESOLVED: Stone Giants — 50 years. Born large, grow fast. See
+  Overview_Cosmology.
 
 SKITTER'S PRIOR COMPANIONS:
 - Wilward (Adenburry), Alexa (Broldendul), Qenwick (Fardar) — all alive.
@@ -380,5 +423,5 @@ MAP NOTES:
   Swamp Giants, Trolls (Forest, Moss, Desert).
 
 ================================================================================
-END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v003
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v004
 ================================================================================

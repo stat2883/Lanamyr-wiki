@@ -9,6 +9,196 @@ end of an entry when relevant, not at the top.
 
 ---
 
+## v004
+
+The first substantial work on the 2nd Epoch. This version builds the founding
+era — the opening centuries after the Sundering — beginning with a single
+region, the western arm of Alios, and the three races who woke there: the Wood
+Elves, the Dark Dwarves, and the Stone Giants.
+
+### New — a standing trait framework for every race
+
+Five traits now describe a race, and the distinctions between them matter more
+than the values.
+
+**Magic** is fixed and absolute. It descends from the progenitor inheritance,
+does not drift, and cannot be taught, traded for, or lost. **Technology
+baseline** is what a race woke up already knowing how to do — the Sundering
+preserved residual craft knowledge, so the baseline is simply how much survived
+in that fragment. Nobody taught anyone anything. **Ingenuity** is the rate of
+progress, and it sets a ceiling rather than a schedule: actual advancement is
+gated by resources, surplus, contact, and catastrophe. A race may forget nothing
+and still fall behind while others move. Technology transfers between races
+through contact and conquest; magic never does. No crossover dates are assigned
+— technological eras are described organically inside each civilization's
+history.
+
+**Cohesion** is the important one, because it is an outcome rather than a trait.
+Whether a race became one people or many was decided during the scatter phase at
+the opening of the epoch, and it rarely changed afterward. **Outsider
+disposition** is the cultural default on meeting a stranger.
+
+Values are recorded for the three western Alios races. Every other race remains
+undeveloped and will be filled in as each region is built.
+
+### New — how the races actually appeared
+
+A race did not wake piled into one place. Emergence was scattered across a wide
+region in a pattern like a meteor impact, densest at the center and thinning at
+the edges — but never wide enough for two races' peripheries to touch, which
+preserves the confirmed fact that each race knew only itself for many years.
+
+The consequence reshapes the whole founding era. The first contact nearly every
+individual had was with their own kind, so the opening phase was not races
+meeting races but thousands of scattered adults finding one another. Bands came
+first, then tribes, and only afterward — for some — kingdoms. Several races
+never came together at all, and internal conflict generally preceded any
+conflict between races.
+
+### New — founding populations, and a multiplier nobody had noticed
+
+Because every Drasu produced exactly one of each descendant race, the Drasu
+population at the Sundering *is* the founding population of every Drasu-descended
+race. Counting the races in the bible gives 32 descended from the Drasu and 10
+from the Draak — so one Drasu became thirty-two people, and the Sundering
+multiplied the sapient population of Lanamyr roughly thirty-two-fold overnight.
+No living race knows this.
+
+That multiplier is what constrains the number. Drasu at the Sundering are set at
+approximately 5,000 and Draak at approximately 300, so each descendant race
+began at those figures. The result is a sparse early world, matching the
+confirmed description of Lanamyr as mostly wild and untamed, and it fits a
+long-lived, low-fertility people holding a modest territory with one great city.
+These are a fixed point: future work on the 1st Epoch must reach them rather
+than overwrite them.
+
+One consequence falls straight out. At roughly 300 Draak there were roughly 300
+dragons, and dragons live 3,000 years while only 2,597 have passed. **The dragons
+born in the Sundering are still alive in 432 AW**, elderly now, and apart from
+Adomorn they are the only living beings who were there. Greyhawk and Karma are
+both later-born and not of that generation.
+
+### Revised — the Sundering reached every Drasu
+
+The bible said both that the Drasu who died at Atral fractured and that the
+Sundering reached every Drasu across Lanamyr. The second is correct: every Drasu
+alive anywhere fractured at that moment, with Adomorn alone excepted.
+
+### New — Stone Giants are short-lived
+
+Lifespan set at 50 years, with the race born large and growing fast, reaching
+adult size early in proportion to that span. This makes them the shortest-lived
+of the larger races.
+
+The effects are severe and mostly good. Giants cycle roughly thirteen
+generations in the time the Wood Elves do not complete one, so a single elf
+outlives five Giants end to end and deals with the same clan across ten or more
+chieftains. To the Giants the elves must look deathless. And because a chief's
+authority rests on strength he loses by forty, no agreement he makes can bind
+anyone after him — so treaties with Stone Giants are structurally impossible to
+sustain, not through bad faith but through arithmetic.
+
+### Corrected — the Wood Elves woke in forest, not on plains
+
+The bible recorded their origin as "plains south of Tempest Peaks." The biome
+map, which is authoritative, reads Cool Temperate Moist Forest at their origin
+point with wet forest on either side and no grassland anywhere near. Corrected
+to forested lowlands. Going forward, every race's stated origin is to be checked
+against the biome map before anything is built on it.
+
+### New — the Wood Elves build in the canopy, and why
+
+Wood Elves do not clear large swaths of forest. They fell only what a structure
+needs and build among the larger trees left standing, in networks of walkways
+and bridges high in the canopy.
+
+The behavior came first and the philosophy followed. In dense forest a threat
+cannot be seen coming at ground level, so the earliest bands built upward for
+safety. The reverence arrived around years 30 to 60, once the first clearings
+had stood long enough to be visibly permanent and a people who would live
+another two centuries understood they were looking at something they had done
+and could not undo. The ethic is a response to witnessing their own damage.
+
+And it defeats itself quietly. Hauling the material to build in the canopy
+produced large clearings as a byproduct, and those clearings were then built
+into. Nobody ever decided Caldalus would be half canopy and half ground; it
+became that one hauling road at a time, across centuries, while everyone
+involved believed they were being careful. The city's oldest sections are its
+least careful, and the Wood Elves live long enough to remember.
+
+### New — three ceilings on Wood Elf metal
+
+Their forging stays simple for two and a half millennia for three independent
+reasons that all land in the same place. Their ore is bog iron, gathered from
+forest seeps rather than mined, scarce and poor — stone and bone filled the gap
+early and never entirely left. Smelting is the largest consumer of wood of any
+craft, and they will not burn forest at that scale. And magic, which can supply
+heat, is so inefficient that it serves a small crucible and nothing more.
+
+So Wood Elf metalworking is a magical profession rather than a mechanical one —
+a smith in Faelyn is a spellcaster who works metal, not a craftsman with a
+forge — and metal goods are rare and significant rather than everyday. They did
+not fail to develop metallurgy. They declined to.
+
+### New — Dark Dwarves gave up their eyesight
+
+They woke with normal sight on open, dry, treeless steppe, the driest corner of
+the western arm. With no shade and no shelter the only refuge was caves, and
+their craftsmanship drew them steadily deeper. The sensitivity to daylight came
+afterward, over generations underground.
+
+This separates them from the races that woke in darkness — Dark Elves and Cave
+Gnomes beneath the Tarantar Mountains never had sight to lose. It explains why
+Dark Dwarves remain the least sensitive of the underground races and the only
+one that still travels and trades in person. And it means the first phase of
+their history is a surface history: a steppe people with herds, who became an
+underground kingdom only gradually.
+
+### New — the founding history of western Alios, 0 to 221 *(pending review)*
+
+The full chain is recorded in Kingdoms_History and flagged as **not yet reviewed
+or confirmed**. The traits, populations, terrain readings and trade structure
+beneath it are settled; the sequence and dating of events are not.
+
+Its load-bearing claims: cohesion was decided by lifespan and terrain, with the
+Wood Elves buying theirs with forty-five years of flat population and the Giants
+losing theirs within nine. The Giants reached the elves first, by geometry and
+by demography both, and the elves answered with magic — producing a stalemate
+neither side could ever break and a raid cycle driven by Giant population booms
+against a fixed ceiling, requiring no villain at all. The Dark Dwarves arrived a
+century later with a proposition rather than a threat, having stripped their own
+woodland, and the Wood Elves learned two incompatible lessons about strangers
+inside a hundred years.
+
+The trade that resulted is bound by a refusal: the elves sell worked timber and
+food but never bulk charcoal, which permanently caps Dark Dwarf smelting and
+leaves them beside a limitless forest whose owners will not sell them the one
+thing they need. Neither people is wrong. They value a tree differently.
+
+One consequence reaches forward. The Giant stalemate explains why Diquyk's
+recruitment worked in 383 AW: he was the first force in their history able to
+neutralize the elves' only advantage, offering the end of something their
+ancestors had lost for a hundred generations. The plunder was the terms, not
+the reason.
+
+### Carried forward, unresolved
+
+Stone Giant language and appearance remain undeveloped. Whether Crimson and Sear
+are of Wood Elf make is deliberately left open. Whether the Giants ever took Ice
+Dwarf metal in quantity, and whether their cohesion even permits a sustained
+trade, is undecided — as is the exact year of first contact and whether it turned
+violent at once.
+
+A question of style is also open and recorded: whether the bible should carry a
+blanket ban on real-world references, or a narrower rule permitting calibration
+notes to the author while keeping lore prose clean. Three such references
+currently exist. A ruling belongs in SESSION_INSTRUCTIONS.md.
+
+*Workflow: the biome map is now treated as authoritative for terrain, and race
+origins are to be checked against it before development.*
+
+---
+
 ## v003
 
 ### Revised — T'sarra is an antagonistic kingdom

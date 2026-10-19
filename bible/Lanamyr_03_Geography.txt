@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — GEOGRAPHY — v003
+LANAMYR WORLD BIBLE — GEOGRAPHY — v004
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -148,6 +148,27 @@ outcroppings. The Abaculus subtly influences anyone who comes close to this
 entry point to turn away. It guided Diquyk through it and into the purpose-built
 chamber beneath, constructed by Greyhawk during the Great War.
 
+CALDALUS: Capital of Faelyn, in the forested lowlands of the western arm of
+Alios. The first and largest Wood Elf city. Built in both canopy and ground
+construction, and in the present day a great deal of it sits high among the
+trees — intricate, very well-built structures linked by networks of walkways
+and bridges between the larger trees left standing.
+The mixed character was never a decision. Gathering and hauling the material
+needed to build in the canopy produced large clearings as a byproduct, and
+those clearings were then built into. The city became half canopy and half
+ground one hauling road and one staging yard at a time, across centuries, while
+the people building it believed they were being careful.
+This gives Caldalus a visible geology: its oldest sections are its least
+careful. The ground-level core predates the minimal-impact philosophy that
+formed around years 30 to 60 of the 2nd Epoch, and the Wood Elves — who live
+long enough to have watched it happen — hold complicated feelings about their
+own capital's foundations.
+The city's great building age followed the arrival of Dark Dwarf tools (roughly
+years 100 to 150 of the 2nd Epoch). Good metal edges transformed felling,
+shaping, and joinery. The restraint ethic was already established by then,
+which is the only reason the forest survived the expansion.
+See Races for Wood Elf canopy architecture and the minimal-impact philosophy.
+
 HEAVEN'S OAK: Landmark in Faelyn containing a chamber built under Adomorn's
 instruction early in the 2nd Epoch. Three purposes: physical containment of
 Abaculus, masking its presence from Creatures of Olum, and preventing it from
@@ -243,5 +264,5 @@ or evil spirit circulate among travelers — the details exaggerated by retellin
 The truth is simpler and sadder: she is still waiting for Cyran.
 
 ================================================================================
-END OF LANAMYR GEOGRAPHY — v003
+END OF LANAMYR GEOGRAPHY — v004
 ================================================================================

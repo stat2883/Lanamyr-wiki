@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v003
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v004
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -958,5 +958,5 @@ Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
   poisonous gas. Prefers to avoid conflict.
 
 ================================================================================
-END OF LANAMYR CHARACTERS & ITEMS — v003
+END OF LANAMYR CHARACTERS & ITEMS — v004
 ================================================================================

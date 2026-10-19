@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OVERVIEW & COSMOLOGY — v003
+LANAMYR WORLD BIBLE — OVERVIEW & COSMOLOGY — v004
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -141,12 +141,46 @@ the Sundering mostly unaffected as a result.
 THE SUNDERING — ORIGIN OF THE RACES
 ================================================================================
 
-Each Drasu who died at the Battle of Atral fractured simultaneously into one
-individual of each descendant race — elves, humans, dwarves, gnomes, orcs,
-trolls, goblins, and all others. The ratio was exact: every Drasu produced
-exactly one of each descendant race. The same is true of the Draak, who
-fractured into one of each of their descendant races: dragons, dragonborne of
-all types, kobolds, wyrms, and others.
+Every Drasu on Lanamyr fractured simultaneously into one individual of each
+descendant race — elves, humans, dwarves, gnomes, orcs, trolls, goblins, and
+all others. This was not limited to those present at the Battle of Atral; it
+reached every Drasu alive anywhere in the world at that moment. Adomorn alone
+was excepted, and remains the last surviving Drasu. The ratio was exact: every
+Drasu produced exactly one of each descendant race. The same is true of the
+Draak, who fractured into one of each of their descendant races: dragons,
+dragonborne of all types, kobolds, wyrms, and others.
+
+POPULATION AT THE SUNDERING:
+Because every Drasu produced exactly one of each descendant race, the size of
+the Drasu population at the moment of the Sundering IS the founding population
+of every Drasu-descended race. The same holds for the Draak.
+
+There are 32 Drasu-descended races (4 dwarf subtypes, 6 elf, 5 gnome, 4 human,
+orcs, 3 goblin, 5 giantkin, 4 troll) and 10 Draak-descended races (dragons,
+4 dragonborne, 4 kobold, wyrms). One Drasu therefore became 32 individuals and
+one Draak became 10. The Sundering multiplied the sapient population of Lanamyr
+roughly thirty-two-fold overnight — a fact no living race is aware of.
+
+CONFIRMED FIGURES:
+- Drasu at the Sundering: approximately 5,000. Each Drasu-descended race
+  therefore began with approximately 5,000 individuals, for a total of roughly
+  160,000 Drasu-descended beings worldwide.
+- Draak at the Sundering: approximately 300. Each Draak-descended race began
+  with approximately 300 individuals, for a total of roughly 3,000.
+
+These figures are consistent with a long-lived, low-fertility Drasu population
+holding a modest territory on northern Edura with a single great city, and they
+keep the early 2nd Epoch world sparse — matching the confirmed description of
+most of Lanamyr as wild and untamed. They are a fixed point: any future
+development of the 1st Epoch must work backward to them rather than overwrite
+them.
+
+CONSEQUENCE FOR DRAGONS: at roughly 300 Draak, approximately 300 dragons came
+into being at the Sundering. Dragons live 3,000 years and only about 2,597 have
+passed by 432 AW, so the dragons born in the Sundering are still alive in the
+present day, now elderly. Apart from Adomorn, they are the only living beings
+who were there. Greyhawk (born 658, 2nd Epoch) and Karma (born 925, 2nd Epoch)
+are both later-born and are NOT of this first generation.
 
 Because the full moral spectrum of the Drasu and Draak was preserved through
 this fracturing — including those who were evil — all descendant races carry the
@@ -188,6 +222,24 @@ Each race appeared simultaneously in the geographic region that would eventually
 become their homeland. The Wood Elves appeared in what would become Faelyn.
 The Iron Dwarves appeared in the Black Mountains of Fardar. And so on.
 
+THE SCATTER PATTERN: A race did not appear piled into one small area. Emergence
+was scattered across a wide region in a pattern resembling a meteor impact —
+densest at the center, thinning toward the edges. The origin points shown on
+Lanamyr_Sundering.jpg mark the center of each scatter, not the whole of it.
+
+Scatter radii were nonetheless narrow enough that no two races' peripheries
+overlapped at the moment of emergence. This preserves the confirmed fact that
+for many years each race knew only itself.
+
+CONSEQUENCES: The first contact almost every individual had was with their own
+kind. The opening phase of the 2nd Epoch was therefore not races meeting races
+but thousands of scattered adults finding one another and working out who they
+were. Bands formed first, then tribes, and only afterward — for some races —
+kingdoms. Several races never consolidated at all. Whether a race came together
+as one people is a historical outcome of this phase, not an inherent trait of
+the race. Internal conflict between groups of the same race generally preceded
+any conflict between races.
+
 FIRST CONTACT:
 For many years each race knew only itself. It was only through the natural
 expansion of boundaries that races encountered one another — sometimes
@@ -210,12 +262,14 @@ Kobolds — Mystics: 50 | Tunnelers: 40 | Scavengers: 35 | Hardbacks: 40
 Goblins — Screechers: 15 | Marsh Goblins: 30 | Feral Goblins: 20
 Gold Dragonborne: 350 | Cobalt Dragonborne: 310 | Silver Dragonborne: 290
 Obsidian Dragonborne: 320 | Dragons: 3000
+Giantkin — Stone Giants: 50
 
 Elves have FINITE lifespans — not immortal. Elderly elves exist in the world.
 Screecher Goblins at 15 years are the shortest-lived race in all of Lanamyr.
 
 LIFESPANS NOT YET ESTABLISHED: Orcs, Magni (follows base race), Giantkin
-subtypes, Troll subtypes, Humans (Shepherds, Water Whisperers), Wyrms.
+subtypes other than Stone Giants (Frost Giants, Hill Giants, Ogres, Swamp
+Giants), Troll subtypes, Humans (Shepherds, Water Whisperers), Wyrms.
 
 LIFE STAGE PERCENTAGES (apply proportionally to all races):
 Childhood: 0–17%
@@ -254,6 +308,11 @@ Cobalt Dragonborne (310):Childhood 0–53  | Young adult 53–77  | Repro 62–1
 Silver Dragonborne (290):Childhood 0–49  | Young adult 49–72  | Repro 58–145  | Prime 72–174  | Middle age 174–232 | Elderly 232–290
 Obsidian Dragonborne(320):Childhood 0–54 | Young adult 54–80  | Repro 64–160  | Prime 80–192  | Middle age 192–256 | Elderly 256–320
 Dragons (3000):          Childhood 0–510 | Young adult 510–750| Repro 600–1500| Prime 750–1800| Middle age 1800–2400| Elderly 2400–3000
+Giantkin — Stone (50):   Childhood 0–8   | Young adult 8–12   | Repro 10–25   | Prime 12–30   | Middle age 30–40   | Elderly 40–50
+
+STONE GIANT GROWTH: Stone Giants are born large and grow quickly, reaching
+adult size far earlier in proportion to their lifespan than most races. A
+Stone Giant is physically formidable well before it is socially an adult.
 
 DRAGON PHYSICAL GROWTH:
 Dragons stop growing in physical size at approximately 1000 years of age.
@@ -489,5 +548,5 @@ Age into large tentacled pack leaders that form birthing chambers. Dissolve to
 harmless black dust on death.
 
 ================================================================================
-END OF LANAMYR OVERVIEW & COSMOLOGY — v003
+END OF LANAMYR OVERVIEW & COSMOLOGY — v004
 ================================================================================

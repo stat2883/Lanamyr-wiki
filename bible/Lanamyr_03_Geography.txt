@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — GEOGRAPHY — v004
+LANAMYR WORLD BIBLE — GEOGRAPHY — v005
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -153,27 +153,79 @@ Alios. The first and largest Wood Elf city. Built in both canopy and ground
 construction, and in the present day a great deal of it sits high among the
 trees — intricate, very well-built structures linked by networks of walkways
 and bridges between the larger trees left standing.
+THE SITE PREDATES THE CITY: the gathering settlement Adomorn walked into in
+year 7 of the 2nd Epoch stood here, and Heaven's Oak — built at his direction
+that same year — is a central feature of the present-day capital rather than a
+remote landmark. Caldalus grew up around the containment chamber. The Guardian
+families Adomorn chose are therefore founding families of the capital itself.
+See Kingdoms_History, Year 7.
 The mixed character was never a decision. Gathering and hauling the material
 needed to build in the canopy produced large clearings as a byproduct, and
 those clearings were then built into. The city became half canopy and half
 ground one hauling road and one staging yard at a time, across centuries, while
 the people building it believed they were being careful.
-This gives Caldalus a visible geology: its oldest sections are its least
-careful. The ground-level core predates the minimal-impact philosophy that
-formed around years 30 to 60 of the 2nd Epoch, and the Wood Elves — who live
-long enough to have watched it happen — hold complicated feelings about their
-own capital's foundations.
+ORDER OF CONSTRUCTION (confirmed): the canopy came FIRST. The earliest Wood
+Elf structures were built in the treetops, and ground construction followed
+only after expansion had cleared the ground to build on. Caldalus did not begin
+at ground level and grow upward; it began above and came down.
+This gives Caldalus a visible geology, and it runs opposite to what a visitor
+would assume. Its OLDEST work is its canopy. The open ground districts are the
+LATER layer, opened as expanding canopy settlements demanded ever greater
+quantities of timber and then built into once the ground stood clear.
+No guilt attaches to this. The Wood Elves understood from the outset that
+living in the forest meant taking from it, and they treated the clearings as a
+cost to be accounted for rather than a wrong to be regretted. What the growth
+of Caldalus produced was not shame but practice — the formalization, around
+years 30 to 60 of the 2nd Epoch, of what may be taken and what is owed back.
+The Wood Elves live long enough to have watched the city change, and they
+regard its open districts plainly: this is what it took to build here.
+See Races for the inherited caretaker disposition and for the replanting
+carried out by smaller settlements at the forest edges.
 The city's great building age followed the arrival of Dark Dwarf tools (roughly
 years 100 to 150 of the 2nd Epoch). Good metal edges transformed felling,
 shaping, and joinery. The restraint ethic was already established by then,
 which is the only reason the forest survived the expansion.
 See Races for Wood Elf canopy architecture and the minimal-impact philosophy.
 
-HEAVEN'S OAK: Landmark in Faelyn containing a chamber built under Adomorn's
-instruction early in the 2nd Epoch. Three purposes: physical containment of
-Abaculus, masking its presence from Creatures of Olum, and preventing it from
-acting as a universal beacon detectable by all Irridae. Intact. Never held the
-Abaculus. Protected by the Guardians of the Tree. The Abaculus learned of this
+HEAVEN'S OAK: Central feature of Caldalus, capital of Faelyn, containing a
+chamber built under Adomorn's instruction in year 7 of the 2nd Epoch. Three
+purposes: physical containment of Abaculus, masking its presence from Creatures
+of Olum, and preventing it from acting as a universal beacon detectable by all
+Irridae. Intact. Never held the Abaculus. Protected by the Guardians of the
+Tree. Its true purpose is not widely known outside the Guardians in the present
+day.
+
+WHAT THE WOOD ELVES BELIEVE (confirmed): as Caldalus grew, the proportion of
+its people who knew anything true about the Oak shrank steadily, and the
+Guardians kept the secret. After several generations the Oak was simply
+accepted — no longer a thing requiring explanation. In the absence of one, the
+Wood Elves supplied their own. Many hold some variation of the belief that
+Heaven's Oak is the seed of the Wood Elves' creation, and that it may hold the
+key to unlocking the memories lost from before. None of this is true. The
+variations are many and no single orthodoxy exists.
+
+THE IRONY: the belief is wrong in every particular and correct in instinct. The
+Oak was built by the last living Drasu — the progenitor of the Wood Elves — to
+contain the object whose arrival at Atral shattered the Drasu and made them.
+It genuinely is bound up with their origin and with the thing that created
+them. They have the right tree and the wrong story, and they will not learn
+otherwise from the Guardians.
+
+THE COVER WAS NEVER INVENTED: the Guardians did not fabricate a story to
+conceal the chamber. Their people built one themselves, sincerely, and a
+sincere belief holds far better than any fabrication. The Guardians' entire
+concealment strategy amounts to declining to correct anyone.
+
+ATTEMPTS ON THE MEMORIES (confirmed): the methods tried at Heaven's Oak over
+the centuries are among the "methods tried" referenced in the Sundering memory
+passage — see Overview_Cosmology. None reach beyond the boundary. The Guardians
+know with certainty that none ever will, and stand watching their own people
+try anyway.
+
+TIMING NOTE: this mythology takes several Wood Elf generations to settle, and a
+generation runs 75 to 80 years. It belongs to roughly year 250 of the 2nd Epoch
+onward. Through the founding era of years 0 to 221 the Oak is recent history
+rather than legend — see Kingdoms_History, Year 7. The Abaculus learned of this
 chamber through Greyhawk's memories at the moment of his corruption in year
 2136, 2nd Epoch. Knowledge of the chamber's existence and purpose is what
 directed the Abaculus to use Diquyk to wage war on Faelyn — breaking the
@@ -264,5 +316,5 @@ or evil spirit circulate among travelers — the details exaggerated by retellin
 The truth is simpler and sadder: she is still waiting for Cyran.
 
 ================================================================================
-END OF LANAMYR GEOGRAPHY — v004
+END OF LANAMYR GEOGRAPHY — v005
 ================================================================================

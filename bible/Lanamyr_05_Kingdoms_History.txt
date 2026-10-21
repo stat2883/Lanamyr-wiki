@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v004
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v005
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -14,11 +14,22 @@ Races file when either changes.
 WESTERN ALIOS — FOUNDING HISTORY (2ND EPOCH, YEARS 0–221)
 ================================================================================
 
-*** STATUS: PENDING USER REVIEW. This chain of events was drafted in session
-*** v004 and has NOT yet been reviewed and confirmed. Treat as tentative in
-*** full until that review happens. The race traits, populations, terrain
-*** readings, and trade structure it rests on ARE confirmed; the sequence and
-*** dating of events below are not.
+STATUS: CONFIRMED (reviewed in session v005). The sequence and dating below
+are locked in as the working history of the region. Locked is not permanent —
+this chain was built from three races in isolation, and as the surrounding
+races are developed, conflicts will be resolved case by case rather than by
+defending what is already written.
+
+SCOPE OF THIS SECTION — READ BEFORE DRAWING CONCLUSIONS: this chain tracks
+three races only. Where it is silent about contact with anyone else, that
+silence is the limit of what has been developed, NOT a statement that no such
+contact occurred. The Sundering map places other undeveloped races within
+reach of the western arm — the Plains Elves to the east across the neck of the
+continent, and the Mystic Kobolds to the south, who are in fact nearer to the
+Wood Elves than the Plains Elves are. The overland corridor east toward the
+central steppes is the western half of what becomes The Road in the 3rd Epoch.
+Nothing here should be read as claiming that corridor went unwalked. Revisit
+this section as each neighboring race is built.
 
 The three races of the western arm of Alios: Wood Elves in the forested
 lowland interior, Stone Giants in the Tempest Peaks along the northern coast,
@@ -53,6 +64,28 @@ YEAR 7 — ADOMORN (confirmed lore; consequences drawn here)
 Adomorn arrives at a Wood Elf people seven years into gathering: bands and
 households, no kingdom and no throne. He chooses fewer than ten families and
 begins the Heaven's Oak chamber.
+- THE SETTLEMENT IS THE SITE OF CALDALUS (confirmed). The gathering Adomorn
+  walked into stood where the capital of Faelyn would eventually rise, and
+  Heaven's Oak is a central feature of the present-day city rather than a
+  remote landmark. Faelyn's capital grew up around the containment chamber.
+- THE CHAMBER IS ANOMALOUS AT GROUND LEVEL. In year 7 the Wood Elves build in
+  the canopy and essentially nowhere else — ground construction does not arrive
+  until expansion opens the first substantial clearings, later. A chamber sunk
+  into the earth at the foot of a great tree is therefore unlike anything the
+  Wood Elves were building at the time, and unlike anything they yet knew how
+  to build. It was raised under outside direction, using knowledge that was not
+  theirs, in a mode they did not practice. This is the technological island in
+  its most literal form: a Drasu structure at ground level beneath a people who
+  lived in the trees.
+- IT ALSO PREDATES THE ETHIC, which forms in years 30 to 60. The chamber is
+  not an exception to the minimal-impact philosophy; it predates the philosophy
+  entirely.
+- THE GUARDIAN FAMILIES ARE FOUNDING FAMILIES OF THE CAPITAL. Adomorn chose
+  from one gathering settlement, not from the scattered Wood Elf people as a
+  whole, so fewer than ten families represents a substantial bloc of that
+  community. The Guardian lines are old-stock Caldalus families from the
+  beginning — prominent, established, and entirely unremarkable in holding some
+  dignified hereditary duty nobody thinks to ask about.
 - THE GUARDIANS PREDATE FAELYN. Their confirmed position outside normal Wood
   Elf society structure follows directly: he founded them before that structure
   existed. There was no king to ask.
@@ -60,15 +93,33 @@ begins the Heaven's Oak chamber.
   chamber under Drasu direction placed Drasu-level knowledge in Wood Elf hands
   in year 7. Those families know things no other Wood Elves know, permanently
   and in secret.
+- WITHIN THIS WINDOW THE OAK IS RECENT HISTORY, NOT LEGEND. The mythology that
+  eventually grows around Heaven's Oak takes several Wood Elf generations to
+  settle, and a generation runs 75 to 80 years — so the folk belief described
+  in Geography belongs to roughly year 250 onward, AFTER this period. Across
+  the whole of years 0 to 221 there are Wood Elves alive who heard about the
+  tall bronze-skinned stranger from a parent who was there. A few outliers of
+  the emergence generation itself survive late into the window. The secret
+  during these centuries is fresh and awkward, defended by people one or two
+  removes from the event, not by an order insulated behind centuries of
+  reverence. See Geography, HEAVEN'S OAK.
+- CONSEQUENCE REACHING FORWARD TO THE ELF WAR. Because the chamber sits in the
+  capital, the Abaculus's objective in 387–392 AW — break the Guardians and
+  compromise the chamber — means the two-front assault from the Tempest Peaks
+  and The Deep was converging on Caldalus itself. Diquyk was driving at the
+  capital from the first day, and no one on the Wood Elf side knew why.
 
 CONSOLIDATION (years 20–80) — THE ORIGIN OF COHESION
 Lifespan and terrain together determine whether each race became one people.
-- WOOD ELVES receive forty-five years of peace. Childhood runs to 42 and
-  reproduction begins at 50, so the first Wood Elf born after the Sundering is
-  not an adult until roughly year 45. For that entire span the population is
-  flat — no growth, no new mouths, no scarcity. Land is abundant against a
-  static population and there is nothing to fight over, so they sort themselves
-  out by negotiation. High cohesion is purchased by their lifespan.
+- WOOD ELVES receive forty-five years of peace. Children are born from the
+  first years onward — a portion of those who woke were already within the
+  reproductive window of 50 to 125 — but childhood runs to 42, so the first
+  Wood Elf born after the Sundering does not reach adulthood until roughly
+  year 45. What is flat for that entire span is the ADULT population: no new
+  claimants to land, no new contenders for leadership, no new households
+  competing for the same ground. Land is abundant against a static adult
+  population and there is nothing to fight over, so they sort themselves out
+  by negotiation. High cohesion is purchased by their lifespan.
 - STONE GIANTS receive nine. Adult at 8–12 and reproducing from 10, their
   numbers climb within the first decade and never stop. By the time
   consolidation might have occurred, rival holdings are entrenched with twenty
@@ -124,8 +175,8 @@ disposition.
 
 THE BINDING TRADE (years ~150–221)
 Real ore reaches the Wood Elves for the first time. Bog iron was all they had
-ever had, which is why a century and a half of Average technology produced only
-simple forging.
+ever had, and Low ingenuity against poor material is why a century and a half
+produced only simple forging.
 WHAT MOVES, AND WHAT DOES NOT:
   Elves to Dwarves — worked timber: props, shoring, ladders, hafts, joinery.
     Agricultural surplus: grain, fruit, fiber, which the steppe does not
@@ -152,9 +203,11 @@ YEAR 221 — THE ICE DWARVES (confirmed lore)
 An Ice Dwarf expedition from Icefall sails south, finds the Tempest Peaks and
 the Darkened Slopes already occupied, and establishes trade routes that build
 friendly relations with the neighboring peoples over time.
-They arrive BY SEA, which is the significant detail. Everything in western
-Alios to this point has been overland and local; a fleet on the coast is the
-region's first contact with the wider world.
+They arrive BY SEA, which is the significant detail — the region's first
+contact from beyond the continent, and its first arrival by fleet. This is a
+narrower claim than it may appear: it does NOT mean the western arm had met no
+one before 221. See the SCOPE note at the head of this section. What is new in
+221 is the direction and the means, not the fact of outsiders.
 CONSEQUENCE: this gives the Stone Giants a source of worked metal that does not
 come through the Wood Elves — for the first time in two centuries they can
 obtain goods without going through the people they raid. What they do with that
@@ -321,8 +374,41 @@ than 10 founding Wood Elf families chosen personally. Answer only to Adomorn.
 Outside normal Wood Elf society structure. Aware of Abaculus and chamber's
 three purposes. May mate with non-Guardian pure Wood Elves; no non-Wood Elf
 mixing allowed. Still vigilant against Elf War threat; unaware strategy shifted
-to Greyhawk resurrection. Internal structure, membership, founding family names:
-UNDEVELOPED.
+to Greyhawk resurrection. Founding family names: UNDEVELOPED.
+
+THE ORIGINAL MEMBERS (confirmed): the first Guardians were the HEADS of each
+family Adomorn chose — not the families entire. The order has always been a
+small number of individuals drawn from a small number of lines.
+
+SUCCESSION (confirmed): the role and its purpose pass by blood, to ONE
+descendant per family per generation, typically the firstborn, who is sworn to
+secrecy on being brought in. This is what keeps the order small enough to hold
+a secret across two and a half millennia. Were every descendant of the founding
+families to inherit, the order would number in the thousands by the present day
+and could not possibly have stayed concealed.
+
+TENTATIVE — TIMING OF THE OATH: the heir is sworn in upon reaching adulthood,
+with the serving Guardian continuing in the role. NOT fully confirmed. Under
+this model the order holds roughly twice its nominal number at any moment —
+serving Guardians plus sworn heirs who may wait a century or more, since a
+Guardian parent reproducing between 50 and 125 may live to 250. The advantages
+are that the knowledge is never one death away from being lost, and that a long
+apprenticeship under a serving parent is possible.
+
+ANOINTMENT FROM OUTSIDE THE BLOODLINES (confirmed that it has occurred;
+instances UNDEVELOPED): Guardians have on occasion been anointed from outside
+the founding lines. TENTATIVE — one plausible cause is a Guardian being
+murdered for some nefarious purpose, breaking a line and forcing the order to
+look beyond blood.
+
+STRUCTURAL WEAKNESS — THE IDENTIFIABLE HEIR: firstborn succession means the
+next Guardian of every line is publicly identifiable long before they are
+sworn, and in the years before the oath they do not know themselves. Anyone who
+worked out what the order was could simply count firstborns. This is a
+deliberate vulnerability in the design, not an oversight.
+
+TENTATIVE — BETRAYAL OF THE OATH: a sworn Guardian breaking secrecy is an
+available story thread. Nothing established.
 
 THE MARAUDERS
 Elite Wood Elf unit formed in 392 AW for the final incursion into Dark Elf
@@ -707,29 +793,36 @@ Year 0:    The races wake scattered across their home regions — adults only,
 Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
            of Olum begin expanding outward from that location over the following
            centuries. Adomorn begins building Heaven's Oak chamber with Wood
-           Elves. Chooses fewer than 10 Wood Elf families as Guardians of the
-           Tree. The Guardians therefore predate the Wood Elf kingdom itself,
-           which is why they sit outside normal Wood Elf society structure.
-20-80:     WESTERN ALIOS (PENDING REVIEW): consolidation phase. Wood Elf
-           population is flat until roughly year 45 — no scarcity, so they
-           organize by negotiation and reach High cohesion. Stone Giant numbers
+           Elves, at the settlement that will become Caldalus — the chamber sits
+           in what becomes the capital, not in a remote place. Chooses fewer
+           than 10 Wood Elf families as Guardians of the Tree, the first members
+           being the heads of those families. The Guardians therefore predate
+           the Wood Elf kingdom itself, which is why they sit outside normal
+           Wood Elf society structure.
+20-80:     WESTERN ALIOS: consolidation phase. The Wood Elf ADULT population is
+           flat until roughly year 45 — children are born throughout, but no new
+           claimants to land or leadership arrive, so there is no scarcity and
+           they organize by negotiation to reach High cohesion. Stone Giant numbers
            climb from year 9 onward; rival holdings entrench and Low cohesion
            locks in by about year 50. Dark Dwarves consolidate early and reach
            High cohesion.
-30-60:     WESTERN ALIOS (PENDING REVIEW): the Wood Elf minimal-impact
-           philosophy forms as the first permanent clearings become undeniable.
-           Canopy building predates the ethic; the ethic is a response to
-           witnessing their own damage.
-~40-60:    WESTERN ALIOS (PENDING REVIEW): first contact between Wood Elves and
+30-60:     WESTERN ALIOS: the Wood Elf minimal-impact philosophy is FORMALIZED
+           as the first permanent clearings become established features. The
+           underlying affinity is inherited from the Drasu and was never
+           absent; what these years produce is articulated practice — what may
+           be taken, in what quantity, and what is owed back. No guilt is
+           involved. Replanting at the forest edges follows from the same
+           inheritance.
+~40-60:    WESTERN ALIOS: first contact between Wood Elves and
            Stone Giants. The Giants come downhill under population pressure.
            The elves answer with magic. A permanent stalemate forms that
            neither side can break, and the Stone Giant raid cycle begins.
-~100-150:  WESTERN ALIOS (PENDING REVIEW): first contact between Wood Elves and
+~100-150:  WESTERN ALIOS: first contact between Wood Elves and
            Dark Dwarves, who come seeking timber after stripping their own
            boreal woodland. They arrive with a proposition rather than a
            threat. Dark Dwarf tools reach Faelyn and the great building age of
            Caldalus follows.
-~150-221:  WESTERN ALIOS (PENDING REVIEW): the timber-for-metal trade
+~150-221:  WESTERN ALIOS: the timber-for-metal trade
            establishes. The Wood Elves refuse to sell charcoal, permanently
            capping Dark Dwarf smelting. The Dark Dwarves go progressively
            deeper underground and the adaptation of their eyes begins.
@@ -910,5 +1003,5 @@ Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
          around a Kobold's neck. Valindra walks the shore of her lake.
 
 ================================================================================
-END OF LANAMYR KINGDOMS & HISTORY — v004
+END OF LANAMYR KINGDOMS & HISTORY — v005
 ================================================================================

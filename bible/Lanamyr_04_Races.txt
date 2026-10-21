@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v004
+LANAMYR WORLD BIBLE — RACES — v005
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -18,7 +18,48 @@ THE DRASU AND DRAAK (1ST EPOCH)
 DRASU
 Humanoid, larger than any present-day race — tall, bronze-skinned, lean and
 powerful. Superior intelligence and magic users. Created the Drasian Empire on
-Edura and the Drasian Vault. The potential for both good and evil existed within
+Edura and the Drasian Vault.
+THE CARETAKER MANDATE (confirmed): the Drasu were meant to be the caretakers of
+Lanamyr in the absence of the Irridae. This is why they were made with
+intelligence and greater power at such cost — they were not merely the finest
+thing the N'du built, they were built to tend the world once its architects had
+gone. Their affinity for the natural world and their impulse to protect it
+follow from that purpose rather than from temperament.
+WHAT BECAME OF THE MANDATE AT THE SUNDERING: like every other Drasu attribute,
+it passed to the descendant races in diminished and partial form — and, like
+every other attribute, it did not pass evenly. No single descendant race
+carries the whole of it. It fractured into pieces, and separate races hold
+separate parts of what was once one role.
+CONFIRMED FRAGMENTS:
+  - WOOD ELVES — stewardship of forest and growing things. Expressed as
+    minimal-impact building and replanting at the forest margins.
+  - SHEPHERDS (human subtype) — affinity with animals, at the scale of the
+    INDIVIDUAL. A bond with a particular creature, mutually chosen. Expressed
+    as partnership, and as a vegetarianism that does not feel like a choice.
+  - WATER WHISPERERS (human subtype) — affinity with sea life, at the scale of
+    the WHOLE. The sea read as a living system rather than a set of creatures.
+    Expressed as restrained and informed harvest rather than abstention.
+Each fragment produces a DIFFERENT relationship with the living thing in
+question. The Shepherds stopped eating animals; the Wood Elves fell timber and
+replant; the Water Whisperers fish and manage the grounds. Tending does not
+mean refraining, and the fragments should not be written as variations on one
+temperament.
+Note that fragments descend by RACE, not by family of races. Two of the four
+human subtypes carry one and two do not — Hillfolk and Northmen received no
+fragment at all. This is consistent with how every other attribute was
+distributed at the Sundering.
+FRAGMENTS ARE EXCLUSIVE. This is what separates them from the universal
+inheritances such as magic, ingenuity, forging or agriculture, which every race
+holds to some degree with the named race merely strongest. A race that does not
+hold a given fragment holds NONE of it. There is no faint Hillfolk version of
+the Shepherd affinity and no weaker dwarven echo of Wood Elf stewardship. See
+TWO CLASSES OF INHERITANCE in the Race Trait Framework below.
+NO RACE KNOWS THIS. Each carries a piece of a purpose it cannot name, and none
+has any way of recognizing another as holding a matching one.
+Adomorn, as the last surviving Drasu, is the last being to hold the mandate
+entire, and his 2,500-year vigil over the Abaculus is that function still being
+discharged.
+OPEN: whether further fragments exist in other races. See Open_Questions. The potential for both good and evil existed within
 the Drasu — the Sundering revealed and amplified rather than created these
 qualities. Split into elves, dwarves, gnomes, humans, orcs, and others.
 Adomorn is the last surviving Drasu. Takes human form. Galstaff Quint is one
@@ -156,6 +197,51 @@ Alios races so far; to be extended to the rest as they are developed.
 
 TIERS (where a tier is used): Minimal, Low, Average, High, Maximum.
 
+================================================================================
+TWO CLASSES OF INHERITANCE — READ FIRST
+================================================================================
+
+Everything a race woke up with came through the Sundering from its progenitor.
+But inherited qualities fall into two distinct classes, and conflating them
+will produce errors.
+
+CLASS ONE — MANDATE FRAGMENTS. Exclusive and binary. A race either holds the
+fragment or holds none of it; there is no lesser version in anyone else. These
+are the shattered pieces of the Drasu caretaker mandate, and they are
+relationships with the living world rather than capabilities. Not tiered,
+because there is nothing to tier — the races that do not hold a given fragment
+hold zero of it.
+  Confirmed: Wood Elves (forest and growing things), Shepherds (animals, at the
+  scale of the individual creature), Water Whisperers (sea life, at the scale
+  of the whole ocean). See the DRASU entry.
+
+CLASS TWO — UNIVERSAL INHERITANCES. Present in EVERY race to some degree and
+unevenly distributed. The named race is not the only one that has it; it is the
+one with the strongest expression of it. Everyone else has some. These are
+tiered, and the existing framework traits of MAGIC and INGENUITY are already
+members of this class — every race has magical capacity in diminished form and
+every race has some rate of invention, they simply differ in degree.
+  Further members confirmed, to be developed with their races:
+  - INVENTIVENESS / INGENUITY — strongest expression: SKY GNOMES.
+  - AGRICULTURE AND CULTIVATION — strongest expression: PLAINS ELVES. Growing
+    and tending, intuitive diagnosis of what ails a crop, and deliberate
+    selective breeding. See their extended entry.
+  - FORGING AND METALWORK — a universal inheritance. Strongest holder not yet
+    determined.
+  Others will be added as races are developed.
+
+THE DISTINCTION MATTERS MOST WHERE THE TWO LOOK ALIKE. Wood Elf forest
+stewardship and Plains Elf agriculture both concern growing things and are
+NOT the same kind of thing. The Wood Elf trait is a mandate fragment: exclusive,
+a stewardship relationship with wild forest, held by no other race in any
+degree. Plains Elf agriculture is a universal inheritance: cultivation for use,
+present in every race that farms, expressed most strongly here. A race can be a
+superb farmer without holding any fragment at all, and most are.
+
+A race's TECHNOLOGY BASELINE is in large part the visible output of its Class
+Two inheritances at the moment of waking — a race with strong inherited forging
+woke with skilled forging in its hands.
+
 MAGIC — fixed and absolute.
 A race's magical capacity derives from its progenitor inheritance, carried in
 diminished form through the Sundering. It is innate, it does not drift over
@@ -164,11 +250,19 @@ the baseline never moves, no era needs to be specified. See Overview_Cosmology,
 Magic System, for the Magni exception.
 
 TECHNOLOGY BASELINE — fixed, set at the opening of the 2nd Epoch.
-What a race woke up already knowing how to do. The Sundering preserved residual
-intelligence — language, reasoning, and the capacity to build and organize — so
-the baseline is simply how much practical craft survived in that race's
-fragment. Nobody taught anyone anything. Recorded as a description rather than
-a tier.
+What a race woke up already knowing how to do. This is INHERITED KNOWLEDGE AND
+MUSCLE MEMORY, not learning — craft carried in the hands as much as the mind,
+present from the first day without anyone having been taught. The Sundering
+preserved residual intelligence — language, reasoning, and the capacity to
+build and organize — so the baseline is simply how much practical craft
+survived in that race's fragment. Nobody taught anyone anything. Recorded as a
+description rather than a tier.
+RELATION TO OTHER INHERITANCES: magic capacity, the caretaker fragments, and
+the technology baseline are all inheritances carried through the Sundering, and
+in practice they are intertwined. What separates them is that craft knowledge
+can afterward be taught, traded, advanced, and lost, while magic capacity and a
+caretaker fragment cannot move between races at all. See the Drasu entry for
+the caretaker mandate.
 
 INGENUITY — fixed tier. The rate of technological progress, measured against
 all of Lanamyr rather than regionally.
@@ -457,11 +551,26 @@ Lanamyr, as have most races.
 ANIMAL AFFINITY: Shepherds possess a deep affinity with all animals that goes
 beyond learned behavior. They have a profound intuitive understanding of animal
 behavior, body language, threat signals, and how animals perceive friends and
-danger. This alone would make them exceptional — but there is likely something
-even deeper at play, something fundamental to the Shepherds that other humans
-simply do not possess. If a wild wolf encounters an ordinary Hillfolk human it
-is likely to attack. A Shepherd might calm it entirely. The Shepherds themselves
-may not have a complete explanation for this quality.
+danger. This alone would make them exceptional — but there is something deeper
+at play, something fundamental to the Shepherds that other humans simply do not
+possess. If a wild wolf encounters an ordinary Hillfolk human it is likely to
+attack. A Shepherd might calm it entirely. The Shepherds themselves do not have
+a complete explanation for this quality.
+THE ACTUAL ORIGIN (confirmed; unknown in-world): the affinity is a fragment of
+the Drasu caretaker mandate. The Drasu were meant to tend Lanamyr in the
+absence of the Irridae, and at the Sundering that role fractured unevenly
+across the descendant races. The Shepherds received the animal portion of it,
+as the Wood Elves received the forest portion. Neither race knows this, and
+neither can recognize the other as holding a matching piece. See the Drasu
+entry above and Overview_Cosmology.
+Note that no other human subtype carries it — Hillfolk, Northmen and Water
+Whisperers did not receive this fragment. It descended to the Shepherds as a
+race, not to humans as a family.
+CONSEQUENCE FOR THE DIET: the vegetarianism described below is not merely a
+cultural norm layered on top of the affinity. It follows from the inheritance
+itself. A people carrying a fragment of a mandate to tend living things do not
+eat what they were made to keep, and to most Shepherds it does not feel like a
+choice because in a sense it never was one.
 COMPANION ANIMALS: Shepherds are almost without exception accompanied by an
 animal companion of some kind. The word "pet" is misleading — the relationship
 is more accurately described as a partnership. The animal chose to be there, and
@@ -482,6 +591,31 @@ Native language: Tapyr.
 WATER WHISPERERS
 Origin: Small island cluster to the southwest of the main Alios/Edura landmass,
 south of the Malulo Archipelago region.
+
+SEA AFFINITY (confirmed): the Water Whisperers carry a fragment of the Drasu
+caretaker mandate, as the Wood Elves and Shepherds do — theirs is an affinity
+with sea life. It is innate rather than learned, it cannot be taught to anyone
+else, and like the other fragments it is not understood in-world. The name the
+rest of Lanamyr gave them is closer to the truth than anyone realizes.
+HOW IT DIFFERS FROM THE SHEPHERDS: the Shepherd fragment works at the scale of
+the INDIVIDUAL — a bond with a particular animal, mutually chosen, carried as a
+partnership. The Water Whisperer fragment works at the scale of the WHOLE. They
+read the sea as a living system: where life is and why, how a shoal moves, what
+a change in the water means, which grounds are thriving and which are spent.
+They do not befriend a fish. They understand an ocean.
+CONSEQUENCE — WHY THE FISHING IS NOT A CONTRADICTION: Water Whisperers are
+confirmed skilled fishermen, which would sit badly with a caretaker fragment if
+theirs worked the way the Shepherds' does. It does not. One can tend a whole
+and still take from it; a fishery is kept by being managed rather than by being
+left alone. Their take is restrained, informed, and directed away from grounds
+that cannot bear it — not out of regulation but because they can feel the
+difference. This is the same shape as Wood Elf practice, which fells timber and
+replants at the margins, and the opposite of the Shepherd resolution, which was
+to stop eating animals entirely. Three fragments, three different relationships
+with the living thing in question.
+CONSEQUENCE — THE FISHING SKILL: their reputation as skilled fishermen is not
+purely craft. Knowing where the fish are is the affinity, not the technique.
+
 The most accomplished seafaring civilization in all of Lanamyr. Their shipbuilding
 is unmatched anywhere in the world. Unlike Ice Forging — which is locked to
 Icefall by its ore, environment, and technique — Water Whisperer shipbuilding
@@ -513,14 +647,49 @@ Native language: Aiwiya.
 MINIMAL-IMPACT PHILOSOPHY: Wood Elves do not clear large swaths of forest.
 They fell only what a structure requires and build among the larger trees left
 standing. This is a deliberate ethic, not an inability.
-ORIGIN OF THE ETHIC: The behavior came first and the philosophy followed. In
-dense forest a threat cannot be seen coming at ground level, so the earliest
-Wood Elf bands built upward for safety, and for protection from flooding and
-predators. The reverence came later — approximately years 30 to 60 of the 2nd
-Epoch, once the first clearings had stood long enough to be visibly permanent
-and a people who would live another two centuries understood they were looking
-at something they had done and could not undo. The ethic is a response to
-witnessing their own damage.
+ORIGIN OF THE ETHIC — INHERITED, NOT LEARNED (confirmed): the affinity for the
+natural world and the impulse to protect the trees came down from the Drasu,
+who were meant to be the caretakers of Lanamyr in the absence of the Irridae.
+The Wood Elves did not arrive at it by reasoning or by remorse. They woke with
+it. See the Drasu entry above.
+The practical shape of their building has a separate and more mundane driver:
+in dense forest a threat cannot be seen coming at ground level, so the earliest
+bands built upward for safety, and for protection from flooding and predators.
+Inherited disposition and practical necessity happened to point the same way.
+NO GUILT, NO SHAME — this is important to the texture of the race. Wood Elves
+understood from the beginning that their need for raw material would have some
+impact on the forest, and they accepted it as the cost of living there. What
+follows from the inherited affinity is not remorse but effort: they work to
+minimize the impact, and where they can, to offset it. They do not agonize over
+the clearings. They account for them.
+WHAT YEARS 30 TO 60 ACTUALLY MARK: not the birth of the ethic, which was never
+absent, but its formalization. As expansion grew and the first substantial
+clearings became permanent features, an innate disposition had to become
+articulated practice — what may be taken, in what quantity, and what is owed
+back. TENTATIVE framing; the dating is carried over from v004.
+
+REPLANTING (confirmed): smaller Wood Elf settlements near the edges of the
+forest plant trees in open spaces. This is active restoration rather than mere
+restraint, and it is the clearest expression of the inherited mandate in
+everyday practice.
+GEOGRAPHIC CONSEQUENCE: carried out at the margins across centuries, this
+holds and in places extends the forest boundary — against the Subtropical Dry
+Forest at Faelyn's southern margin and the Boreal Wet Forest at the northern
+foothills. The Wood Elf forest is not merely preserved. It is tended.
+CONTRAST WITH THE DARK DWARVES: the Dark Dwarves stripped the slow-growing
+boreal woodland on their own margins and did not replant, and boreal forest
+recovers poorly. Over the same centuries one people's forest held or grew while
+the other's did not come back. This is a visible difference on the land at the
+boundary between them, and it is a substantial part of why the Dark Dwarves
+eventually came north looking for timber at all. See Kingdoms_History, THE
+BINDING TRADE.
+
+HEAVEN'S OAK IN WOOD ELF BELIEF: the Oak stands at the center of Caldalus and
+its true purpose is unknown to all but the Guardians of the Tree. Many Wood
+Elves hold some variation of the belief that it is the seed of their creation,
+or that it may unlock the memories lost from before. None of it is true, and
+attempts on those memories at the Oak have never reached beyond the Sundering
+boundary. See Geography, HEAVEN'S OAK, and Overview_Cosmology, MEMORIES.
 
 CANOPY ARCHITECTURE: Wood Elf settlements are built high among the trees —
 networks of intricate, very well-built structures linked by walkways and
@@ -528,12 +697,16 @@ bridges. The wet climate of the western arm is what makes a timber canopy city
 survivable; in the Subtropical Dry Forest at Faelyn's southern margin the style
 thins out considerably, and ground construction is proportionally more common
 there.
-THE CLEARINGS: Gathering and hauling the enormous quantity of material required
-to build in the canopy produced large clearings as a byproduct. Those clearings
-were then built into as well. Wood Elves did not clear land in order to build;
-they cleared it incidentally and then used what they had made. Over centuries
-this produced settlements that are both canopy and ground, including Caldalus.
-See Geography.
+THE CLEARINGS — ORDER OF CONSTRUCTION (confirmed): the canopy came FIRST. The
+earliest Wood Elf structures were built in the treetops, and ground
+construction followed afterward rather than preceding it.
+As canopy settlements expanded they demanded ever greater quantities of raw
+material, and the gathering and hauling of it produced the first substantial
+clearings in the forest. Those clearings were then built into as well. Wood
+Elves did not clear land in order to build; they cleared it incidentally, in
+the course of building upward, and then used what they had made. Over centuries
+this produced settlements that are both canopy and ground, including Caldalus —
+but the canopy is always the older layer. See Geography.
 
 METAL — THREE CEILINGS: Wood Elf metalworking is permanently small in scale,
 for three independent reasons that all land in the same place.
@@ -557,6 +730,86 @@ rare and significant rather than everyday. This is why Wood Elf forging remains
 "simple" into the 3rd Epoch despite millennia of trade with master smiths: they
 did not fail to develop metallurgy, they declined to. See Characters & Items
 regarding Crimson and Sear — whether they are of Wood Elf make is UNDECIDED.
+
+PLAINS ELVES
+Origin: Central steppes of Alios. Kingdom: Ellendale.
+Native language: Antathi. Lifespan 200.
+TERRAIN OF ORIGIN (verified against the biome map, v005): Cool Temperate
+Steppes, read unambiguously at the origin point with no competing biome
+nearby. Rainfall is moderate — wetter than arid country, drier than the
+western arm. Temperature is cool temperate, close to Faelyn's. This is deep,
+fertile, treeless grassland with a single annual growing season, and it is the
+best grain country in Lanamyr. It provides no timber whatsoever.
+
+THE AGRICULTURAL INHERITANCE (confirmed): Plains Elves hold the strongest
+expression of the agriculture and cultivation inheritance. This is a CLASS TWO
+universal inheritance, not a mandate fragment — every race farms to some
+degree, the Plains Elves simply do it better than anyone. They are not
+stewards of wild growth the way the Wood Elves are, and the two should not be
+confused. See TWO CLASSES OF INHERITANCE.
+  - INTUITIVE DIAGNOSIS. They identify what is wrong with a crop far faster
+    than others can — blight, deficiency, pest, water, soil. It presents as
+    intuition rather than analysis. They frequently cannot say how they know.
+  - SELECTIVE BREEDING. They deliberately practice selective breeding of crops,
+    carried out as sustained programs rather than casual seed-saving. The
+    surrounding nations know that the largest and best-tasting produce in the
+    region comes from Ellendale.
+
+WHY NO ONE CATCHES UP — TWO FACTORS, NOT ONE: the inheritance alone would not
+produce this, and neither would the lifespan. It takes both.
+  - THE INHERITANCE supplies the judgment: which plant to carry forward, and
+    the fast reading of what is wrong.
+  - THE LIFESPAN supplies the time horizon, and it is decisive. The steppe
+    yields one crop generation per year. A Plains Elf adult has roughly 150
+    productive years and can therefore run 150 consecutive generations of
+    selection on a single crop PERSONALLY — one continuous program, one set of
+    judgments, no handoff. A Hillfolk human farmer gets perhaps fifty seasons
+    and must hand the work to an heir who did not see the earlier ones.
+    Every handoff loses intent. The Plains Elves have none.
+This is the same structural logic as Wood Elf cohesion: a long lifespan buys
+something no amount of effort buys in a short one.
+
+TRADE POSITION: Ellendale sits midway along The Road, the heaviest trade route
+in central Alios, with Kimora and Fardar to the east and Faelyn to the west.
+Their produce moves in both directions. A kingdom that feeds its neighbors
+holds a lever over them — worth bearing in mind alongside Lord Yllyndel the
+Ancient's political protection of the Herringer resistance under Bourbac.
+See Kingdoms_History.
+
+WHY THE SEED IS NOT THE SECRET (confirmed): a superior crop variety reproduces
+itself, and anyone sold produce from Ellendale has effectively been sold its
+seeds. The seeds do travel, and no attempt is made to stop them. They are the
+least important of the factors, and the advantage does not live in them.
+Three things make Ellendale produce what it is, and only one of them can be
+carried away in a pocket. The structure parallels Ice Forging — see the Ice
+Dwarf entry — where the technique is useless without the ore and the cold.
+
+  - THE SOIL. The central plains are richer in nutrients than the land
+    surrounding them. This is a property of the place and cannot be exported
+    with a seed any more than Icefall's ore can be carried to a warm forge.
+  - THE GROWER. The innate skill and intuition of the Plains Elf — the tending,
+    the care, the fast reading of what a plant needs before it visibly
+    declines. This is the inheritance, and it is the one factor that is
+    strictly impossible to transfer. It cannot be taught, bought, or copied,
+    and no amount of practice will give it to someone who did not inherit it.
+  - THE PROTECTION. Plains Elves take a very active role in pest and small
+    animal control to defend their yield. This is sustained, organized,
+    deliberate work rather than an occasional response to infestation, and a
+    great deal of a harvest's quality is simply the portion that was never lost.
+
+CONSEQUENCE: a farmer elsewhere planting Ellendale seed gets a decent crop and
+not an exceptional one, and concludes either that the elves held something back
+or that the seed degenerated away from home. Neither is true. He has the seed
+and none of the three things that mattered. This mirrors the fate of any smith
+attempting Ice Forging without the ore and the cold.
+
+CONTRAST WORTH NOTING — PLAINS ELVES AND SHEPHERDS: the Plains Elves kill small
+animals in sustained, organized numbers to protect a harvest. The Shepherds
+hold a mandate fragment for animals and will not eat one. Both are inheritances
+concerning living things, and they point in opposite directions. A Shepherd
+travelling in Ellendale would find the pest control genuinely difficult to
+witness. This is the clearest available illustration that tending does not mean
+refraining, and that these inheritances are not variations on one temperament.
 
 SNOW ELVES
 Origin: Large island just east of Utoa, close enough to be considered part of
@@ -709,5 +962,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v004
+END OF LANAMYR RACES — v005
 ================================================================================

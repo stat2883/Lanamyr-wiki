@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — STORIES & OUTLINES — v004
+LANAMYR WORLD BIBLE — STORIES & OUTLINES — v005
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -404,6 +404,13 @@ ELF WAR — CONFIRMED LORE FOR UNLIT:
 STRATEGIC MOTIVATION: The Abaculus directed Diquyk to wage war on Faelyn
   because it had learned of Heaven's Oak through Greyhawk. Breaking the
   Guardians and compromising the chamber was a strategic priority.
+THE REAL OBJECTIVE WAS THE CAPITAL: Heaven's Oak is a central feature of
+  Caldalus, so the two-front assault from the Tempest Peaks and The Deep was
+  converging on the capital itself from the first day. Diquyk's target never
+  changed and was never guessed at. Mya and Aer'Raenal read the war as a war of
+  conquest or extermination; it was a war to reach one tree in their own city.
+  This is available as dramatic irony throughout the book — the reader can be
+  given it long before the characters are.
 TWO-FRONT STRUCTURE: Stone Giants from the Tempest Peaks pressed south into
   Faelyn from the north. Dark Elves from The Deep pressed from the east. Mixed
   units — platoons of Dark Elves with a handful of Giants — formed the front
@@ -544,5 +551,5 @@ CONFIRMED FUTURE STORY SHAPE (TENTATIVE — HIGH LEVEL ONLY)
 - Diquyk's story ends in death rather than redemption. Current lean only.
 
 ================================================================================
-END OF LANAMYR STORIES & OUTLINES — v004
+END OF LANAMYR STORIES & OUTLINES — v005
 ================================================================================

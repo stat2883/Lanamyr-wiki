@@ -9,6 +9,221 @@ end of an entry when relevant, not at the top.
 
 ---
 
+## v005
+
+The western Alios founding chain is confirmed, and the session then found
+something larger underneath it: the Drasu were built for a purpose, and the
+races carry the pieces of it.
+
+### Confirmed — the founding history of western Alios, 0 to 221
+
+The chain drafted in v004 was reviewed and locked in. Locked is not permanent,
+and the files say so: it was built from three races in isolation, and conflicts
+arising as the surrounding races are developed will be resolved case by case
+rather than by defending what is already written.
+
+A scope warning now sits at the head of the section, because the chain was at
+risk of quietly asserting a negative. It tracks three races; where it is silent
+about contact with anyone else, that silence is the limit of development and
+not a fact about the world. The Sundering map puts the Plains Elves east across
+the neck of the continent and the Mystic Kobolds to the south — nearer to the
+Wood Elves, as it turns out, than the Plains Elves are — and the overland
+corridor east of Faelyn is the western half of what becomes The Road. Nothing
+suggests it went unwalked. The year 221 arrival of the Ice Dwarves is narrowed
+accordingly: they are the first contact from beyond the continent and the first
+by fleet, which is a much smaller claim than first contact with the wider world.
+
+Two errors were corrected in passing. The Wood Elves' forty-five years of
+"flat population" is a flat ADULT population — children were born from the
+first years, since a portion of those who woke were already within the
+reproductive window, and what was absent was new claimants to land and
+leadership. And a stray reference to "a century and a half of Average
+technology" was reconciled with the Low ingenuity recorded for the race.
+
+### New — Heaven's Oak stands in the middle of Caldalus
+
+The settlement Adomorn walked into in year 7 is the site of the capital, and
+the chamber he built there is a central feature of the present-day city rather
+than a remote landmark. Faelyn's capital grew up around the containment
+chamber, and the families he chose are founding families of Caldalus itself —
+old-stock, prominent, and entirely unremarkable in holding some dignified
+hereditary duty nobody thinks to ask about.
+
+One consequence reaches four hundred years forward. The Abaculus directed
+Diquyk to break the Guardians and compromise the chamber, so the two-front
+assault of the Elf War was converging on Caldalus from the first day. Mya and
+Aer'Raenal read that war as conquest or extermination. It was a war to reach
+one tree inside their own city, and nobody on their side ever guessed.
+
+### New — the Guardians, and what the Wood Elves believe instead
+
+The first Guardians were the heads of the chosen families, and the role passes
+by blood to one descendant per family per generation, typically the firstborn,
+sworn to secrecy. That is what keeps the order small enough to hold a secret
+for two and a half millennia; were every descendant to inherit, it would number
+in the thousands and could not possibly have stayed hidden. The oath is
+tentatively taken at adulthood with the serving Guardian continuing, which
+roughly doubles the standing order and means the knowledge is never one death
+away from being lost. Anointment from outside the bloodlines has happened, and
+a Guardian murdered to break a line is the likeliest cause. Firstborn
+succession is recorded as a deliberate weakness: anyone who understood the
+order could simply count firstborns.
+
+Meanwhile the Wood Elves made up their own story, and it is better than
+anything the Guardians could have devised, because it is sincerely held. Many
+believe Heaven's Oak is the seed of their creation, or that it holds the key to
+the memories lost from before. None of it is true — and all of it is right by
+accident. The Oak was built by the last living Drasu, their own progenitor, to
+contain the object that shattered the Drasu and made them. They have the right
+tree and the wrong story. The Guardians' entire concealment strategy amounts to
+declining to correct anyone.
+
+This also gives a home to a line that never had one. The Sundering records that
+memories did not reach beyond the boundary "no matter what methods were tried."
+Some of those methods were tried at Heaven's Oak, by people the Guardians knew
+for certain would never succeed.
+
+The mythology takes several generations to settle, so it belongs to roughly
+year 250 onward. Through the whole founding era the Oak is recent history
+rather than legend, defended by people one or two removes from the event.
+
+### Corrected — Caldalus was built from the canopy down
+
+The order of construction had been recorded backwards. The canopy came first;
+ground construction followed only after expansion had cleared ground to build
+on. So the oldest layer of Caldalus is its treetops and the open districts are
+the later one — the reverse of what a visitor would assume, and the reverse of
+what the bible said.
+
+### Revised — the Wood Elf ethic is inherited, and carries no guilt
+
+The minimal-impact philosophy had been recorded as a late-arriving response to
+witnessing their own damage. It is not. The affinity for the natural world came
+down from the Drasu and was never absent; the Wood Elves woke with it. The
+practical shape of their building has a separate and more mundane driver, in
+that a threat cannot be seen coming at ground level in dense forest, and
+inherited disposition and practical necessity happened to point the same way.
+
+There is no guilt and no shame in any of it. They understood from the beginning
+that living in the forest meant taking from it, and they treat the clearings as
+a cost accounted for rather than a wrong regretted. Years 30 to 60 now mark the
+formalization of the ethic rather than its birth — what may be taken, in what
+quantity, and what is owed back.
+
+And the ethic is not merely restraint. Smaller settlements at the forest edges
+plant trees in open spaces, which across centuries holds and in places extends
+the forest margin. Faelyn's forest is not preserved. It is tended. This also
+puts a physical cause behind the Binding Trade: the Dark Dwarves stripped their
+slow-growing boreal woodland and did not replant, so one people's forest held
+while the other's did not come back, and that difference is visible on the land
+at the boundary between them.
+
+### New — the Drasu were caretakers, and the mandate shattered
+
+The largest addition of the session. The Drasu were meant to be the caretakers
+of Lanamyr in the absence of the Irridae. That is why their creation cost so
+much: they were not merely the finest thing the N'du built, they were built to
+tend the world once its architects had gone. It reframes Adomorn entirely — his
+2,500-year vigil is not a long grief or a self-appointed burden, it is the last
+holder of the mandate still discharging it.
+
+At the Sundering the mandate fractured like everything else, unevenly, and no
+descendant race holds the whole of it. Three fragments are confirmed. The Wood
+Elves hold forest and growing things. The Shepherds hold animals at the scale
+of the individual creature — the quality their own entry could never explain.
+The Water Whisperers hold sea life at the scale of the whole ocean, which is
+why the name the world gave them lands closer to the truth than anyone knows.
+
+Crucially, each fragment produces a DIFFERENT relationship with what it tends.
+The Shepherds stopped eating animals. The Wood Elves fell timber and replant.
+The Water Whisperers fish, and manage the grounds, because a fishery is kept by
+being managed rather than left alone. Tending does not mean refraining, and the
+fragments are not variations on one gentle temperament. No race knows what it
+carries, and none can recognize another as holding a matching piece.
+
+A latent opposition falls out of it. The Creatures of Olum exist to destroy
+life. The scattered fragments are the standing counterweight to that, held by
+races who have no idea.
+
+### New — two classes of inheritance
+
+Everything came through the Sundering, so "inherited versus learned" is the
+wrong distinction and was briefly the wrong framing here. Inherited qualities
+divide instead into two classes.
+
+Mandate fragments are exclusive and binary: a race holds one or holds none of
+it, with no weaker version anywhere else. Universal inheritances are present in
+every race to some degree, with the named race holding the strongest expression
+rather than sole possession — and magic and ingenuity, already tiered in the
+framework, turn out to have been members of this class all along. Inventiveness
+belongs to the Sky Gnomes, agriculture to the Plains Elves, forging to a holder
+not yet determined.
+
+The technology baseline is inherited knowledge and muscle memory, not learning
+— craft in the hands from the first day. It is largely the visible output of a
+race's universal inheritances at the moment of waking. What separates craft
+from the rest is that it can afterward be taught, traded, advanced and lost,
+while magic and a mandate fragment cannot move between races at all.
+
+The distinction matters most where the two look alike: Wood Elf stewardship and
+Plains Elf agriculture both concern growing things and are not the same kind of
+thing at all.
+
+### New — the Plains Elves and the best produce in Lanamyr
+
+Their origin was verified against the biome map, which reads Cool Temperate
+Steppes without ambiguity — deep treeless grassland, moderate rainfall, cool
+temperate, one growing season a year, and no timber whatsoever.
+
+They hold the strongest expression of the agriculture inheritance: intuitive
+diagnosis of what ails a crop, and deliberate selective breeding carried out as
+sustained programs. The surrounding nations know where to go for the largest
+and best-tasting produce.
+
+Nobody catches up because it takes two things, not one. The inheritance supplies
+the judgment, and the 200-year lifespan supplies the horizon — one crop
+generation a year means a single Plains Elf can personally run some hundred and
+fifty consecutive generations of selection with no handoff, where a human
+farmer gets fifty and must pass the work to an heir who never saw the earlier
+ones. Every handoff loses intent. This is the same structural logic that bought
+the Wood Elves their cohesion.
+
+The seed is not the secret, and no attempt is made to protect it. Seeds travel
+freely. Three things make the produce what it is and only one fits in a pocket:
+the richer soil of the central plains, the grower's innate skill, and a
+sustained and organized effort at pest and small animal control, since much of
+a harvest's quality is the part that was never lost. A farmer elsewhere plants
+Ellendale seed, gets a merely decent crop, and concludes he was cheated or that
+the seed went bad away from home. He has the seed and none of the three things
+that mattered — the same fate as any smith attempting Ice Forging without the
+ore and the cold.
+
+One contrast is worth keeping. The Plains Elves kill small animals in organized
+numbers to protect a harvest; the Shepherds hold an animal fragment and will not
+eat one. Both are inheritances concerning living things, pointing opposite ways.
+
+### Carried forward, unresolved
+
+Whether further mandate fragments exist in other races is now a live lens
+rather than a curiosity, with two of the three confirmed sitting in human
+subtypes while Hillfolk and Northmen carry none. Whether the Water Whisperer
+affinity extends to the sea itself rather than only its life is open. How many
+universal inheritances get formal per-race tiers is a modeling decision nobody
+has made. The dating of the Wood Elf ethic at years 30 to 60 was derived under
+the old causality and deserves re-examination. And a rough probe of the Hillfolk
+origin returned boreal forest where Geography describes deciduous and mixed —
+the coordinate was eyeballed and may simply be wrong, but it should be checked
+properly before Kimora is built on it.
+
+*Workflow: three pieces of foundational lore this session had existed in
+conversation without ever reaching the files, and two errors reached a push by
+being implied rather than stated. Orderings, origins and foundational premises
+should be written down as explicit claims even when they feel like background
+rather than decisions. A requested focus for the next session is recorded at the
+head of Open_Questions.*
+
+---
+
 ## v004
 
 The first substantial work on the 2nd Epoch. This version builds the founding

@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OVERVIEW & COSMOLOGY — v004
+LANAMYR WORLD BIBLE — OVERVIEW & COSMOLOGY — v005
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -129,6 +129,23 @@ the Drasu, the Draak, and every living thing down to the smallest earthworm.
 Creating the Drasu and Draak was a fundamentally different undertaking from
 creating lesser life. They were given intelligence and greater power, and their
 creation required the combined effort of many N'du and Itule working together.
+THE DRASU HAD A PURPOSE: they were meant to be the caretakers of Lanamyr in the
+absence of the Irridae. The investment made in them was an investment in
+stewardship of the world after its architects departed. At the Sundering that
+mandate fractured along with everything else, passing to the descendant races
+in diminished and partial form and unevenly distributed among them — no single
+race carries the whole of it. Three fragments are confirmed: the Wood Elves
+hold the stewardship of forest and growing things, the Shepherds hold the
+affinity with animals at the scale of the individual creature, and the Water
+Whisperers hold the affinity with sea life at the scale of the whole ocean.
+Each produces a different relationship with what it tends — abstention,
+replanting, managed harvest — and none of them is a variation on the others.
+No race knows what it carries, and none can recognize another as holding a
+matching piece. Adomorn is the last being who holds the mandate entire.
+See Races, DRASU.
+A LATENT OPPOSITION WORTH NOTING: the Creatures of Olum exist to destroy life.
+The scattered fragments of the caretaker mandate are therefore, without any
+race understanding why, the standing counterweight to the thing Olum made.
 This collective creative investment is precisely why the Sundering ripped them
 apart while lesser creatures were unaffected — the resonant shockwave of the
 Irridae's destruction reverberated most catastrophically through the things most
@@ -211,9 +228,14 @@ lesser, muted versions of what the Drasu and Draak possessed. This applies to
 magical capacity in particular. The exception is a Magni, born with the full
 undiminished capacity of their progenitor line. See Magic System above.
 
-MEMORIES:The memories of each newly formed individual were a permanent haze before the
+MEMORIES:
+The memories of each newly formed individual were a permanent haze before the
 moment they found themselves in their homeland. No matter what methods were
-tried, memories did not reach beyond that boundary. However, each individual
+tried, memories did not reach beyond that boundary. Among those methods are the
+attempts made at Heaven's Oak in Caldalus across the centuries, by Wood Elves
+who believe the tree may hold the key to what came before — see Geography.
+None have ever worked. The Guardians of the Tree know with certainty that none
+ever will. However, each individual
 retained residual intelligence — language, reasoning, the capacity to build and
 organize — which is how the races eventually established kingdoms.
 
@@ -548,5 +570,5 @@ Age into large tentacled pack leaders that form birthing chambers. Dissolve to
 harmless black dust on death.
 
 ================================================================================
-END OF LANAMYR OVERVIEW & COSMOLOGY — v004
+END OF LANAMYR OVERVIEW & COSMOLOGY — v005
 ================================================================================

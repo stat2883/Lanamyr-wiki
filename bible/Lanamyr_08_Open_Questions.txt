@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v005
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v006
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -14,6 +14,13 @@ mentioned in multiple places (e.g. a character entry and a story outline).
 ================================================================================
 NEXT SESSION — REQUESTED BY THE USER
 ================================================================================
+
+STATUS AFTER v006: the user chose to build HELLAR first instead, and then
+pivoted to KULDOR and the Ice Dwarf expeditions of 221. SKY GNOMES are the
+next target and were explicitly named by the user as the pivot after Hellar.
+The ICE DWARVES received substantial development this session on the 221
+expeditions, the founding of Kuldor and the Nusul decision gap, but their
+years 0–221 on Icefall itself remain undeveloped. PLAINS ELVES untouched.
 
 Build out the following three races for the 2nd Epoch, years 0–221, the same
 founding window already completed for western Alios:
@@ -63,8 +70,69 @@ WESTERN ALIOS FOUNDING HISTORY (2ND EPOCH 0–221):
   brief confused peace: undecided.
 - Whether the Stone Giants ever take Ice Dwarf metal in quantity, and whether
   Low cohesion even permits them to sustain a trading relationship: undecided.
+  Note this is now the FIRST offer of worked metal ever made to them, since
+  Hellar never traded with the Giants and the two peoples never met.
 - Stone Giant native language: UNDEVELOPED. They have one; it is unnamed.
 - Stone Giant appearance (height, build, coloring): UNDEVELOPED.
+- RESOLVED (v006) — THE ARC AND THE BOWL: verified against the features and
+  biome maps. The Forbidden Peaks, Darkened Slopes and Tempest Peaks are one
+  continuous coastal highland arc, with the Wood Elf forest in the bowl inside
+  it. Recorded in Geography and Kingdoms_History.
+- RESOLVED (v006) — DARK DWARVES AND STONE GIANTS NEVER MET during the founding
+  era. They sit at opposite ends of the same arc with high ground between them
+  that neither has reason to cross: Giants move downhill under pressure, not
+  laterally along a cold ridge, and the Dark Dwarves will not pay to haul over
+  a ridge when a cheaper route exists. A structural non-event rather than a
+  near-miss. An earlier draft had them in contact around years 90–130 and the
+  boreal stripping partly caused by Giant raids on timber camps; that version is
+  DISCARDED. The stripping is sufficiently explained by poor woodcraft against
+  the appetite of deep mining on forest that recovers badly.
+- RESOLVED (v006) — THE DARK DWARF TIMBER FRONTIER TURNED EAST, not north,
+  because the eastern haul is lower, warmer and downhill. This is what brought
+  them to Faelyn's dry southern margin at ~100–150 and is why the northern slope
+  settlements stayed small.
+
+HELLAR (2ND EPOCH FOUNDING — built in v006):
+- RESOLVED: two founding dates, year 41 (first deep shaft) and year 54 (first
+  great hall, moot convenes underground, name attaches). Both kept exactly. The
+  centuries-old argument over which one counts is a constitutional dispute in
+  disguise — 41 is the crown's date, 54 is the moot's.
+- RESOLVED: unity preceded the capital. The Dark Dwarves were one people on open
+  steppe for a generation before a city existed, because the steppe is legible
+  and no faction could form unseen. Hellar is the seat of a nation that already
+  existed.
+- TENTATIVE — GOVERNANCE: two authorities. The Moot decides what the people do
+  and predates the city; a working is directed absolutely by whoever holds it,
+  and kingship grew out of the holder of the year-41 shaft. The user has not
+  settled this and may revise it.
+- UNDEVELOPED: Tecali names for the Moot and for a working; the etymology of
+  "Hellar"; the name and identity of its first king.
+- UNDEVELOPED: the herd animal of the steppe.
+- OPEN: whether the Moot/crown tension ever broke into anything.
+- DELIBERATELY NOT PURSUED: the divergence between the Dark Dwarves of Hellar
+  and those of Kuldor, including any dialect split or falling-out. Raised and
+  set aside in v006. Do not develop without the user raising it first.
+
+KULDOR (built in v006):
+- RESOLVED: founded by the Ice Dwarf expedition of 221 after they declined to
+  settle near the Stone Giants. Grew into one of the largest port cities and
+  trading hubs in Alios. Layout, the cliff-face entrance and the city beneath
+  are recorded in Geography.
+- RESOLVED: Kuldor is a CHOKEPOINT, not a workshop. Ice Forged goods cannot be
+  made there — the technique is locked to Icefall by ore and cold. Kuldor is
+  where they come ashore.
+- UNDEVELOPED — WHAT FORCED THE MERGE of the Dark Dwarf settlements into Kuldor
+  for protection. Candidates: a dragon during the Dragon Wars (1206–1214, 2nd
+  Epoch) is the leading one and would also feed the standing need to reconcile
+  the Dragon Wars with the Chromatic/Metallic framework; Stone Giants are the
+  other. Creatures of Olum are RULED OUT for this event.
+- UNDEVELOPED: the timing of the merge.
+- UNDEVELOPED: how Kuldor is governed. It would be the first polity in Lanamyr
+  that is not a race-kingdom.
+- UNDEVELOPED: what preys on the Darkened Slopes crossing, and whether that leg
+  of the road carries a name of its own.
+- UNDEVELOPED: what Icefall burns, having no timber of its own — and whether Ice
+  Dwarf sea haul relieved the Dark Dwarf timber problem or competed with it.
 
 THE DRASU CARETAKER MANDATE:
 - RESOLVED (v005): the Drasu were meant to be the caretakers of Lanamyr in the
@@ -388,9 +456,41 @@ NUSUL — THE LOST KINGDOM:
 - How far did Ice Dwarves get before being overrun?
 - Whether Bor and Maeglin will speak with Ice Dwarves: undecided.
 - Provenance of Bor's map: undeveloped.
+- RESOLVED (v006) — THE 18-YEAR GAP between discovery in 221 and founding in
+  239 is Icefall deliberating, provisioning and committing after the northern
+  fleet sent word back. The northern and southern expeditions of 221 were
+  INDEPENDENT; Kuldor played no part in the discovery of the Tarantars.
+- UNDEVELOPED and now load-bearing — NUSUL'S PLACEMENT AND SEA APPROACH.
+  Nothing pins Nusul to the eastern, central or western portion of the Tarantar
+  range, nor to the north or south flank, nor gives it a landing point. Icefall
+  ran regular supply for 29 years and sent reinforcements in 261, so a route
+  exists. The one hint in existing lore is Kimora's northern border running
+  "Tarantar Mountains east to coast," which makes the eastern end of the range
+  the obvious candidate for a coastal approach.
+- UNDEVELOPED: the hidden entrance Bor's map hints at.
+- UNDEVELOPED: whether Nusul and The Deep ever had contact across 29 years of
+  digging directly above the Dark Elves. This decides whether the Dark Elf
+  treachery version of the legend is pure invention or has a grain in it.
+- UNDEVELOPED: any relationship between Nusul and the Cave Gnomes, who also
+  live beneath the Tarantars.
 
 THE ROAD:
-- Name undecided: Merchant's Spine or Wanderer's Road.
+- RESOLVED (v006) — THE NAME: the road goes by multiple names rather than one.
+  It is long enough that no one calls the whole of it anything, and the people
+  who use a stretch name the stretch. The two most common are WANDERER'S ROAD
+  and THE MERCHANT'S SPINE.
+- RESOLVED (v006) — THE WESTERN TERMINUS is Kuldor, not Faelyn. The road now
+  runs Fardar → Kimora → Ellendale → Faelyn → over the Darkened Slopes → Kuldor,
+  making Caldalus the last major stop before the mountains. The final crossing
+  is the most dangerous leg and supports a standing trade in armed escort.
+- UNDEVELOPED: what preys on that crossing, and whether the leg has its own name.
+
+JERROL BEGGAR:
+- Water Whisperer human living in Kuldor, with a relationship to the Sky
+  Gnomes. Everything else deliberately open: birth year, age, appearance,
+  personality, occupation, narrative function, and the nature of the Sky Gnome
+  connection.
+- Note his age cannot be derived until the Water Whisperer lifespan is set.
 
 ALITA VARIS:
 - Narrative function in future stories undefined.
@@ -619,5 +719,5 @@ MAP NOTES:
   Swamp Giants, Trolls (Forest, Moss, Desert).
 
 ================================================================================
-END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v005
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v006
 ================================================================================

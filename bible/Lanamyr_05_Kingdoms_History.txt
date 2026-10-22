@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v005
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v006
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -40,6 +40,24 @@ GEOMETRY: measured on Lanamyr_Sundering.jpg, the Stone Giant origin lies
 roughly half as far from the Wood Elves as the Dark Dwarf origin does. Contact
 order follows from this: Wood Elves meet Stone Giants first, Dark Dwarves
 considerably later.
+
+THE ARC AND THE BOWL (confirmed; verified against Lanamyr_Features.jpg and
+Lanamyr_Biomes.jpg in session v006): the Forbidden Peaks, the Darkened Slopes
+and the Tempest Peaks are not three separate features. They are one continuous
+highland arc running along the outer west and north coast of the western arm,
+and the Wood Elf forest sits in the bowl enclosed by it. Dark Dwarves hold the
+southwest end of the arc, Stone Giants the north end, Wood Elves the interior.
+The biome banding runs dry at the southwest end and grades wetter and colder
+to the northeast — thorn scrub, then steppe, then boreal moist forest. See
+Geography.
+CONSEQUENCE — DARK DWARVES AND STONE GIANTS NEVER MEET IN THIS WINDOW. The two
+races sit at opposite ends of the same range with high ground between them that
+neither has any reason to cross. Giants under population pressure move DOWNHILL
+into the Wood Elf lowlands or down to the coast; travelling laterally along the
+arc means staying high and cold and solves nothing for them. The Dark Dwarves,
+for their part, will not pay to haul over a ridge when a cheaper route exists.
+This is not a near-miss but a structural non-event, and it holds until the Ice
+Dwarves arrive by sea in 221 and touch both peoples in a single voyage.
 
 THE SCATTER (years 0–20)
 Thousands of adults wake scattered across each region with no memory and no
@@ -131,6 +149,96 @@ Lifespan and terrain together determine whether each race became one people.
   arrives, and they were already gathering fastest. High cohesion, and the
   first of the three to function as a single people.
 
+HELLAR — THE FOUNDING (years 0–150)
+
+THEY WOKE IN THE WRONG COUNTRY. The Dark Dwarf technology baseline is skilled
+forging, expert mining and fine stonework, with weak woodworking. Their terrain
+of origin is open, dry, treeless high steppe. For the first two decades a people
+who woke knowing how to sink a shaft and control a quench had no ore beneath
+them, no fuel to burn and no mountain to cut. They herded. The only inherited
+craft the steppe permitted was stonework, and they used it the one way treeless
+high country allows — dry-stone steadings, windbreaks and stock pens. This is
+the exact inverse of the Wood Elves, who woke in forest and have never lived
+anywhere else. The Dark Dwarves woke somewhere that could feed them and could
+not employ them.
+
+UNITY BEFORE A CAPITAL (years 0–26). The steppe is legible: smoke carries,
+travel is unobstructed, and nothing can be massed or built out of sight. No
+faction could form in secret, so none did. Dark Dwarf unity was never won,
+because the ground gave no one anywhere to contest it from.
+The consequence is that they were ONE PEOPLE ON OPEN GROUND for a full
+generation before they had a city to be one people in — the reverse of the usual
+order. Hellar is the seat of a nation that already existed, not the thing that
+made one. Their founding institution is a moot of band heads convened on the
+steppe, and when the city was finally cut, the moot simply moved underground.
+When pressure arrives at year 26 — the first Sundering-born generation reaching
+adulthood, the adult population climbing for the first time — it lands on a
+people already unified. This is the whole difference from the Stone Giants.
+Giant pressure fractured a people who had never cohered; Dark Dwarf pressure was
+handed to an institution that already existed, and became a thing to be
+administered rather than fought over.
+
+THE TWO DIRECTIONS. What the steppe lacked lay at opposite ends of their own
+arc. Northeast up the Darkened Slopes: boreal moist forest, timber and fuel.
+Southwest in the Forbidden Peaks: thorn scrub above, deep stone and ore below.
+They went both ways, and the steppe between became a haul corridor. The Dark
+Dwarves spent the better part of a century moving material up and down their own
+territory before they ever met another race. THIS IS THE ORIGIN of their
+transactional disposition and of their being the only western Alios race that
+travels TO others — they were organized around a long haul before there was
+anyone at the far end of it.
+The seat went south because a working is not a place you visit. Timber can be
+hauled; a shaft cannot. So the city was cut where the ore was, and the forest
+was worked at the end of a supply line.
+
+THE TWO FOUNDING DATES (confirmed, and contested in-world):
+  YEAR 41 — the first deep shaft is sunk in the northern Forbidden Peaks.
+  YEAR 54 — the first great hall is cut and the moot convenes underground for
+    the first time. The name Hellar attaches from this point.
+Both dates are kept exactly, and which one founded Hellar has been argued for
+twenty-four centuries. THE ARGUMENT IS A CONSTITUTIONAL DISPUTE WEARING A
+COSTUME: year 41 is the crown's date and year 54 is the moot's, and each side's
+date is its own claim to primacy. A people who perfect rather than invent keep
+their records precisely and disagree about what the records MEAN rather than
+about what they say.
+
+WHAT HELLAR IS. Cut, not built. Fine stonework is a baseline skill, so the
+earliest galleries are already accomplished masonry. WHAT IMPROVED ACROSS THE
+CENTURIES WAS DEPTH AND SCALE, NEVER QUALITY — which is what "perfecters rather
+than inventors" looks like on the ground. The work was good on the first day and
+only ever got bigger.
+
+GOVERNANCE — TWO AUTHORITIES, ONE ABOVE AND ONE BELOW (TENTATIVE):
+  THE MOOT decides what the people do. It predates the city by decades and has
+    never conceded that anything outranks it.
+  A WORKING is directed absolutely by whoever holds it. A deep shaft takes
+    decades, costs enormously, and kills people if directed by committee, so
+    underground there is one voice and no appeal.
+Kingship grows out of the second. The holder of the year-41 shaft directed what
+became the city's central axis, and directing the axis became directing the
+city. HELLAR'S CROWN IS ATTACHED TO A HOLE IN THE GROUND. The Moot never
+dissolved, which is why Hellar is a kingdom with a standing assembly older than
+its throne. Tecali names for the Moot and for a working, the etymology of
+"Hellar," and the name of its first king are all UNDEVELOPED.
+
+THE TIMBER TRAP (years ~60–150). Deep mining eats worked timber — props,
+shoring, ladders, hafts — and smelting eats charcoal faster. The Dark Dwarves
+are weak woodworkers who treat wood as material to acquire rather than craft to
+practice, so they took the boreal margins the only way they knew: fast, at
+volume, with no replanting, on forest that recovers badly.
+THE FRONTIER TURNED EAST, NOT NORTH. Of the two timber directions, north up the
+Darkened Slopes is high, cold and exposed, with the haul running uphill along a
+ridge; east and inland is lower, warmer, shorter to good stands, and the hauling
+runs downhill. The weight of the expansion therefore went east and compounded
+for roughly a century. The northern slope settlements exist but stay SMALL, SLOW
+AND MARGINAL — held because the stands are there rather than because the ground
+is good — and never push far enough up the arc to matter. This is why the
+Darkened Slopes read as occupied to an arriving fleet in 221 and still amount to
+very little, and it is why the Dark Dwarves met the Wood Elves rather than the
+Stone Giants. They did not wander into the elves. They followed the cheapest
+haul available to them, and the cheapest haul pointed straight at Faelyn's dry
+southern margin. See SECOND CONTACT below.
+
 FIRST CONTACT — THE STONE GIANTS (years ~40–60)
 Geometry places the Giants nearest; demography puts them in motion. They have
 been growing for thirty years while the Wood Elves have not grown at all. They
@@ -198,8 +306,25 @@ on dwarf fuel. The consequence is that they remain dependent on dwarf craft
 permanently and never develop metallurgy of their own.
 Over this same period the Dark Dwarves go deeper and spend less time above
 ground. The long adaptation of their eyes begins here.
+WHY IT BEGINS NOW AND NOT EARLIER: through the first century they were a surface
+people with a mine, and their own forest capped how deep they could go. Once the
+Binding Trade secured finished joinery from Faelyn they could sink deeper than
+their own woodland had ever permitted, and the proportion of a life spent under
+stone finally crossed over. The latent predisposition had nothing to express
+itself against until there were generations who scarcely went up.
+THE TRADE IS WHAT TOOK THEIR EYES. The timber that let them go deeper is what
+cost them their sight, and neither people ever knew it.
+WHY THEY NEVER BECAME THE DARK ELVES: their larder stayed on the surface. The
+steppe herds never stopped — they are the food base, and the Binding Trade only
+ever supplemented them with the grain, fruit and fiber the steppe cannot
+provide. Hellar is underground and its pantry is above it, and the daily traffic
+between the two has never stopped. Dark Elves and Cave Gnomes woke underground
+and had no such tether. This is the origin of the confirmed present-day trait:
+the Dark Dwarves remain the least sensitive of the underground races and the
+only one that still travels and trades in person, because they have been walking
+up out of their own city every day for twenty-four centuries.
 
-YEAR 221 — THE ICE DWARVES (confirmed lore)
+YEAR 221 — THE ICE DWARVES (confirmed lore; sequence expanded in v006)
 An Ice Dwarf expedition from Icefall sails south, finds the Tempest Peaks and
 the Darkened Slopes already occupied, and establishes trade routes that build
 friendly relations with the neighboring peoples over time.
@@ -208,11 +333,54 @@ contact from beyond the continent, and its first arrival by fleet. This is a
 narrower claim than it may appear: it does NOT mean the western arm had met no
 one before 221. See the SCOPE note at the head of this section. What is new in
 221 is the direction and the means, not the fact of outsiders.
-CONSEQUENCE: this gives the Stone Giants a source of worked metal that does not
-come through the Wood Elves — for the first time in two centuries they can
-obtain goods without going through the people they raid. What they do with that
-is UNDEVELOPED, and whether their Low cohesion even permits them to sustain a
-trading relationship is an open question.
+
+THE SEQUENCE (confirmed):
+1. Sailing south from Icefall, the fleet makes landfall at the northern end of
+   the arc, on the edges of Stone Giant territory in the Tempest Peaks.
+2. The encounters are TENSE and any peace is short-lived. This is not a choice
+   so much as arithmetic: Stone Giant cohesion is Low, a chief's word dies with
+   him inside twenty years, and there is no institution capable of holding an
+   agreement. The Ice Dwarves decline to establish a settlement there.
+3. The fleet continues SOUTH AND WEST along the outer coast — following the arc
+   down past the Tempest Peaks toward the Darkened Slopes — and eventually finds
+   unoccupied ground. This gap exists because the Dark Dwarf northern slope
+   settlements are small and marginal and never pushed far up the arc.
+4. They settle, and before long meet the Dark Dwarves. Relations go far better
+   than they did with the Giants. The settlement becomes KULDOR — see Geography.
+CONSEQUENCE — WHICH NEIGHBORS BECAME FRIENDLY: the friendly relations that the
+confirmed lore says these routes built over time are with the DARK DWARVES and
+in due course the WOOD ELVES. They are not with the Stone Giants.
+CONSEQUENCE — THE GIANTS AND ICE DWARF METAL: the arrival still offers the
+Giants a source of worked metal that does not come through the Wood Elves, and
+it is the FIRST OFFER EVER MADE to them, since Hellar never traded metal to the
+Giants and the two peoples never met. What the Giants do with it is UNDEVELOPED,
+and whether their Low cohesion even permits a sustained trading relationship is
+an open question.
+
+THE KINSHIP IS PRACTICAL, NOT SENTIMENTAL. Shared Drasu heritage produces
+nothing by itself — the Ice Dwarves and Iron Dwarves share it and have no strong
+direct ties, trading only through intermediaries. If the Ice and Dark Dwarves
+become close it is because contact history and complementary craft made them so.
+This also explains the coldness toward Fardar: Icefall met the Dark Dwarves in
+221 and built on it for millennia, and never had that with the Iron Dwarves.
+A TENSION WORTH HOLDING: Icefall is Polar Ice and has no timber either. Two
+mining peoples arriving at the same forest is not obviously kinship, and whether
+Ice Dwarf sea haul eventually relieved the Dark Dwarves' timber problem or
+priced them out of their own trade is UNDEVELOPED. What it cannot do is break
+the fuel deadlock — the Wood Elves' refusal to sell charcoal is not a transport
+problem.
+
+THE NORTHERN EXPEDITION AND NUSUL: a separate fleet departing Icefall in the
+same year sails in a different direction and discovers the Tarantar Mountains
+and their mineral wealth. The two ventures are INDEPENDENT and remain so — the
+southern settlement plays no part in the discovery of the Tarantars. The
+northern fleet sends word back to Icefall; Icefall deliberates, provisions and
+commits, and a contingent sails to found Nusul in 239. This accounts for the
+eighteen-year gap between discovery and founding. See NUSUL below.
+THE ASYMMETRY: Icefall loses its northern venture entirely in 268 and keeps its
+southern one for the next twenty-four centuries. After Nusul falls, Kuldor is
+Icefall's only foreign holding, and a people who had just lost an entire kingdom
+would hold the surviving one very differently.
 
 OPEN WITHIN THIS CHAIN (deliberately not decided):
 - The exact year of first Giant contact.
@@ -272,7 +440,12 @@ NUSUL TIMELINE (2nd Epoch):
 Year 7:   Abaculus hidden in Tarantar Mountains. Creatures of Olum begin
           expanding outward from that location over the following centuries.
 Year 221: First Ice Dwarf expeditions depart Icefall in multiple directions.
-          One fleet discovers the Tarantar Mountains and their mineral wealth.
+          One fleet discovers the Tarantar Mountains and their mineral wealth
+          and sends word back to Icefall. This fleet is INDEPENDENT of the
+          southern expedition that founds Kuldor in the same year; the two
+          ventures never informed one another.
+221-239:  Icefall deliberates, provisions and commits. The eighteen-year gap
+          between discovery and founding is this decision and its preparation.
 Year 239: Kingdom location established. Named Nusul. Regular supply runs and
           labor forces begin. Olum have been expanding in the mountains for
           232 years by this point.
@@ -310,7 +483,16 @@ Ellendale: Central-west Alios. Plains Elves. Played a key role in overthrow
 Faelyn: Western arm of Alios. Wood Elves. Capital: Caldalus.
   Home of Guardians of the Tree. Mya Li is from Faelyn.
 Hellar: Underground city in Forbidden Peaks, western arm of Alios. Dark Dwarves.
-  Effectively blinded by daylight without protection.
+  Effectively blinded by daylight without protection. Founded years 41/54 of the
+  2nd Epoch — see WESTERN ALIOS founding history above. Governed by a moot older
+  than its crown.
+Kuldor: Port city on the west coast of the western arm, at the foot of the
+  Darkened Slopes. NOT A KINGDOM — founded by Ice Dwarves in 221 of the 2nd
+  Epoch and later merged with the nearby Dark Dwarf settlements. One of the
+  largest port cities and trading hubs in Alios and the western terminus of the
+  great east-west road. Mostly Ice and Dark Dwarves, with sizeable Sky Gnome,
+  human and Wood Elf populations. Governance UNDEVELOPED — it would be the first
+  polity in Lanamyr that is not a race-kingdom. See Geography.
 Andar: Large northern peninsula of Alios. Northmen humans. Ruler undeveloped.
 
 EDURA:
@@ -817,20 +999,41 @@ Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
            Stone Giants. The Giants come downhill under population pressure.
            The elves answer with magic. A permanent stalemate forms that
            neither side can break, and the Stone Giant raid cycle begins.
+Year 41:   WESTERN ALIOS: the Dark Dwarves sink the first deep shaft in the
+           northern Forbidden Peaks. The first of Hellar's two founding dates
+           — the crown's date.
+Year 54:   WESTERN ALIOS: the first great hall of Hellar is cut and the moot
+           convenes underground for the first time. The name Hellar attaches
+           from this point. The second of Hellar's two founding dates — the
+           moot's date. Which of the two founded the city has been argued ever
+           since, and the argument is a dispute over whether the assembly or
+           the crown holds primacy.
+~60-150:   WESTERN ALIOS: the Dark Dwarf timber frontier expands, weighted
+           EAST and inland rather than north along the arc, because the eastern
+           haul is lower, warmer and downhill. The northern slope settlements
+           stay small and marginal. The boreal margins are stripped.
 ~100-150:  WESTERN ALIOS: first contact between Wood Elves and
            Dark Dwarves, who come seeking timber after stripping their own
            boreal woodland. They arrive with a proposition rather than a
            threat. Dark Dwarf tools reach Faelyn and the great building age of
-           Caldalus follows.
+           Caldalus follows. The eastern haul line is what brought them there.
 ~150-221:  WESTERN ALIOS: the timber-for-metal trade
            establishes. The Wood Elves refuse to sell charcoal, permanently
            capping Dark Dwarf smelting. The Dark Dwarves go progressively
            deeper underground and the adaptation of their eyes begins.
 Year 221:  First Ice Dwarf expeditions depart Icefall in multiple directions.
-           One expedition sails south and finds the Tempest Peaks and Darkened
-           Slopes region — finds much of it occupied but establishes trade
-           routes. Another expedition discovers the Tarantar Mountains and
-           their mineral wealth.
+           One expedition sails south and makes landfall at the northern end
+           of the arc on the edges of Stone Giant territory. The encounters are
+           tense and any peace is short-lived, and they decline to settle there.
+           The fleet continues south and west along the outer coast, finds
+           unoccupied ground, settles, and shortly afterward meets the Dark
+           Dwarves. That settlement becomes KULDOR. Trade routes established
+           here build friendly relations with the Dark Dwarves and in time the
+           Wood Elves — not with the Giants.
+           A SEPARATE AND INDEPENDENT expedition sails in a different direction
+           and discovers the Tarantar Mountains and their mineral wealth,
+           sending word back to Icefall. The two ventures never informed one
+           another.
 Year 239:  Ice Dwarves establish Nusul in the Tarantar Mountains. Regular
            supply runs and labor forces begin. Creatures of Olum have been
            expanding in the mountains for 232 years.
@@ -1003,5 +1206,5 @@ Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
          around a Kobold's neck. Valindra walks the shore of her lake.
 
 ================================================================================
-END OF LANAMYR KINGDOMS & HISTORY — v005
+END OF LANAMYR KINGDOMS & HISTORY — v006
 ================================================================================

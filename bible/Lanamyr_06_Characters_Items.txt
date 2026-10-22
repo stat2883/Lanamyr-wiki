@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v005
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v006
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -794,6 +794,18 @@ direction undeveloped.
 FINAL VISIT (379–381 AW): Diquyk visited one last time, still pre-corruption.
 Degeric died 381 AW at age 48. He never knew what his student became.
 
+JERROL BEGGAR
+Water Whisperer human. Lives in Kuldor, the port city on the west coast of the
+western arm of Alios — see Geography. Has a relationship with the Sky Gnomes;
+nature and history of it UNDEVELOPED.
+Everything else about him is deliberately open: birth year, age, appearance,
+personality, occupation, and his narrative function. Note that the Water
+Whisperer lifespan has never been established (see Overview_Cosmology, LIFESPANS
+NOT YET ESTABLISHED), so no age or life stage can be derived for him until that
+is set.
+Native language: Hikri. Water Whisperer shipwrights are sought after in any port
+city, which is a plausible but UNCONFIRMED reason for his presence there.
+
 OTHER CHARACTERS (less developed):
 - Figwit Sparklefuzz: Sky Gnome inventor/illusionist from Myst. Alive. Undeveloped.
 - Alexa Komoth: Red-haired human barbarian from Andar. Was aboard Wilward's
@@ -958,5 +970,5 @@ Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
   poisonous gas. Prefers to avoid conflict.
 
 ================================================================================
-END OF LANAMYR CHARACTERS & ITEMS — v005
+END OF LANAMYR CHARACTERS & ITEMS — v006
 ================================================================================

@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v005
+LANAMYR WORLD BIBLE — RACES — v006
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -492,9 +492,38 @@ Slopes. They found much of that region already occupied but established trade
 routes there. These routes helped build friendly relations with the neighboring
 peoples over time.
 
+THE SEQUENCE (confirmed, v006): the southern fleet made landfall first at the
+northern end of the western arc, on the edges of Stone Giant territory. Those
+encounters were tense and any peace was short-lived — Stone Giant cohesion is
+Low and no institution exists there capable of holding an agreement past the
+life of a chief. The Ice Dwarves declined to settle and continued south and west
+along the outer coast until they found unoccupied ground. They settled, and
+shortly afterward met the Dark Dwarves. That settlement became KULDOR, now one
+of the largest port cities in Alios — see Geography. The friendly relations the
+passage above describes are with the Dark Dwarves and in time the Wood Elves,
+NOT with the Giants.
+
 Another expedition sailing in a different direction discovered the Tarantar
 Mountains on northern Alios and recognized the abundance of mineral wealth
-there. This led to the establishment of Nusul — see Kingdoms_History file.
+there. It sent word back to Icefall, and after eighteen years of deliberation
+and preparation a contingent sailed to found Nusul in 239. The two expeditions
+were INDEPENDENT and remained so — the southern settlement played no part in the
+discovery of the Tarantars. See Kingdoms_History file.
+THE ASYMMETRY: Icefall lost the northern venture entirely in 268 and kept the
+southern one for the next twenty-four centuries. From 268 onward Kuldor is
+Icefall's only foreign holding.
+
+ICE DWARF RELATIONS WITH DARK DWARVES:
+Close, and far closer than with the Iron Dwarves — but the closeness is
+PRACTICAL rather than sentimental. Shared Drasu heritage produces nothing by
+itself. What produced this relationship was contact history and complementary
+craft, beginning in 221 and compounding for millennia in a shared city.
+A TENSION WORTH HOLDING: Icefall is Polar Ice and has no timber of its own
+either, so two mining peoples arrived at the same forest. Whether Ice Dwarf sea
+haul eventually relieved the Dark Dwarves' timber problem or priced them out of
+their own trade is UNDEVELOPED. What it cannot do is break the fuel deadlock —
+the Wood Elves' refusal to sell charcoal is not a transport problem.
+What Icefall itself burns, having no timber, is UNDEVELOPED.
 
 ICE DWARF RELATIONS WITH IRON DWARVES:
 Ice Dwarves and Iron Dwarves occasionally cross paths in the lands between their
@@ -908,6 +937,31 @@ CONSEQUENCE FOR EARLY HISTORY: the first phase of Dark Dwarf history is a
 SURFACE history — a steppe people with herds. The underground identity accrued
 over time rather than being present from the start.
 
+THEY WOKE IN THE WRONG COUNTRY (confirmed, v006): their inherited craft is
+forging, mining and stonework, and their terrain of origin is open, dry,
+treeless high steppe. For roughly two decades a people who woke knowing how to
+sink a shaft and control a quench had no ore beneath them, no fuel to burn and
+no mountain to cut. They herded, and the only inherited craft the steppe
+permitted was stonework. The Dark Dwarves woke somewhere that could feed them
+and could not employ them. See Kingdoms_History for the founding chain that
+follows from this, including the two founding dates of Hellar.
+
+WHY THEY NEVER BECAME THE DARK ELVES: their larder stayed on the surface. The
+steppe herds never stopped — they are the food base, supplemented but never
+replaced by the grain, fruit and fiber of the Binding Trade. Hellar is
+underground and its pantry is above it, and the daily traffic between the two
+has never stopped. Dark Elves and Cave Gnomes woke underground and had no such
+tether. This is why the Dark Dwarves remain the least sensitive of the
+underground races and the only one that still travels and trades in person,
+despite being effectively blinded by daylight without protection.
+The specific herd animal of the steppe is UNDEVELOPED.
+
+THE KULDOR POPULATION: a substantial Dark Dwarf population lives at Kuldor on
+the west coast, descended from the small northern timber settlements that merged
+into the Ice Dwarf port for protection. Everything past Kuldor's cliff-face
+threshold is their work, and for most travellers in Lanamyr it is the only Dark
+Dwarf architecture they will ever stand inside. See Geography.
+
 TIMBER DEPENDENCY: Deep mining demands enormous quantities of worked timber —
 props, shoring, ladders, hafts — and charcoal for smelting, none of which
 steppe or thorn scrub provides. The Dark Dwarves exploited the boreal woodland
@@ -962,5 +1016,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v005
+END OF LANAMYR RACES — v006
 ================================================================================

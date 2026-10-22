@@ -9,6 +9,148 @@ end of an entry when relevant, not at the top.
 
 ---
 
+## v006
+
+Hellar gets a founding, the western arm gets a coastline, and a port city that
+did not exist at the start of the session is now the western end of the
+busiest road in Alios.
+
+### The arc and the bowl
+
+Checked against the features and biome maps, the Forbidden Peaks, the Darkened
+Slopes and the Tempest Peaks turn out not to be three separate features. They
+are one continuous highland arc along the outer west and north coast of the
+western arm, dry at its southwest end and grading wetter and colder to the
+northeast, with the Wood Elf forest sitting in the bowl inside it. Dark Dwarves
+hold the southwest end, Stone Giants the north end, Wood Elves the interior.
+
+This settles a question the founding chain had left hanging. The Dark Dwarves
+and the Stone Giants never met during the founding era, and not by luck. They
+sit at opposite ends of the same range with high ground between them that
+neither has any reason to cross — Giants move downhill under population
+pressure rather than laterally along a cold ridge, and the Dark Dwarves will
+not pay to haul over a ridge when a cheaper route exists. A draft version of
+this session had them in contact around years 90 to 130, with Giant raids on
+timber camps helping explain why the boreal margins were stripped. That version
+was discarded as geographically unearned. The stripping is sufficiently
+explained by poor woodcraft against the appetite of deep mining, on forest that
+recovers badly.
+
+The same geometry explains why the Dark Dwarf timber frontier went east rather
+than north. The eastern haul is lower, warmer and downhill; the northern one
+runs uphill along an exposed ridge. So the weight of a century of expansion
+went inland, the northern slope settlements stayed small, and the people who
+eventually walked into Faelyn's dry southern margin were not explorers. They
+were following the cheapest haul available to them, and it pointed at the Wood
+Elves.
+
+### Hellar
+
+The Dark Dwarves woke in the wrong country. Their inherited craft is forging,
+mining and stonework; their terrain of origin is open, dry, treeless steppe.
+For two decades a people who knew how to sink a shaft and control a quench had
+no ore, no fuel and no mountain, and they herded instead. The only craft the
+steppe permitted them was stonework.
+
+What the steppe did give them was legibility. Smoke carries, travel is
+unobstructed, and nothing can be massed out of sight, so no faction could form
+in secret and none did. Their unity was never won because the ground gave no
+one anywhere to contest it from — and it arrived a full generation before they
+had a city. Hellar is the seat of a nation that already existed, not the thing
+that made one, and its founding institution is a moot of band heads convened on
+open steppe that simply moved underground when the halls were cut.
+
+Hellar has two founding dates and a very old argument about which one counts.
+Year 41 is the first deep shaft; year 54 is the first great hall, the moot
+convening below ground, and the name. Both are kept exactly. The argument is a
+constitutional dispute wearing a costume: 41 is the crown's date and 54 is the
+moot's, and each side's date is its own claim to primacy. Kingship itself grew
+out of whoever held that first shaft, which became the city's central axis — so
+Hellar's crown is attached to a hole in the ground, and its assembly is older
+than its throne. The governance structure is tentative and may be revised.
+
+Two long-standing details now have causes. The adaptation of Dark Dwarf eyes
+begins in the 150 to 221 window because that is when the Binding Trade finally
+let them sink deeper than their own woodland had ever permitted; the timber
+that took them down is what cost them their sight, and neither people ever
+knew it. And they never became as reclusive as the Dark Elves because their
+larder stayed on the surface — the steppe herds never stopped, so they have
+been walking up out of their own city every day for twenty-four centuries.
+
+### Kuldor
+
+The year 221 Ice Dwarf expedition is now a sequence rather than a sentence.
+The southern fleet made landfall at the northern end of the arc, on the edges
+of Stone Giant country. Those encounters were tense and any peace was
+short-lived, which is less a plot choice than arithmetic — Giant cohesion is
+Low and nothing there can hold an agreement past the life of a chief. The Ice
+Dwarves declined to settle, continued south and west down the coast, found
+unoccupied ground, and shortly afterward met the Dark Dwarves. The friendly
+relations the older lore refers to are with the Dark Dwarves and in time the
+Wood Elves. They are not with the Giants.
+
+That settlement became Kuldor. It sits on a half-mile shelf between the
+waterline and a sheer cliff, with the port district filling the flat and an
+intricately carved stone entrance set into the rock face at the back of it.
+Past that threshold the city runs into the mountain and down below sea level,
+and all of it is Dark Dwarf work — for most travellers in Lanamyr the only Dark
+Dwarf architecture they will ever stand inside. The entrance is advertising,
+which is exactly what a transactional people who travel to others would build
+facing a working port.
+
+Kuldor grew because it is a chokepoint rather than a workshop. Ice Forged goods
+cannot be made there, since the technique is locked to Icefall by its ore and
+its cold; Kuldor is simply where they come ashore, and the only such point
+Icefall controls. Sky Gnome invention is the other pillar, Myst lying almost
+due west of the western arm at nearly the same latitude, which makes Kuldor the
+Sky Gnomes' natural gateway to the continent.
+
+Something later forced the small Dark Dwarf timber settlements to merge into
+Kuldor for protection. The cause and the timing are both open — a dragon during
+the Dragon Wars is the leading candidate, Stone Giants the other, and Creatures
+of Olum have been ruled out. What the merge cost is clear enough either way:
+Kuldor absorbed those settlements rather than the reverse, so Hellar lost its
+entire northern presence in a single stroke and gained a permanent expatriate
+population living under someone else's roof.
+
+### The Road, and the two expeditions
+
+The road's name is resolved by declining to pick one. It is long enough that
+nobody calls the whole of it anything, and the people who use a stretch name
+the stretch; Wanderer's Road and The Merchant's Spine are simply the two most
+common. Its western terminus moves from Faelyn out to Kuldor, which demotes
+Caldalus to the last major stop before the mountains and adds a final crossing
+over the Darkened Slopes — the one piece of the arc anyone is obliged to cross,
+through country never properly settled and now largely emptied into Kuldor.
+Large caravans travel with guards, and wealthier merchants hire more and better
+ones, which supports a standing trade in armed escort at both ends.
+
+An attempt to route the discovery of the Tarantar Mountains through rumours
+reaching the southern outpost was tried and abandoned as a poor fit. The two
+expeditions of 221 are independent and remain so. What the attempt did produce
+is an explanation for the eighteen-year gap between discovery in 221 and the
+founding of Nusul in 239: the northern fleet sent word back, and Icefall spent
+those years deliberating, provisioning and committing. The asymmetry that
+follows is worth keeping — Icefall lost its northern venture entirely in 268
+and kept the southern one for twenty-four centuries, so from that point Kuldor
+is its only foreign holding.
+
+Nusul's placement has quietly become load-bearing as a result. Nothing in the
+bible pins it to any portion of the Tarantar range, to either flank, or to a
+landing point, and the Ice Dwarves ran supply there for twenty-nine years.
+
+### Carried forward
+
+Jerrol Beggar enters as a Water Whisperer human living in Kuldor with some
+relationship to the Sky Gnomes; everything else about him is deliberately open,
+and his age cannot be derived until the Water Whisperer lifespan is set. The
+Sky Gnomes remain the next target. The Ice Dwarves gained a great deal this
+session but their years 0 to 221 on Icefall itself are still undeveloped, and
+the Plains Elves are untouched. The divergence between the Dark Dwarves of
+Hellar and those of Kuldor was raised and deliberately set aside.
+
+---
+
 ## v005
 
 The western Alios founding chain is confirmed, and the session then found

@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v006
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v007
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -352,6 +352,13 @@ At the time of Mya-1 and Mya-2 (pre-387 AW), Aer'Raenal is approximately 140
 years old — solidly in his prime, with many decades ahead of him. The throne
 is not imminent for either Mya or Phelloden, which removes competitive pressure
 between the siblings.
+THE SUCCESSION RULE (added v007): Faelyn's crown passes by designation rather
+than by birth order — there is no Harrad-style firstborn rule. In practice it
+has almost always gone to whoever served the long apprenticeship beside the
+sitting monarch, which a 250-year lifespan makes nearly always a close kin.
+This is why Mya was able to step aside and why Aer'Raenal could be convinced
+rather than defied: she broke no law, and Phelloden was already doing the work.
+See Kingdoms_History, FAELYN — THE FOUNDING.
 Dispatched Mya to help with Tarik's overthrow after meeting Grimmon Herringer
 and a Plains Elf emissary. After Mya's first crushing defeat against Diquyk's
 forces, urged her to seek out Adomorn — recognizing the threat was beyond
@@ -367,7 +374,10 @@ Born 357 AW. Age 75 in 432 AW — just entering his prime by Wood Elf standards
 (prime: 62–150). Son of King Aer'Raenal. Younger brother of Mya Li by 10 years.
 More enthusiastic about his studies than Mya — maps, treaties, the history of
 Faelyn's relationships with neighboring kingdoms. Next in line to lead the Wood
-Elves of Faelyn — a deliberate choice by Mya, not circumstance. Mya and
+Elves of Faelyn — a deliberate choice by Mya, not circumstance. Note that under
+Faelyn's designation-based succession he is also simply the correct choice: he
+is the one doing the apprenticeship. The deliberate choice and the right answer
+coincide. See Kingdoms_History, FAELYN — THE FOUNDING. Mya and
 Phelloden have a warm relationship with genuine mutual respect. There was never
 rivalry or competition between them. Phelloden recognizes Mya's potential and
 would have had no issue if she had chosen the throne. They each understand where
@@ -970,5 +980,5 @@ Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
   poisonous gas. Prefers to avoid conflict.
 
 ================================================================================
-END OF LANAMYR CHARACTERS & ITEMS — v006
+END OF LANAMYR CHARACTERS & ITEMS — v007
 ================================================================================

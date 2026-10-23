@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v006
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v007
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -9,6 +9,33 @@ Stories_Outlines, Open_Questions. Confirmed lore is locked; tentative lore is
 flagged and subject to change. Cross-check kingdom locations against
 Lanamyr_Epoch1.jpg / Lanamyr_Epoch3.jpg and against race origin points in the
 Races file when either changes.
+
+================================================================================
+REGION AND KINGDOM NAMES ACROSS EPOCHS — READ FIRST
+================================================================================
+
+STANDING CONVENTION (established v007). Kingdoms and regions do not keep the
+same name for millennia. Names attach to events, and they change when something
+breaks. Harrad is the proven case: it formed in 1207 of the 2nd Epoch and
+dissolved in 2165, and the territory then became Kimora, Ellendale and Fardar —
+three names that did not exist before that collapse.
+
+THIS EXTENDS A PRINCIPLE THE BIBLE ALREADY HELD FOR LANGUAGES. The Race
+Appearance Table in the Races file notes that present-day language names reflect
+432 AW and may not be what those languages were called in earlier epochs, using
+Andari as the example, since the Andar regional identity did not exist at the
+Sundering. The same is true of kingdoms, and for the same reason.
+
+CONSEQUENCE — PRESENT-DAY NAMES ARE AUTHORIAL SHORTHAND. Where this bible uses
+a 432 AW name to describe a 2nd Epoch place or people — "Faelyn" in the years
+0–221 chain, "Kimora" for central Alios before Harrad, and so on — that name is
+a convenience for the reader and is NOT the in-world name of that era. Early
+names are left UNDEVELOPED deliberately, to be assigned when the event that
+earns each one is built.
+
+THE PURPOSE OF THE RULE is to keep the world from reading as static. A place
+that has been called the same thing for twenty-four centuries has had nothing
+happen to it.
 
 ================================================================================
 WESTERN ALIOS — FOUNDING HISTORY (2ND EPOCH, YEARS 0–221)
@@ -82,27 +109,38 @@ YEAR 7 — ADOMORN (confirmed lore; consequences drawn here)
 Adomorn arrives at a Wood Elf people seven years into gathering: bands and
 households, no kingdom and no throne. He chooses fewer than ten families and
 begins the Heaven's Oak chamber.
-- THE SETTLEMENT IS THE SITE OF CALDALUS (confirmed). The gathering Adomorn
-  walked into stood where the capital of Faelyn would eventually rise, and
-  Heaven's Oak is a central feature of the present-day city rather than a
-  remote landmark. Faelyn's capital grew up around the containment chamber.
-- THE CHAMBER IS ANOMALOUS AT GROUND LEVEL. In year 7 the Wood Elves build in
-  the canopy and essentially nowhere else — ground construction does not arrive
-  until expansion opens the first substantial clearings, later. A chamber sunk
-  into the earth at the foot of a great tree is therefore unlike anything the
-  Wood Elves were building at the time, and unlike anything they yet knew how
-  to build. It was raised under outside direction, using knowledge that was not
-  theirs, in a mode they did not practice. This is the technological island in
-  its most literal form: a Drasu structure at ground level beneath a people who
-  lived in the trees.
+- ADOMORN CHOSE THE TREE, NOT THE SETTLEMENT (confirmed, v007). Heaven's Oak
+  was already standing and a gathering had already formed around it, because an
+  enormous tree is the one thing findable in terrain that limits sight and
+  travel. He came for the Oak; the Wood Elves living beside it were the ones at
+  hand. The capital grew up around the same tree afterward, which is why
+  Heaven's Oak is a central feature of the present-day city rather than a remote
+  landmark. See Geography, CALDALUS and HEAVEN'S OAK.
+- THE CHAMBER IS INSIDE THE TRUNK (confirmed, v007). This SUPERSEDES the earlier
+  record of a chamber sunk into the earth at the foot of the tree, which was a
+  recording error. The chamber is cylindrical, roughly 30 feet by 30 feet, set
+  in the heart of a trunk some 70 feet across, beginning a short way below
+  ground and rising into the tree. Its entrance runs underground from elsewhere
+  and surfaces among the roots. Nothing at ground level marks it.
+- THE ANOMALY IS THE TECHNIQUE, NOT THE LOCATION. Building within a tree is
+  precisely what Wood Elves do, so from outside the chamber is invisible and the
+  Oak reads as an ordinary — if exceptional — Wood Elf landmark. What was not
+  theirs is the work itself: a shielded interior fashioned by Adomorn to isolate
+  the Abaculus from detection, in addition to the masking supplied by the Oak's
+  own living mass. This is the technological island in its true form — Drasu
+  knowledge sealed inside a familiar shape, where nobody would think to look for
+  it. It is far better concealment than a visibly foreign structure would have
+  been.
 - IT ALSO PREDATES THE ETHIC, which forms in years 30 to 60. The chamber is
   not an exception to the minimal-impact philosophy; it predates the philosophy
   entirely.
-- THE GUARDIAN FAMILIES ARE FOUNDING FAMILIES OF THE CAPITAL. Adomorn chose
-  from one gathering settlement, not from the scattered Wood Elf people as a
-  whole, so fewer than ten families represents a substantial bloc of that
-  community. The Guardian lines are old-stock Caldalus families from the
-  beginning — prominent, established, and entirely unremarkable in holding some
+- THE GUARDIAN FAMILIES WERE CHOSEN FOR PROXIMITY (clarified v007). They were
+  the Wood Elves already living at the Oak. Adomorn chose from that one
+  gathering, not from the scattered Wood Elf people as a whole, so fewer than
+  ten families represents a substantial bloc of that community. Their
+  prominence came AFTERWARD and followed from the choice rather than causing it:
+  the capital grew around the same tree, making them old-stock Caldalus families
+  by default — established, unremarkable, and entirely ordinary in holding some
   dignified hereditary duty nobody thinks to ask about.
 - THE GUARDIANS PREDATE FAELYN. Their confirmed position outside normal Wood
   Elf society structure follows directly: he founded them before that structure
@@ -389,6 +427,183 @@ OPEN WITHIN THIS CHAIN (deliberately not decided):
 - Whether the Stone Giants ever take Ice Dwarf metal in quantity.
 
 ================================================================================
+FAELYN — THE FOUNDING OF THE WOOD ELF CROWN (2ND EPOCH)
+================================================================================
+
+NAMING: "Faelyn" is a 432 AW name used here as shorthand. The 2nd Epoch Wood
+Elf polity was not called Faelyn and its name in that era is UNDEVELOPED, as is
+the event that eventually attached the present name. See REGION AND KINGDOM
+NAMES ACROSS EPOCHS at the head of this file.
+
+THE THESIS: FAELYN WAS NEVER FOUNDED. Hellar has two founding dates, both kept
+exactly and argued over for twenty-four centuries. Faelyn has none, and the
+absence IS the fact rather than a gap in the record. No crown was ever placed
+on anyone. The office accreted so gradually that by the time outsiders were
+treating with a Wood Elf king, the Wood Elves had simply always had one.
+
+WHY THERE IS NO RECORD. The Dark Dwarves are perfecters who keep precise
+records and argue about what the records mean. The Wood Elves are Low ingenuity
+and live 250 years, and a people who can personally remember three centuries
+have little reason to write anything down. The past is not history to them, it
+is testimony. Nobody dates what nobody thought needed dating. See Open_Questions
+for when the Wood Elves eventually begin keeping records — UNDEVELOPED, and
+required before the present day, since Mya and Phelloden study written histories
+of Faelyn in Caldalus.
+
+THE SEQUENCE
+
+STAGE ONE — LEADERSHIP IS LITERALLY VISIBILITY (years 0–45). Confirmed lore
+states that the earliest Wood Elf leaders were those whose ability was most
+visible. Read at face value: in dense forest a magic user is the one who can be
+SEEN from another valley, who can signal across distance, who can be found.
+This is why magic became the axis of distinction among Wood Elves while physical
+strength became it among Stone Giants — the terrain selected the trait in each
+case. The earliest Wood Elf authority is not a warlord. It is a landmark.
+The same logic explains why a gathering had already formed at Heaven's Oak: an
+enormous tree is the most findable thing in a forest. See Year 7 above.
+
+STAGE TWO — THE FIRST PAN-FOREST CONVERSATION (years 30–60). Formalizing the
+minimal-impact ethic — what may be taken, in what quantity, and what is owed
+back — is lawmaking, and a rule about the forest is worthless if the next valley
+ignores it. This forces the scattered bands into one conversation for the first
+time.
+THE CONTRAST WITH HELLAR IS STRUCTURAL. The steppe is legible and kept the Dark
+Dwarves permanently in one conversation, so their moot is STANDING. The forest
+let everyone go home, so the Wood Elf assembly is EPISODIC — convened for a
+purpose and dissolved after. An institution that meets only when summoned
+requires someone with the standing to summon it. THE POWER TO CALL THE ASSEMBLY
+IS THE SEED OF THE THRONE.
+
+STAGE THREE — THE GIANTS SUPPLY A PERMANENT REASON (years ~40–60 onward). The
+raid cycle is the forcing function. A band under attack needs help from bands it
+may never have met, and someone must be able to call that help and have it come.
+A war leader raised for one emergency goes home afterward. A war leader raised
+every generation, indefinitely, becomes an office — because the stalemate is
+permanent and the function never gets to lapse.
+THE MEMORY ASYMMETRY (confirmed reasoning): both sides meet strangers each
+cycle, but only one side forgets. The Wood Elves face a new and ignorant Giant
+generation every time. The Giants face the same person who beat their
+great-grandfather. Giant knowledge of how the last cycle went dies with the
+Giants who learned it; Wood Elf knowledge does not, because the elf who learned
+it is still holding the muster. Across a hundred cycles this compounds into the
+elves effectively fighting an opponent with no memory. A Wood Elf commander
+outlives four or five raid cycles; a Giant chief never sees two.
+The exact interval between raid cycles is UNDEVELOPED and deliberately so. The
+ratio is what matters, not the number.
+
+STAGE FOUR — THE DARK DWARVES NEED A COUNTERPARTY (years ~100–150). The Race
+Trait Framework states that cohesion determines whether diplomacy with a race is
+even possible and whether an agreement can bind anyone beyond the individual who
+made it. The Dark Dwarves arrive at the dry southern margin WITH A PROPOSITION,
+and spend decades frustrated, because every bargain they strike holds only in
+the valley where it was struck. So they go looking for whoever the elves obey.
+THEY DID NOT FIND A KINGDOM. THEY NEEDED ONE AND ADDRESSED ONE INTO EXISTENCE.
+The war-muster coordinator was the only thing in the forest resembling what they
+were looking for. A foreign power began treating her as a sovereign, and her own
+people DECLINED TO CORRECT THEM.
+THIS IS A STANDING WOOD ELF HABIT, NOT A ONE-OFF. The Guardians' entire
+concealment strategy for Heaven's Oak amounts to declining to correct anyone
+(see Geography). The same move built the throne. Correcting a stranger costs
+effort and gains nothing.
+
+THE TITLE IS A TRANSLATION ERROR. The Dark Dwarves had exactly one category for
+"one voice, no appeal, for the duration of a dangerous undertaking" — the holder
+of a WORKING. That is the Tecali word they filed her under. It was precisely
+right about what she was and precisely wrong in the way that mattered: A WORKING
+ENDS; THE RAID CYCLE DOES NOT. The word stuck. "King of Faelyn" in Common in
+432 AW is a translation of a translation, and what the Aiwiya word for
+Aer'Raenal's office actually means is UNDEVELOPED — it may not mean "king" at
+all.
+NOTE: this makes the already-flagged Tecali term for a working load-bearing in
+two places. See HELLAR — THE FOUNDING above.
+
+KEERLA ERVYRE — THE FIRST HOLDER
+Woke at the Sundering as a young adult. Took up coordination of the Giant
+defense around year 50 and held it until her death, through several raid cycles.
+Across a century, "when she calls, people come" hardened into "when she calls,
+people must come" — not by decree but by habit. Nobody voted on it.
+She is NOT a Liaphyra. See THE LINE below.
+TENTATIVE: history outside the forest knows her under the dwarves' rendering of
+her name rather than the Aiwiya original, because the Tecali record is the only
+written one and nobody ever corrected it. The dwarven form is UNDEVELOPED.
+
+THE SUCCESSION IS THE ACTUAL FOUNDING
+An office becomes an institution the first time it survives the death of its
+holder. Hellar's founding is physical — a shaft and a hall. Faelyn's is a
+question: who answers the next muster, and who honours the agreements with the
+dwarves? Asking that question out loud is the kingdom. It carries no date in
+Faelyn, and what firm dating exists for the period sits in Tecali records in
+Hellar.
+FAELYN'S FOUNDING RECORD IS IN A FOREIGN LANGUAGE AND LIVES IN SOMEBODY ELSE'S
+ARCHIVE.
+
+THE LINE — HEREDITY NOBODY CHOSE
+The obvious successor was whoever had stood at Keerla's side for a century, and
+in a 250-year society an apprentice of a hundred years is very likely kin.
+HEREDITY IN FAELYN IS AN ARTIFACT OF APPRENTICESHIP LENGTH. This is the same
+logic the Plains Elf entry already runs on: every handoff loses intent, so you
+do not hand off.
+The crown is therefore FORMALLY DESIGNATED and PRACTICALLY ALWAYS HEREDITARY.
+It has passed within a line for long stretches and changed lines several times
+across twenty-four centuries, each time when no apprentice was standing. When
+the Liaphyra took it, and from whom, is UNDEVELOPED.
+CONTRAST WITH HARRAD, which held an explicit rule that the first born assumed
+the throne regardless of gender. Faelyn has no such rule.
+CONSEQUENCE FOR MYA AND PHELLODEN (resolves existing lore): Mya could step aside
+and Phelloden could take it because THERE WAS NO LAW TO BREAK. Aer'Raenal could
+be convinced rather than defied. And Phelloden is not merely more willing — he
+is doing the apprenticeship, studying maps, treaties and Faelyn's relationships
+with neighbouring kingdoms. Under this rule Mya's deliberate choice and the
+correct answer coincide.
+THE SHARPEST DETAIL IS ALREADY IN THE UNLIT OUTLINE: the heir's training is
+sitting in on trade meetings with Hellar emissaries about trade routes — the
+Wood Elf–Dark Dwarf relationship, still running after twenty-four centuries, and
+still the central foreign relationship of the kingdom. Mya found deadening the
+exact thing that made her family a dynasty.
+
+WHY A MILITIA AND NOT AN ARMY
+A kingdom twenty-four centuries old with a permanent hostile neighbour maintains
+no standing army, and should not. The raid cycle is PERIODIC, NOT CONTINUOUS, so
+a standing force would sit idle for decades at a stretch, and the Ingenuity
+gates require surplus to support specialists. Wood Elf metalworking is a magical
+profession producing goods that are rare and significant rather than everyday
+(see Races), so they could not equip one regardless.
+What evolved fits the threat exactly: a body that can be called up quickly and
+dissolved, with one permanent office at the top to call it. FAELYN'S CROWN IS
+PERMANENT PRECISELY BECAUSE ITS ARMY IS NOT — the king is the standing part of a
+non-standing army. The muster is the oldest continuous practice in Faelyn, older
+than the throne that calls it.
+
+THE CROWN AND THE GUARDIANS — TWO JURISDICTIONS THAT NEVER MET
+Confirmed lore states the Guardians predate Faelyn and sit outside normal Wood
+Elf society structure because there was no king to ask. The founding chain makes
+this structural rather than accidental. The crown grew out of the raid cycle and
+the haul road, BOTH OF THEM CONCERNING WHAT COMES FROM OUTSIDE THE FOREST. The
+Guardians' duty is to one tree inside it, concerning a threat that is not
+external at all.
+Two jurisdictions that never overlapped once in twenty-four centuries — until
+the thing coming down from the Tempest Peaks was coming for the tree.
+
+BEARING ON THE ELF WAR (387–392 AW)
+Existing lore confirms Diquyk drove at the capital from the first day and nobody
+on the Wood Elf side knew why. The founding chain adds two things.
+FIRST — THE EXPLANATION WAS IN THE ROOM AND INERT. The Guardians knew what the
+chamber was for. That tells you nothing about who wants it unless you also know
+the Abaculus is in play and that an enemy has learned the chamber exists, and
+neither was available to anyone in Faelyn. Adomorn identified Diquyk as a Magni
+and nothing beyond it. Nobody connected the war to the Oak because nobody held
+enough of the surrounding picture to see the connection as relevant. WHEN, IF
+EVER, THE GUARDIANS WORKED IT OUT IS DELIBERATELY OPEN — see Open_Questions.
+SECOND — THE INSTITUTION WAS PERFECTLY FITTED TO THE WRONG WAR. Crown, muster
+and magical advantage together form a machine built across twenty-four centuries
+to beat exactly one enemy: predictable, periodic, downhill, from one direction,
+carrying no magic. In 387 AW the Abaculus sent something continuous, two-front,
+five years long, carrying enchanted weapons, and able to intercept and redirect
+the elves' only advantage. Confirmed lore already states Diquyk was the first
+force in Giant history capable of neutralizing that advantage. The same sentence
+describes what he did to Faelyn.
+
+================================================================================
 NUSUL — THE LOST KINGDOM
 ================================================================================
 
@@ -482,6 +697,15 @@ Ellendale: Central-west Alios. Plains Elves. Played a key role in overthrow
   of Tarik alongside the Herringers. Ruler undeveloped.
 Faelyn: Western arm of Alios. Wood Elves. Capital: Caldalus.
   Home of Guardians of the Tree. Mya Li is from Faelyn.
+  Ruler: King Aer'Raenal Liaphyra. Heir: Phelloden Liaphyra.
+  NO FOUNDING DATE EXISTS — the crown accreted out of the Giant raid muster
+  across the 2nd Epoch rather than being established. First holder of the
+  office: Keerla Ervyre, from roughly year 50. The Liaphyra are not the
+  founding line. Succession is formally by designation and practically
+  hereditary, which is why Mya could step aside for Phelloden without breaking
+  any rule. Faelyn maintains a militia rather than a standing army. The name
+  "Faelyn" is modern; the 2nd Epoch polity was called something else,
+  UNDEVELOPED. See FAELYN — THE FOUNDING above.
 Hellar: Underground city in Forbidden Peaks, western arm of Alios. Dark Dwarves.
   Effectively blinded by daylight without protection. Founded years 41/54 of the
   2nd Epoch — see WESTERN ALIOS founding history above. Governed by a moot older
@@ -974,13 +1198,16 @@ Year 0:    The races wake scattered across their home regions — adults only,
            strength from the first season.
 Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
            of Olum begin expanding outward from that location over the following
-           centuries. Adomorn begins building Heaven's Oak chamber with Wood
-           Elves, at the settlement that will become Caldalus — the chamber sits
-           in what becomes the capital, not in a remote place. Chooses fewer
-           than 10 Wood Elf families as Guardians of the Tree, the first members
-           being the heads of those families. The Guardians therefore predate
-           the Wood Elf kingdom itself, which is why they sit outside normal
-           Wood Elf society structure.
+           centuries. Adomorn selects HEAVEN'S OAK — an enormous ancient tree
+           already standing, chosen for the ambient masking its living mass
+           supplies — and begins building the containment chamber INSIDE ITS
+           TRUNK. A Wood Elf gathering had already formed around the tree,
+           because an enormous tree is the most findable thing in dense forest;
+           the capital grows around the same tree later. Chooses fewer than 10
+           Wood Elf families as Guardians of the Tree from those living there,
+           the first members being the heads of those families. The Guardians
+           therefore predate the Wood Elf kingdom itself, which is why they sit
+           outside normal Wood Elf society structure.
 20-80:     WESTERN ALIOS: consolidation phase. The Wood Elf ADULT population is
            flat until roughly year 45 — children are born throughout, but no new
            claimants to land or leadership arrive, so there is no scarcity and
@@ -999,6 +1226,19 @@ Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
            Stone Giants. The Giants come downhill under population pressure.
            The elves answer with magic. A permanent stalemate forms that
            neither side can break, and the Stone Giant raid cycle begins.
+~50:       WESTERN ALIOS: KEERLA ERVYRE takes up coordination of the Wood Elf
+           defense against the Giant raids. The office that becomes the crown
+           of Faelyn begins here, though nobody calls it one and no founding is
+           recognized. She holds it for roughly a century, through several raid
+           cycles. See FAELYN — THE FOUNDING above.
+~100-150:  WESTERN ALIOS: the Dark Dwarves, needing a counterparty whose word
+           binds the whole forest, begin treating the Wood Elf muster
+           coordinator as a sovereign. The Wood Elves decline to correct them.
+           The Tecali word for the holder of a WORKING is applied to the office
+           and sticks. No Wood Elf record of any of this is made.
+           Keerla's death, and the question of who answers the next muster and
+           honours the dwarven agreements, is the actual founding of the
+           kingdom. It carries no date in Faelyn.
 Year 41:   WESTERN ALIOS: the Dark Dwarves sink the first deep shaft in the
            northern Forbidden Peaks. The first of Hellar's two founding dates
            — the crown's date.
@@ -1206,5 +1446,5 @@ Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
          around a Kobold's neck. Valindra walks the shore of her lake.
 
 ================================================================================
-END OF LANAMYR KINGDOMS & HISTORY — v006
+END OF LANAMYR KINGDOMS & HISTORY — v007
 ================================================================================

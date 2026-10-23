@@ -9,6 +9,148 @@ end of an entry when relevant, not at the top.
 
 ---
 
+## v007
+
+Faelyn gets a crown it never asked for, Heaven's Oak turns out to have been
+misrecorded, and the bible adopts a rule against kingdoms keeping one name
+forever.
+
+### Faelyn was never founded
+
+The Wood Elf kingdom had no founding anywhere in the bible — no date, no first
+monarch, no account of how a people who sorted themselves out by negotiation
+ended up with a throne, and no origin for the Liaphyra line. Roughly twenty-four
+centuries of monarchy sat unaccounted for between year 7 and Aer'Raenal.
+
+The answer is that there is no founding, and the absence is the fact rather than
+a gap in the record. Hellar has two founding dates, both kept exactly and argued
+over ever since. Faelyn has none. No crown was placed on anyone; the office
+accreted until outsiders were treating with a king and the Wood Elves saw no
+reason to correct them.
+
+It comes out of the Stone Giant raid cycle. A war leader raised for one
+emergency goes home afterward, but the stalemate with the Giants is permanent,
+so the function never lapses and the leader becomes an office. The memory
+asymmetry is what makes it stick: both sides meet strangers each cycle, but only
+the Giants forget. Their knowledge of how the last one went dies with them,
+while the elf who learned it is still holding the muster a century later.
+KEERLA ERVYRE took up that coordination around year 50 and held it for roughly a
+century, and across that span "when she calls, people come" hardened into "when
+she calls, people must come" without anyone voting on it.
+
+The Dark Dwarves finished the job. They arrived with a proposition and spent
+decades making bargains that held only in the valley where they were struck, so
+they went looking for whoever the elves obeyed. They did not find a kingdom —
+they needed one and addressed one into existence. The title they used was their
+own word for the holder of a working, the only category they had for one voice
+with no appeal, which was right about the authority and wrong about the
+duration: a working ends, and the raid cycle does not. "King of Faelyn" in the
+present day is a translation of a translation.
+
+Faelyn's founding record is therefore in a foreign language and lives in
+somebody else's archive. The Wood Elves wrote nothing down, because a people who
+can personally remember three centuries treat the past as testimony rather than
+history.
+
+Two consequences fall out of this for the present day. Succession in Faelyn is
+by designation rather than birth order — practically hereditary only because a
+250-year lifespan makes a hundred-year apprenticeship possible, and an
+apprentice of that standing is almost always kin. That is why Mya could step
+aside for Phelloden without breaking any rule and why Aer'Raenal could be
+convinced rather than defied. And Faelyn fields a militia rather than a standing
+army because the raid cycle is periodic, which makes the crown the standing part
+of a non-standing force.
+
+Which sets up the Elf War. Crown, muster and magical advantage together are a
+machine built across twenty-four centuries to beat one enemy — predictable,
+periodic, downhill, from one direction, carrying no magic. In 387 AW the
+Abaculus sent something continuous, two-front, five years long, carrying
+enchanted weapons, and able to redirect the elves' only advantage. The
+institution was perfectly fitted to the wrong war.
+
+### The crown and the Guardians never met
+
+The Guardians were founded in year 7, before any authority spanning the whole
+forest existed. The crown, when it came, grew out of the raid cycle and the haul
+road — both of them concerning what comes from outside the forest. The
+Guardians' duty is to one tree inside it. Two jurisdictions that never once
+overlapped, until the thing coming down from the Tempest Peaks was coming for
+the tree.
+
+An earlier draft of this session claimed the Guardians knew what Diquyk was
+after and could not say so. That overreached and was cut. Nothing establishes
+that they knew. What they had was half a fact — knowing what the chamber was for
+explains nothing without also knowing the Abaculus was in play and that an enemy
+had learned the chamber existed, and neither was available to anyone in Faelyn.
+The explanation sat in the capital, inert. When and whether the Guardians ever
+worked it out is left open, since their recorded vigilance against the Elf War
+threat admits both readings.
+
+### Heaven's Oak, corrected
+
+The bible recorded the containment chamber as sunk into the earth at the foot of
+a great tree. That was a recording error from an earlier session. The chamber is
+inside the trunk — cylindrical, roughly thirty feet by thirty, beginning a short
+way below ground and rising into the tree, with a hidden entrance that runs
+underground and surfaces among the roots.
+
+Heaven's Oak itself is a natural tree and nothing more: ancient and enormous,
+roughly seventy feet across and three hundred tall, standing among central
+forests full of very large trees rather than alone on a plain. Its value to
+Adomorn is that a life form of that mass emits a great deal of the ambient
+energy that masks the Abaculus. He fashioned the chamber's interior himself as a
+second shielding layer, so the concealment is two mechanisms stacked — noise
+outside, isolation within.
+
+This relocates the anomaly rather than removing it. Building inside a tree is
+exactly what Wood Elves do, so from outside there is no structure to notice. The
+technological island is Drasu knowledge sealed inside a familiar shape, which is
+far better cover than a visibly foreign building would have been.
+
+It also corrects who was chosen and why. Adomorn chose the tree, not the
+settlement. A gathering had already formed at the Oak because an enormous tree
+is the most findable thing in dense forest — the same property that made it
+valuable to him. The Guardian families were chosen for proximity; their
+prominence came afterward, from the capital growing around the same tree. He
+could not have had the cover without eventually getting the city on top of it.
+
+### Kingdoms do not keep one name forever
+
+Adopted as a standing convention. Harrad is the proven case: its territory
+became Kimora, Ellendale and Fardar only after 2165, so those names did not
+exist before the collapse that made them. This extends a principle the bible
+already held for languages, where Andari is noted as a present-day name the
+early Northmen would not have used.
+
+Present-day names used for earlier epochs are therefore authorial shorthand, not
+in-world names. The 2nd Epoch Wood Elf polity was not called Faelyn, and both
+its name and the event that eventually attached the modern one are left
+undeveloped, as are early names everywhere else. The purpose is to keep the
+world from reading as static — a place called the same thing for twenty-four
+centuries has had nothing happen to it.
+
+### Carried forward
+
+Trade specifics between Wood Elves and Dark Dwarves are deliberately not
+pursued. A draft had a dated founding agreement in year 162; it was discarded.
+All that is needed for now is ongoing trade and a positive relationship evolving
+across centuries, with detail deferred until a generalized timeline for the
+kingdoms of Lanamyr exists.
+
+Still open and newly load-bearing: the Tecali word for a working, which now
+carries weight in both Hellar's governance and Faelyn's crown; the Aiwiya word
+for the office, which may not mean "king"; when the Liaphyra line took the crown
+and from whom; and when the Wood Elves began keeping written records, which they
+must have done by the present day, since Mya and Phelloden study written
+histories in Caldalus.
+
+The three western Alios threads raised this session but not chosen remain open:
+the Stone Giants, Hellar's unfinished business, and the Kuldor merge. Sky
+Gnomes, Plains Elves and the Ice Dwarves' years 0 to 221 are still the standing
+next targets.
+
+---
+
 ## v006
 
 Hellar gets a founding, the western arm gets a coastline, and a port city that

@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v006
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v007
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -14,6 +14,22 @@ mentioned in multiple places (e.g. a character entry and a story outline).
 ================================================================================
 NEXT SESSION — REQUESTED BY THE USER
 ================================================================================
+
+STATUS AFTER v007: the user again chose to stay in western Alios and built THE
+FOUNDING OF FAELYN — the origin of the Wood Elf crown, Keerla Ervyre, the
+designation-based succession, the militia question, and the relationship between
+the crown and the Guardians. Heaven's Oak was corrected (chamber inside the
+trunk, not at its foot) and a standing convention on epoch-appropriate kingdom
+names was adopted. SKY GNOMES, PLAINS ELVES and ICE DWARVES (years 0–221) all
+remain untouched and are still the standing next targets.
+WESTERN ALIOS THREADS STILL OPEN after v007, raised with the user and not
+chosen this session: the STONE GIANTS (language, appearance, clan structure, the
+raid cycle as an institution, and whether Low cohesion permits them to sustain a
+trading relationship with the Ice Dwarves after 221); HELLAR'S UNFINISHED
+BUSINESS (whether the Moot/crown tension ever broke, the first king, Tecali
+names — now load-bearing for Faelyn too — the etymology of "Hellar," the steppe
+herd animal); and KULDOR AND THE MERGE (what forced the Dark Dwarf northern
+settlements together and when, plus how a non-race city governs itself).
 
 STATUS AFTER v006: the user chose to build HELLAR first instead, and then
 pivoted to KULDOR and the Ice Dwarf expeditions of 221. SKY GNOMES are the
@@ -47,6 +63,91 @@ but not permanent; resolve conflicts case by case.
 ================================================================================
 OPEN QUESTIONS / UNDECIDED LORE
 ================================================================================
+
+REGION AND KINGDOM NAMES ACROSS EPOCHS:
+- RESOLVED (v007) — STANDING CONVENTION ADOPTED. Kingdoms and regions do not
+  keep one name for millennia. Present-day names used for earlier epochs in this
+  bible are AUTHORIAL SHORTHAND, not in-world names of that era. Early names are
+  left UNDEVELOPED and assigned when the event that earns each one is built.
+  Recorded at the head of Kingdoms_History. Extends the principle the bible
+  already held for languages (the Andari note in the Race Appearance Table).
+  Harrad is the proven case — its territory became Kimora, Ellendale and Fardar
+  only after 2165.
+- UNDEVELOPED: the 2nd Epoch name of the Wood Elf polity, and the event that
+  attached the name "Faelyn."
+- UNDEVELOPED: 2nd Epoch names for central Alios before Harrad, and for every
+  other region as it is built.
+- UNDEVELOPED: whether "Caldalus" is also a later name.
+- NOTE: if this convention is to bind future sessions it belongs in
+  SESSION_INSTRUCTIONS.md, which takes effect the following session.
+
+FAELYN — THE FOUNDING (built v007):
+- RESOLVED: FAELYN WAS NEVER FOUNDED. There is no founding date and the absence
+  is the fact, not a gap. The crown accreted out of the office that coordinated
+  defense against the Stone Giant raid cycle. Deliberate inversion of Hellar,
+  which has two exact dates argued over for twenty-four centuries.
+- RESOLVED: the Wood Elves kept no records of the period. A people who live 250
+  years treat the past as testimony rather than history. What firm dating exists
+  sits in Tecali records in Hellar.
+- RESOLVED: KEERLA ERVYRE is the first holder of the office, from roughly year
+  50 of the 2nd Epoch. She is NOT a Liaphyra.
+- RESOLVED: the Dark Dwarves effectively created the crown by needing a
+  counterparty whose word bound the whole forest, and the Wood Elves declined to
+  correct them — the same cultural habit the Guardians use to conceal the Oak.
+  The title is the Tecali word for the holder of a WORKING, which was right
+  about the authority and wrong about the duration.
+- RESOLVED: succession is formally by designation and practically hereditary, an
+  artifact of apprenticeship length under a 250-year lifespan. No Harrad-style
+  firstborn rule. This is why Mya could step aside for Phelloden.
+- RESOLVED: Faelyn fields a militia rather than a standing army because the raid
+  cycle is periodic. The crown is the standing part of a non-standing force.
+- RESOLVED: the memory asymmetry of the raid cycle runs ONE WAY. The Wood Elves
+  face a new ignorant Giant generation each cycle; the Giants face the same
+  person who beat their great-grandfather.
+- UNDEVELOPED: the Aiwiya word for the office, which may not mean "king."
+- UNDEVELOPED: the Tecali word for a WORKING, now load-bearing in two places —
+  Hellar's governance and Faelyn's crown.
+- UNDEVELOPED: the dwarven rendering of Keerla Ervyre's name, under which the
+  wider world would know her. TENTATIVE that such a divergence exists at all.
+- UNDEVELOPED: when the Liaphyra line took the crown, and from whom. The crown
+  has changed lines several times across twenty-four centuries.
+- UNDEVELOPED: when Aer'Raenal took the throne.
+- UNDEVELOPED and needed before the present day: WHEN THE WOOD ELVES BEGIN
+  KEEPING WRITTEN RECORDS. Mya and Phelloden study written histories of Faelyn
+  in Caldalus, so records exist by 432 AW. Not critical now; flagged so it is not
+  forgotten.
+- DELIBERATELY NOT PURSUED per the user: specifics of individual trade
+  agreements between Wood Elves and Dark Dwarves. All that is needed for now is
+  ongoing trade and a positive relationship, evolving continuously across
+  centuries. The earlier draft's dated founding agreement (year 162) is
+  DISCARDED. Revisit only once a generalized timeline for the kingdoms of
+  Lanamyr exists.
+
+HEAVEN'S OAK — CORRECTED (v007):
+- CORRECTED: the chamber is INSIDE THE TRUNK of Heaven's Oak, not sunk into the
+  earth at the foot of the tree. The earlier description was a recording error
+  from a prior session and has been removed from Geography and Kingdoms_History.
+- RESOLVED: Heaven's Oak is a natural tree, ancient and enormous — roughly 70
+  feet in trunk diameter and 300 feet tall. Nothing supernatural about it. Its
+  value to Adomorn is that a life form of that mass emits a great deal of the
+  ambient energy that masks the Abaculus.
+- RESOLVED: the central forests of Faelyn are full of very large trees. The Oak
+  is the greatest of a class rather than a lone giant, which helps conceal it.
+- RESOLVED: the chamber is cylindrical, roughly 30 by 30 feet, beginning a short
+  way below ground and rising into the trunk. Its entrance runs underground from
+  elsewhere and surfaces among the roots; nothing at ground level marks it.
+- RESOLVED: the interior was fashioned by Adomorn himself as a second shielding
+  layer isolating the Abaculus from detection, independent of the tree's own
+  masking. Two mechanisms stacked.
+- RESOLVED: ADOMORN CHOSE THE TREE, NOT THE SETTLEMENT. A gathering had already
+  formed at the Oak because an enormous tree is the most findable thing in dense
+  forest. The Guardian families were chosen for PROXIMITY; their prominence
+  followed from the capital growing around the same tree.
+- RESOLVED: the anomaly is the TECHNIQUE, not the location. Building within a
+  tree is what Wood Elves do, so the chamber is invisible from outside. Better
+  concealment than a visibly foreign structure.
+- OPEN: whether Adomorn foresaw that choosing the best cover in the region would
+  guarantee a capital city growing on top of it.
 
 WESTERN ALIOS FOUNDING HISTORY (2ND EPOCH 0–221):
 - RESOLVED: the full chain of events in Kingdoms_History was reviewed and
@@ -280,10 +381,13 @@ RACE TRAIT FRAMEWORK:
   history. No crossover dates are assigned.
 
 REAL-WORLD REFERENCES IN THE BIBLE:
-- UNDECIDED. Three real-world comparisons currently exist: Geography (Alios and
+- UNDECIDED. Five real-world comparisons currently exist: Geography (Alios and
   Edura joined "similar to how Europe and Asia are"), Races (Jokul "similar to
-  Hawaii"), Races (Hillfolk "equivalent to real-world humans"). All three are
-  explanatory asides to the author rather than in-world lore prose.
+  Hawaii"), Races (Hillfolk "equivalent to real-world humans"), and two added in
+  v007 in the Heaven's Oak entry (the Everest/Himalayas scale comparison and the
+  Faraday cage description of the chamber interior). The two v007 additions are
+  explicitly marked AUTHOR'S CALIBRATION NOTE, not in-world prose — a working
+  application of the proposed rule below.
 - Proposed rule, NOT YET ADOPTED: no real-world references in lore prose;
   calibration notes to the author permitted and marked as such. The alternative
   is a blanket ban, which would require removing the three above. A decision
@@ -625,6 +729,17 @@ GUARDIANS OF THE TREE:
   undeveloped. Presumably a fallback within the line before outside anointment.
 - Rituals, founding family names: undeveloped.
 - Current threat assessment in 432 AW: undeveloped.
+- OPEN (v007) — WHAT THE GUARDIANS KNEW ABOUT THE ELF WAR, AND WHEN. Nothing in
+  the bible states they understood Diquyk's objective. They knew what the chamber
+  was for, which explains nothing on its own without also knowing the Abaculus
+  was in play and that an enemy had learned the chamber existed — neither of
+  which was available to anyone in Faelyn. Adomorn identified Diquyk as a Magni
+  and nothing beyond it.
+  However, the Guardians entry describes them as "still vigilant against Elf War
+  threat," which implies they regard the chamber as having been the target and
+  still at risk. That may be permanent duty-vigilance, or hindsight arrived at
+  after the attacks stopped at the capital's doorstep. DELIBERATELY LEFT OPEN.
+  The two readings produce very different Guardians in the present day.
 - LIVE HOOK: the widely held Wood Elf belief that Heaven's Oak may unlock
   memories of a lost age is exactly the kind of rumor the Var Harma exist to
   chase — an organization already hunting artifacts of power and already
@@ -719,5 +834,5 @@ MAP NOTES:
   Swamp Giants, Trolls (Forest, Moss, Desert).
 
 ================================================================================
-END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v006
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v007
 ================================================================================

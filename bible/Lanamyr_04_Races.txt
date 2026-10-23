@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v006
+LANAMYR WORLD BIBLE — RACES — v007
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -713,6 +713,16 @@ boundary between them, and it is a substantial part of why the Dark Dwarves
 eventually came north looking for timber at all. See Kingdoms_History, THE
 BINDING TRADE.
 
+THE CROWN (see Kingdoms_History, FAELYN — THE FOUNDING): the Wood Elf monarchy
+was never founded. It accreted out of the office that coordinated defense
+against the Stone Giant raid cycle, beginning with Keerla Ervyre around year 50
+of the 2nd Epoch, and was recognized as a crown first by the Dark Dwarves, who
+needed a counterparty whose word bound the whole forest. The Wood Elves declined
+to correct them. Succession is formally by designation and practically
+hereditary, an artifact of the length of apprenticeship a 250-year lifespan
+permits. Faelyn fields a militia rather than a standing army, because the raid
+cycle is periodic and the crown is the standing part of a non-standing force.
+
 HEAVEN'S OAK IN WOOD ELF BELIEF: the Oak stands at the center of Caldalus and
 its true purpose is unknown to all but the Guardians of the Tree. Many Wood
 Elves hold some variation of the belief that it is the seed of their creation,
@@ -1016,5 +1026,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v006
+END OF LANAMYR RACES — v007
 ================================================================================

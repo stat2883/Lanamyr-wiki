@@ -1,0 +1,456 @@
+================================================================================
+LANAMYR WORLD BIBLE — GEOGRAPHY — v007
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Races, Kingdoms_History,
+Characters_Items, Stories_Outlines, Open_Questions. Confirmed lore is locked;
+tentative lore is flagged and subject to change. All map borders are
+approximations defined by natural geographic features.
+
+================================================================================
+GEOGRAPHY AND WORLD STRUCTURE
+================================================================================
+
+CONTINENTS:
+Lanamyr has three major continents. Alios and Edura are joined by land and
+together form one large landmass. Utoa is the only major continent not connected
+to the others — it is entirely surrounded by ocean. All other landmasses are
+islands of varying size.
+
+ALIOS:
+The largest continent. Dominates the northern and central portion of the world.
+Has a large northern peninsula (Andar), a western arm containing the Forbidden
+Peaks and Tempest Peaks, and an eastern extension toward the Westwind Mountains.
+Central Alios is predominantly Deciduous and Mixed Forest, transitioning to
+Steppes and Cool Desert in the east. The western arm receives high rainfall and
+contains dense forests. The northern regions are cold, with the Tarantar
+Mountains being the highest and coldest range in Lanamyr.
+
+EDURA:
+Considerably smaller than Alios. Connected to Alios via the Blackwing Hills
+land corridor in the southwest — geographically similar to how Europe and Asia
+are separate continents but joined by land. Northern Edura is tropical rain
+forest, home to T'sarra and the ruins of Atral. Central Edura contains the
+Void Sands desert. Southern Edura cools progressively toward tundra at its
+southern tip.
+
+UTOA:
+The only isolated major continent, surrounded entirely by ocean. Has a prominent
+east-west mountain range — the Desolate Tops — of very high elevation. Northwestern
+Utoa is Steppes and Cool Desert terrain, home to Felgard. Eastern Utoa contains
+the Evergreen Strand. Southern Utoa reaches Polar Ice and Polar Desert at its
+extreme southern end.
+
+MAJOR GEOGRAPHIC FEATURES — ALIOS:
+- Tarantar Mountains: Northern Alios, running east-west. The tallest mountain
+  range in Lanamyr — peaks reach extreme elevation (gray on elevation map).
+  Cold Parklands and Boreal biomes. Home of The Deep (Dark Elf underground
+  kingdom) and Cave Gnomes beneath the mountains.
+- THE WESTERN ARC (confirmed; verified against Lanamyr_Features.jpg and
+  Lanamyr_Biomes.jpg in session v006): the Forbidden Peaks, the Darkened Slopes
+  and the Tempest Peaks are not three separate features. They form ONE
+  CONTINUOUS HIGHLAND ARC running along the outer west and north coast of the
+  western arm, and the Wood Elf forest sits in the bowl enclosed by it. The arc
+  runs dry at its southwest end and grades wetter and colder to the northeast —
+  thorn scrub, then steppe, then boreal moist forest. Dark Dwarves hold the
+  southwest end, Stone Giants the north end, Wood Elves the interior bowl.
+  Along much of the western coast the range comes close to the sea, leaving
+  only a narrow coastal shelf between the cliffs and the water. See
+  Kingdoms_History for the consequences of this geometry, which include the
+  fact that the Dark Dwarves and Stone Giants never met during the founding era.
+- The Tempest Peaks: Northern end of the western arc, along the north coast of
+  the western arm. Significant elevation. Origin of Stone Giants. High rainfall,
+  tundra at peaks.
+- The Darkened Slopes: The middle stretch of the western arc, running northeast
+  up the west coast from the Forbidden Peaks toward the Tempest Peaks. Boreal
+  moist forest along the northern slopes and inland to the east — the timber
+  the Dark Dwarves stripped in the first century of the 2nd Epoch. Thinly
+  settled. The great east-west road crosses this stretch to reach the coast at
+  Kuldor, and that crossing is the most dangerous leg of the route.
+- The Forbidden Peaks: Southwest end of the western arc. Home of Hellar,
+  the Dark Dwarf underground kingdom.
+- The Black Mountains of Fardar: Central-eastern Alios, running east-west.
+  Divided into western/central bulk (Iron Dwarf territory, Kingdom of Fardar)
+  and eastern end (Tunneler Kobold origin territory). A river valley divides
+  the eastern and western halves — site of the ancient Draak settlement.
+- The Wandering Hills: Northeastern Alios, forming part of Kimora's border
+  with Fardar. Origin of Screecher Goblins.
+- Ash Mountains: Central Alios, running east-west. Form the southern border
+  of Kimora.
+- Monowi Hills: Small hills in central Alios, part of the natural border line
+  between Kimora and Ellendale. Location of the Monowi Inn.
+- The Westwind Mountains: Far eastern peninsula of Alios. Near the Gold
+  Dragonborne and Orc origin territories.
+- Blackwing Hills: The geological land connection between Alios and Edura.
+  Elevated but not dramatically so — hills rather than mountains, though
+  significant enough to form a clear continental boundary. Located between
+  the Void Sands of Edura to the east and the Obsidian Dragonborne swamp
+  region of southwestern Alios to the west.
+
+MAJOR GEOGRAPHIC FEATURES — EDURA:
+- Troll's Breath Mountains: Northern Edura, south of the ruins of Atral and
+  the Waywin River. Named after the Mountain Trolls who originated there.
+  Significant elevation — reads cooler than surrounding tropical terrain due
+  to altitude. Home of Mountain Troll underground caverns that connect into
+  the outer edges of the ruins of Atral.
+- The Void Sands: Central Edura. Hot desert, near-zero precipitation. Origin
+  of Sand Dwarves.
+- The Iron Peaks: Southern Edura. Origin of Woodland Gnomes nearby.
+- Blackwing Hills: See Alios entry above — straddles the Alios-Edura connection.
+- Waywin River: Major river running through northern Edura through the site of
+  the ruins of Atral. The city of Atral was built along this river.
+
+MAJOR GEOGRAPHIC FEATURES — UTOA:
+- The Desolate Tops: Central Utoa. Very high elevation, among the tallest
+  terrain in Lanamyr. Tundra biome.
+- The Barren Run: Utoa. Nature and description undeveloped.
+- The Evergreen Strand: Far eastern tip of Utoa. Mixed to Coniferous Forest
+  biome — the name reflects the green forested character of the strand amid
+  Utoa's otherwise harsher terrain. Origin of Hardback Kobolds.
+- Coldwind Mountains: Southern Utoa. Significant elevation.
+
+MAJOR GEOGRAPHIC FEATURES — ISLANDS:
+- Gleaming Spires: Remote far western island. Polar Ice biome. Snow-capped
+  peaks that catch sunlight from a distance and appear almost self-luminous —
+  as though generating their own light. The name derives from this effect.
+- Firethorn Peaks: Remote far western island. Contains multiple active
+  volcanoes. The name reflects the fiery volcanic character of the peaks.
+  Warmer biome tones due to volcanic activity despite southern latitude.
+
+RIVERS:
+Only major rivers are mapped at world scale. Countless unnamed rivers, streams,
+and lakes exist throughout Lanamyr — these will be developed as needed.
+- Waywin River: Northern Edura. Runs through the site of the ruins of Atral.
+
+CONTINENTAL BIOME SUMMARY:
+- Icefall: Polar Ice — extreme cold essential for Ice Forging
+- Northern Alios: Cold Parklands and Boreal — harsh and cold
+- Central Alios: Deciduous and Mixed Forests — fertile, temperate
+- Eastern Alios: Steppes to Cool Desert — drier, more arid
+- Western arm of Alios: Dense forest — high rainfall
+- Southern Alios: Warming toward Tropical Seasonal Forest
+- Northern Edura (T'sarra): Tropical Rain Forest — confirmed lush
+- Central Edura (Void Sands): Hot Desert — arid
+- Southern Edura tip: Tundra — cold and harsh
+- Utoa (northwest): Steppes and Cool Desert
+- Utoa (south): Polar Ice and Polar Desert
+- Snow Elf island: Polar Ice and Polar Desert — extreme cold
+- Malulo Archipelago: Tropical Rain Forest — warm and lush
+- Gleaming Spires island: Polar Ice
+- Firethorn Peaks island: Warmer due to active volcanism
+
+================================================================================
+KEY LOCATIONS
+================================================================================
+
+THE BURNT PLAINS: Vast swath of scorched, barren earth near ruins of Rohl,
+within Kimora. Beneath lies the Abaculus. At the very center sits Karma — now
+a golden-skinned Kobold — bound there by Greyhawk's dying curse. Lifeless after
+400+ years — the result of Greyhawk's immense corruption leaking into the ground
+as his body decayed after the Battle of Rohl. The landscape bears the physical
+scars of that battle: craters, outcroppings, and rubble from the clash of
+enormously powerful beings. Rainfall in the Burnt Plains is normal — the same
+as the surrounding fertile Deciduous Forest terrain of central Kimora. Rain
+falls and nothing grows. The lifelessness is not a product of drought or climate
+but of deep corruption that defies natural recovery. This makes it a visible
+anomaly on any biome or vegetation map — a dead patch surrounded by living land
+that receives the same rainfall. It was precisely this unnatural quality that
+drew Diquyk's curiosity in 383 AW. Adomorn, having been present at the battle,
+understands Greyhawk's corruption as the cause and has no reason to investigate
+further — it reads to him as a known scar. Hidden amongst the battlefield debris
+is a narrow burrow or crawl space leading underground — small enough that only
+a slight person could enter, up to 30 meters long, concealed among rubble and
+outcroppings. The Abaculus subtly influences anyone who comes close to this
+entry point to turn away. It guided Diquyk through it and into the purpose-built
+chamber beneath, constructed by Greyhawk during the Great War.
+
+CALDALUS: Capital of Faelyn, in the forested lowlands of the western arm of
+Alios. The first and largest Wood Elf city. Built in both canopy and ground
+construction, and in the present day a great deal of it sits high among the
+trees — intricate, very well-built structures linked by networks of walkways
+and bridges between the larger trees left standing.
+THE TREE CHOSE THE SITE (confirmed, v007): Heaven's Oak was already standing,
+and the gathering settlement Adomorn walked into in year 7 of the 2nd Epoch had
+already formed around it. He chose the tree, not the settlement; the Wood Elves
+there were simply the ones at hand, and the Guardian families were drawn from
+them. Caldalus grew up around the Oak, and therefore around the chamber built
+inside it. The Guardian lines are founding families of the capital as a
+consequence of having lived near a particular tree.
+WHY A GATHERING WAS ALREADY THERE: the Wood Elf scatter phase is a problem of
+finding one another in terrain that limits sight and travel (see
+Kingdoms_History). An enormous tree is the one thing in a forest that everyone
+can find. The same property that made the Oak valuable to Adomorn — its sheer
+living mass — made it the natural centre of a gathering, and ultimately of a
+kingdom.
+THE IRONY: Adomorn could not have had the one without the other. He selected
+the best available cover in the region and in doing so guaranteed that a
+capital city would eventually grow on top of the most dangerous chamber in
+Lanamyr. Whether he foresaw this is UNDEVELOPED.
+See Kingdoms_History, Year 7.
+The mixed character was never a decision. Gathering and hauling the material
+needed to build in the canopy produced large clearings as a byproduct, and
+those clearings were then built into. The city became half canopy and half
+ground one hauling road and one staging yard at a time, across centuries, while
+the people building it believed they were being careful.
+ORDER OF CONSTRUCTION (confirmed): the canopy came FIRST. The earliest Wood
+Elf structures were built in the treetops, and ground construction followed
+only after expansion had cleared the ground to build on. Caldalus did not begin
+at ground level and grow upward; it began above and came down.
+This gives Caldalus a visible geology, and it runs opposite to what a visitor
+would assume. Its OLDEST work is its canopy. The open ground districts are the
+LATER layer, opened as expanding canopy settlements demanded ever greater
+quantities of timber and then built into once the ground stood clear.
+No guilt attaches to this. The Wood Elves understood from the outset that
+living in the forest meant taking from it, and they treated the clearings as a
+cost to be accounted for rather than a wrong to be regretted. What the growth
+of Caldalus produced was not shame but practice — the formalization, around
+years 30 to 60 of the 2nd Epoch, of what may be taken and what is owed back.
+The Wood Elves live long enough to have watched the city change, and they
+regard its open districts plainly: this is what it took to build here.
+See Races for the inherited caretaker disposition and for the replanting
+carried out by smaller settlements at the forest edges.
+The city's great building age followed the arrival of Dark Dwarf tools (roughly
+years 100 to 150 of the 2nd Epoch). Good metal edges transformed felling,
+shaping, and joinery. The restraint ethic was already established by then,
+which is the only reason the forest survived the expansion.
+See Races for Wood Elf canopy architecture and the minimal-impact philosophy.
+
+HEAVEN'S OAK: Central feature of Caldalus, capital of Faelyn, containing a
+chamber built under Adomorn's instruction in year 7 of the 2nd Epoch. Three
+purposes: physical containment of Abaculus, masking its presence from Creatures
+of Olum, and preventing it from acting as a universal beacon detectable by all
+Irridae. Intact. Never held the Abaculus. Protected by the Guardians of the
+Tree. Its true purpose is not widely known outside the Guardians in the present
+day.
+
+THE TREE ITSELF (confirmed, v007): Heaven's Oak is an ancient oak of
+extraordinary size — approximately 70 feet in trunk diameter and approximately
+300 feet tall. It is a natural tree. Nothing about it is supernatural, magical
+or created; it is simply very old and very large.
+WHY ADOMORN CHOSE IT: ambient energy is generated by all living things and
+collectively masks the Abaculus (see Overview_Cosmology). A life form of this
+mass emits a great deal of that noise. Adomorn selected the Oak for the cover
+its sheer living bulk provides — a loud place to hide a quiet thing.
+IT IS NOT UNIQUE, ONLY GREATEST. The central forests of present-day Faelyn are
+full of very large trees. Heaven's Oak stands above them, but its neighbours
+are themselves massive. AUTHOR'S CALIBRATION NOTE, not in-world prose: the
+relationship is Everest to the Himalayas rather than a single giant on a plain.
+This matters for concealment — the Oak is the largest of a class, not an
+inexplicable anomaly demanding explanation.
+
+THE CHAMBER (confirmed, v007 — SUPERSEDES the earlier "sunk into the earth at
+the foot of the tree" description, which was a recording error):
+The chamber is INSIDE THE TRUNK. It is cylindrical, set in the centre of the
+trunk, approximately 30 feet wide and 30 feet tall, beginning a short distance
+below ground level and extending up into the tree. The Oak is alive and
+undamaged; the chamber occupies the heart of it.
+THE ENTRANCE IS HIDDEN. It does not open at the base of the trunk. It runs
+underground from elsewhere and comes up beneath the tree among the roots.
+Nothing at ground level marks it.
+THE INTERIOR WAS FASHIONED BY ADOMORN HIMSELF as a second shielding layer,
+isolating the Abaculus from detection independently of the tree's own masking.
+AUTHOR'S CALIBRATION NOTE, not in-world prose: the intended function is a
+Faraday cage. The tree supplies ambient noise; the chamber interior supplies
+isolation. Two different mechanisms stacked.
+CONSEQUENCE FOR CONCEALMENT: from outside, Heaven's Oak looks like exactly what
+a Wood Elf landmark should look like — an enormous tree in a forest of enormous
+trees. There is no structure to notice. See Kingdoms_History, Year 7, for why
+this makes the chamber a technological island of a different kind than
+previously recorded.
+
+WHAT THE WOOD ELVES BELIEVE (confirmed): as Caldalus grew, the proportion of
+its people who knew anything true about the Oak shrank steadily, and the
+Guardians kept the secret. After several generations the Oak was simply
+accepted — no longer a thing requiring explanation. In the absence of one, the
+Wood Elves supplied their own. Many hold some variation of the belief that
+Heaven's Oak is the seed of the Wood Elves' creation, and that it may hold the
+key to unlocking the memories lost from before. None of this is true. The
+variations are many and no single orthodoxy exists.
+
+THE IRONY: the belief is wrong in every particular and correct in instinct. The
+Oak was built by the last living Drasu — the progenitor of the Wood Elves — to
+contain the object whose arrival at Atral shattered the Drasu and made them.
+It genuinely is bound up with their origin and with the thing that created
+them. They have the right tree and the wrong story, and they will not learn
+otherwise from the Guardians.
+
+THE COVER WAS NEVER INVENTED: the Guardians did not fabricate a story to
+conceal the chamber. Their people built one themselves, sincerely, and a
+sincere belief holds far better than any fabrication. The Guardians' entire
+concealment strategy amounts to declining to correct anyone.
+
+ATTEMPTS ON THE MEMORIES (confirmed): the methods tried at Heaven's Oak over
+the centuries are among the "methods tried" referenced in the Sundering memory
+passage — see Overview_Cosmology. None reach beyond the boundary. The Guardians
+know with certainty that none ever will, and stand watching their own people
+try anyway.
+
+TIMING NOTE: this mythology takes several Wood Elf generations to settle, and a
+generation runs 75 to 80 years. It belongs to roughly year 250 of the 2nd Epoch
+onward. Through the founding era of years 0 to 221 the Oak is recent history
+rather than legend — see Kingdoms_History, Year 7. The Abaculus learned of this
+chamber through Greyhawk's memories at the moment of his corruption in year
+2136, 2nd Epoch. Knowledge of the chamber's existence and purpose is what
+directed the Abaculus to use Diquyk to wage war on Faelyn — breaking the
+Guardians and compromising the chamber was a strategic priority before Diquyk
+pursued the larger mission.
+
+THE NEXUS: Deep cavern in a remote part of Myst. Central hub for all Jaunt
+Gates. Diquyk's records remain here. Discovered by Galstaff Quint.
+
+ATRAL (RUINS): First and greatest Drasian city, built along Waywin River on
+Edura. A vast sprawling city with both above ground and underground sections.
+In the Sundering, the entire city was destroyed — above ground structures
+flattened, underground sections buried and largely lost to time. Home of the
+Drasian Vault (deep underground, at the center of the underground city).
+The High Elves of T'sarra discovered the ruins some years after the Sundering
+and began excavating. The site was contested by Mountain Trolls from the Troll's
+Breath Mountains to the south. Sand Dwarves eventually allied with the High
+Elves and pushed the Trolls back. Centuries of excavation by the Var Harma have
+uncovered significant portions but much remains buried. Rumored present-day
+headquarters of the Var Harma.
+
+ROHL (RUINS): Former capital and largest city of Harrad. Within present-day
+Kimora. Palace destroyed during the Great War. Locals avoid it.
+
+HERRINGTON: Mining town in Ash Mountains founded by Grimmon Herringer.
+Emerald mines. Future uncertain after Grimmon's death.
+
+BROLDENDUL: Town north of Herrington. Site of Orc raiding party attack (Orcs
+dressed as Kimoran soldiers). Home of the Four Crowns gang.
+
+ADENBURRY: Border town of Kimora near the Fardar border. In 430 AW a large
+sinkhole opened in the center of town when subterranean Creatures of Olum
+breached the surface. A vast excavation was discovered beneath. The nest was
+exterminated by a group of adventurers who were present at the time. Several
+buildings caught fire during the collapse. Wilward Cobbersplint's airship,
+which had landed in Adenburry, caught fire and tore in half as the ground gave
+way. Wilward remained in Adenburry to help the town rebuild and to reconstruct
+his airship. The Adenburry sinkhole event was not connected to the Abaculus —
+it was an independent natural Olum nesting occurrence.
+
+TOWER OF GRANNEL: Adomorn's base of operations in the present day.
+
+DRASIAN VAULT: Underground vault built by the Drasu at the center of the
+underground city of Atral on Edura. Contains records of the Irridae and the
+nature of Relics of Creation, along with the most valuable and most dangerous
+of the Drasu's holdings. Survived the Sundering intact. Located deep beneath
+centuries of debris and collapse — not easily reached.
+SEALED (CONFIRMED): The Vault has never been opened since the Sundering. It
+will open only in the presence of a Drasu. No amount of excavation, force, or
+ingenuity will breach it. Adomorn is the last surviving Drasu and therefore
+the only living being who can open it.
+Whether the Var Harma have located the Vault by 432 AW is undecided, but the
+question matters less than it once did — locating it and opening it are not
+the same problem. Adomorn is aware of their excavations at Atral and is
+untroubled by them, precisely because he knows they cannot get in. The dangerous
+knowledge is behind a door only he can open.
+
+MONOWI HILLS: A small section of hills in the natural border line between
+Kimora and Ellendale. The broader border between the two kingdoms is defined
+by an unnamed line of hills and small mountains running from the Ash Mountains
+in the south up toward the Tarantar Mountains in the north. This line has no
+single collective name. The Monowi Hills are one portion of that line — the
+area where Elsie Varis's farm and inn are located.
+
+MONOWI INN: A small inn built next to Elsie Varis's farmhouse in the Monowi
+Hills near the Kimora-Ellendale border. Officially called the Monowi Inn;
+frequent travelers simply call it "Elsie's place." One of the most well known
+and frequently visited stops along the road between Fardar and Faelyn. Run by
+Elsie Varis with her daughter Alita. See character entries for details.
+
+KULDOR: Port city on the west coast of the western arm of Alios, at the foot
+of the Darkened Slopes. One of the largest port cities and trading hubs in
+Alios, and the western terminus of the great east-west road.
+
+THE SETTING AND LAYOUT (confirmed): the coastal range runs close to the sea
+along this stretch, leaving a shelf of open ground roughly half a mile deep
+between the waterline and the cliffs. Kuldor occupies all of it. The port
+district fills that shelf — docks and warehouses at the water, then shops,
+inns and housing stretching back across the flat until the ground ends at a
+sheer vertical wall of rock. Set into that cliff face is a large and
+intricately carved stone entrance, worked to be seen from the whole length of
+the shelf. Through it the city continues, running back into the mountain and
+down below sea level. Everything past the threshold is Dark Dwarf work. It is
+nowhere near the scale of Hellar, but it is accomplished on its own terms, and
+for most travellers in Lanamyr it is the only Dark Dwarf architecture they will
+ever stand inside.
+THE ENTRANCE IS ADVERTISING. A people whose outsider disposition is
+transactional, and who are the only western Alios race that travels TO others,
+put a monumental carved threshold facing a working port. It is not decoration.
+It is the trade pitch, and it has been standing there doing its job for
+centuries.
+CUTTING BELOW SEA LEVEL beside an ocean is a feat, and exactly the sort of
+problem a people who perfect rather than invent across centuries would be good
+at and proud of. Hellar is deeper, but Hellar never had to keep the sea out.
+
+HISTORY: founded by the Ice Dwarf expedition of year 221, 2nd Epoch, after they
+declined to settle on the edges of Stone Giant territory further north and
+continued south and west along the coast to unoccupied ground. Some of the small
+Dark Dwarf northern timber settlements lay in the same region, and as both
+populations grew the two peoples developed a relationship, most likely through
+trade. Something later forced the Dark Dwarf settlements to merge into Kuldor
+for protection — CAUSE AND TIMING BOTH UNDEVELOPED; the Dragon Wars (1206–1214,
+2nd Epoch) are a strong candidate, and Stone Giants are another. Creatures of
+Olum have been ruled out for this event.
+WHAT THE MERGE COST HELLAR: Kuldor absorbed those settlements rather than the
+reverse. Hellar lost its entire northern presence in a single stroke and gained
+a permanent expatriate population living under someone else's roof. The Dark
+Dwarves of Kuldor live beside the sea and trade with five races daily; the Dark
+Dwarves of Hellar live far to the south at the bottom of a shaft. Same race,
+same language, two different lives.
+
+WHY IT GREW: Kuldor is a CHOKEPOINT, not a workshop. Ice Forged tools and
+weapons cannot be made here — the technique is locked to Icefall by its ore and
+its cold (see Races). Kuldor is the single mainland point where they reliably
+come ashore, and the only one Icefall controls. Sky Gnome inventions are the
+other pillar; Myst lies almost due west of the western arm at nearly the same
+latitude, making Kuldor the nearest mainland port to the Sky Gnomes and their
+natural gateway to the continent.
+AFTER NUSUL: Icefall lost its northern venture entirely in 268 and kept this
+one. From that point Kuldor is Icefall's only foreign holding.
+
+PRESENT DAY (432 AW): mostly Ice and Dark Dwarves, with sizeable populations of
+Sky Gnomes, humans and Wood Elves. Water Whisperer shipwrights are sought after
+in any port city and Kuldor is no exception — Jerrol Beggar lives here. See
+Characters & Items.
+GOVERNANCE: UNDEVELOPED. Kuldor would be the first polity in Lanamyr that is
+not a race-kingdom.
+
+THE ROAD: A major trade route running roughly east to west across central
+Alios and out to the western ocean. Departs Fardar in the east, crosses Kimora,
+then Ellendale, then Faelyn, then climbs over the Darkened Slopes to end at
+Kuldor on the west coast. Bisects Kimora roughly in half. One of the heaviest
+trade routes in the region, servicing many stops along the way. Adenburry and
+Broldendul sit near the road on the eastern side of Kimora close to Fardar.
+The Monowi Inn sits near the road on the western side of Kimora close to the
+Ellendale border. Caldalus is the last major stop before the mountains.
+THE NAME (resolved in v006): the road goes by multiple names. It is long
+enough that no one calls the whole of it anything, and the people who use a
+stretch name the stretch. The two most common names are WANDERER'S ROAD and
+THE MERCHANT'S SPINE.
+THE FINAL CROSSING: the last leg, over the Darkened Slopes, is dangerous. It is
+the one piece of the western arc anybody is obliged to cross, through country
+that was never properly settled and is now largely empty, its population having
+consolidated into Kuldor. Large caravans generally travel with a contingent of
+guards or mercenaries, and wealthy tradesmen hire more of them and better ones.
+This supports a standing trade in armed escort at both ends of the crossing.
+What preys there: UNDEVELOPED. Whether the crossing carries a name of its own —
+likely given by the people who survived it rather than the people who mapped it
+— is UNDEVELOPED.
+
+VALINDRA'S TORMENT: A small lake somewhere in the plains of Ellendale. Unnamed
+before the tragedy of 116 AW. The nomadic settlement that once sat near its
+shore — mostly Plains Elves and humans — moved on shortly after the drownings.
+The lake has carried the name Valindra's Torment ever since, given by locals
+who felt what lingered there. Plains Elves and others who have settled in that
+region over the centuries are careful to avoid it. Those who wander close feel
+Valindra's grief and torment as though it were their own. Reports of a vengeful
+or evil spirit circulate among travelers — the details exaggerated by retelling.
+The truth is simpler and sadder: she is still waiting for Cyran.
+
+================================================================================
+END OF LANAMYR GEOGRAPHY — v007
+================================================================================

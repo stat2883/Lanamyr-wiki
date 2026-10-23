@@ -1,0 +1,838 @@
+================================================================================
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v007
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Races, Kingdoms_History,
+Characters_Items, Stories_Outlines. This file changes most frequently of the
+set — items get resolved and moved into the appropriate topic file as they are
+confirmed. When resolving an item here, update BOTH this file and whichever
+topic file(s) reference the same open thread, since the same question is often
+mentioned in multiple places (e.g. a character entry and a story outline).
+
+================================================================================
+NEXT SESSION — REQUESTED BY THE USER
+================================================================================
+
+STATUS AFTER v007: the user again chose to stay in western Alios and built THE
+FOUNDING OF FAELYN — the origin of the Wood Elf crown, Keerla Ervyre, the
+designation-based succession, the militia question, and the relationship between
+the crown and the Guardians. Heaven's Oak was corrected (chamber inside the
+trunk, not at its foot) and a standing convention on epoch-appropriate kingdom
+names was adopted. SKY GNOMES, PLAINS ELVES and ICE DWARVES (years 0–221) all
+remain untouched and are still the standing next targets.
+WESTERN ALIOS THREADS STILL OPEN after v007, raised with the user and not
+chosen this session: the STONE GIANTS (language, appearance, clan structure, the
+raid cycle as an institution, and whether Low cohesion permits them to sustain a
+trading relationship with the Ice Dwarves after 221); HELLAR'S UNFINISHED
+BUSINESS (whether the Moot/crown tension ever broke, the first king, Tecali
+names — now load-bearing for Faelyn too — the etymology of "Hellar," the steppe
+herd animal); and KULDOR AND THE MERGE (what forced the Dark Dwarf northern
+settlements together and when, plus how a non-race city governs itself).
+
+STATUS AFTER v006: the user chose to build HELLAR first instead, and then
+pivoted to KULDOR and the Ice Dwarf expeditions of 221. SKY GNOMES are the
+next target and were explicitly named by the user as the pivot after Hellar.
+The ICE DWARVES received substantial development this session on the 221
+expeditions, the founding of Kuldor and the Nusul decision gap, but their
+years 0–221 on Icefall itself remain undeveloped. PLAINS ELVES untouched.
+
+Build out the following three races for the 2nd Epoch, years 0–221, the same
+founding window already completed for western Alios:
+
+  - SKY GNOMES (Myst). Confirmed to hold the strongest expression of the
+    inventiveness/ingenuity inheritance. Island origin, so the scatter and
+    consolidation phase plays out in isolation. Their framework Ingenuity value
+    is probably Maximum but has not been formally set.
+  - PLAINS ELVES (central steppes of Alios, Ellendale). Substantial material
+    already recorded this session — see their extended entry in Races. Terrain
+    verified against the biome map. Lifespan 200, which drove the selective
+    breeding mechanism. Trait values, cohesion and founding history all
+    undeveloped.
+  - ICE DWARVES (Icefall). Already have confirmed year 221 expeditions and the
+    founding of Nusul in 239, so their 0–221 history must land on those events
+    rather than contradict them. Ice Forging is established. What they did for
+    the two centuries before sailing is undeveloped.
+
+Note that building these races will likely touch the western Alios chain —
+particularly the Plains Elves, who sit on the overland corridor east of Faelyn,
+and the Ice Dwarves, who arrive in the western arm in 221. The chain is locked
+but not permanent; resolve conflicts case by case.
+
+================================================================================
+OPEN QUESTIONS / UNDECIDED LORE
+================================================================================
+
+REGION AND KINGDOM NAMES ACROSS EPOCHS:
+- RESOLVED (v007) — STANDING CONVENTION ADOPTED. Kingdoms and regions do not
+  keep one name for millennia. Present-day names used for earlier epochs in this
+  bible are AUTHORIAL SHORTHAND, not in-world names of that era. Early names are
+  left UNDEVELOPED and assigned when the event that earns each one is built.
+  Recorded at the head of Kingdoms_History. Extends the principle the bible
+  already held for languages (the Andari note in the Race Appearance Table).
+  Harrad is the proven case — its territory became Kimora, Ellendale and Fardar
+  only after 2165.
+- UNDEVELOPED: the 2nd Epoch name of the Wood Elf polity, and the event that
+  attached the name "Faelyn."
+- UNDEVELOPED: 2nd Epoch names for central Alios before Harrad, and for every
+  other region as it is built.
+- UNDEVELOPED: whether "Caldalus" is also a later name.
+- NOTE: if this convention is to bind future sessions it belongs in
+  SESSION_INSTRUCTIONS.md, which takes effect the following session.
+
+FAELYN — THE FOUNDING (built v007):
+- RESOLVED: FAELYN WAS NEVER FOUNDED. There is no founding date and the absence
+  is the fact, not a gap. The crown accreted out of the office that coordinated
+  defense against the Stone Giant raid cycle. Deliberate inversion of Hellar,
+  which has two exact dates argued over for twenty-four centuries.
+- RESOLVED: the Wood Elves kept no records of the period. A people who live 250
+  years treat the past as testimony rather than history. What firm dating exists
+  sits in Tecali records in Hellar.
+- RESOLVED: KEERLA ERVYRE is the first holder of the office, from roughly year
+  50 of the 2nd Epoch. She is NOT a Liaphyra.
+- RESOLVED: the Dark Dwarves effectively created the crown by needing a
+  counterparty whose word bound the whole forest, and the Wood Elves declined to
+  correct them — the same cultural habit the Guardians use to conceal the Oak.
+  The title is the Tecali word for the holder of a WORKING, which was right
+  about the authority and wrong about the duration.
+- RESOLVED: succession is formally by designation and practically hereditary, an
+  artifact of apprenticeship length under a 250-year lifespan. No Harrad-style
+  firstborn rule. This is why Mya could step aside for Phelloden.
+- RESOLVED: Faelyn fields a militia rather than a standing army because the raid
+  cycle is periodic. The crown is the standing part of a non-standing force.
+- RESOLVED: the memory asymmetry of the raid cycle runs ONE WAY. The Wood Elves
+  face a new ignorant Giant generation each cycle; the Giants face the same
+  person who beat their great-grandfather.
+- UNDEVELOPED: the Aiwiya word for the office, which may not mean "king."
+- UNDEVELOPED: the Tecali word for a WORKING, now load-bearing in two places —
+  Hellar's governance and Faelyn's crown.
+- UNDEVELOPED: the dwarven rendering of Keerla Ervyre's name, under which the
+  wider world would know her. TENTATIVE that such a divergence exists at all.
+- UNDEVELOPED: when the Liaphyra line took the crown, and from whom. The crown
+  has changed lines several times across twenty-four centuries.
+- UNDEVELOPED: when Aer'Raenal took the throne.
+- UNDEVELOPED and needed before the present day: WHEN THE WOOD ELVES BEGIN
+  KEEPING WRITTEN RECORDS. Mya and Phelloden study written histories of Faelyn
+  in Caldalus, so records exist by 432 AW. Not critical now; flagged so it is not
+  forgotten.
+- DELIBERATELY NOT PURSUED per the user: specifics of individual trade
+  agreements between Wood Elves and Dark Dwarves. All that is needed for now is
+  ongoing trade and a positive relationship, evolving continuously across
+  centuries. The earlier draft's dated founding agreement (year 162) is
+  DISCARDED. Revisit only once a generalized timeline for the kingdoms of
+  Lanamyr exists.
+
+HEAVEN'S OAK — CORRECTED (v007):
+- CORRECTED: the chamber is INSIDE THE TRUNK of Heaven's Oak, not sunk into the
+  earth at the foot of the tree. The earlier description was a recording error
+  from a prior session and has been removed from Geography and Kingdoms_History.
+- RESOLVED: Heaven's Oak is a natural tree, ancient and enormous — roughly 70
+  feet in trunk diameter and 300 feet tall. Nothing supernatural about it. Its
+  value to Adomorn is that a life form of that mass emits a great deal of the
+  ambient energy that masks the Abaculus.
+- RESOLVED: the central forests of Faelyn are full of very large trees. The Oak
+  is the greatest of a class rather than a lone giant, which helps conceal it.
+- RESOLVED: the chamber is cylindrical, roughly 30 by 30 feet, beginning a short
+  way below ground and rising into the trunk. Its entrance runs underground from
+  elsewhere and surfaces among the roots; nothing at ground level marks it.
+- RESOLVED: the interior was fashioned by Adomorn himself as a second shielding
+  layer isolating the Abaculus from detection, independent of the tree's own
+  masking. Two mechanisms stacked.
+- RESOLVED: ADOMORN CHOSE THE TREE, NOT THE SETTLEMENT. A gathering had already
+  formed at the Oak because an enormous tree is the most findable thing in dense
+  forest. The Guardian families were chosen for PROXIMITY; their prominence
+  followed from the capital growing around the same tree.
+- RESOLVED: the anomaly is the TECHNIQUE, not the location. Building within a
+  tree is what Wood Elves do, so the chamber is invisible from outside. Better
+  concealment than a visibly foreign structure.
+- OPEN: whether Adomorn foresaw that choosing the best cover in the region would
+  guarantee a capital city growing on top of it.
+
+WESTERN ALIOS FOUNDING HISTORY (2ND EPOCH 0–221):
+- RESOLVED: the full chain of events in Kingdoms_History was reviewed and
+  confirmed in v005. Locked in as the working history. Locked is not permanent
+  — the chain was built from three races in isolation, and conflicts arising
+  as neighboring races are developed will be resolved case by case rather than
+  by defending what is already written.
+- SCOPE WARNING (recorded in Kingdoms_History): the chain tracks three races
+  only. Its silence about contact with anyone else is the limit of development,
+  not a claim that no contact occurred. The Plains Elves lie east across the
+  neck of the continent and the Mystic Kobolds lie south — in fact nearer to
+  the Wood Elves than the Plains Elves are. Revisit as each is built.
+- CORRECTED in v005: the Wood Elf "flat population" of years 0–45 is a flat
+  ADULT population. Children were born from the first years, since a portion of
+  those who woke were already within the 50–125 reproductive window. What was
+  absent was new claimants to land and leadership.
+- CORRECTED in v005: the Binding Trade passage described "a century and a half
+  of Average technology." Wood Elf ingenuity is Low. Reworded.
+- Exact year of first Wood Elf / Stone Giant contact: undecided.
+- Whether that first meeting turns violent immediately or passes through a
+  brief confused peace: undecided.
+- Whether the Stone Giants ever take Ice Dwarf metal in quantity, and whether
+  Low cohesion even permits them to sustain a trading relationship: undecided.
+  Note this is now the FIRST offer of worked metal ever made to them, since
+  Hellar never traded with the Giants and the two peoples never met.
+- Stone Giant native language: UNDEVELOPED. They have one; it is unnamed.
+- Stone Giant appearance (height, build, coloring): UNDEVELOPED.
+- RESOLVED (v006) — THE ARC AND THE BOWL: verified against the features and
+  biome maps. The Forbidden Peaks, Darkened Slopes and Tempest Peaks are one
+  continuous coastal highland arc, with the Wood Elf forest in the bowl inside
+  it. Recorded in Geography and Kingdoms_History.
+- RESOLVED (v006) — DARK DWARVES AND STONE GIANTS NEVER MET during the founding
+  era. They sit at opposite ends of the same arc with high ground between them
+  that neither has reason to cross: Giants move downhill under pressure, not
+  laterally along a cold ridge, and the Dark Dwarves will not pay to haul over
+  a ridge when a cheaper route exists. A structural non-event rather than a
+  near-miss. An earlier draft had them in contact around years 90–130 and the
+  boreal stripping partly caused by Giant raids on timber camps; that version is
+  DISCARDED. The stripping is sufficiently explained by poor woodcraft against
+  the appetite of deep mining on forest that recovers badly.
+- RESOLVED (v006) — THE DARK DWARF TIMBER FRONTIER TURNED EAST, not north,
+  because the eastern haul is lower, warmer and downhill. This is what brought
+  them to Faelyn's dry southern margin at ~100–150 and is why the northern slope
+  settlements stayed small.
+
+HELLAR (2ND EPOCH FOUNDING — built in v006):
+- RESOLVED: two founding dates, year 41 (first deep shaft) and year 54 (first
+  great hall, moot convenes underground, name attaches). Both kept exactly. The
+  centuries-old argument over which one counts is a constitutional dispute in
+  disguise — 41 is the crown's date, 54 is the moot's.
+- RESOLVED: unity preceded the capital. The Dark Dwarves were one people on open
+  steppe for a generation before a city existed, because the steppe is legible
+  and no faction could form unseen. Hellar is the seat of a nation that already
+  existed.
+- TENTATIVE — GOVERNANCE: two authorities. The Moot decides what the people do
+  and predates the city; a working is directed absolutely by whoever holds it,
+  and kingship grew out of the holder of the year-41 shaft. The user has not
+  settled this and may revise it.
+- UNDEVELOPED: Tecali names for the Moot and for a working; the etymology of
+  "Hellar"; the name and identity of its first king.
+- UNDEVELOPED: the herd animal of the steppe.
+- OPEN: whether the Moot/crown tension ever broke into anything.
+- DELIBERATELY NOT PURSUED: the divergence between the Dark Dwarves of Hellar
+  and those of Kuldor, including any dialect split or falling-out. Raised and
+  set aside in v006. Do not develop without the user raising it first.
+
+KULDOR (built in v006):
+- RESOLVED: founded by the Ice Dwarf expedition of 221 after they declined to
+  settle near the Stone Giants. Grew into one of the largest port cities and
+  trading hubs in Alios. Layout, the cliff-face entrance and the city beneath
+  are recorded in Geography.
+- RESOLVED: Kuldor is a CHOKEPOINT, not a workshop. Ice Forged goods cannot be
+  made there — the technique is locked to Icefall by ore and cold. Kuldor is
+  where they come ashore.
+- UNDEVELOPED — WHAT FORCED THE MERGE of the Dark Dwarf settlements into Kuldor
+  for protection. Candidates: a dragon during the Dragon Wars (1206–1214, 2nd
+  Epoch) is the leading one and would also feed the standing need to reconcile
+  the Dragon Wars with the Chromatic/Metallic framework; Stone Giants are the
+  other. Creatures of Olum are RULED OUT for this event.
+- UNDEVELOPED: the timing of the merge.
+- UNDEVELOPED: how Kuldor is governed. It would be the first polity in Lanamyr
+  that is not a race-kingdom.
+- UNDEVELOPED: what preys on the Darkened Slopes crossing, and whether that leg
+  of the road carries a name of its own.
+- UNDEVELOPED: what Icefall burns, having no timber of its own — and whether Ice
+  Dwarf sea haul relieved the Dark Dwarf timber problem or competed with it.
+
+THE DRASU CARETAKER MANDATE:
+- RESOLVED (v005): the Drasu were meant to be the caretakers of Lanamyr in the
+  absence of the Irridae. This is the origin of the Wood Elves' affinity for
+  the natural world — inherited, not learned, and not a product of remorse.
+- RESOLVED: Wood Elves carry no guilt or shame about their impact on the
+  forest. They understood the cost from the beginning, accept it, work to
+  minimize it, and offset it by replanting at the forest edges.
+- RESOLVED (v005): Shepherd animal affinity IS a fragment of the same shattered
+  mandate, descended from their Drasu ancestry. Two fragments are now confirmed
+  — Wood Elves hold forest and growing things, Shepherds hold animals. The
+  mandate fractured into pieces held by separate races, none of which knows it.
+- Note the fragment descended to the Shepherds as a RACE, not to humans as a
+  family. Hillfolk, Northmen and Water Whisperers did not receive it.
+- OPEN: whether further fragments exist in other races, and if so which. With
+  two confirmed the pattern is structural rather than coincidental, so this is
+  now a live lens for reading any race's signature trait.
+- HOW TO TELL A FRAGMENT FROM A CRAFT — the test is NOT inherited versus
+  learned. Everything in question here is inherited. Magic capacity, caretaker
+  fragments, and the technology baseline all came through the Sundering, and
+  the technology baseline in particular is inherited KNOWLEDGE AND MUSCLE
+  MEMORY — what a race woke up already knowing how to do in its hands, not
+  anything anyone taught them.
+  The real distinctions are two:
+    - TRANSFERABILITY. Craft knowledge moves between races through contact and
+      conquest. Magic never does, and a caretaker fragment presumably never
+      does either.
+    - SUBJECT. A caretaker fragment is a relationship with the living world —
+      tending it. A craft is a technique for working material. Wood Elf
+      stewardship and Shepherd animal affinity are relationships. Ice Forging
+      and Rock Gnome gem cutting are techniques. The two are intertwined in
+      practice and should still be distinguished when testing for a fragment.
+- RESOLVED (v005): the WATER WHISPERERS carry a third fragment — affinity with
+  sea life. The apparent conflict with their confirmed fishing was resolved by
+  scale rather than set aside: the Shepherd fragment works on the individual
+  creature and produced abstention, while the Water Whisperer fragment works on
+  the ocean as a whole system and produces restrained, informed harvest. A
+  fishery is kept by being managed. Their shipbuilding remains craft and is NOT
+  part of the fragment.
+- PRINCIPLE ESTABLISHED: each fragment produces a different relationship with
+  what it tends. Tending does not mean refraining. Fragments must not be
+  written as variations on a single gentle temperament.
+- OBSERVATION, not yet a claim: two of the three confirmed fragments sit in
+  human subtypes, and two of the four human subtypes carry one while Hillfolk
+  and Northmen carry none. Whether this is coincidence or says something about
+  the human portion of the Drasu fracture: UNDEVELOPED. Worth watching rather
+  than deciding.
+- OPEN: whether the Water Whisperer affinity extends to the SEA ITSELF —
+  currents, weather, tides — or stops at sea life. Currently written as sea
+  life only. The name would support the broader reading.
+- OPEN: whether Water Whisperers have any equivalent of the Shepherds'
+  companion animals. Deliberately not assumed; the scale difference argues
+  against a direct parallel.
+- OPEN: whether any race inherited a fragment of the mandate and lost or
+  rejected it.
+- OPEN: whether Adomorn understands his own vigil in these terms, or simply as
+  a duty he took on. He is the last being holding the mandate entire.
+- THEMATIC NOTE, not a plot point: the Creatures of Olum exist to destroy life.
+  The scattered fragments of the caretaker mandate are the standing
+  counterweight to that, distributed across races who do not know they hold it
+  and could only reconstitute the whole together.
+
+WOOD ELF ETHIC — DATING:
+- TENTATIVE: years 30 to 60 now mark the FORMALIZATION of the minimal-impact
+  philosophy rather than its birth, since the underlying affinity is inherited
+  and was never absent. The dating is carried over from v004 and has not been
+  re-examined against the new causality. Worth revisiting.
+
+TWO CLASSES OF INHERITANCE:
+- RESOLVED (v005): inherited qualities divide into two classes. MANDATE
+  FRAGMENTS are exclusive and binary — a race holds the fragment or holds none
+  of it, and there is no weaker version elsewhere. UNIVERSAL INHERITANCES are
+  present in every race to some degree, unevenly, with the named race holding
+  the strongest expression rather than sole possession.
+- Magic and Ingenuity, already tiered in the framework, are Class Two members.
+- CONFIRMED Class Two members awaiting development with their races:
+  inventiveness/ingenuity (strongest: SKY GNOMES), agriculture and cultivation
+  (strongest: PLAINS ELVES), forging and metalwork (strongest holder not yet
+  determined).
+- WATCH FOR: Wood Elf forest stewardship (Class One, exclusive) and Plains Elf
+  agriculture (Class Two, universal) both concern growing things and are not
+  the same kind of thing. Stewardship of wild forest versus cultivation for
+  use. Do not let them blur.
+- OPEN — MODELING QUESTION: how many Class Two inheritances get formal tiers
+  per race. Magic and Ingenuity are tiered for all races; tiering forging,
+  agriculture and every future member across every race would bloat the
+  framework badly. Likely answer is to name each inheritance with its strongest
+  holder and tier only where it matters to a story or a conflict, but this has
+  not been decided.
+- OPEN: whether Sky Gnomes being the strongest expression of inventiveness
+  means their framework INGENUITY value is Maximum. It is the obvious reading
+  and has not been formally set. Their trait values are undeveloped.
+- OPEN: strongest holder of the forging inheritance. Candidates on current
+  lore include the Dark Dwarves (skilled forging at baseline, described as
+  perfecters rather than inventors), the Iron Dwarves, and the Ice Dwarves —
+  though note Ice Forging is locked to Icefall by ore and environment, which is
+  a separate matter from inherited aptitude.
+
+PLAINS ELVES:
+- VERIFIED (v005) against the biome map: origin reads Cool Temperate Steppes
+  unambiguously, confirming "central steppes of Alios" as recorded. Moderate
+  rainfall, cool temperate, deep treeless grassland, one growing season a year,
+  no timber. The v004 rule — check every race origin against the biome map
+  before building on it — was applied and passed.
+- CONFIRMED: strongest expression of the agriculture and cultivation
+  inheritance (Class Two). Intuitive diagnosis of crop problems; deliberate
+  selective breeding; the surrounding nations know Ellendale has the largest
+  and best-tasting produce.
+- CONFIRMED MECHANISM: the advantage requires BOTH the inheritance and the
+  200-year lifespan. One crop generation per year on the steppe means a Plains
+  Elf can personally run ~150 consecutive generations of selection with no
+  handoff, where a human farmer gets ~50 and must pass the work to an heir who
+  did not see the earlier ones.
+- RESOLVED (v005) — THE SEED PROBLEM: the seed is not the secret and is not
+  protected. Seeds travel freely and no effort is made to stop them. Three
+  factors produce Ellendale's quality and only the seed can be carried off:
+  the SOIL of the central plains, richer in nutrients than the surrounding
+  land; the GROWER, whose innate skill and intuitive tending is the inheritance
+  and cannot be transferred by any means; and the PROTECTION, a sustained and
+  organized effort at pest and small animal control, since much of a harvest's
+  quality is simply the part that was never lost. A farmer planting Ellendale
+  seed elsewhere gets a decent crop and assumes he was cheated or that the seed
+  degenerated. Structure deliberately parallels the three-factor Ice Forging
+  explanation.
+- CROSS-RACE CONTRAST recorded in Races: Plains Elves kill small animals in
+  organized numbers to protect a harvest while Shepherds hold an animal mandate
+  fragment and will not eat one. Useful illustration that these inheritances
+  point in different directions. A Shepherd in Ellendale is an unspent scene.
+- UNDEVELOPED: everything else. Trait values, cohesion, founding history,
+  current ruler, relationship to the Wood Elves and to Kimora.
+- NOTE for when Kimora is built: a rough probe of the Hillfolk origin point
+  returned Boreal Wet/Moist Forest rather than the Deciduous and Mixed Forest
+  that Geography describes for central Alios. The coordinate was eyeballed and
+  may be off. Worth a proper check before Hillfolk lore is built on it.
+
+RACE TRAIT FRAMEWORK:
+- RESOLVED: standing framework established in Races.txt — Magic (fixed),
+  Technology Baseline (fixed at the opening of the 2nd Epoch, described rather
+  than tiered), Ingenuity (fixed tier, gated by resources, surplus, contact and
+  catastrophe), Cohesion (an outcome of the scatter phase, not an inherent
+  trait), Outsider Disposition (described).
+- Values recorded for Wood Elves, Dark Dwarves and Stone Giants only. All other
+  races: UNDEVELOPED. To be filled in as each region is built out.
+- Technological eras are described organically within each civilization's
+  history. No crossover dates are assigned.
+
+REAL-WORLD REFERENCES IN THE BIBLE:
+- UNDECIDED. Five real-world comparisons currently exist: Geography (Alios and
+  Edura joined "similar to how Europe and Asia are"), Races (Jokul "similar to
+  Hawaii"), Races (Hillfolk "equivalent to real-world humans"), and two added in
+  v007 in the Heaven's Oak entry (the Everest/Himalayas scale comparison and the
+  Faraday cage description of the chamber interior). The two v007 additions are
+  explicitly marked AUTHOR'S CALIBRATION NOTE, not in-world prose — a working
+  application of the proposed rule below.
+- Proposed rule, NOT YET ADOPTED: no real-world references in lore prose;
+  calibration notes to the author permitted and marked as such. The alternative
+  is a blanket ban, which would require removing the three above. A decision
+  belongs in SESSION_INSTRUCTIONS.md and takes effect the following session.
+
+CRIMSON AND SEAR:
+- Whether they are of Wood Elf make is UNDECIDED and deliberately open. Wood
+  Elf metalworking is magic-fired, small-batch, and performed by spellcasters
+  rather than craftsmen, which would make blades like these enormous
+  undertakings and fits their glow — but nothing confirms their origin.
+
+KARMA & THE BURNT PLAINS:
+- The specific mechanism of Greyhawk's curse is undeveloped.
+- The specific ritual Diquyk is working toward to resurrect Greyhawk is
+  undeveloped.
+- Does Diquyk know Karma is the vessel?
+- Did Karma witness Diquyk's arrival? Likely — but Abaculus influence may have
+  ensured he did not report it. Undeveloped.
+- Whether Karma survives Greyhawk's resurrection: UNDECIDED.
+
+DIQUYK'S BANISHMENT PLANE:
+- Features and characteristics of the parallel world: undeveloped.
+- Whether Adomorn knew about the temporal difference: undecided.
+
+DIQUYK'S ASCENSION:
+- Mechanism for mortal ascension to godhood entirely uncharted.
+
+ADOMORN:
+- Does not know Diquyk has returned or that Abaculus is beneath Burnt Plains.
+- When does he find out and how does he respond?
+- Has not found a way to free Karma from the curse.
+- Whether he knew about the temporal difference of Diquyk's banishment: undecided.
+- TENTATIVE: Whether Adomorn dies immediately after banishing Diquyk in 392 AW
+  is undecided. If confirmed, Mya would not have known he would return.
+- How many people know Adomorn's true nature: undecided. Currently TENTATIVE
+  that Aer'Raenal does not, and knows him only as a legendary wizard. Mya was
+  likewise unaware. Galstaff Quint is one of the rare few who has seen his true
+  Drasu form.
+
+MAGNI:
+- RESOLVED — Magni and moving the Abaculus. A Magni inherits the full magical
+  capacity of their progenitor line but NOT the mind behind it. The Drasu mental
+  fortitude and resilience — specifically the ability to resist the Abaculus's
+  pull while remaining in close proximity long enough to move it — did not
+  transfer through the Sundering. Moving the Abaculus safely requires both the
+  magic and the resilience. Diquyk has the first, not the second. Adomorn
+  remains singular.
+  Anyone can still move it by physical contact at the cost of corruption, as
+  Greyhawk did in 2136 of the 2nd Epoch. The Abaculus wants to be found and its
+  standing pattern is to corrupt a powerful being and use them as a weapon, so a
+  Magni attempting to move it is very likely the outcome it would welcome.
+- A more recent Magni existing within Aer'Raenal's lifetime (born 244 AW) is to
+  be created later — less powerful than Diquyk, giving the council of war a
+  shared reference point and sparing Adomorn from having to explain how he knows
+  Arias Graymist, who died in 2140 of the 2nd Epoch. Adomorn likely draws this
+  comparison at the council.
+- How widely the Draak and Drasu are remembered among present-day races, and
+  therefore how much of the true Magni origin is knowable in-world: undecided.
+
+ROHL:
+- Are there still Creatures of Olum in the ruins of Rohl in 432 AW?
+- Does Gralvin know the full historical reason Rohl fell?
+
+MYA LI:
+- Does she know the Abaculus was the real force behind the Elf War?
+- Does Diquyk know she carries the Bow of the Dales?
+
+THE ACORN RELIC:
+- What does it represent?
+- When and how did Galstaff encounter Skitter?
+- Does anyone other than Galstaff suspect its significance?
+- Does Var Harma leadership know what a Relic of Creation is? Note they have
+  never entered the Drasian Vault, which is where that knowledge is recorded —
+  so if they know, it came from somewhere else.
+
+ABSTRACT RELICS:
+- Relics exist for abstract qualities — love, grief, courage, jealousy, etc.
+- Destruction by the Abaculus would permanently erase those qualities.
+
+THE FRAMING OF KIMORA:
+- Tarik's former followers are primary suspect. Leadership and plans undeveloped.
+
+THE HERRINGERS:
+- TENTATIVE — Qenwick Orcsbane on the path to take over leadership after
+  Grimmon's death. His story would be altered to support this. NOT LOCKED IN.
+  Replaces the earlier tentative direction in which Bor took leadership.
+- TENTATIVE — Grimmon did not officially name a successor. Leadership would
+  likely pass by a vote or group decision among higher-ranking Herringers, who
+  would elect Qenwick. He is chosen, not an heir.
+- Internal structure: TENTATIVELY a loose, informal alliance — no membership
+  rolls, no initiation, nothing to join. A person is a Herringer because they
+  did the work. Trust by personal vouching; most know only their own link.
+  Organized in cells with local leaders.
+- Function: TENTATIVELY funders, organizers, and providers of safe passage
+  rather than fighters. Arrama funded and organized under Yllyndel's protection;
+  the Herringers funded Evander's assassination rather than carrying it out;
+  Grimmon planned Tarik's overthrow while Mya and the militias fought it.
+- This largely answers who counts as a Herringer: there was never a roll to
+  keep. But it sharpens the voting problem — if membership is defined by deed
+  rather than enrollment, who is entitled to attend the convocation and cast a
+  vote, and how is that judged? UNDEVELOPED.
+- Note: Maeglin is Var Harma and Skitter is a Kobold, neither obviously a
+  Herringer. Whether Bor is a member or simply Grimmon's chosen confidant is
+  also unstated — though under a deed-based definition the distinction may not
+  be meaningful.
+- TENTATIVE — THE CONVOCATION: While spreading word of Grimmon's death, Qenwick
+  also told cell leaders to gather at an appointed place and time to decide the
+  organization's fate. The circuit and the summons are the same journey.
+- Consequence to reckon with: the man who called the gathering is the man
+  elected at it. He set the time, place, and terms. Not dishonest, but visible,
+  and it gives a skeptic something real to say.
+- Consequence to reckon with: convening every cell leader in one room is the
+  most exposed act a resistance can commit, and someone was demonstrably hunting
+  Herringers — Grimmon had just been killed by Orc raiders acting as instruments
+  of the Kimora framing operation.
+- RESOLVED: Bor, Maeglin, and Skitter knew Qenwick was calling the convocation.
+  The four were close and he acted openly, not in rooms they weren't in.
+- Where and when the convocation is held, who is entitled to attend, and how a
+  cell-based membership verifies one another: undeveloped.
+- CENTRAL QUESTION: What are the Herringers FOR now? Tarik dead since 413 AW,
+  no one enslaving Iron Dwarves. A resistance movement with nothing to resist
+  needs a reason before it needs a leader.
+- Whether Qenwick is currently a Herringer or simply Bor's cousin who helped:
+  unstated, needs deciding.
+- CLARIFIED: The new Dwarven kingdom dream is NOT a Herringer organizational
+  ambition. It belongs to Grimmon and Bor personally and is rooted in Dwarven
+  heritage. Bor would want it regardless of what becomes of the Herringers.
+- TENTATIVE — Bor eventually finds the lost kingdom and establishes a new
+  Dwarven kingdom in the Tarantar Mountains. A Dwarven undertaking, not a
+  Herringer one. NOT LOCKED IN. See Bor Glitterbeard in Characters & Items.
+- Whether Bor and Qenwick, carrying the two halves of Grimmon's legacy, end up
+  in accord or at odds: undecided.
+- Why a NEW Dwarven kingdom when Iron Dwarves already hold Fardar: undeveloped.
+  Note that Nusul was itself an Ice Dwarf expansion founded while Icefall stood.
+- What turns Bor from battlerager into founder: undeveloped.
+
+QENWICK ORCSBANE:
+- Paladin order and the god he serves: undeveloped, and significant if he leads
+  the Herringers.
+- Birth year, age, appearance: undeveloped.
+- Origin of the name Orcsbane: undeveloped. Note Grimmon was killed by Orc
+  raiders who were instruments of the Kimora framing operation.
+
+MAEGLIN LERALONDE:
+- RESOLVED: Reputation is as a thief and dungeon crawler, not an assassin. The
+  earlier "renowned assassin" description is superseded.
+- RESOLVED: Began in the internal curator branch under his father, was noticed
+  for his agility, and was recruited into the external branch. Sent north to find
+  the fallen Draak civilization under instruction not to divulge his purpose.
+  Broke that instruction once his friendship with Bor was strong enough.
+- The dynamic with his father around that recruitment: UNDEVELOPED. The father is
+  internal branch and may only understand the noble version of the organization.
+- Circumstances, location, and year of his first meeting with Bor: UNDEVELOPED.
+  Constraint: roughly 420–428 AW, with Bor describing rather than handing over the
+  map. Superseded: the Sand Dwarf temple / gold hammer / Troll's Breath version.
+- Whether he found anything of the Draak in Alios before meeting Bor: undeveloped.
+- Whether he still considers himself on assignment in 432 AW: deliberately live
+  and unresolved. He has taken the first step the defectors took.
+- Whether returning to T'sarra would be safe for him: undeveloped. A closed
+  kingdom may treat a long-absent envoy as a contamination risk.
+- The point at which he is forced to choose between T'sarra and his friends is an
+  unspent scene.
+- LIVE HAZARD: Maeglin is an external-branch operative whose purpose is acquiring
+  artifacts of power, traveling beside Skitter, who wears a Relic of Creation in a
+  vial around his neck. He has not noticed. Whether the friendship would survive
+  his noticing is undecided.
+
+NUSUL — THE LOST KINGDOM:
+- Interior and what specifically remains: undeveloped.
+- How far did Ice Dwarves get before being overrun?
+- Whether Bor and Maeglin will speak with Ice Dwarves: undecided.
+- Provenance of Bor's map: undeveloped.
+- RESOLVED (v006) — THE 18-YEAR GAP between discovery in 221 and founding in
+  239 is Icefall deliberating, provisioning and committing after the northern
+  fleet sent word back. The northern and southern expeditions of 221 were
+  INDEPENDENT; Kuldor played no part in the discovery of the Tarantars.
+- UNDEVELOPED and now load-bearing — NUSUL'S PLACEMENT AND SEA APPROACH.
+  Nothing pins Nusul to the eastern, central or western portion of the Tarantar
+  range, nor to the north or south flank, nor gives it a landing point. Icefall
+  ran regular supply for 29 years and sent reinforcements in 261, so a route
+  exists. The one hint in existing lore is Kimora's northern border running
+  "Tarantar Mountains east to coast," which makes the eastern end of the range
+  the obvious candidate for a coastal approach.
+- UNDEVELOPED: the hidden entrance Bor's map hints at.
+- UNDEVELOPED: whether Nusul and The Deep ever had contact across 29 years of
+  digging directly above the Dark Elves. This decides whether the Dark Elf
+  treachery version of the legend is pure invention or has a grain in it.
+- UNDEVELOPED: any relationship between Nusul and the Cave Gnomes, who also
+  live beneath the Tarantars.
+
+THE ROAD:
+- RESOLVED (v006) — THE NAME: the road goes by multiple names rather than one.
+  It is long enough that no one calls the whole of it anything, and the people
+  who use a stretch name the stretch. The two most common are WANDERER'S ROAD
+  and THE MERCHANT'S SPINE.
+- RESOLVED (v006) — THE WESTERN TERMINUS is Kuldor, not Faelyn. The road now
+  runs Fardar → Kimora → Ellendale → Faelyn → over the Darkened Slopes → Kuldor,
+  making Caldalus the last major stop before the mountains. The final crossing
+  is the most dangerous leg and supports a standing trade in armed escort.
+- UNDEVELOPED: what preys on that crossing, and whether the leg has its own name.
+
+JERROL BEGGAR:
+- Water Whisperer human living in Kuldor, with a relationship to the Sky
+  Gnomes. Everything else deliberately open: birth year, age, appearance,
+  personality, occupation, narrative function, and the nature of the Sky Gnome
+  connection.
+- Note his age cannot be derived until the Water Whisperer lifespan is set.
+
+ALITA VARIS:
+- Narrative function in future stories undefined.
+
+ADENBURRY SINKHOLE:
+- Broader circumstances and aftermath beyond what is confirmed: undeveloped.
+
+GRALVIN & BALRIC'S ESCAPE:
+- Specific circumstances within the slave system: undecided.
+
+BALRIC & MYA:
+- Circumstances of how Balric became Mya's companion and love interest: undecided.
+- No physical description or personality established yet.
+
+VALERIA:
+- Degree and nature of supernatural presence in Gralvin's life: undecided.
+
+VALINDRA'S TORMENT:
+- Does Valindra's presence have any effect beyond the emotional bleed, or is
+  that the entirety of what she is? Left open intentionally.
+
+2ND EPOCH KINGDOMS:
+- Political map undeveloped. Harrad is the primary known kingdom.
+
+FELGARD:
+- Internal politics and current ruler undeveloped.
+
+T'SARRA:
+- Ruler and internal politics undeveloped. See T'SARRA — AS AN ANTAGONIST below
+  for what is now confirmed about the kingdom's character.
+
+HARBINGER SET TOMBS:
+- Mako's and Talon's tomb locations undecided.
+
+JAUNT GATES:
+- How much is publicly known about their origin?
+- Identity of the gate casualty on Myst undecided.
+- Specific mechanics of gate creation not fully developed.
+- How Adomorn identified which gate led to The Deep: undeveloped.
+- How the sleep on Adomorn's 2 Marauders was timed or lifted: undeveloped.
+
+EVANDER'S FATE:
+- Did Evander die in 1599 or step down? Death year undecided.
+
+IRRIDAE PANTHEON:
+- List of 20 is partial. Remaining names undeveloped.
+- Which god Skitter worships: undecided.
+- Whether any remaining Irridae return in the future story: undecided.
+
+THE DRASIAN VAULT:
+- RESOLVED: The Vault has never been opened and will open only in the presence
+  of a Drasu. Adomorn, the last surviving Drasu, is the only living being who
+  can open it. This is a deliberate story hook for future adventures.
+- RESOLVED: Adomorn has no relationship with the Var Harma. He is aware of their
+  excavations and untroubled by them because they cannot get in.
+- Whether the Var Harma have located the Vault by 432 AW: undecided. Less
+  important than it was, since locating and entering are separate problems.
+- Whether any Drasian text recovered by the Var Harma describes the Drasu-only
+  seal: undeveloped. If one ever surfaces, they would hold a door they cannot
+  open and a reason to hunt for the only key.
+
+ESTEFANIA:
+- Does she know her own heritage?
+- Connection to Daria's line: strong possibility, not confirmed.
+- Galstaff may have discovered her lineage: NOT YET OFFICIAL.
+- Narrative function undefined.
+
+DRAAK SETTLEMENT:
+- Confirmed location: river valley dividing eastern and western Black Mountains.
+- Name: UNDEVELOPED.
+- Nature and what remains after thousands of years: UNDEVELOPED.
+- Whether Iron Dwarves have encountered any of it: undeveloped.
+
+SNOW ELVES:
+- Island name: UNDEVELOPED.
+- Kingdom name: UNDEVELOPED.
+
+SEA ELVES:
+- TENTATIVE: approximately 90% of civilization underwater, 10% on land.
+  NOT YET CONFIRMED.
+- Nature of underwater settlements: undeveloped.
+
+MARSH GOBLIN ISLAND:
+- Island name: UNDEVELOPED.
+
+THE BARREN RUN (UTOA):
+- Nature and description: UNDEVELOPED.
+
+KOBOLDS — UNDEVELOPED:
+- No strong direct relationship established between Tunneler Kobolds and Iron
+  Dwarves of Fardar — worth developing.
+- Whether Tunneler Kobolds have encountered ancient Draak remnants in the
+  eastern Black Mountains: undeveloped.
+- Relationship between Mystic Kobolds and Obsidian Dragonborne: undeveloped.
+
+GIANTKIN — ORIGIN NOT YET ESTABLISHED:
+- Frost Giants, Hill Giants, Ogres, Swamp Giants.
+
+RACES WITH NO ORIGIN LOCATION:
+- Trolls — Forest, Moss, Desert.
+
+RACE LIFESPANS NOT YET ESTABLISHED:
+- Orcs, Magni (follows base race), Giantkin subtypes other than Stone Giants
+  (Frost Giants, Hill Giants, Ogres, Swamp Giants), Troll subtypes,
+  Humans (Shepherds, Water Whisperers), Wyrms.
+- RESOLVED: Stone Giants — 50 years. Born large, grow fast. See
+  Overview_Cosmology.
+
+SKITTER'S PRIOR COMPANIONS:
+- Wilward (Adenburry), Alexa (Broldendul), Qenwick (Fardar) — all alive.
+  Future roles undeveloped.
+
+GUARDIANS OF THE TREE:
+- RESOLVED: the original members were the HEADS of each family Adomorn chose,
+  not the families entire. The role passes by blood to ONE descendant per
+  family per generation, typically the firstborn, sworn to secrecy on entry.
+  This is what keeps the order small enough to hold a secret for 2,500 years.
+- RESOLVED: Heaven's Oak stands at the center of Caldalus and the Guardian
+  lines are founding families of the capital.
+- TENTATIVE, not fully confirmed: the heir is sworn in upon reaching adulthood,
+  with the serving Guardian continuing. This roughly doubles the order's
+  standing number, since a Guardian parent may serve another century after the
+  heir is sworn.
+- Anointment from outside the bloodlines has occurred; specific instances
+  UNDEVELOPED. TENTATIVE possible cause: a Guardian murdered for some nefarious
+  purpose, breaking a line.
+- TENTATIVE thread: a sworn Guardian betraying the secrecy. Nothing established.
+- STRUCTURAL WEAKNESS recorded: firstborn succession makes the next Guardian of
+  every line identifiable long before they are sworn, and before they know it
+  themselves. Anyone who understood the order could count firstborns.
+- What happens when a firstborn dies young, refuses, or proves unsuitable:
+  undeveloped. Presumably a fallback within the line before outside anointment.
+- Rituals, founding family names: undeveloped.
+- Current threat assessment in 432 AW: undeveloped.
+- OPEN (v007) — WHAT THE GUARDIANS KNEW ABOUT THE ELF WAR, AND WHEN. Nothing in
+  the bible states they understood Diquyk's objective. They knew what the chamber
+  was for, which explains nothing on its own without also knowing the Abaculus
+  was in play and that an enemy had learned the chamber existed — neither of
+  which was available to anyone in Faelyn. Adomorn identified Diquyk as a Magni
+  and nothing beyond it.
+  However, the Guardians entry describes them as "still vigilant against Elf War
+  threat," which implies they regard the chamber as having been the target and
+  still at risk. That may be permanent duty-vigilance, or hindsight arrived at
+  after the attacks stopped at the capital's doorstep. DELIBERATELY LEFT OPEN.
+  The two readings produce very different Guardians in the present day.
+- LIVE HOOK: the widely held Wood Elf belief that Heaven's Oak may unlock
+  memories of a lost age is exactly the kind of rumor the Var Harma exist to
+  chase — an organization already hunting artifacts of power and already
+  reconstructing the Drasian tongue to recover a forgotten civilization.
+  Whether they have ever heard it, or acted on it: undeveloped.
+
+THE MARAUDERS:
+- Formation RESOLVED: council of war decided on the offensive; Mya volunteered
+  to lead; all ten were self-selected volunteers, not hand-picked.
+- Individual member names and backgrounds: undeveloped.
+- Whether any of the ten had served under Mya before, or knew Kharis:
+  undeveloped.
+- Names and number of the Faelyn tacticians and strategists at the council of
+  war: intentionally left undeveloped.
+- How 8 Marauders entered The Deep: undeveloped.
+- How sleep on 2 Marauders was timed or lifted: undeveloped.
+
+THE VAR HARMA:
+- RESOLVED: Founded by royal decree of a T'sarran ruler after the discovery of
+  Atral. Two branches — internal curators/archaeologists within T'sarra, external
+  operatives (spies, assassins, thieves, treasure hunters) beyond its borders.
+  Moving to the external branch is an initiation, not a transfer.
+- RESOLVED: No relationship with Adomorn. The earlier lore is superseded.
+- Identity of the founding ruler, and the date of the founding decree:
+  UNDEVELOPED. The length of time between the emergence of the High Elves and
+  the discovery of Atral is deliberately left open — do not pin it down casually,
+  as it constrains the founding.
+- Whether the original founding decree still exists in T'sarra, and what it says:
+  undeveloped. It describes an organization that no longer resembles itself.
+- Whether any throne ever formally authorized the expansion beyond the charter,
+  or successive rulers simply stopped asking: undeveloped.
+- How much the internal branch suspects about the external branch's work:
+  undeveloped.
+- Leadership in 432 AW: undeveloped.
+- How much of the Drasian tongue they can actually read, and what else they have
+  read in it: undeveloped.
+
+THE NORTHWARD ENVOYS:
+- Whether any envoy ever found the Draak civilization: undeveloped.
+- Fates of the envoys who never reported back: some defected after seeing the
+  world contradict their upbringing; some simply settled in the new lands away
+  from T'sarra's politics; a fair number remain loyal and still act in T'sarra's
+  interests. No specific envoys, names, or actions established.
+- Whether any defected envoy or their descendants are still alive and locatable
+  in 432 AW: undeveloped. Potentially significant.
+
+T'SARRA — AS AN ANTAGONIST:
+- Ruler in 432 AW, court structure, and internal politics: undeveloped.
+- Whether the kingdom has ever witnessed Adomorn rematerialize at Atral, and what
+  it made of the event: undeveloped.
+- Current relationship with the Sand Dwarves, who were useful to them once:
+  undeveloped — see SAND DWARF AND HIGH ELF RELATIONSHIP below.
+- Which other kingdoms T'sarra has moved against, and how: undeveloped. No
+  specific operations established.
+
+SAND DWARF AND HIGH ELF RELATIONSHIP:
+- Current relationship in 432 AW: undeveloped.
+
+ATRAL EXCAVATIONS:
+- How much uncovered by 432 AW: undeveloped.
+- Years after Sundering before High Elves discovered ruins: undecided.
+
+DRAAK TERRITORY REMNANTS:
+- Ancient Draak remnants may be buried in the Black Mountains.
+- Iron Dwarves may not have fully explored the eastern reaches.
+
+GREYHAWK:
+- Personality, inner life, experience of corruption: undeveloped.
+- 29 years of the Great War he directed: largely undeveloped.
+
+DRAGON WARS (2ND EPOCH):
+- Reconciliation of Dragon Wars with Chromatic/Metallic framework and current
+  confirmed lore: to be developed. Dragon Wars occurred 1206-1214, 2nd Epoch,
+  during formation of Harrad under Eisengol.
+
+RACE APPEARANCE TABLE — INCOMPLETE:
+- Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls, Dragons: appearance
+  entries not yet developed.
+- Northmen native language (Andari) may have had a different name in earlier
+  epochs — the present-day name derives from the Andar region, a regional
+  identity that did not exist at the Sundering.
+
+MAP NOTES:
+- All borders approximate, defined by natural geographic features.
+- 3rd Epoch kingdoms: Kimora, Fardar, Ellendale, Faelyn, Hellar, Andar (Alios);
+  T'sarra (Edura); Felgard (Utoa); Icefall; Jokul; Malulo; Myst.
+- 1st Epoch: Drasian Empire (northern Edura); Draak Territory (Black Mountains).
+- Stone Giants: Tempest Peaks, western Alios (confirmed).
+- Snow Elf island: large island east of Utoa — name undeveloped.
+- Marsh Goblin island: small island east of Alios — name undeveloped.
+- Races still needing origin locations: Frost Giants, Hill Giants, Ogres,
+  Swamp Giants, Trolls (Forest, Moss, Desert).
+
+================================================================================
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v007
+================================================================================

@@ -154,13 +154,20 @@ years, individual missions, who lives and dies among unnamed soldiers, and how
 the party experiences each fixed event. It does not extend to preventing them.
 
 ### The Marauder Commitment
-The players intend for Sharii and Alinar to be among the ten Marauders who
-volunteer in 392 AW. Per confirmed lore, **all ten Marauders die.**
+**The intention is that every PC in the party at that point is among the ten
+Marauders who volunteer in 392 AW.** Per confirmed lore, **all ten Marauders
+die.**
 
-**Player ruling:** if the twins survive the final battle, that outcome is
-explicitly **NON-CANON** and is not promoted into `bible/`. The bible's account
-stands regardless; the campaign simply becomes its own branch at that point.
-Nothing in `campaign/` may contradict `bible/` in the other direction.
+**Corrected after session 7.** This clause originally named Sharii and Alinar,
+because it was written at setup when the party was two. **Ignis joined in session
+3 and the line was never updated.** It is deliberately generic now so that it
+survives the party changing again — nobody expects further additions, but a
+clause that has already gone stale once should not be written so that it can.
+
+**Player ruling:** if any PC survives the final battle, that outcome is explicitly
+**NON-CANON** and is not promoted into `bible/`. The bible's account stands
+regardless; the campaign simply becomes its own branch at that point. Nothing in
+`campaign/` may contradict `bible/` in the other direction.
 
 **Lethality ruling:** killing the PCs is permitted at any stage of the campaign.
 The DM is not required to protect them, fudge rolls in their favor, or engineer

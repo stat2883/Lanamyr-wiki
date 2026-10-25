@@ -12,10 +12,15 @@ would need to change.
 
 ## Pending
 
-### Two Marauders named
-- **Established:** Sharii and Alinar (Wood Elf Rangers) are two of the ten
-  Marauders who volunteered in 392 AW and died in the final battle in The Deep.
-- **Source:** Campaign premise, agreed at setup.
+### PC Marauders named
+*(Heading corrected after session 7 — this was "Two Marauders named", written at
+setup when the party was two, and never updated when Ignis joined in session 3.)*
+- **Established:** **the PCs** — currently Sharii and Alinar (Wood Elf Rangers)
+  and Ignis (Tiefling Druid) — are intended to be among the ten Marauders who
+  volunteered in 392 AW and died in the final battle in The Deep. **Stated
+  generically on purpose**, so it survives any further change to the party.
+- **Source:** Campaign premise, agreed at setup; scope corrected by the user at
+  the close of session 7.
 - **Bible status:** `Lanamyr_08_Open_Questions.txt` currently lists "Individual
   member names and backgrounds: undeveloped" under THE MARAUDERS.
   `Lanamyr_07_Stories_Outlines.txt` lists "Who are the ten Marauders?" as a key
@@ -25,9 +30,13 @@ would need to change.
   (new character entries) and `Lanamyr_05_Kingdoms_History.txt` (THE MARAUDERS
   organization entry).
 - **Status:** NOT YET EARNED. Promote only if the campaign actually reaches and
-  plays the 392 AW volunteer call **and** the twins die there, matching the
+  plays the 392 AW volunteer call **and** the PCs die there, matching the
   confirmed account.
-- **User ruling:** if Sharii and Alinar survive the final battle, the outcome is
+- **⚠ Note for promotion:** **Ignis is a Tiefling**, and Tieflings exist in
+  Lanamyr by campaign-only ruling (see below). A PC Marauder list containing one
+  **cannot be promoted as written** without first settling what a Tiefling is in
+  this cosmology. The twins carry no such problem.
+- **User ruling:** if any PC survives the final battle, the outcome is
   **NON-CANON** and is not promoted. The bible's account — all ten Marauders
   dead — stands unchanged. The campaign becomes its own branch.
 

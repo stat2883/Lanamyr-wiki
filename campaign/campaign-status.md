@@ -122,8 +122,10 @@ Perception +4, Stealth +5 · Pack Tactics · shares Sharii's initiative.
 **Personality is tracked by observed action, not declared trait** — see
 `characters/behavior-log.md`.
 
-Both twins intend to volunteer as Marauders in 392 AW. If they survive the final
-battle that outcome is explicitly **NON-CANON**. Death is permitted at any stage.
+**Every PC in the party intends to volunteer as a Marauder in 392 AW** —
+generic by design, corrected after session 7, because the original clause named
+only the twins and predated Ignis. If any of them survives the final battle that
+outcome is explicitly **NON-CANON**. Death is permitted at any stage.
 
 ---
 

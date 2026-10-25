@@ -90,7 +90,8 @@ anyone who stays behind carries no blame and no ill will.
 
 **Ten come forward.** All volunteers. All understood.
 
-*(Sharii and Alinar are two of the ten — see CAMPAIGN_INSTRUCTIONS.md §3.)*
+*(**Every PC is intended to be among the ten** — see CAMPAIGN_INSTRUCTIONS.md §3.
+Generic by design; the original wording named only the twins and predated Ignis.)*
 
 **6. The final battle, inside The Deep.**
 - 8 Marauders with **Mya** as a deliberate decoy force, entering conventionally.

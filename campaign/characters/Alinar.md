@@ -4,7 +4,7 @@
 **Race:** Wood Elf (male) · **Class:** Ranger · **Background:** Outlander
 **Age:** 45 (born 342 AW) — young adult by Wood Elf standards (42–62)
 **Twin brother of Sharii** — Alinar is the younger by a few minutes
-**Level:** 4
+**Level:** 5
 **Combat focus:** Dual-wielding melee, finesse weapons · Hunter (Colossus Slayer)
 
 ---
@@ -30,28 +30,28 @@ now **capped**. Every future ASI is free for a feat.
 
 ## Core Statistics
 
-- **Proficiency Bonus:** +2
+- **Proficiency Bonus:** **+3**
 - **Armor Class:** 16 (leather armor 11 + Dex 5)
 - **Initiative:** +5
 - **Speed:** 35 ft (Fleet of Foot)
-- **Hit Dice:** 4d10
-- **Hit Points:** 36 (10 + Con 2, then 6 + Con 2 x3)
-- **Passive Perception:** 15
+- **Hit Dice:** 5d10
+- **Hit Points:** **44**
+- **Passive Perception:** **16**
 
 ### Saving Throws
-- **Strength** +1 *(proficient)*
-- **Dexterity** +7 *(proficient)*
+- **Strength** **+2** *(proficient)*
+- **Dexterity** **+8** *(proficient)*
 - Constitution +2 · Intelligence +0 · Wisdom +3 · Charisma +0
 
 ### Skills
 | Skill | Ability | Mod | Source |
 |---|---|---|---|
-| **Animal Handling** | WIS | +5 | Ranger |
-| **Athletics** | STR | +1 | Outlander |
-| **Nature** | INT | +2 | Ranger |
-| **Perception** | WIS | +5 | Keen Senses (racial) |
-| **Stealth** | DEX | +7 | Ranger |
-| **Survival** | WIS | +5 | Outlander |
+| **Animal Handling** | WIS | **+6** | Ranger |
+| **Athletics** | STR | **+2** | Outlander |
+| **Nature** | INT | **+3** | Ranger |
+| **Perception** | WIS | **+6** | Keen Senses (racial) |
+| **Stealth** | DEX | **+8** | Ranger |
+| **Survival** | WIS | **+6** | Outlander |
 
 ---
 
@@ -59,9 +59,13 @@ now **capped**. Every future ASI is free for a feat.
 
 | Weapon | Attack | Damage | Notes |
 |---|---|---|---|
-| Shortsword (main hand) | +7 | 1d6+5 piercing | Finesse, light |
-| Shortsword (off hand) | +7 | 1d6+5 piercing | Bonus action. Includes Two-Weapon Fighting style. |
-| Longbow | +7 | 1d8+5 piercing | Range 150/600, two-handed, heavy |
+| Shortsword (main hand) | **+8** | 1d6+5 piercing | Finesse, light |
+| Shortsword (off hand) | **+8** | 1d6+5 piercing | Bonus action. Includes Two-Weapon Fighting style. |
+| Longbow | **+8** | 1d8+5 piercing | Range 150/600, two-handed, heavy |
+
+**⚠ Extra Attack (5th)** — two attacks with the Attack action, **plus** the
+off-hand as a bonus action. **Three attacks a turn**, with Colossus Slayer's 1d8
+once per turn on top. Roughly 30 damage a round, or 40 with *Hunter's Mark* up.
 
 *Note: with Strength 9, Alinar relies entirely on finesse and ranged weapons.
 Any non-finesse melee weapon would attack at −1 and deal reduced damage. This
@@ -115,10 +119,10 @@ Adds his ability modifier to the damage of the off-hand attack. (Already
 included in the attack table above.)
 
 ### Spellcasting
-Wisdom-based. **Spell save DC 13 · Spell attack +5.**
+Wisdom-based. **Spell save DC 14 · Spell attack +6.**
 
-- **Spell Slots:** 3 × 1st level
-- **Spells Known (3):**
+- **Spell Slots:** **4 × 1st level**
+- **Spells Known (4):**
   - **Hunter's Mark** — bonus action, +1d6 damage on every hit against one
     target, 1 hour, **concentration**.
   - **Fog Cloud** — 20 ft radius heavily obscured sphere, 1 hour,
@@ -126,9 +130,26 @@ Wisdom-based. **Spell save DC 13 · Spell attack +5.**
   - **Ensnaring Strike** — bonus action on a weapon hit, target restrained by
     thorny vines, 1 minute, **concentration**.
 
-**⚠ Concentration conflict:** all three of Alinar's spells require
-concentration. He can only ever have one active at a time. Every fight forces
-a choice between damage, escape, and control.
+  - **Cure Wounds** *(added at 5th)* — action, touch, **1d8 + 3**. **No
+    concentration.** Taken because Ignis dropped *Healing Word* and the party had
+    one healer, and because he is the only one of the three who stands in the
+    melee.
+
+**⚠ Concentration conflict:** the three original spells all require concentration
+and he can only ever hold one. *Cure Wounds* is the first thing on this sheet that
+does not compete.
+
+---
+
+## Class Features — Level 5
+
+### Extra Attack
+Two attacks with the Attack action. With Two-Weapon Fighting this makes **three
+attacks a turn.**
+
+### Fourth spell slot, fourth spell known
+4 × 1st-level slots. Proficiency rises to **+3**. *(Rangers gain no 2nd-level
+slots until 7th.)*
 
 ---
 

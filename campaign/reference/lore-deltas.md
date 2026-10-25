@@ -663,3 +663,90 @@ void and s5 vent entries, still applies.*
   treat the life-stage percentages as soft guidelines rather than hard gates.
   Either is a lore decision with cross-file consequences and belongs to a bible
   session, not a campaign session.
+
+---
+
+## Added session 7
+
+### The ward, the gallery and the correspondence — HANDLE WITH CARE
+
+**All campaign-invented. NOT for promotion.** Extends the s3 / s5 / s6 entries on
+the hall, the vents and vent nine, and is now large enough to be dangerous to the
+bible if promoted carelessly.
+
+- **The cubes read as ABJURATION** under *Detect Magic*, with the aura **passing
+  through** the cube and running north, down and along the wall past the limit of
+  a thirty-foot radius. The lamp is faint **Evocation** and nothing more. The
+  inscription circle has **no aura at all.**
+- **The vents are a ventilation circuit** — some exhaust, some intake — and the
+  draught direction correlates exactly with whether work is happening beneath.
+- **The eleven are tops of ducts, not doors.** Vent four's crawl is twenty inches
+  and polished by passage; vent three's is fifteen and has never been crawled
+  through.
+- **A staircase, four or five abreast, two hundred feet of finished flights,
+  entirely unworn**, descending past the lamp line into a space whose floor
+  nobody has seen.
+- **The lamps are on cut shelves on a wall at one height, not on a floor.**
+- **A gallery with at least twenty-four workers cutting empty shelves at a fixed
+  interval**, and magically inert throughout.
+- **A post system: hand-cut recesses sized to a wax writing board**, at hand
+  height, at the shaft head under vent four, at the head of the stair, and at
+  vent nine.
+- **The correspondence.** A blank board bearing a mason's test-stroke produces a
+  **nine-line form reply** regardless of where it is left. A board **handed over
+  in person** produced **eleven lines with two corrections.** **The answering
+  stroke appears only where two individuals met** — with one unreconciled
+  exception, the original, which Maevis has refused to reconcile and recorded as
+  both halves.
+
+**⚠ WHY THIS IS DANGEROUS.** The bible's confirmed cosmology already contains
+exactly one very large, very old thing built to hold something where it is — the
+**Heaven's Oak chamber** — and one indestructible object an entire world was built
+to hide. **Nothing in this campaign has been connected to either, and nothing
+should be.** The quiet ones, the cubes, the arc and the ward are campaign material
+in a campaign that is explicitly non-canon at its endpoint. **Do not promote any
+of it, and do not let a lore session reach for it as an explanation for anything
+in `bible/`.**
+
+### Campaign NPCs, places and arrangements added session 7 — NOT for promotion
+
+- **Brakk Orlen** — Dark Dwarf sulphur factor out of Kuldor who brings one
+  consignment a year up the road with the autumn caravans. Offscreen; invented to
+  explain why there is no sulphur in Caldalus until the thaw.
+- **Sulphur reaches Faelyn only from Kuldor, once a year, ahead of the snow.**
+  Rests on confirmed bible geography — Kuldor is the western terminus of the road
+  and the Darkened Slopes crossing is the dangerous final leg — but the trade
+  itself is campaign-invented.
+- **Faelyn has no scholar who can read the script**, and the only academic who has
+  seen it is being watched. Campaign-side.
+- **The rota as an order form**, the forward posting at Ashwell, Ordow's
+  *heartbeat* rule, and **the Ashwell charter functioning as an evacuation
+  instrument** — all campaign-side and none of it bible material.
+
+### Table rulings recorded session 7 — mechanics, never promoted
+
+- Cantrips are **known, not prepared** (2014 PHB). A mid-campaign cantrip swap was
+  reverted.
+- ***Goodberry*** feeds a six-person posting on one first-level slot a night, with
+  the twenty-four-hour expiry enforced.
+- **Ranger foraging is worthless above the treeline**, because the pulse emptied
+  the mountain of everything that can leave. Campaign fiction built on s4 lore.
+- Carried gear **melds** through Wild Shape and returns on reverting.
+- **Reverting is free but the use is spent**; past a pinch, the second use is the
+  exit.
+- ***Beast Sense* does not work on the quiet ones** — beast type only.
+- ***Detect Magic* is a ritual, and concentration survives Wild Shape.**
+- **Script is not recoverable from memory; structure is.** Comparing **two
+  originals** is legitimate where comparing two bad copies was not.
+
+### Sharii's *Unbidden* — session 7 addition, NOT for promotion
+
+**An animal has established that when the thing happens to Sharii, it cannot smell
+him at all** — that there is a place where he is standing with nothing in it, that
+it has happened **eleven times**, and that it is **the same kind of nothing** the
+animal now smells on a person who put her hand on a dead cube.
+
+This is campaign material and **must not be promoted.** It does not establish that
+Sharii is a Magni and is not intended to. The bible's unfilled slot for a more
+recent Magni (`Lanamyr_08_Open_Questions.txt`, MAGNI) remains open and untouched,
+and nothing from this campaign has been written into it.

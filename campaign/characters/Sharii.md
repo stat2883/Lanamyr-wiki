@@ -4,7 +4,7 @@
 **Race:** Wood Elf (male) · **Class:** Ranger · **Background:** Outlander
 **Age:** 45 (born 342 AW) — young adult by Wood Elf standards (42–62)
 **Twin brother of Alinar** — Sharii is the elder by a few minutes
-**Level:** 4
+**Level:** 5
 **Combat focus:** Ranged (longbow) · Beast Master (companion: Knight)
 
 ---
@@ -28,28 +28,28 @@ knowingly non-optimal.*
 
 ## Core Statistics
 
-- **Proficiency Bonus:** +2
+- **Proficiency Bonus:** **+3**
 - **Armor Class:** 14 (studded leather 12 + Dex 2) — *scale mail traded away, session 2*
 - **Initiative:** +2
 - **Speed:** 35 ft (Fleet of Foot)
-- **Hit Dice:** 4d10
-- **Hit Points:** 36 (Con +2 applies retroactively: 10+2, then 6+2 x3)
-- **Passive Perception:** 16
+- **Hit Dice:** 5d10
+- **Hit Points:** **44**
+- **Passive Perception:** **17**
 
 ### Saving Throws
-- **Strength** +3 *(proficient)*
-- **Dexterity** +4 *(proficient)*
+- **Strength** **+4** *(proficient)*
+- **Dexterity** **+5** *(proficient)*
 - Constitution +2 · Intelligence +2 · Wisdom +4 · Charisma +4
 
 ### Skills
 | Skill | Ability | Mod | Source |
 |---|---|---|---|
-| **Animal Handling** | WIS | +6 | Ranger |
-| **Athletics** | STR | +3 | Outlander |
-| **Insight** | WIS | +6 | Ranger |
-| **Investigation** | INT | +4 | Ranger |
-| **Perception** | WIS | +6 | Keen Senses (racial) |
-| **Survival** | WIS | +6 | Outlander |
+| **Animal Handling** | WIS | **+7** | Ranger |
+| **Athletics** | STR | **+4** | Outlander |
+| **Insight** | WIS | **+7** | Ranger |
+| **Investigation** | INT | **+5** | Ranger |
+| **Perception** | WIS | **+7** | Keen Senses (racial) |
+| **Survival** | WIS | **+7** | Outlander |
 
 ---
 
@@ -57,8 +57,10 @@ knowingly non-optimal.*
 
 | Weapon | Attack | Damage | Notes |
 |---|---|---|---|
-| Longbow | +6 | 1d8+2 piercing | Range 150/600, two-handed, heavy. Includes Archery +2. |
-| Shortsword | +4 | 1d6+2 piercing | Finesse, light |
+| Longbow | **+7** | 1d8+2 piercing | Range 150/600, two-handed, heavy. Includes Archery +2. |
+| Shortsword | **+5** | 1d6+2 piercing | Finesse, light |
+
+**Extra Attack (5th):** two attacks with the Attack action.
 
 ---
 
@@ -106,13 +108,30 @@ number, sizes, and how long ago they passed.
 attack bonus above.)
 
 ### Spellcasting
-Wisdom-based. **Spell save DC 14 · Spell attack +6.**
+Wisdom-based. **Spell save DC 15 · Spell attack +7.**
 
-- **Spell Slots:** 3 × 1st level
-- **Spells Known (3):**
+- **Spell Slots:** **4 × 1st level**
+- **Spells Known (4):**
   - **Cure Wounds** — touch, heals 1d8+4. The party has no other healing.
   - **Speak with Animals** — 10 minutes, converse with beasts.
   - **Longstrider** — touch, +10 ft speed for 1 hour.
+  - **Beast Bond** *(XGE, added at 5th)* — touch a beast of INT 3 or lower;
+    telepathic link, **line of sight only**, concentration up to 10 minutes. It
+    understands his messages and sends back **simple emotions and concepts, not
+    sentences.** While active it has **advantage on attacks against any creature
+    within 5 ft of him** — which is the only move Knight has ever had.
+    *Works on Knight. Works on almost nothing else. It is not* Speak with Animals.
+
+---
+
+## Class Features — Level 5
+
+### Extra Attack
+Two attacks whenever he takes the Attack action.
+
+### Fourth spell slot, fourth spell known
+4 × 1st-level slots. Proficiency rises to **+3**, which moves every attack, save
+and skill on this sheet. *(Rangers gain no 2nd-level slots until 7th.)*
 
 ---
 
@@ -155,15 +174,15 @@ immediately after him. On his own, can only Dash, Disengage, Dodge, or Help;
 anything else requires a bonus action command from Sharii (no action
 required once Sharii reaches 7th level).
 
-- **AC** 13 · **HP** 16 (4 × ranger level) · **Speed** 40 ft
+- **AC** **14** · **HP** **20** (4 × ranger level) · **Speed** 40 ft
 - **STR** +1 · **DEX** +2 · **CON** +1 · **INT** −4 · **WIS** +1 · **CHA** −2
-- **Bite:** +4 to hit, **1d4+2** piercing. Target fails a **DC 11 Strength
+- **Bite:** **+5** to hit, **1d4+3** piercing. Target fails a **DC 12 Strength
   save** or is knocked prone.
 - **Pack Tactics:** advantage on attacks against a creature if another of
   Knight's allies is within 5 ft of it and not incapacitated.
 - **Keen Hearing and Smell:** advantage on Perception checks relying on
   hearing or smell.
-- **Skills:** Perception +3, Stealth +4
+- **Skills:** Perception **+4**, Stealth **+5**
 
 *Full stat block also maintained in
 `../npcs/combat-blocks.md` for DM reference during encounters.*
@@ -194,6 +213,50 @@ is four months old and chases cats.
 **And one thing nobody asked for:** on the seventh day, Unbidden brushed Sharii
 during a drill and Knight's head came up and looked straight at *him*, not at a
 sound. **The wolf can tell when it happens.**
+
+### ⚠ The second signal (session 7)
+
+Four days in the lower yard in deep winter. Sharii stopped trying to train the
+whistle's failure out of the animal and **diagnosed it instead**: *"the whistle is
+an order to abandon a job he gave himself, and I keep giving it at the exact moment
+he thinks the job is on."*
+
+So he built a signal that lives **inside** the job rather than across it.
+
+- **Double tap on his own thigh, twice** — *be between me and it from over here.*
+  Same work, better ground. A wolf who will not leave a spot can carry this out by
+  moving to a better spot.
+- **Reliable about two-thirds of the time at thirty feet. Nothing at forty.
+  Nothing at all against a moving target.** It is not finished.
+
+### ⚠ WHAT KNIGHT ESTABLISHED IN SESSION 7 — read before playing Unbidden
+
+Asked directly whether Sharii carries the same "underneath" smell as Ignis:
+
+> **"No. He has no under on him. Not ever. Not once."**
+
+And then the part nobody expected. **It is not a smell at all.**
+
+> *"It is that there is not one. When it happens — the going without moving —
+> **I cannot smell him.** Everything else is still there. The yard is there. The
+> snow is there. **He is not.** There is a place where he is standing and there is
+> nothing in it."*
+>
+> ***"It has happened eleven times since I have known him."*** *(He cannot count
+> past three. He is certain it is eleven. He does not understand the question when
+> asked how he knows.)*
+>
+> *"I do not think he is going under. I do not know where he goes. **There is
+> nothing there to know.** That is the whole of why I asked."*
+
+And, unprompted, to Sharii:
+
+> *"It does not hurt me. I do not mind it. **I would like to be told before it
+> happens so I can be where you are.** I know you cannot tell me. I would like it
+> anyway."*
+
+**Sharii has not pursued any of this by one inch.** He has not asked a follow-up,
+has not raised it with Ignis, and **has not told his brother.**
 
 ---
 

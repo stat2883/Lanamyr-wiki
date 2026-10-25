@@ -120,6 +120,30 @@ Ashwell and Dalla Sarn on the watch.
 
 ---
 
+## ⚠ THE FORWARD POSTING — session 7, 387 AW
+
+From day eighty-one, **the forward party is based in Ashwell rather than Caldalus**
+for the remainder of the winter, under the **vent line survey rota** — ten-day
+turns, entirely surface, command forward with **Sgt. Thale**, expiring when the
+draw shuts.
+
+**Forward:** Sharii · Alinar · Ignis · **Mya Li** · **Wick Pallowen** ·
+**Maevis Tarn** *(seconded from the Office of Works, which means a clerk at the
+Attery yard has written down where she is until the thaw)* · Knight ·
+**Thale** commanding · **Dalla Sarn** on the watch.
+
+**Supply:** the party feeds itself — *Goodberry* above the treeline, ranger
+foraging below it — and **gives its drawn stores to Ashwell**, entered by Ordow as
+a lawful **disbursement against a militia post billeted on their ground** rather
+than a gift, which is the only form in which Aldric could accept them.
+
+**⚠ ORDOW'S HEARTBEAT.** A party feeding itself off a spell stops drawing rations,
+which destroys the only early-warning signal the quartermaster has ever had. His
+own fix: ***"you draw anyway, all six, every turn, whether you eat it or not.
+It's not rations. It's a heartbeat."*** **Somebody signs his book every ten days.**
+
+---
+
 ## Company Command
 
 ### Captain Ilyen Vaeroth

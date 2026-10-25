@@ -4,7 +4,13 @@ Compact statblocks for running encounters consistently across sessions. These
 are the **authoritative numbers** — do not improvise fresh ones. If an NPC's
 stats change (levels, injuries, gear), update this file.
 
-**Currency:** 387 AW. Revise at milestones as the campaign advances.
+**Currency:** 387 AW, **after the session-7 level-up (party at 5).** Revise at
+milestones as the campaign advances.
+
+**⚠ Note on Knight:** the recorded bite is **1d4+3**, scaled from this file's own
+earlier entry rather than re-derived from the MM wolf (**2d4+2** base). The user
+was offered the RAW correction in session 7 and it was not taken up. If it ever
+is, the bite becomes **2d4+3**.
 Character, motivation and arc live in the individual NPC files; this file is
 mechanics only.
 
@@ -47,16 +53,16 @@ significance is narrative; outshining the PCs mechanically undercuts both.
 ---
 
 ## Knight (Sharii's Companion)
-**Wolf, Beast Master companion** · scales with Sharii's ranger level (**4**)
+**Wolf, Beast Master companion** · scales with Sharii's ranger level (**5**)
 *See `../characters/Sharii.md` for narrative origin.*
 
-- **AC** 13 · **HP** 16 (4 × ranger level) · **Speed** 40 ft
+- **AC** 14 · **HP** 20 (4 × ranger level) · **Speed** 40 ft
 - **STR** +1 · **DEX** +2 · **CON** +1 · **INT** −4 · **WIS** +1 · **CHA** −2
-- **Bite** +4 to hit, 1d4+2 piercing. DC 11 Strength save or prone.
+- **Bite** +5 to hit, 1d4+3 piercing. DC 12 Strength save or prone.
 - **Pack Tactics:** advantage on attacks vs. a creature if another of
   Knight's allies is within 5 ft of it and not incapacitated.
 - **Keen Hearing and Smell:** advantage on Perception (hearing/smell).
-- **Skills:** Perception +3, Stealth +4
+- **Skills:** Perception +4, Stealth +5
 - Shares Sharii's initiative, acts immediately after him. Only self-directed
   actions: Dash, Disengage, Dodge, Help. Anything else needs a bonus-action
   command from Sharii (free at ranger level 7+).

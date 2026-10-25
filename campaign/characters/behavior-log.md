@@ -1329,3 +1329,305 @@ and by day 49 was sitting on the same side as her instead of opposite.**
 **The one from the ladder (unidentified, not to be named).** Nothing further. The
 room it worked in is now shut behind the weather, and **every tool in that shaft
 restarted the moment it knelt back down.** *No statblock. Do not build one.*
+
+---
+
+# SESSION 7 — days 50–103
+
+## Sharii
+
+**S7 — 387 AW, Caldalus.** The party elected to wait to be ordered. **He proposed
+nothing and asked for nothing** across five days of an empty top line.
+
+**S7 — 387 AW, the lower yard.** Four days on the wolf. **Stopped trying to train
+out the failure and diagnosed it instead** — *"the whistle is an order to abandon a
+job he gave himself"* — and then **built a new signal that lives inside the job
+rather than across it.** Did not try to make the animal into something else.
+
+**S7 — 387 AW, the yard.** Knight came to Ignis in wolf shape and retreated the
+instant she reverted. **He watched it for days and said nothing about it to her.**
+
+**S7 — 387 AW, the walk uphill.** Was handed Knight's five-week-old question by
+Ignis and **did not react to the withholding at all.** His entire response was an
+operational question: *do I smell of it too, and if not, what made him put us in
+the same question.*
+
+**S7 — 387 AW, the yard.** Learned, in front of a witness, that when the thing
+happens to him **an animal cannot smell him at all** — that there is a place where
+he is standing with nothing in it, eleven times — **and said nothing whatsoever.**
+Had four minutes of his own spell left and used none of them.
+
+**S7 — 387 AW, the office.** Present for the whole of the objective argument and
+**spoke once**, to no recorded effect, and did not contest Alinar's pick.
+
+**S7 — 387 AW, the shoulder.** Stood at a ten-inch hole for twelve minutes past a
+count his brother had read out loud, **and did not move and did not speak.**
+
+**S7 — 387 AW, Ashwell.** Took ***Beast Bond*** at level 5 — the spell that
+rewards an animal for standing between him and a thing, which is the only move that
+animal has ever had. **He is now the sole route to Knight in both directions**, and
+Ignis has traded hers away entirely.
+
+**S7 — 387 AW, the road west.** **Asked Mya the largest question anybody has asked
+this winter** — *you're implying they can't understand us; do you also think they
+know we can't understand them?* — and then said nothing while she answered it.
+
+**S7 — 387 AW, the council on the road.** Did not speak at all through the whole
+discussion of what to write. Mya looked at him twice.
+
+### Pattern — observations, not conclusions
+- **New, s7:** he asks one question and then gets out of the way of the answer.
+  Three times this session the most useful thing in a conversation was a question
+  of his that he did not follow up.
+- **New, s7:** he received the single most unsettling fact anybody has ever
+  established about him and **did not pursue it by one inch.** He has not asked the
+  wolf a follow-up, has not asked Ignis, and has not mentioned it to his brother.
+- He still volunteers the thing that weakens his own position when it is about
+  himself. He still does not when it is about his brother.
+- **Unchanged and now conspicuous:** he has not told Alinar any of it.
+
+---
+
+## Alinar
+
+**S7 — 387 AW, Caldalus.** Agreed to wait to be ordered and then **went and asked**
+once Ordow pointed out that nobody was coming.
+
+**S7 — 387 AW, the office.** Handed three answerable questions and a hard limit,
+**he picked the broadest one immediately in order to end the conversation.** The
+captain said so to his face; he did not deny it. Maevis named the cost and he did
+not argue with that either.
+
+**S7 — 387 AW, the shoulder.** **Said the number out loud before she went in** —
+*twenty in, twenty out; if she's past forty we're still standing here at eighty* —
+specifically so nobody would have to invent one in the dark. **Then stood twelve
+minutes past it with nothing to say and nothing he was permitted to do.**
+
+**S7 — 387 AW, the draw, that night.** Told her about it afterwards, without heat,
+in two flat sentences, **asked her for nothing** — *"I'm not asking you to promise
+me anything, because you'd keep it and then one day you wouldn't and that'd be
+worse. I'd rather you knew what the outside of it is like"* — and offered her the
+last of the bread. **Exactly the move he made on his brother in the same village
+five weeks earlier.**
+
+**S7 — 387 AW, Ashwell.** Found the precise shape of what Aldric was owed when the
+party wanted to tell him and Thale did not want to override a man's own refusal:
+*"He asked a question and we answered it. **The answer's changed.** He's owed that
+and nothing more."*
+
+**S7 — 387 AW, Caldalus.** **Asked the captain for open-ended orders or unwritten
+guidance**, got both refused, and was given the rota instead — the structure this
+entire winter now runs on.
+
+**S7 — 387 AW, Caldalus.** **Asked to be based forward** so that observation would
+not be eaten by eight days of walking per report. Vaeroth adopted it whole and
+named the costs himself.
+
+**S7 — 387 AW, Ordow's yard.** Told Ordow the drawn stores would go to Ashwell, and
+**let him enter it as a disbursement rather than a gift**, which is the only form
+in which Aldric could accept it.
+
+**S7 — 387 AW, the line.** Supplied the arithmetic nobody else kept: *"three at
+four, one at five, one at two, nine on the stair — **fourteen pairs of hands we
+know about and we've never seen more than nine in one place.**"*
+
+**S7 — 387 AW, the council.** Put the fence up first and without adjectives:
+*"We can't write. The only thing either side has ever been able to read is one
+stroke in a corner."* And restated the rule he invented in s6 — ***one thing
+changed at a time*** — which Maevis adopted verbatim.
+
+**S7 — 387 AW, all session.** **Did not raise the east once.** It was not mentioned
+to him and he did not mention it. **Still four refusals.**
+
+### Pattern — observations, not conclusions
+- **New, s7:** he will take a worse answer to end a conversation, and he knows it,
+  and he does not defend it when it is named.
+- **New, s7:** he fixes structures rather than situations. The rota, the forward
+  posting, the disbursement wording and Aldric's framing are all his, and none of
+  them is a thing anybody asked him for.
+- He names the number, the cost and the fence before anybody acts, every time, and
+  then abides by the result without complaint.
+- He still gives credit away by name and still tells people the part that weakens
+  his own case.
+
+---
+
+## Ignis
+
+**S7 — 387 AW, Caldalus.** Waited five days at a fixed hour for a reading that did
+not change, **and did not press the animal once.**
+
+**S7 — 387 AW, the yard.** Asked Knight directly why he comes to a wolf and not to
+her, and **did not take the comfortable reading of the answer.**
+
+**S7 — 387 AW, the yard.** Told the wolf she was going back under, **knowing what
+it would cost his readings**, rather than letting him find out from the number.
+
+**S7 — 387 AW, the walk uphill.** **Passed Sharii the question she had been holding
+for five weeks**, unprompted, in full, including that she had no account of why she
+had kept it. The oldest open thread in the campaign, closed by her, voluntarily, to
+his back. **Sixth session running she has led with the thing that weakens her.**
+
+**S7 — 387 AW, vent four.** Was shown an arm held out along a passage — an
+invitation, not a dismissal — and **went**, with nothing in any order anywhere
+covering it.
+
+**S7 — 387 AW, the dark chamber.** Put her hand flat on an unknown object for the
+third time, **got nothing at all, and reported the nothing as the finding.**
+
+**S7 — 387 AW, the dark chamber.** Offered her hand and said *if you can understand
+me, take my hand* — **the first time anybody in this kingdom has tried to speak to
+one of them out loud.**
+
+**S7 — 387 AW, vent four.** **Took the tablet**, knowing line six forbade it, and
+**named the breach first, before any finding, and handed the object physically to
+the person most likely to object to it.**
+
+**S7 — 387 AW, Caldalus.** **Asked the captain where the greater need was** in s6;
+this session she **answered his question instead** — and the answer, *leave another
+blank one*, is the first genuine experiment anybody has designed about these people.
+*"We can't read it now. That isn't the same as never."*
+
+**S7 — 387 AW, the rota.** Volunteered the food supply for a six-person winter
+posting off one spell slot a night, **and stated the twenty-four-hour limit in the
+same breath**, to four people walking four hundred miles.
+
+**S7 — 387 AW, the ledge.** **Walked down an unwalked staircase alone**, two
+hundred feet, with no order, no count and nobody following, **and came back up and
+put the board where she was told to put it rather than where she had intended.**
+
+**S7 — 387 AW, vent nine.** **Failed the squeeze, got wedged, worked back out, and
+did it again** — fifteen minutes and two hit points and both forearms raw — and
+then went down sixty feet of ladder on them.
+
+**S7 — 387 AW, the gallery.** Stood among twenty-four of them in the dark,
+**spent a slot on *Detect Magic* to measure the room rather than to protect
+herself**, and reported the result as a negative.
+
+**S7 — 387 AW, vent nine.** Had one of them sit down four feet away and compose a
+letter, **and did not interrupt, approach, or reach for the feat that would let her
+speak into its mind.** Watched for four minutes and reported *how* rather than
+*what*.
+
+**S7 — 387 AW, the road west.** Asked whether the copied stroke was about the mark,
+the person, or the trade — **a question that reframes the single oldest piece of
+evidence in the campaign**, and asked the party for input on the message rather
+than deciding it.
+
+### Pattern — observations, not conclusions
+- **New, s7:** she designs experiments. The two-board test, the stroke question and
+  the *Detect Magic* castings are hers, and all three are falsifiable.
+- **New, s7:** she gives away the thing she was holding — the wolf's question, the
+  tablet, the floor of the discussion — at the moment it stops being hers to hold.
+- **New, s7:** she pays in her own body before she pays in resources. She came out
+  of vent nine twice rather than spend a Wild Shape, and squeezed a fourteen-inch
+  pinch twice for the same reason.
+- She still volunteers the breach first, before the finding, every single time.
+- **Still unused: *Telepathic*.** Through a face-to-face encounter at eight feet,
+  a man writing a letter four feet away, and twenty-four of them in one room.
+- **Still unanswered:** she was told in October she may leave. Vaeroth had it as a
+  lever twice this session and did not touch it either time.
+
+---
+
+## What NPCs have observed
+
+### Added session 7
+
+**Capt. Ilyen Vaeroth.** Waited five days with an empty top line rather than send
+for anybody, **and said so afterwards rather than let it look like neglect.**
+Refused *three objectives and a wish*. Asked four questions and the last one was
+***if I write an order that says no, will it work*** — and took the answer.
+**Took no disciplinary action and did not explain why, because he spent that
+explanation last session.** Named the thing nobody could have used against him:
+*"a soldier who obeys instructions issued by something I cannot identify... and it
+has been giving her good ones."* **Refused to write another order for the inside of
+that mountain and put the north above his own head in writing.** Refused unwritten
+guidance outright and **invented the rota**. Wrote paragraph eight and would not
+soften it. **Refused to let the party conceal the tablet for him** — *"I will not
+conceal it. I will delay it, with a date on it, in my own hand. And I will not
+write down where it is."* **Moved on Ashwell's charter inside five minutes and
+stripped the reason out of every letter so a clerk could not refuse it.** Credited
+Alinar's fortnight at a desk as the only part of the winter that will save anybody.
+**Had the October offer available as a lever twice and did not touch it.**
+
+**Sgt. Serwyn Thale.** Found the shape of the second breach that nobody else had:
+***"you weren't breaching it — you were outside it."*** Ruled the original and the
+copy do not travel together. **Took the Aldric question into the room himself**
+rather than let it lie, and accepted the party's ruling without softening it.
+Found the vice in the stated intentions — *"that is either the most honest thing
+anybody in this company has ever done, or it is a way of making him responsible for
+it"* — **and then put both intentions in the first two lines of his own cover sheet
+over his own name**, and added ***"I did not forbid it. I could have and I did not,
+and I want that in my hand and not inferred from my silence."***
+
+**Maevis Tarn.** **Went to the Attery yard on her own initiative** and cleared the
+crown's half of the sulphur business, then named what still stands. **Found the
+draught rule and called it what it is: an instrument.** Validated it through two
+reversals in ten days. **Wrote no right-hand column for vent eleven. Three times.**
+Sat up an entire night copying a tablet by candlelight and labelled the result bad.
+**Refused flat to make a doctored decoy**, gave three reasons, and supplied two
+honest alternatives instead. **Compared two originals** and read the structure of a
+letter — form, body, close — off a language she cannot read. Found that **both
+corrections sit in the body and neither in the form.** Demolished her own stroke
+conclusion with the one fact that will not fit and **put both halves on the paper.**
+Turned a five-variable idea into **a thirty-day programme** and then named that the
+draw shuts first.
+
+**Bellis Ordow.** **Broke a five-day deadlock with a sentence over a tally board.**
+Worked out inside a minute that a party feeding itself off a spell destroys the only
+early-warning signal he has, and **fixed it himself**: *"you draw anyway... it's not
+rations, it's a heartbeat."* Entered a gift as a lawful disbursement so a proud man
+could take it. Took four names off the duty board and **did not rub out the column
+beside them.**
+
+**Mya Li.** Said the thing that needed saying **once, every time, and never twice**
+— on the second entry, on the turn carrying the boards, on taking what the sheet
+forbids. **Found the question in the nil report that the party had skipped.**
+Answered Sharii's question with a list rather than an opinion and landed on *they
+know* — and then on the worse half: ***"somebody is meant to read that, and I don't
+think it's us."*** Named what changed between nine lines and eleven: ***"they said
+more because something was different, and the different thing was her."***
+**Stood nine feet from Kharis for four minutes at the gate and did not speak**, and
+later told a room, unprompted, that she would be on a mountain if the detachment
+came back — *"I'd rather say it myself than have somebody kindly not mention it for
+six weeks."*
+
+**Wick Pallowen.** Made the session's two sharpest one-liners again: ***"it isn't
+eleven rooms — there's a whole place down there and the eleven are just where the
+air gets out"*** and ***"that's not a front marching east — they open new ground."***
+**Said *check the corner*, which nobody had.** Wanted the north, got it, and has
+not mentioned being right.
+
+**Aldric.** Asked three farming questions — *when, can we plant,* and ***is it
+coming down*** — and gave three rulings standing up. **Tells the whole village,
+because sitting on a thing is how a headman turns into a liar.** Took the stores as
+**rent** and put them in the common store, written down, **Hesk Varran's widow
+first.** And asked for the grain paperwork to be written so it would work for
+something else, which is the first time anybody in Ashwell has said the word
+*moving* out loud.
+
+**Knight.** **In wolf shape he comes all the way in**; the instant she reverts he is
+at two feet. Explained why better than any person could: *"when you are a wolf there
+is only one of you... it is not more frightening, **it is less of a shape.**"*
+**Asked to come underground, was refused, and merged the refusal into his existing
+job.** Went to three feet after two more descents and **back to two over four days
+without being able to say a word about it** — *the distance is the report.*
+**And gave the testimony that reframes the campaign's oldest thread:** Sharii has
+no under-smell and never has; what happens to him is **not a smell but the absence
+of one**; *"there is a place where he is standing and there is nothing in it"*;
+eleven times; *"I do not think he is going under — there is nothing there to know."*
+And: *"I would like to be told before it happens so I can be where you are. I know
+you cannot tell me. I would like it anyway."*
+
+**The quiet ones (unidentified, not to be named).** **Cut a recess at the head of
+the stair, at hand height, to the size of a wax board, and left it empty for three
+months.** Cut a second at vent nine. **Answered a blank board with nine identical
+lines from two different places two months apart** — a form. **Answered a board
+handed over in person with eleven lines, two corrections and half a minute of
+thought.** **Put the answering stroke only on the boards where somebody met
+somebody.** Took one person by the wrist and drew that stroke on her palm with a
+finger. Showed no reaction whatsoever to the river stone the second time.
+**Twenty-four at least in one gallery, cutting empty shelves ahead of the ward, in
+the dark, in silence, none looking at another — and when one was needed, the right
+one went without anybody speaking or looking.** *No statblock. Do not build one.*

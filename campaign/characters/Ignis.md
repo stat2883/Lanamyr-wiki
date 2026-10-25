@@ -4,8 +4,9 @@
 **Race:** Tiefling (female) · **Class:** Druid · **Background:** Guild Artisan
 **Origin:** the Iron Peaks, southern Edura — a wanderer, long away from home
 **Age:** undecided
-**Level:** 4 — joined at the party's current level per `../house-rules.md`;
-levelled to 4 with the party at the end of session 3
+**Level:** 5 — joined at the party's current level per `../house-rules.md`;
+levelled to 4 at the end of session 3 and to **5** at the long rest in Ashwell,
+session 7
 **Combat focus:** Wild Shape (Circle of the Moon) · thrown darts · support casting
 
 **Joined session 3.** Answered Caldalus's call for help after the Stone Giant
@@ -35,27 +36,28 @@ Charisma drives her Infernal Legacy save DC.*
 
 ## Core Statistics
 
-- **Proficiency Bonus:** +2
+- **Proficiency Bonus:** **+3**
 - **Armor Class:** **15** (leather 11 + Dex 2 + shield 2)
 - **Initiative:** +2
 - **Speed:** 30 ft
-- **Hit Dice:** 4d8
-- **Hit Points:** 31 (8 + Con 2, then 5 + Con 2 x3)
-- **Passive Perception:** 13 — **the lowest in the party by three points**
-- **Spell Save DC:** 13 · **Spell Attack:** +5 (Wisdom)
+- **Hit Dice:** 5d8
+- **Hit Points:** **38**
+- **Passive Perception:** 13 — **the lowest in the party, now by four points**
+  *(the twins are at 16 and 17)*
+- **Spell Save DC:** **14** · **Spell Attack:** **+6** (Wisdom)
 
 ### Saving Throws
-- **Intelligence** +4 *(proficient)*
-- **Wisdom** +5 *(proficient)*
+- **Intelligence** **+5** *(proficient)*
+- **Wisdom** **+6** *(proficient)*
 - Strength −1 · Dexterity +2 · Constitution +2 · Charisma +3
 
 ### Skills
 | Skill | Ability | Mod | Source |
 |---|---|---|---|
-| **Insight** | WIS | +5 | Guild Artisan |
-| **Medicine** | WIS | +5 | Druid |
-| **Arcana** | INT | +4 | Druid |
-| **Persuasion** | CHA | +5 | Guild Artisan |
+| **Insight** | WIS | **+6** | Guild Artisan |
+| **Medicine** | WIS | **+6** | Druid |
+| **Arcana** | INT | **+5** | Druid |
+| **Persuasion** | CHA | **+6** | Guild Artisan |
 
 ---
 
@@ -63,9 +65,9 @@ Charisma drives her Infernal Legacy save DC.*
 
 | Weapon | Attack | Damage | Notes |
 |---|---|---|---|
-| Dart | +4 | 1d4+2 piercing | Thrown 20/60, finesse. Her primary weapon. |
-| Dagger | +4 | 1d4+2 piercing | Melee or thrown 20/60. Finesse, light. |
-| Thorn Whip | +5 | 1d6 piercing | Cantrip, 30 ft. Pulls target 10 ft closer. |
+| Dart | **+5** | 1d4+2 piercing | Thrown 20/60, finesse. Her primary weapon. |
+| Dagger | **+5** | 1d4+2 piercing | Melee or thrown 20/60. Finesse, light. |
+| Thorn Whip | **+6** | **2d6** piercing | Cantrip, 30 ft. Pulls target 10 ft closer. **Scaled at 5th.** |
 
 **Blow darts.** The player described her weapon as blow darts. Ruled as pure
 flavour on the standard **dart** — a simple weapon druids are proficient with.
@@ -81,8 +83,8 @@ the statistics are a dart's. No homebrew involved.
 - **Hellish Resistance** — **resistance to fire damage.**
 - **Infernal Legacy** — knows *Thaumaturgy* (does not count against her druid
   cantrips). At 3rd level, *Hellish Rebuke* as a 2nd-level spell once per long
-  rest. At 5th level, *Darkness* once per long rest. **Charisma-based: save
-  DC 13**, separate from her druid DC of 13.
+  rest. **At 5th level, *Darkness* once per long rest — now unlocked.**
+  **Charisma-based: save DC 14**, separate from her druid DC of 14.
 
 ### Tieflings in Lanamyr — settled for the campaign
 
@@ -152,6 +154,12 @@ until 6th level.
 ### Level 3 — 2nd-level spells
 Slots become four 1st and two 2nd. Prepared count rises to six.
 
+### Level 5 — Third-level spells
+Slots become **4 × 1st, 3 × 2nd, 2 × 3rd**; prepared rises to **eight**;
+proficiency to **+3**, which moves DC, attack, saves and every skill.
+*Thorn Whip* scales to **2d6**. Wild Shape stays at **CR 1 until 6th**.
+**Tiefling *Darkness*** unlocks at this level, once per long rest.
+
 ### Level 4 — Ability Score Improvement, third cantrip, third 2nd-level slot
 **Feat taken: Telepathic** (Tasha's), with its **+1 to Charisma** (15 → 16).
 
@@ -160,7 +168,7 @@ Slots become four 1st and two 2nd. Prepared count rises to six.
   her only if it knows at least one language. No action, no components, no
   save.
 - ***Detect Thoughts* once per long rest** without expending a slot, and with a
-  slot thereafter. **Charisma** chosen as its casting ability — **save DC 13**.
+  slot thereafter. **Charisma** chosen as its casting ability — **save DC 14**.
 
 Also at 4th: a **third cantrip** (*Guidance*), slots rise to **four 1st and
 three 2nd**, and prepared spells rise to **seven**.
@@ -173,10 +181,30 @@ Entirely unused so far.*
 ## Spells
 
 **Cantrips:** Thorn Whip, Druidcraft, **Guidance** *(+ Thaumaturgy from her
-race)*
-**Prepared (7):** Speak with Animals, Healing Word, Create or Destroy Water,
-**Thunderwave**, Pass Without Trace, Moonbeam, **Locate Object**
-**Slots:** 4 × 1st · **3 × 2nd**
+race)*. **⚠ Cantrips are KNOWN, not prepared** — a session-7 attempt to swap them
+at a long rest was reverted. These three are fixed.
+
+**Prepared (8) — rebuilt freely every long rest:**
+*1st:* Healing Word · **Detect Magic** · **Cure Wounds** · Create or Destroy Water
+*2nd:* Pass Without Trace · Locate Object
+*3rd:* **Dispel Magic** · **Plant Growth**
+
+**Slots:** 4 × 1st · 3 × 2nd · **2 × 3rd**
+
+**⚠ Dropped in the session-7 rebuild, and all four matter:**
+*Speak with Animals* — **every word to Knight now costs Sharii a slot, and she
+can no longer ritual-cast it.** *Moonbeam* and *Thunderwave* — **she now has no
+offensive spell above *Thorn Whip* and one *Hellish Rebuke* a day.** *Goodberry* —
+**the six-person food plan promised to Ordow and Aldric runs on it**, and it is a
+nightly either/or against *Create or Destroy Water*.
+
+**⚠ *Dispel Magic* is now on her sheet**, and the thing under that mountain has
+been identified as a very large **abjuration**. Nobody has raised this out loud.
+
+*(Superseded, kept for the record — the pre-session-7 seven:)*
+*Speak with Animals, Healing Word, Create or Destroy Water, Thunderwave,
+Pass Without Trace, Moonbeam, Locate Object.*
+**Old slots:** 4 × 1st · **3 × 2nd**
 
 *Druids prepare from the entire druid list, not from a fixed known list — this
 seven is rebuilt freely after every long rest.* **Fog Cloud dropped** at the
@@ -304,7 +332,17 @@ so far in the fiction.
 **Carried since session 3:** a matched **river stone**, unmarked, body-warm
 when taken, worn pocket-smooth, made of rock that does not occur anywhere in
 Faelyn. Given to her by one of the quiet ones in the junction beneath the
-Tempest Peaks.
+Tempest Peaks. **In session 6 it got the only involuntary reaction anybody has
+ever had out of one of them. In session 7 it got nothing at all.**
+
+**⚠ Carried since session 7:** **the mark.** One of them took her by the wrist in a
+dark chamber, turned her palm up, and **drew a single short stroke across it with
+one finger** — the mason's test-stroke, the only symbol the two peoples share.
+
+**⚠ And something the wolf can smell and she cannot.** Since the dark chamber,
+Knight reports **a place on her with no smell at all** — *"not a different smell.
+None."* Small, on her hands and the front of her, and it did not go overnight.
+***"It is like the place where he goes."*** *(Sharii. See `Sharii.md`.)*
 
 ---
 

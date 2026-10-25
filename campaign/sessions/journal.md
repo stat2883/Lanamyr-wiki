@@ -1712,3 +1712,414 @@ She walked over to him, and he didn't move away.
 *Next: four people east on the twenty-eighth, a draw that shuts in January, a
 staircase that finishes in spring, and nothing written anywhere that says what done
 looks like.*
+
+---
+
+## Session 7 — The Correspondence
+
+*387 AW. Days fifty to a hundred and three. A whole winter's worth of it, and
+nobody drew a weapon once.*
+
+They waited five days to be ordered and the order never came, because the captain
+had decided not to send for them and was waiting to see whether anybody would walk
+through the door. Bellis Ordow broke it in the end, over a tally board: *that
+order's been sat in his folder five days with nothing in the top line, and he's
+not going to fill it in.*
+
+So they went and filled it in. Vaeroth threw out the first version — *that's three
+objectives and a wish* — and Maevis gave them the three questions that could
+actually be answered by somebody with eyes and a date. Alinar picked the broadest
+of them, fast, to get the conversation over with, and the captain noticed out loud
+and let it go.
+
+Before they marched, four people went east. Ignis handed out ten berries that would
+be food for exactly one day, and told them so, which is a strange thing to give
+somebody leaving for an unknown number of them. Kade ate his on the spot. Tam put
+both in his coat and ate neither. Kharis said thank you — the only one who did —
+and then, quietly, *Tam. Eat them today.* He lifted his chin an inch to Alinar from
+the armoury step and went. Mya stood in that yard the whole four minutes, nine feet
+away at the closest, and neither of them said a word.
+
+---
+
+Meanwhile a wolf was being taken apart and put back together.
+
+In wolf shape Ignis gets everything — nose to nose, asleep against her, the stick
+brought all the way instead of dropped halfway. The second she turns back into
+herself he is at two feet again. Asked why, he explained it better than anybody
+else in this company could have: as a wolf she is *one* thing, a wolf that smells
+of a place, and he has a shelf for that. As herself she is two things at once.
+*It is not more frightening. It is less of a shape.*
+
+Told she was going back under, he did not argue. He asked to come, was told no,
+and then folded it into the job he already had. *I will be at the mark at the hour
+every day the whole time you are under.*
+
+And then he asked her the thing again, with a new fact attached to it, because he
+had been turning it over for five weeks: *you go to the underneath and you come
+back. He goes somewhere without moving. Is that the same place? Does he come back?*
+
+**She told Sharii.** All of it, including that she had held it since the autumn and
+had no good account of why. And Sharii, who takes everything flat and asks the next
+useful question, asked whether he smelled of it too.
+
+*No. He has no under on him. Not ever. Not once.*
+
+And then the part nobody was ready for. It isn't a smell at all. **When it happens,
+Knight cannot smell him.** Everything else in the world is still there — the snow,
+the smoke, the horses, the man with the sacks. Sharii is not. *There is a place
+where he is standing and there is nothing in it.* Eleven times, he says, and he
+cannot count past three and is certain it is eleven.
+
+*I do not think he is going under. I do not know where he goes. There is nothing
+there to know. That is the whole of why I asked.*
+
+Then, to Sharii, who had never once been told: *It does not hurt me. I would like
+to be told before it happens so I can be where you are. I know you cannot tell me.
+I would like it anyway.*
+
+Nobody said anything. There were four minutes of spell left and nobody used them.
+
+---
+
+Vent four nearly didn't let her in at all. Ten inches of live rock at the pinch —
+a badger gets through that and nothing else does, and a badger leaves fur on the
+walls doing it. Beyond it a twenty-inch crawl, polished in a band down the middle
+and rubbed smooth on both walls at the height of a passing body, which means
+something comes through there tight and often and has for a very long time. And at
+the end of it, an opening near the *ceiling* of a room, eight feet above the floor.
+
+Vent four is not a door. It's a hole in a roof.
+
+The room had a cube, a lamp, and a circle that was finished. The pulse through it
+was weaker than the ninth — the same rope further out along its length — and the
+absence, the part of it that isn't working yet, was right there at the edge of it.
+
+And in a cut recess at the shaft head, four feet up the wall: **the wax tablet.**
+Theirs. Carried two and a half miles through a mountain from the junction where six
+people left it in the autumn, stylus back in its spine, cleaned.
+
+Nine lines. Edge to edge, margins respected, a hand sized for somebody to read it.
+And in the corner, beside the mason's test-stroke Mya cut, **the same stroke
+again** — same length, same angle, a finger's width apart.
+
+*This is a surface and this is how you mark it.*
+*Yes. It is. And this is how I mark it.*
+
+---
+
+Down the shaft, one of two rhythms stopped and the other didn't, and one of them
+walked two hundred feet to fetch her. She showed it the river stone and got
+nothing at all — not a half-beat, not a deeper breath. Then it turned side-on and
+held its arm out along the passage, and waited.
+
+Every order this company has ever written covers being told to leave. There is
+nothing anywhere about being asked to come.
+
+What it took her to was a chamber with no light in it, a cube that was warm and
+soft and **completely silent**, a finished circle around it — and a second, larger
+circle being cut outside the first, half done, by one of them kneeling in the
+pitch dark.
+
+They finished a circle and it didn't light. So they're cutting another one.
+
+She stood inside the absence and found that it is not a hole in something. It runs
+on, north and down, more than one, and **the work is on its edge, cutting outward
+into the dark part.**
+
+She offered her hand and said *if you can understand me, take my hand.* It did not
+take her hand. It took her by the wrist, turned her palm up, and drew one short
+stroke across it with a finger. Then it looked at her, looked at the passage, and
+looked back, and she left inside a second.
+
+She took the tablet, and said so first, and came out through ten inches of rock as
+a spider four minutes after Maevis had called forty.
+
+---
+
+Maevis sat up a whole night copying it by candlelight and called the copy bad and
+made it anyway, because she has lost one of these before. Thale ruled that the
+original and the copy do not travel on the same road. And then he asked the
+question he had actually come into the room for: *in the autumn Aldric asked
+whether there was anything coming down off that hill he'd want his people somewhere
+else for, and we told him no. Is that still true?*
+
+They told him. Not the lamps and the shelves — just that the answer to his own
+question had changed from *no* to *we don't know*, which Alinar found the words
+for.
+
+He asked three questions and they were all farming questions. *When. Can we plant.*
+And then, out of the mouth of a man who has never met a wolf in his life: ***is it
+coming down.***
+
+Then he gave three rulings, standing up. He tells the village, all of it, because
+sitting on a thing is how a headman turns into a liar. Nobody goes up the draw,
+including in the spring. And if it ever came to moving — forty-one people, no
+chartered ground, one neighbour in the world who'd take them — *there's exactly one
+place, and the only reason he'd listen is a piece of paper your lad spent a
+fortnight on about grain. I'd like it written so it'd work for something else.*
+
+Everybody at that table understood the same thing at the same moment. The levy, the
+boundary and the Dorn's Ford charter stopped being about food in that kitchen.
+They are Ashwell's only evacuation plan, and they lapse in March.
+
+---
+
+In Caldalus the captain asked four questions and the last one was *if I write an
+order that says no, will it work.* The answer was no, and everybody in the room
+knew it before she said it.
+
+*Twice now something down there has told her to leave and she has gone inside a
+second. And nothing I have ever written has stopped her once. What I'm looking at
+is a soldier who obeys instructions issued by something I cannot identify, have
+never seen and cannot speak to. And it has been giving her good ones. That is the
+most frightening sentence I have ever said in this room.*
+
+No charge. No reprimand, and no explanation of why, because he spent that one last
+time. He put the north above his own head in writing, with the tablet named in it,
+and told her to her face: *there is nothing left between you and that hole that I
+know how to write.*
+
+On Ashwell he moved inside five minutes. The charter goes to the assessment **as
+grain**, with the reason in no letter at all, *because the moment I write* they may
+have to move *it becomes a thing a clerk can refuse.*
+
+On the tablet he laid out three roads and let them pick, and when they picked
+*keep it*, he refused to let them carry it. *I will not conceal it. I will delay
+it, with a date on it, in writing, in my own hand. And I will not write down where
+it is.* His date is March.
+
+And when Alinar asked for standing orders or unwritten guidance for a winter of
+watching, he refused both and named the thing the party didn't have a word for.
+*An order that never ends is a fallback. An order that recurs, with a date on each
+turn, is a rota.*
+
+Ten-day turns. Eleven holes. Entirely surface. Ten paces and look. Weather beats
+the order. A report south on a fixed day whether there's anything in it or not,
+*because silence would otherwise have two meanings.* Expires when the draw shuts,
+and everybody comes home.
+
+And paragraph eight, which he would not soften: **nothing in this order authorises
+anything inside the ground. There is no order for that and there is not going to
+be one.**
+
+Ordow worked out within a minute that a party feeding itself off a spell would
+stop drawing rations and he would lose the only early-warning signal he has had for
+two hundred years, and fixed it himself: *you draw anyway, all six, every turn,
+whether you eat it or not. It's not rations. It's a heartbeat.*
+
+They gave the stores to Ashwell. Aldric took them as **rent**, which is the only
+frame that would have worked, and put them in the common store with Hesk Varran's
+widow first. The twins fed the village without breaking sweat, because the hill is
+empty and every animal that could leave it is down here in the hedges. *The only
+reason Ashwell eats this winter,* Maevis said, *is the reason Ashwell might have to
+leave it.*
+
+---
+
+Then a winter of walking the line.
+
+And somewhere on the eighty-seventh day, standing over a hole with a thread in her
+hand, Maevis Tarn got the first instrument this kingdom has ever had for that
+mountain. **Every hole with tools under it blows warm air out. Every silent hole
+draws cold air in.** Twelve for twelve across two turns, including two reversals
+— vent six went quiet and reversed, and vent two, silent for months, woke up at the
+far west end with one pair under it.
+
+Which means it isn't a front marching east. **They open new ground.**
+
+And one hole breaks the rule. **Vent eleven** — the furthest out, cleaned inside
+the week every single time, the strongest and warmest draught on the whole line,
+and *nothing under it at any depth.* Heat with no work in it. She wrote no
+conclusion for it. Three times.
+
+---
+
+The exchange was Ignis's idea and it is the best thing anybody has designed all
+winter: leave another blank board with the same stroke, and find out whether the
+nine lines are a letter or a form. *We can't read it now. That isn't the same as
+never.*
+
+They told the captain they were going to do it, in advance, in writing, knowing he
+had said he would never authorise it — which Thale named for exactly what it was.
+*That is either the most honest thing anybody in this company has ever done, or it
+is a way of making him responsible for it.* And then he put both intentions in the
+first two lines of his own cover sheet and added *I did not forbid it. I could have
+and I did not, and I want that in my hand and not inferred from my silence.*
+
+They went without waiting for the answer. The answer is on the road. Second time.
+
+---
+
+Down the corridor alone — past the depot, past fifty feet of wall that was raw rock
+in the autumn and now carries the same sentence running through it without a join
+— she came out onto the ledge and found it empty. The nine went down with the work.
+
+The staircase is real and it is magnificent and **nothing has ever walked on it.**
+Every single thing these people use shows it — the crawls, the holds, the floors.
+Not this. *It is for somebody who has not arrived.*
+
+She walked it. Two hundred feet, in the dark, with the void open on one side and no
+rail. And somewhere past the third turn she came level with the lamps, and they are
+not where anybody thought. They are not on a floor. **They are on a wall**, on cut
+shelves, at one height — and the stair goes past them and keeps going down.
+
+*Nobody has ever seen the bottom of that place.*
+
+Below the lamp line it gets warmer, and the pulse comes up through your boots
+without you touching anything. The finished stair stops and becomes rough, and the
+rough becomes raw, and on the raw there were nine of them cutting, in total
+darkness, four feet away —
+
+— and they did not react to her at all. In the autumn an engineer slipped eighty
+feet from them and all nine stopped dead for three seconds. She walked down their
+staircase out of the dark and stood at arm's length and nothing happened.
+
+She held the board up. One stopped mid-stroke and the other eight didn't. It looked
+at her, looked at the board, put one fingertip on the stroke in the corner, didn't
+take it — and then looked up the stair, and back, and up again.
+
+*Not here. Up there. We made you somewhere.*
+
+At the head of the stair, cut since the autumn, at the height of a person's hands,
+swept clean: a recess. Empty for three months. She put the board in it and **it fit
+exactly.** Not nearly. They measured something and made a place for it.
+
+*That's not a people being approached,* Maevis said. *That's a people waiting.*
+
+---
+
+Vent nine wouldn't let her through either, the first time. She got properly stuck,
+had to empty her lungs and work backwards, and did it again the other way round —
+fifteen minutes and both forearms raw, and from outside it sounded like scraping
+and then forty seconds of nothing.
+
+The room had changed. The circle that stopped mid-character is **finished** —
+whatever stopped that cut let him come back and complete it. The tools are gone,
+the chips are gone, the floor is swept. And beside the shaft head, cut since the
+autumn, at hand height, sized exactly: another recess.
+
+That's three. The ledge, the shaft head under four, and this one.
+
+**They have built a post system.**
+
+She left the board in it and went down sixty feet of ladder into a gallery longer
+than she could see in either direction, with **twenty-four of them in it at least**
+— she stopped counting where her sight ended and there were more past it — cutting
+**shelves**, level, square, at a fixed interval, in total darkness, in silence, none
+of them looking at another.
+
+So the dark arc isn't a gap in anything. It's where they haven't got to yet.
+*Detect Magic* in that gallery returned nothing whatsoever — not the workers, not
+their tools, not the finished shelves. **They build the shelf before the thing
+exists.**
+
+She tried to lead one up. The nearest stopped, looked at the shaft, looked back at
+her, and didn't move — her own sentence handed back. And then one she had never
+approached, facing the wall, well out of sight behind her, set its tool down in the
+row by size and climbed the ladder past her without a glance.
+
+Nobody spoke. Nobody looked. The right one went.
+
+---
+
+She followed it up and found it **sitting on the floor of that room with the board
+on its knees, writing.**
+
+Four minutes. Left to right, margins respected, stylus held like a chisel, eyes on
+the middle distance. And then the thing that answered the whole experiment without
+anybody needing to read a word:
+
+**It wrote the first several lines without one pause. Then it stopped for half a
+minute. Then it wrote slower, and went back and corrected itself twice.**
+
+A form does not get corrected.
+
+Eleven lines. The first one was nine.
+
+It seated the stylus, stood, put the board back in the recess — it would not hand
+it to her — and looked at her, and looked at the niche, and went back down the
+ladder.
+
+And with a spell running the entire time, none of it was magical. Not the stylus,
+not the wax, not the act. The cube three feet away never flickered once.
+
+---
+
+They compared the two on a folded cloak on a freezing shelf, and for the first time
+Maevis was holding **two originals** instead of two bad copies, which is the only
+reason she would say what she said.
+
+**The first six lines are identical.** Then they diverge. One runs three more and
+ends short; the other runs five more and ends short. Both corrections are in the
+body. Neither is in the form.
+
+*Six lines of form. A body. And a close. That is the shape of a letter, and I
+cannot read one mark of it, and I have just described its structure off two
+samples. That is actually how it is done.*
+
+*They said more because something was different,* Mya said. *And the different thing
+was her.*
+
+---
+
+Two days west, on the road, Sharii asked Mya whether she thought they knew we can't
+understand them. She walked two hundred yards before answering.
+
+*Every single thing that has ever actually worked between us and them has been done
+with hands.* The stone on the floor. The water moved to where a blind woman's hand
+came down. The open palm. The hand turned over and stopped four inches short. The
+look at the way out. The fingertip on the stroke. *Not one of those was writing.
+Every one of them worked. And they've written us twenty lines and not a word of it
+has ever landed.*
+
+*A people who didn't know we were deaf would keep shouting. These ones put the
+shout on a board, and then take you by the hand for the part that matters. They
+know.*
+
+And then the worse half: *so why are they writing it? Somebody is meant to read
+that. And I don't think it's us.*
+
+*Or it's not for anybody,* Wick said. *It's a record.*
+
+Maevis couldn't take either one apart, and said so, and wrote both down.
+
+---
+
+They came back to the ledge on the hundred and third day and board number four was
+in the niche and it was not blank.
+
+**Nine lines. Character for character, line break for line break, the same as the
+original.**
+
+Which means the place doesn't matter. Which means the nine lines are not a letter.
+*You put a blank board with a stroke on it in front of these people and you get
+these nine lines. It's a form. It's a receipt.*
+
+The thing this company concealed from a crown. The thing a captain has a note in
+his own hand about, dated March. The thing a sergeant split from its copy so it
+couldn't be taken in one go.
+
+A form reply.
+
+And then Wick said *check the corner*, and nobody had.
+
+The original has the answering stroke. The eleven-line one — handed over in person,
+answered in front of a witness — has it. **The one left in a box, where nobody met
+anybody, does not.**
+
+*So that stroke isn't part of the letter. It's what passes between two people who
+have actually met. It was on her palm. A finger, on skin, once.*
+
+And then, because she is who she is: *except the original has it and nobody met
+anybody. Six of you put that board on a floor and were a mile off before anything
+came for it. I cannot reconcile that and I am not going to. Both halves go on the
+paper.*
+
+Mya turned the eleven-line board over in her hands.
+
+*Then this is the only thing they have ever actually said to us. Three lines
+different. Two of them fixed twice. And half a minute of a man on a stone floor
+deciding what to put.*
+
+*Next: a blank board, a ledge, six people, and nobody has decided what to write.*

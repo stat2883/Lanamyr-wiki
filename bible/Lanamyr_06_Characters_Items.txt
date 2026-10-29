@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v007
+LANAMYR WORLD BIBLE — CHARACTERS & ITEMS — v008
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -656,8 +656,36 @@ Encountered Skitter and sensed remarkable power in the acorn vial.
 OPEN QUESTION: May have discovered Estefania's Harrad lineage — NOT YET OFFICIAL.
 
 KARMARUKYNTIN (KARMA)
-Born 925, 2nd Epoch. Gold dragon. At approximately 1240 years old at Battle of
-Rohl (2165) — well within his prime by Dragon standards (prime: 750–1800 years).
+Born 925, 2nd Epoch. Gold dragon. At approximately 1240 years old at the Battle
+of Rohl (2165).
+
+*** FLAGGED IN v008 — AGE AND SPECIES BOTH UNRESOLVED. DO NOT BUILD ON THIS
+ENTRY UNTIL SETTLED. ***
+THE AGE PROBLEM: this entry previously read "well within his prime by Dragon
+standards (prime: 750–1800 years)." Those figures came off the old 3000-year
+dragon lifespan, which was revised to 1500 in v008. Under the current table
+dragon prime ends at 900 and elderly begins at 1200, so at approximately 1240
+Karma is just into ELDERLY at the Battle of Rohl, not in his prime. The
+superseded clause has been removed rather than silently rewritten.
+THE SPECIES QUESTION: the user is considering making Karma a GREAT WYRM rather
+than a Gold dragon. His gold colouring sits comfortably in the Great Wyrm range
+of reds, golds and silvers. NOT DECIDED — deliberately held over.
+  - Under the Great Wyrm option (lifespan 1200), 1240 is roughly 3% above
+    average, which the Rayleigh variance permits without strain. He would be an
+    exceptionally old individual.
+  - Note that he lands in or past elderly under BOTH options, so the "aged at
+    Rohl" question is now independent of which species he is. Either way the
+    curse caught him near the natural end of his life and then fixed him there
+    for four more centuries, which the amulet overrides.
+  - THE PURSUIT PROBLEM: at Rohl, Greyhawk fled toward the Abaculus and Karma
+    and Adomorn pursued and killed him before he reached it. Greyhawk is 100
+    feet with a 120-foot wingspan and true sustained flight. A Great Wyrm is 75
+    feet and can only coil-spring and glide. The pursuit as written becomes
+    difficult to stage and would need reworking — Adomorn doing the running
+    down with Karma arriving after, or Greyhawk being brought down rather than
+    chased down.
+  - THE LIKELY FIX for the age flags generally is adjusting birth years. See
+    Open_Questions.
 Fought alongside Adomorn in the Great War. Greyhawk's dying curse — directed by
 the Abaculus — transformed him into a golden-skinned Kobold bound to the Burnt
 Plains. An amulet contains his life force. If he ventures beyond the plains, he
@@ -685,7 +713,24 @@ APPEARANCE: Black scales with a glossy finish that gives off a sheen in
 sunlight. Two powerful hind legs capable of propelling him skyward for takeoff.
 Front legs functioned as arms — while he normally walked on all fours, his
 front claws were capable of grasping. Towered above any normal human.
-Found the Abaculus in 2136 (approximately 1478 years old — still in his prime).
+Found the Abaculus in 2136 at approximately 1478 years old.
+
+*** FLAGGED IN v008 — AGE UNRESOLVED. ***
+This line previously read "still in his prime." That was true against the old
+3000-year dragon lifespan and is not true against the 1500-year figure adopted
+in v008, under which prime ends at 900 and elderly begins at 1200. At 1478 when
+he finds the Abaculus and approximately 1507 at his death, Greyhawk is an AGED
+dragon dying almost exactly at the average span — permitted easily by the
+Rayleigh variance rule, but a very different figure from one at his peak. The
+superseded clause has been removed rather than rewritten, pending a decision.
+The likely fix is adjusting his birth year. See Open_Questions.
+Note that his confirmed physical measurements are UNAFFECTED and remain the
+benchmark from which typical dragon size is derived: he is 20% larger than a
+typical dragon, which sets the species average at 85 feet with a 100-foot
+wingspan. See Races, DRAGON-KIND.
+His statement that he had long since stopped growing also still holds — dragons
+stop growing at approximately 500 years under the revised figure.
+
 Corrupted on contact. Directed the Great War. Spoke many languages — dragons
 have their own language but can learn others if they choose, and Greyhawk
 bothered to learn many.
@@ -897,88 +942,44 @@ THE JOURNALS OF GALSTAFF QUINT: The written records of Galstaff Quint's travels
 across Lanamyr. Source of all Galstaff quotes throughout the world bible.
 
 ================================================================================
-DRAGONS — FACTIONS AND TYPES
+DRAGONS — SUPERSEDED SECTION
 ================================================================================
 
-NOTE: All content in this section is TENTATIVE. Carried forward from an older
-version of the bible for review. Confirm or revise in future sessions.
+The former "DRAGONS — FACTIONS AND TYPES" section occupied this space and was
+REMOVED IN v008. It had carried a standing warning that it was tentative and
+had been held over from an older version of the bible for review. That review
+happened, and the material did not survive it.
 
-OVERVIEW:
-Dragons are among the most powerful beings in Lanamyr, reaching full size and
-strength after roughly 1000 years. Some wield power overshadowed only by the
-gods themselves. While some dragons depend on immense physical power, others
-rely more heavily on innate magical ability.
+WHAT WAS DISCARDED AND IS NOT TO BE REINTRODUCED:
+- The division of dragons into CHROMATIC and METALLIC factions, with Chromatic
+  leaning evil and Metallic leaning good.
+- The ranked lists of sixteen colours with population percentages.
+- Per-colour BREATH WEAPONS — acid, fire, lightning, ice, poisonous gas,
+  petrifying gaze, pure magical energy. Dragon-kind have no breath weapons at
+  all. The sole chemical weapon anywhere in dragon-kind is the Deep Drake's
+  paired oral glands, which is a sprayed binary reaction and not a breath.
+- Per-colour terrain assignments, personality stereotypes and power rankings,
+  including Gold and Black as the respective pinnacles of their factions.
 
-TWO FACTIONS — CHROMATIC AND METALLIC:
-Dragons divide into two broad factions: Chromatic and Metallic. In general,
-Chromatic dragons lean toward evil, while Metallic dragons lean toward good.
-Members of both factions can tend toward neutral. These are tendencies, not
-absolute rules. The Dragon Wars of the 2nd Epoch were a conflict between these
-two factions. Gold and Black dragons are approximately equal in power and are
-the most powerful of their respective factions.
+WHY THE FACTIONS COULD NOT SURVIVE: the full moral spectrum of the Draak passed
+to every descendant race, so good and evil exist within every dragon-kind race
+and every colour. A framework assigning morality by colour contradicts that
+directly.
 
-The Chromatic/Metallic framework is consistent with confirmed lore: Greyhawk
-is a Black dragon — the most powerful Chromatic type — which aligns with his
-role as the most dangerous figure of the Great War and his corruption by the
-Abaculus. Dragons he recruited willingly versus those he forcibly corrupted at
-Olum nests may reflect this factional divide.
+WHAT REPLACES IT: seven distinct dragon-kind races across three tiers —
+Dragons, three Drakes and three Wyrms. Colour is ordinary individual variation
+carrying no moral, factional, elemental or territorial meaning. See Races,
+DRAGON-KIND, which is now the single authority on all of this.
 
-CHROMATIC DRAGONS (listed most to least powerful; percentages are of total
-Chromatic population — TENTATIVE):
-Black (3%): Most powerful Chromatic dragon. Typically found in swampy areas.
-  Diet mostly aquatic life and occasional red meat. Breath weapon: acid.
-  Personality: very cruel and short-tempered.
-Red (8%): Typically found in mountainous areas but known in any terrain.
-  Breath weapon: fire. Extremely selfish and power hungry — seeks to expand
-  their hoard.
-Blue (12%): Found primarily in desert and vast plains. Bullying and cruel to
-  lesser creatures, often through manipulation or causing hallucinations rather
-  than direct physical harm. Breath weapon: lightning.
-Green (14%): Usually found in wooded or swampy areas. Breath weapon: poisonous
-  gas. Love to fight and will often attack unprovoked. Very territorial.
-  Deceitful and lying.
-Gray (16%): Indigenous to mountain regions. Able to petrify with its gaze.
-  No breath weapon but physically very tough and powerful. Quick to anger.
-Brown (16%): Exclusive to desert regions, usually in underground caverns
-  beneath the sand. Breath weapon: acid.
-Purple (16%): Known as deep dragons — live deep underground. Existence believed
-  to be myth by many surface dwellers. Breath weapon: pure magic energy. Very
-  agile in their environment — able to climb walls and cling to cavern ceilings.
-  Stealthy predatory hunter.
-White (15%): Weakest Chromatic dragon, though by no means harmless. Excellent
-  climbers and swimmers to complement flight. Breath weapon: ice. Moderately
-  intelligent with unfading memories — the keepers of knowledge. More willing
-  to talk and bargain than most dragons, but still not interested in helping
-  others. Hoards knowledge rather than treasure.
+CONFIRMED AND UNAFFECTED: Greyhawk is black with a glossy sheen and Karma is
+gold. Those are appearance, not taxonomy, and both stand.
 
-METALLIC DRAGONS (listed most to least powerful; percentages are of total
-Metallic population — TENTATIVE):
-Gold (2%): Most powerful Metallic dragon. Found in any terrain. Spend much
-  time in humanoid form seeking justice for the weak and wronged. Vast
-  intelligence and physical power. Breath weapon: fire.
-Silver (9%): True friend to all. Enjoy the company of humans and elves above
-  all and spend the majority of their lives in humanoid form among them. Quick
-  to defend friends and extremely ferocious in that defense. Breath weapon:
-  lightning.
-Bronze (12%): Keep mainly to water and swamps. Enjoy interacting with lesser
-  creatures, humans in particular. Very selfless — go out of their way to help
-  others. Breath weapon: fire.
-Mercury (14%): Found in any terrain. Eccentric — sometimes viewed as erratic.
-  Seek variety in all things: food, treasure, companions. Will aid others if
-  the reward aligns with what they seek. Breath weapon: lightning.
-Cobalt (17%): Very grim in nature. Seek to rule remote settlements or
-  territories. Found mainly in northern plains. Not cruel or malicious, but
-  prefer to have lesser beings acknowledge their power — those who refuse get
-  a demonstration. Breath weapon: ice.
-Steel (17%): Usually found in or near populated areas. Prefer the company of
-  humanoids over other dragons. Very sociable. Breath weapon: poisonous gas.
-Copper (15%): Typically found in hills and mountains. Highly intelligent.
-  Love to play jokes and pranks — intentions are innocent, they enjoy impressing
-  lesser creatures with wit. Breath weapon: acid.
-Brass (14%): Weakest Metallic dragon. Found in any terrain. Very docile. Love
-  to talk for hours. Fluent in many languages and dialects. Breath weapon:
-  poisonous gas. Prefers to avoid conflict.
+OPEN — THE DRAGON WARS: the discarded framework supplied the cause of the
+Dragon Wars (1206-1214, 2nd Epoch) as a conflict between the two factions. That
+cause is now gone and the war itself is confirmed to have happened, so it needs
+a new one. See Open_Questions for the leading candidate, which falls out of the
+revised dragon lifespan.
 
 ================================================================================
-END OF LANAMYR CHARACTERS & ITEMS — v007
+END OF LANAMYR CHARACTERS & ITEMS — v008
 ================================================================================

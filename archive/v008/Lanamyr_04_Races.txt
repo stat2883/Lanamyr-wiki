@@ -1,0 +1,1301 @@
+================================================================================
+LANAMYR WORLD BIBLE — RACES — v008
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Kingdoms_History,
+Characters_Items, Stories_Outlines, Open_Questions. Confirmed lore is locked;
+tentative lore is flagged and subject to change. Geographic origin points
+described below should match Lanamyr_Sundering.jpg; cross-check when either
+changes. Lifespan figures for these races live in the Overview_Cosmology file
+— cross-check both when either changes.
+
+================================================================================
+THE DRASU AND DRAAK (1ST EPOCH)
+================================================================================
+
+DRASU
+Humanoid, larger than any present-day race — tall, bronze-skinned, lean and
+powerful. Superior intelligence and magic users. Created the Drasian Empire on
+Edura and the Drasian Vault.
+THE CARETAKER MANDATE (confirmed): the Drasu were meant to be the caretakers of
+Lanamyr in the absence of the Irridae. This is why they were made with
+intelligence and greater power at such cost — they were not merely the finest
+thing the N'du built, they were built to tend the world once its architects had
+gone. Their affinity for the natural world and their impulse to protect it
+follow from that purpose rather than from temperament.
+WHAT BECAME OF THE MANDATE AT THE SUNDERING: like every other Drasu attribute,
+it passed to the descendant races in diminished and partial form — and, like
+every other attribute, it did not pass evenly. No single descendant race
+carries the whole of it. It fractured into pieces, and separate races hold
+separate parts of what was once one role.
+CONFIRMED FRAGMENTS:
+  - WOOD ELVES — stewardship of forest and growing things. Expressed as
+    minimal-impact building and replanting at the forest margins.
+  - SHEPHERDS (human subtype) — affinity with animals, at the scale of the
+    INDIVIDUAL. A bond with a particular creature, mutually chosen. Expressed
+    as partnership, and as a vegetarianism that does not feel like a choice.
+  - WATER WHISPERERS (human subtype) — affinity with sea life, at the scale of
+    the WHOLE. The sea read as a living system rather than a set of creatures.
+    Expressed as restrained and informed harvest rather than abstention.
+Each fragment produces a DIFFERENT relationship with the living thing in
+question. The Shepherds stopped eating animals; the Wood Elves fell timber and
+replant; the Water Whisperers fish and manage the grounds. Tending does not
+mean refraining, and the fragments should not be written as variations on one
+temperament.
+Note that fragments descend by RACE, not by family of races. Two of the four
+human subtypes carry one and two do not — Hillfolk and Northmen received no
+fragment at all. This is consistent with how every other attribute was
+distributed at the Sundering.
+FRAGMENTS ARE EXCLUSIVE. This is what separates them from the universal
+inheritances such as magic, ingenuity, forging or agriculture, which every race
+holds to some degree with the named race merely strongest. A race that does not
+hold a given fragment holds NONE of it. There is no faint Hillfolk version of
+the Shepherd affinity and no weaker dwarven echo of Wood Elf stewardship. See
+TWO CLASSES OF INHERITANCE in the Race Trait Framework below.
+NO RACE KNOWS THIS. Each carries a piece of a purpose it cannot name, and none
+has any way of recognizing another as holding a matching one.
+Adomorn, as the last surviving Drasu, is the last being to hold the mandate
+entire, and his 2,500-year vigil over the Abaculus is that function still being
+discharged.
+OPEN: whether further fragments exist in other races. See Open_Questions. The potential for both good and evil existed within
+the Drasu — the Sundering revealed and amplified rather than created these
+qualities. Split into elves, dwarves, gnomes, humans, orcs, and others.
+Adomorn is the last surviving Drasu. Takes human form. Galstaff Quint is one
+of the rare few to have seen his true Drasu form.
+THE DRASIAN TONGUE: The Drasu had a language of their own, and it was silenced
+at the Sundering. No one woke from that catastrophe still speaking it, and no
+living race speaks it today. It survives only in writing, on the walls and
+tablets of Atral.
+It did not vanish entirely, however. Just as the descendant races inherited
+their progenitors' attributes in muted and partial form, the languages that
+emerged after the Sundering carry the bones of the Drasian tongue beneath very
+different skin. Nheqethi, Aiwiya, Antathi, Stone Speak, Andari and the rest
+share structures, root forms, and habits of construction that all trace back to
+the same silenced source. No speaker of any one of them would recognize the
+kinship — the daughter tongues are far too changed, and too changed from one
+another. The relationship is visible only to someone holding many of them side
+by side against the written original, which is the work the Var Harma have been
+doing at Atral for centuries. See Kingdoms_History.
+The languages of the Draak-descended races stand outside this family entirely,
+having fractured from a different progenitor.
+
+DRAAK
+Most closely resembled present-day dragons but larger and more powerful.
+Capable of flight. Intelligent and capable of magic, but not to the extent of
+the Drasu. Central heartland in the Black Mountains of Fardar (Draak Territory).
+The potential for both good and evil existed within the Draak — same as Drasu.
+Split into fifteen descendant races: Dragons; three Drakes (Ice, Deep, Ember);
+three Wyrms (Great, Proto, Aquatic); four Dragonborne (Gold, Silver, Cobalt,
+Obsidian); and four Kobolds (Mystic, Tunneler, Hardback, Scavenger). The first
+seven are collectively DRAGON-KIND — see the DRAGON-KIND section below.
+THE WARDEN ROLE (confirmed in principle, framework not yet built): the Draak
+were not merely monitors of the Abaculus by agreement — their custodianship of
+it appears to be the Draak-side counterpart to the Drasu caretaker mandate, and
+it fractured at the Sundering as the caretaker mandate did. The strongest
+confirmed expression of it is the Ember Drake drive to hunt Creatures of Olum.
+What the other fourteen races carry of it, and whether it behaves as a Class
+One or Class Two inheritance, is the NEXT MAJOR BUILD. See Open_Questions.
+The Draak were active, willing participants in monitoring and protecting the
+Abaculus during its first hiding place in the Black Mountains — lending their
+physical strength, flight, and magical abilities to that purpose. Their
+custodial role ended when Ah'Tabai retrieved the Abaculus prior to the Battle
+of Atral. All Draak were shattered in the Sundering that followed.
+ANCIENT DRAAK SETTLEMENT: The Draak maintained a settlement in the river valley
+dividing the eastern and western halves of the Black Mountains — the heart of
+their territory. Not a city in the Drasian sense — the Draak were not builders
+of that sophistication. More likely a gathering place of natural caves and peaks
+modified and expanded to suit their size, with wide passages, open roosting
+ledges, and fire-scorched communal spaces. The scale would be enormous by modern
+standards given the Draak's size, but crude compared to Atral. The name of this
+settlement is undeveloped. What remains of it after thousands of years — and
+whether the Iron Dwarves of Fardar have encountered any of it during their
+mining operations — is undeveloped.
+
+1ST EPOCH TERRITORIES (confirmed on maps):
+- Drasian Empire: Northern Edura, centered on Atral along the Waywin River.
+- Draak Territory: Black Mountains of Fardar and surrounding region, central
+  Alios. Not a conventional kingdom — a roosting ground and heartland.
+Outside these two, the rest of Lanamyr was mostly wild and untamed.
+
+================================================================================
+RACES — CONFIRMED ORIGIN LOCATIONS
+================================================================================
+
+DRAAK ANCESTRY:
+- Dragons: ORIGIN UNDEVELOPED. See DRAGON-KIND below.
+- Drakes — Ice: ORIGIN UNDEVELOPED
+- Drakes — Deep: ORIGIN UNDEVELOPED
+- Drakes — Ember: ORIGIN UNDEVELOPED
+- Wyrms — Aquatic: ORIGIN UNDEVELOPED. Aquatic; see note below.
+- Wyrms — Proto: ORIGIN UNDEVELOPED
+- Wyrms — Great: ORIGIN UNDEVELOPED
+- Dragonborne — Cobalt: Desolate Tops, central Utoa
+- Dragonborne — Gold: Eastern peninsula of Alios near Westwind Mountains
+- Dragonborne — Obsidian: Inland swamps of southwestern Alios
+- Dragonborne — Silver: Jokul Island (entire island and surrounding smaller
+  islands, collectively called Jokul — similar to Hawaii). Kingdom: Jokul
+- Kobolds — Mystics: Southern Alios, northwest of the Obsidian Dragonborne
+  swamp region
+- Kobolds — Tunnelers: Far eastern end of the Black Mountains of Fardar,
+  within Fardar's borders but distant from the kingdom's center
+- Kobolds — Scavengers: Southern tip of Edura
+- Kobolds — Hardbacks: Evergreen Strand, far eastern tip of Utoa
+
+DRASU ANCESTRY:
+- Dwarves — Dark: Forbidden Peaks and Darkened Slopes, western arm of Alios. Kingdom: Hellar
+- Dwarves — Ice: Icefall (entire island, far north). Kingdom: Icefall
+- Dwarves — Iron: Black Mountains of Fardar, central Alios. Kingdom: Fardar
+- Dwarves — Sand: Void Sands Desert, central Edura
+- Elves — Dark: Beneath Tarantar Mountains, northern Alios (The Deep)
+- Elves — High: Northern Edura tropical forests. Kingdom: T'sarra
+- Elves — Plains: Central steppes of Alios. Kingdom: Ellendale
+- Elves — Sea: Malulo Archipelago (multiple islands, western ocean). Kingdom:
+  Malulo. The majority of Sea Elf civilization exists underwater — the islands
+  are only the surface-visible portion. TENTATIVE: approximately 90% underwater,
+  10% on land — not yet confirmed.
+- Elves — Snow: Large island just east of Utoa — close enough to be considered
+  part of the continent. Island name and kingdom name: UNDEVELOPED.
+- Elves — Wood: Forested lowlands south of the Tempest Peaks, western arm of
+  Alios. Kingdom: Faelyn
+- Gnomes — Cave: Beneath Tarantar Mountains, northern Alios
+- Gnomes — Desert: Central-south transitional zone of Alios (cool temperate desert)
+- Gnomes — Rock: Western end of Coldwind Mountains, Utoa
+- Gnomes — Sky: Myst (main island and surrounding smaller islands). Kingdom: Myst
+- Gnomes — Woodland: Southern Edura near the Iron Peaks
+- Humans — Hillfolk: Central Alios between Ash Mountains and Black Mountains. Kingdom: Kimora
+- Humans — Northmen: Northern peninsula of Alios. Kingdom: Andar
+- Humans — Shepherds: Distant island on the far eastern edge of the world map.
+- Humans — Water Whisperers: Small island cluster to the southwest, west of
+  the main Alios/Edura landmass, south of the Malulo Archipelago region.
+- Orcs: Eastern peninsula of Alios near Westwind Mountains
+- Magni: Any race — exceedingly rare, a fluke of birth
+- Goblins — Screechers: Wandering Hills, northeastern Kimora, northern Alios
+- Goblins — Marsh: Small island off the eastern coast of Alios. Island name:
+  UNDEVELOPED.
+- Goblins — Feral: Between the Ash Mountains to the north and the Blackwing
+  Hills to the south, in the region south of Kimora
+
+GIANTKIN — CONFIRMED ORIGIN:
+- Stone Giants: Tempest Peaks, western arm of Alios (directly north of Faelyn).
+  Recruited by Diquyk in 383-387 AW as a northern strike force in the Elf War.
+  Lifespan 50 years — born large and fast-growing, reaching adult size early
+  in proportion to that span. Among the shortest-lived of the larger races.
+  See Overview_Cosmology for life stages.
+
+GIANTKIN — ORIGIN NOT YET ESTABLISHED:
+Frost Giants, Hill Giants, Ogres, Swamp Giants
+
+RACES WITH NO ORIGIN LOCATION ESTABLISHED:
+Trolls — Forest, Moss, Desert (Mountain Troll origin confirmed below),
+Humans (Shepherds and Water Whisperers origins now confirmed above),
+ALL SEVEN DRAGON-KIND RACES — Dragons, the three Drakes, the three Wyrms.
+Deliberately deferred in v008 rather than overlooked; to be set in a later
+session and added to Lanamyr_Sundering.jpg at that time. Note that the Aquatic
+Wyrms will be the first race in Lanamyr to require a marine or coastal-shelf
+origin point — every origin placed on the Sundering map so far is terrestrial.
+
+MOUNTAIN TROLL ORIGIN (confirmed):
+Troll's Breath Mountains, just south of the ruins of Atral and the Waywin
+River on Edura. Emerged there at the Sundering and have never truly left.
+The mountain range is named after them. They contested the Atral ruins with
+the High Elves during early excavations and were pushed back by the combined
+High Elf and Sand Dwarf alliance. They remain a periodic threat to excavation
+operations — they know the ruins contain things of value. Extensive underground
+caverns originate in the Troll's Breath Mountains; some connect into the outer
+edges of the underground ruins of Atral. Hostile contact with Var Harma
+excavations occurs periodically when their paths intersect underground. The
+Trolls have at most found remnants of buried structures on the outer edges of
+Atral — nowhere near the Drasian Vault at the city's center.
+
+================================================================================
+RACE TRAIT FRAMEWORK
+================================================================================
+
+A standing set of traits used to describe every race. Applied to the western
+Alios races so far; to be extended to the rest as they are developed.
+
+TIERS (where a tier is used): Minimal, Low, Average, High, Maximum.
+
+================================================================================
+TWO CLASSES OF INHERITANCE — READ FIRST
+================================================================================
+
+Everything a race woke up with came through the Sundering from its progenitor.
+But inherited qualities fall into two distinct classes, and conflating them
+will produce errors.
+
+CLASS ONE — MANDATE FRAGMENTS. Exclusive and binary. A race either holds the
+fragment or holds none of it; there is no lesser version in anyone else. These
+are the shattered pieces of the Drasu caretaker mandate, and they are
+relationships with the living world rather than capabilities. Not tiered,
+because there is nothing to tier — the races that do not hold a given fragment
+hold zero of it.
+  Confirmed: Wood Elves (forest and growing things), Shepherds (animals, at the
+  scale of the individual creature), Water Whisperers (sea life, at the scale
+  of the whole ocean). See the DRASU entry.
+
+CLASS TWO — UNIVERSAL INHERITANCES. Present in EVERY race to some degree and
+unevenly distributed. The named race is not the only one that has it; it is the
+one with the strongest expression of it. Everyone else has some. These are
+tiered, and the existing framework traits of MAGIC and INGENUITY are already
+members of this class — every race has magical capacity in diminished form and
+every race has some rate of invention, they simply differ in degree.
+  Further members confirmed, to be developed with their races:
+  - INVENTIVENESS / INGENUITY — strongest expression: SKY GNOMES.
+  - AGRICULTURE AND CULTIVATION — strongest expression: PLAINS ELVES. Growing
+    and tending, intuitive diagnosis of what ails a crop, and deliberate
+    selective breeding. See their extended entry.
+  - FORGING AND METALWORK — a universal inheritance. Strongest holder not yet
+    determined.
+  Others will be added as races are developed.
+
+THE DISTINCTION MATTERS MOST WHERE THE TWO LOOK ALIKE. Wood Elf forest
+stewardship and Plains Elf agriculture both concern growing things and are
+NOT the same kind of thing. The Wood Elf trait is a mandate fragment: exclusive,
+a stewardship relationship with wild forest, held by no other race in any
+degree. Plains Elf agriculture is a universal inheritance: cultivation for use,
+present in every race that farms, expressed most strongly here. A race can be a
+superb farmer without holding any fragment at all, and most are.
+
+A race's TECHNOLOGY BASELINE is in large part the visible output of its Class
+Two inheritances at the moment of waking — a race with strong inherited forging
+woke with skilled forging in its hands.
+
+MAGIC — fixed and absolute.
+A race's magical capacity derives from its progenitor inheritance, carried in
+diminished form through the Sundering. It is innate, it does not drift over
+time, and it cannot be taught to a race, traded for, or lost in a war. Because
+the baseline never moves, no era needs to be specified. See Overview_Cosmology,
+Magic System, for the Magni exception.
+
+TECHNOLOGY BASELINE — fixed, set at the opening of the 2nd Epoch.
+What a race woke up already knowing how to do. This is INHERITED KNOWLEDGE AND
+MUSCLE MEMORY, not learning — craft carried in the hands as much as the mind,
+present from the first day without anyone having been taught. The Sundering
+preserved residual intelligence — language, reasoning, and the capacity to
+build and organize — so the baseline is simply how much practical craft
+survived in that race's fragment. Nobody taught anyone anything. Recorded as a
+description rather than a tier.
+RELATION TO OTHER INHERITANCES: magic capacity, the caretaker fragments, and
+the technology baseline are all inheritances carried through the Sundering, and
+in practice they are intertwined. What separates them is that craft knowledge
+can afterward be taught, traded, advanced, and lost, while magic capacity and a
+caretaker fragment cannot move between races at all. See the Drasu entry for
+the caretaker mandate.
+
+INGENUITY — fixed tier. The rate of technological progress, measured against
+all of Lanamyr rather than regionally.
+Ingenuity sets the CEILING on how fast a race can advance. Actual progress is
+gated by circumstance, and four gates apply:
+  - RESOURCES. A craft cannot develop without the materials it requires.
+  - SURPLUS. Specialists require others to feed them. A small population has no
+    spare labor for invention.
+  - CONTACT. Isolated peoples stagnate; connected ones compound. Contact between
+    races is a technological event as well as a political one.
+  - CATASTROPHE. War, plague, and collapse push a people backward regardless of
+    ingenuity. Knowledge can be lost — see Nusul in Kingdoms_History.
+Because progress is gated, technological history is uneven and not always
+forward-moving. A race may forget nothing and still fall behind as others
+advance. Technology transfers between races through contact and conquest;
+magic never does.
+No specific dates are assigned to a race crossing from one level of capability
+to another. Technological eras are described organically within each
+civilization's history rather than pinned to a timeline.
+
+COHESION — an outcome, not an inherent trait.
+Whether a race acts as a single polity or as many. Determined during the
+scatter-and-consolidation phase at the opening of the 2nd Epoch (see
+Overview_Cosmology, The Scatter Pattern) and rarely changed afterward. Cohesion
+determines whether diplomacy with a race is even possible and whether an
+agreement can bind anyone beyond the individual who made it.
+
+OUTSIDER DISPOSITION — the cultural default on meeting a stranger. Described
+rather than tiered. Drifts slowly.
+
+WESTERN ALIOS — RECORDED VALUES:
+
+WOOD ELVES
+  Magic: High
+  Technology baseline: Accomplished woodworking — felling, shaping, joinery,
+    and construction in timber; bows, hafts, carts, boats, framed buildings;
+    cordage and woven fiber. Simple forging: able to heat, hammer, and shape
+    metal into serviceable tools and blades, but plain work with no refinement,
+    alloying, or mastery of temper. Stone and bone tools in common early use.
+  Ingenuity: Low
+  Cohesion: High
+  Outsider disposition: Guarded at first contact, integrative over time. By the
+    3rd Epoch Faelyn houses humans, gnomes, and other races.
+
+DARK DWARVES
+  Magic: Average
+  Technology baseline: Skilled forging well beyond simple shaping — control of
+    heat, quality, and finish, producing tools and weapons of real quality.
+    Expert mining: shaft-sinking, following a seam, moving stone safely
+    underground. Fine stonework, structural and worked. Weak at woodworking,
+    which they treat as a material to acquire rather than a craft they practice.
+  Ingenuity: Average — perfecters rather than inventors, refining a known craft
+    across centuries.
+  Cohesion: High
+  Outsider disposition: Transactional. The only one of the three western Alios
+    races that travels TO others rather than waiting to be found.
+
+STONE GIANTS
+  Magic: Minimal
+  Technology baseline: Clubs and thrown stone. Hide and bone worked by hand.
+    Shelter is caves where the mountains provide them and crude huts where they
+    do not — logs stacked and leaned rather than joined, roofed with hide or
+    boughs. No metalworking at all.
+  Ingenuity: Minimal
+  Cohesion: Low — clans and holdings, never a unified people. No Stone Giant
+    kingdom exists in any epoch.
+  Outsider disposition: Aloof and dismissive when fed; dangerous when crowded.
+    The boreal rain forest supplies nearly everything they need, so they have
+    little reason to deal with anyone.
+
+NOTE ON MINIMAL TECHNOLOGY AND MILITARY THREAT: a Minimal technology tier does
+not mean a race is militarily weak. Stone Giant size makes a thrown stone a
+siege weapon and a club a decisive one. Their bodies are their technology.
+
+================================================================================
+RACE APPEARANCE TABLE
+================================================================================
+
+NOTE ON HEIGHT CONVENTIONS:
+- Hillfolk humans are the baseline standard — equivalent to real-world humans.
+- All human subtypes share variety in hair, eye color, and skin tone. They are
+  distinguished primarily by physical size and geographic origin, not appearance.
+- Dwarf gender height separation is 1 inch (male taller) unless otherwise noted.
+- Gnome male and female heights are equal unless otherwise noted.
+- Magni follow the physical appearance of their base race — see footnote.
+
+NOTE ON LANGUAGE NAMING:
+Present-day language names reflect the world as it exists in 432 AW and may not
+reflect what those languages were called in earlier epochs. Andari, for example,
+is named for the Andar region — a regional identity the early 2nd Epoch Northmen
+would not yet have had. This convention likely applies to other race languages
+as well. Native language acquisition is universal to the race. Additional language
+knowledge is individual — determined by travels, education, and experience, not
+race. Common is widely spoken as a second language across most of Lanamyr.
+
+MAGNI FOOTNOTE: Magni are not a separate race. They are born into any race as
+an exceedingly rare fluke. Their physical appearance follows their base race
+entirely. The table below does not include a Magni entry for this reason.
+The nature of the fluke: descendant races inherited their progenitors' magical
+capacity in muted form at the Sundering. A Magni receives it undiminished —
+full Drasu capacity for the Drasu-descended races, full Draak capacity for the
+Draak-descended races. The Draak held a lesser mastery of magic than the Drasu,
+so a Draak-descended Magni has a lower ceiling than a Drasu-descended one —
+still powerful, but with less potential. A Magni inherits magical capacity only,
+not the mind or mental resilience of their progenitors.
+See Overview & Cosmology, Magic System.
+
+RACE APPEARANCE TABLE:
+Race                   | M Height | F Height | Build              | Skin Tone                  | Typical Hair           | Typical Eyes               | Native Language
+-----------------------|----------|----------|--------------------|----------------------------|------------------------|----------------------------|----------------
+Humans — Hillfolk      | 5'9"     | 5'4"     | Average            | Variety                    | Variety                | Variety                    | Common
+Humans — Northmen      | 6'1"     | 5'8"     | Thick, Powerful    | Variety                    | Light tones            | Light tones                | Andari
+Humans — Shepherds     | 5'7"     | 5'2"     | Lean, Slender      | Variety                    | Dark tones             | Dark tones                 | Tapyr
+Humans — Water Whisp.  | 5'9"     | 5'4"     | Lean               | Variety                    | Variety                | Variety                    | Hikri
+Elves — Plains         | 5'11"    | 5'6"     | Lean, Slender      | Light browns, Bronze       | Light tones            | Variety                    | Antathi
+Elves — Wood           | 5'7"     | 5'2"     | Lean, Slender      | Light tan                  | Dark tones             | Dark tones                 | Aiwiya
+Elves — High           | 5'7"     | 5'2"     | Lean, Athletic     | Light yellow, Golden       | Variety                | Variety                    | Nheqethi
+Elves — Snow           | 5'1"     | 5'1"     | Thick, Powerful    | Pallid, Blue-tinged        | Blacks, Dark tones     | Bright, Light tones        | Tuavasy
+Elves — Dark           | 5'9"     | 5'4"     | Lean, Athletic     | Dark gray, Deep purple hint| Silver, Gray, White    | Cloudy gray, Pale blue     | Ukuri
+Elves — Sea            | 5'6"     | 5'1"     | Lean, Slender      | Aqua, Light blue-green     | Blues, Greens          | Variety                    | Vhitoshi
+Dwarves — Ice          | 4'9"     | 4'8"     | Broad, Powerful    | Gray, Silver               | White, Silver          | Blue, Gray                 | Malsili
+Dwarves — Sand         | 4'6"     | 4'5"     | Average            | Brown, Dark bronze         | Browns, Blonds         | Light brown, Hazel, Variety| Obathi
+Dwarves — Iron         | 4'11"    | 4'10"    | Compact, Powerful  | Variety                    | Variety                | Variety                    | Stone Speak
+Dwarves — Dark         | 4'8"     | 4'7"     | Average            | Dark tones                 | Light tones            | Dark tones                 | Tecali
+Gnomes — Sky           | 3'8"     | 3'8"     | Average            | Variety                    | Browns, Reds, Oranges  | Variety                    | Irturi
+Gnomes — Woodland      | 3'4"     | 3'4"     | Thick, Wide, Powerful | Dark browns, Green hint | Dark tones             | Dark tones                 | Enaric
+Gnomes — Cave          | 3'6"     | 3'6"     | Lean, Slender      | Pale                       | Silver, White, or None | Pale, Yellow-white         | Omathi
+Gnomes — Rock          | 3'7"     | 3'7"     | Thick              | Variety                    | Variety                | Variety                    | Eugali
+Gnomes — Desert        | 3'8"     | 3'8"     | Average            | Brownish-gold              | Red, Light brown       | Oranges, Yellows           | Jagati
+
+RACES NOT YET IN TABLE: Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls
+— to be developed in future sessions.
+DRAGON-KIND ARE NOT IN THIS TABLE AND WILL NOT BE. Its columns — male and
+female height, skin tone, hair, eyes — do not describe them. The seven
+dragon-kind races have their own reference table in the DRAGON-KIND section
+below, built on length, wingspan, lifespan, intelligence, magic and flight,
+and deliberately not separated by gender.
+
+================================================================================
+DRAGON-KIND — DRAGONS, DRAKES AND WYRMS
+================================================================================
+
+Built in v008. SUPERSEDES the former "DRAGONS — FACTIONS AND TYPES" section of
+the Characters & Items file in its entirety — the Chromatic and Metallic
+factions, the ranked colour lists with population percentages, the per-colour
+breath weapons, terrain assignments and personality stereotypes are all
+DISCARDED. None of it is to be reintroduced without a deliberate decision.
+
+Dragon-kind are Draak-descended and divide into THREE TIERS. The tiers are a
+matter of form and scale, not of rank, and all seven are distinct races in the
+Sundering count — one Draak produced one of each, exactly as on the Drasu side.
+See Overview_Cosmology, POPULATION AT THE SUNDERING.
+
+  DRAGONS — the full form. Four limbs, wings, scaled, capable of true sustained
+    flight. The largest of all Draak-descended races. The bare noun belongs to
+    this tier; every other dragon-kind race carries a qualifier.
+  DRAKES — the same general form at roughly half scale or less. Three races.
+  WYRMS — serpentine. Three races, two of them limbless or near enough.
+
+MORALITY: the full moral spectrum of the Draak passed to every one of these
+races, as it did to every Drasu-descended race. Good and evil exist within all
+seven. No tier, species or colour is inherently either. See Overview_Cosmology,
+THE SUNDERING.
+
+SOCIALITY SCALES INVERSELY WITH SIZE across the dragon tier and the drakes: the
+larger the race, the more solitary it tends to be, with Dragons the least
+communal and Ember Drakes the most. Whether this principle extends to the
+Wyrms is UNDEVELOPED — note that Aquatic Wyrms are recorded as very territorial
+at a middling 45 feet, which may or may not sit inside the same pattern.
+
+DIET: all seven are omnivore-carnivores feeding on whatever is native to their
+region. Specifics are deliberately undeveloped.
+
+INTELLIGENCE RATINGS below are RELATIVE TO OTHER DRAGON-KIND, not to the races
+of Lanamyr generally, and are general qualifiers only. Individual variance
+exists in all of these traits.
+
+DRAGON-KIND REFERENCE TABLE:
+Race            | Length | Wingspan | Lifespan | Intelligence  | Magic    | Flight
+----------------|--------|----------|----------|---------------|----------|---------------------
+Dragons         | 85 ft  | 100 ft   | 1500     | High          | High     | True sustained
+Drakes — Ice    | 40 ft  | 50 ft    | 700      | Moderate      | Moderate | True sustained
+Drakes — Deep   | 35 ft  | none     | 600      | Average       | Minimal  | None
+Drakes — Ember  | 20 ft  | 25 ft    | 400      | Above average | Minor    | Light sustained
+Wyrms — Great   | 75 ft  | 50 ft    | 1200     | High          | Moderate | Spring and glide only
+Wyrms — Proto   | 60 ft  | none     | 600      | Minimal       | None     | None
+Wyrms — Aquatic | 45 ft  | none     | 900      | Moderate      | Minor    | None (swims)
+
+Lengths are adult averages, nose to tail. Life stage breakdowns for all seven
+live in Overview_Cosmology — cross-check both when either changes.
+
+ON THE WINGSPANS (author's note, not in-world): spans were set to match each
+race's described flight capability rather than derived from a single ratio,
+because flight does not scale linearly. A Dragon at 85 feet with a 100-foot
+span is the benchmark for true flight, fixed by Greyhawk's confirmed
+measurements. Ice Drakes hold the same proportion at half scale and fly as
+well. Ember Drakes carry a comparable proportion on a far smaller frame, which
+would make them superb flyers but for a thick, heavy, alligator-like build that
+loads those wings far more than a lean dragon's — the result is genuine
+sustained flight that is laboured, short-ranged and low rather than soaring.
+Great Wyrms are the deliberate failure case: a 50-foot span on a 75-foot
+serpentine body is nowhere near enough wing for that mass, which is precisely
+why they must coil and spring for height and can only glide down from it.
+
+--------------------------------------------------------------------------------
+DRAGONS
+--------------------------------------------------------------------------------
+Length 85 ft. Wingspan 100 ft. Lifespan 1500 years. Growth stops at
+approximately 500 years. The largest of all Draak-descended races.
+Four limbs, wings, scaled, capable of true sustained flight.
+Highly intelligent and highly magical — the strongest magical capacity of any
+dragon-kind race, within the Draak ceiling (the Draak held a lesser mastery of
+magic than the Drasu; see Overview_Cosmology).
+Language: dragons have their own tongue and can learn others if they choose.
+Greyhawk is confirmed to have learned many. Like all Draak-descended languages
+it sits entirely outside the Drasian language family. Name of the tongue:
+UNDEVELOPED.
+The least communal of the dragon-kind.
+
+NO BREATH WEAPONS. Dragons do not breathe fire, acid, ice, lightning or gas.
+This is a deliberate departure and applies to the whole tier. The only
+chemical weapon anywhere in dragon-kind belongs to the Deep Drakes and is a
+pair of glands rather than a breath (see below).
+
+COLOUR: many varieties exist across the chromatic and metallic range. Colour is
+ordinary individual variation and carries NO moral, factional, elemental,
+territorial or power implication whatsoever. Specific colours are to be
+developed as stories require them. Population proportions are deliberately
+unrecorded.
+Greyhawk is black with a glossy sheen; Karma is gold. Both are confirmed.
+
+--------------------------------------------------------------------------------
+ICE DRAKES
+--------------------------------------------------------------------------------
+Length 40 ft. Wingspan 50 ft. Lifespan 700 years.
+White and silver. The same general form as Dragons — four limbs, wings, scaled,
+true sustained flight — at roughly half the size.
+Moderate intelligence and moderate magical ability.
+Not particularly aggressive. They sleep and hibernate for long stretches
+between large feedings, which shapes their whole pattern of life.
+Language: UNDEVELOPED. Whether they have one at all is undecided.
+
+--------------------------------------------------------------------------------
+DEEP DRAKES
+--------------------------------------------------------------------------------
+Length 35 ft. No wings. Lifespan 600 years. Found underground.
+Black, or shades of blue and purple. Four powerful limbs built for digging and
+climbing. Average intelligence with a marked proclivity for DECEPTION AND
+TRAP-SETTING — they arrange an ambush rather than run anything down.
+Minimal magical ability.
+
+EYES: abnormally large, cloudy and pale. Consistent with the established
+Lanamyr convention for subterranean races — compare Dark Elf cloudy irises and
+the large pale yellow-white eyes of Cave Gnomes.
+
+TEETH: a row of needle-like teeth angled backward, so that anything caught in
+the bite tears itself open attempting to escape. The bite punishes struggle.
+
+THE GLANDS — THE ONE CHEMICAL WEAPON IN DRAGON-KIND: two separate glands inside
+the mouth each squirt a different chemical. Neither is dangerous alone. Combined
+on contact with the target they produce a burning, acidic effect. This is NOT a
+breath weapon and should not be written as one; it is a sprayed binary reaction.
+AUTHOR'S CALIBRATION NOTE, not in-world prose: the mechanism is the bombardier
+beetle's, which stores its reagents separately and combines them only on use —
+the separation is what lets the animal carry a weapon that cannot harm it.
+
+CAMOUFLAGE: exceptional, and it works on two axes rather than one. Deep Drakes
+change the COLOUR of their hide and also its TEXTURE, raising and flattening
+the surface to match stone, rubble or smooth rock.
+AUTHOR'S CALIBRATION NOTE, not in-world prose: cuttlefish and octopus rather
+than chameleon — chromatophores for colour, muscular papillae for texture.
+
+REGENERATION: Deep Drakes regrow lost limbs.
+
+CONSEQUENCE — WHAT THIS ANIMAL ACTUALLY IS: a 35-foot ambush predator that can
+disappear against rock by colour and texture, bites so that escape causes more
+damage, sprays a scalding caustic, and grows back whatever is taken off it.
+Nothing about it is built for pursuit and very little about it is easy to kill.
+OPEN AND SIGNIFICANT: Lanamyr's underworld is crowded — The Deep beneath the
+Tarantars, Cave Gnomes beneath the same range, Tunneler Kobolds in the eastern
+Black Mountains, Mountain Troll caverns running into the ruins of Atral, and
+the Olum cavern that destroyed Nusul. Whether Deep Drakes are a known terror to
+those peoples or something rarely seen and half-believed is UNDEVELOPED. See
+Open_Questions.
+Language: UNDEVELOPED.
+
+--------------------------------------------------------------------------------
+EMBER DRAKES
+--------------------------------------------------------------------------------
+Length 20 ft. Wingspan 25 ft. Lifespan 400 years — the shortest-lived of all
+dragon-kind. The smallest and the most communal.
+Build is thick and powerful with very strong jaws — wings on an alligator
+rather than a scaled-down dragon. Moderately sized wings giving light sustained
+flight: better than the Great Wyrms' spring-and-glide, well short of a Dragon's.
+Above average intelligence.
+Minor magical ability, centred mostly on protecting themselves.
+A HUNTER'S SENSES: keen eyesight and a keen sense of smell.
+NOT HOSTILE to other intelligent races, but will not hesitate to defend
+themselves.
+
+COLOUR — THE NAME HAS TWO MEANINGS: the hide is mostly covered in raised bumps
+giving it heavy texture. The tops of the bumps run gray to black while the
+lower gaps between them are shades of red, orange and brown. At a distance the
+effect is a bed of burning coals. The name describes the colouring and the
+function at once, and only the colouring is obvious on first hearing.
+
+THEY HUNT CREATURES OF OLUM. This is the defining fact of the race. It is
+innate rather than learned — a drive carried in the blood to seek out and
+destroy Olum wherever they find them.
+WHY THIS IS NOT FEEDING: Creatures of Olum are not truly living. They are
+manifestations of death and they dissolve into harmless black dust when killed
+(see Overview_Cosmology). There is nothing to eat. Ember Drakes therefore hunt
+ordinary prey for sustenance and hunt Olum for a reason that has nothing to do
+with food.
+THE REASON — THE WARDEN INHERITANCE (confirmed in principle, framework not yet
+built): the Ember Drake drive against Olum is the STRONGEST EXPRESSION of a
+Draak warden inheritance, the Draak-side counterpart to the Drasu caretaker
+mandate. The Draak spent roughly twelve centuries actively monitoring and
+protecting the Abaculus in the Black Mountains, and Creatures of Olum exist to
+destroy life in order to thin the ambient field that masks it. An Ember Drake
+killing Olum is defending that concealment without the faintest idea that it is
+doing so. The broader framework — what the warden inheritance is, how it
+fractured, what the other six dragon-kind races and the dragonborne and kobolds
+carry of it, and whether it behaves as a Class One or Class Two inheritance —
+is the NEXT MAJOR BUILD and is recorded in Open_Questions.
+Language: UNDEVELOPED, though above average intelligence and the most communal
+habits of any dragon-kind make a shared tongue close to implied. How large an
+Ember Drake community actually is: UNDEVELOPED.
+
+--------------------------------------------------------------------------------
+WYRMS — GENERAL
+--------------------------------------------------------------------------------
+Serpent-like in form. Three races. Wyrms are a separate branch of dragon-kind
+and the word WYRM must not be used for any dragon or drake subtype.
+
+NOTE ON THE FOUNDING GENERATION: at 1200 years and below, no wyrm race retains
+any individual who woke at the Sundering. Roughly 2,597 years have passed by
+432 AW, so between two and six generations have come and gone depending on the
+race. Whatever the wyrms inherited, they have had many generations to forget
+how they came by it.
+
+--------------------------------------------------------------------------------
+GREAT WYRMS
+--------------------------------------------------------------------------------
+Length 75 ft — the longest of the wyrms. Wingspan 50 ft. Lifespan 1200 years.
+Slightly longer limbs than the Proto Wyrms, and WINGED.
+FLIGHT IS SHORT-DURATION ONLY: they coil and spring upward to gain height, then
+descend in a controlled glide. Wing surface area is nowhere near sufficient to
+sustain a body of that size in prolonged flight.
+Highly intelligent. Moderate magical ability.
+Colouring is vivid — reds, golds and silvers.
+LANGUAGE: Great Wyrms have their own tongue. Name and character UNDEVELOPED.
+Like all Draak-descended languages it stands outside the Drasian family.
+
+TENTATIVE AND UNRESOLVED — KARMA: the user is considering making Karma
+(Karmarukyntin) a Great Wyrm rather than a Gold dragon. His gold colouring sits
+comfortably in the Great Wyrm range. NOT DECIDED. See Characters & Items and
+Open_Questions for the age arithmetic and the Battle of Rohl pursuit problem
+this would raise.
+
+--------------------------------------------------------------------------------
+PROTO WYRMS
+--------------------------------------------------------------------------------
+Length 60 ft. No wings. Lifespan 600 years. Land-based.
+Four short limbs. NO magical ability whatsoever — the only dragon-kind race
+with none at all.
+THE LEAST INTELLIGENT AND MOST ANIMALISTIC of all Draak-descended races.
+Colouring runs in a variety of hues, mostly greens, browns and grays.
+Language: presumed none. UNDEVELOPED.
+
+--------------------------------------------------------------------------------
+AQUATIC WYRMS
+--------------------------------------------------------------------------------
+Length 45 ft. Lifespan 900 years. Essentially giant eels — no limbs, no wings.
+PROPULSION: a single long fin runs the length of each side. The fin ripples in
+a travelling wave to drive the wyrm forward, and reversing the direction of the
+wave lets it swim backwards with equal facility.
+Colouring runs through various shades of blue and green.
+Moderate intelligence. Very territorial.
+Minor magical ability, including TELEPATHIC COMMUNICATION with other Aquatic
+Wyrms. Whether that telepathy reaches other wyrms or only their own race, and
+whether they also possess a spoken tongue, is UNDEVELOPED.
+
+================================================================================
+KOBOLD SUBTYPES
+================================================================================
+
+Four confirmed Kobold subtypes, all descended from the Draak. As with all
+races, Kobolds have spread throughout Lanamyr over the 2nd and 3rd Epochs —
+any subtype may be encountered in travels far from their origin territory.
+
+MYSTIC KOBOLDS
+Origin: Southern Alios, northwest of the Obsidian Dragonborne swamp region.
+Lifespan: 50 years — longest of all Kobold subtypes.
+Appearance: Taller and leaner than most Kobolds. Shorter tails.
+Traits: The most intelligent Kobold subtype. One of the rare subtypes with
+natural magical capability — magic is possible but still uncommon even among
+Mystics. Skitterskink (Skitter) is a Mystic Kobold. Their greater intelligence
+and capacity for magic has allowed many Mystics to move beyond tribal life and
+integrate into the wider world more readily than other subtypes.
+
+TUNNELER KOBOLDS
+Origin: Far eastern end of the Black Mountains of Fardar, within Fardar's
+borders but distant enough from the kingdom's center to avoid significant
+conflict with the Iron Dwarves.
+Lifespan: 40 years.
+Appearance: Shorter and more powerfully built than other Kobolds. Large hands
+with sharp claws adapted for digging.
+Traits: Average intelligence by Kobold standards. Cave and burrow dwellers —
+their origin in the Black Mountains suited their subterranean lifestyle. Their
+proximity to the ancient Draak settlement in the river valley means they may
+have encountered Draak remnants that the Iron Dwarves have not yet found.
+
+SCAVENGER KOBOLDS
+Origin: Southern tip of Edura. Cold, harsh tundra environment.
+Lifespan: 35 years — shortest of all Kobold subtypes.
+Appearance: Smaller than other Kobolds. Fast and agile.
+Traits: Hunt and operate in packs. Very ferocious — seldom use weapons,
+preferring claws and teeth. Opportunistic and animalistic in behavior, targeting
+farms and livestock primarily. Generally cowardly unless numbers strongly favor
+them. The harsh cold environment of their origin shaped their pack survival
+instincts. Short lifespan reflects the attrition of their feral lifestyle.
+
+HARDBACK KOBOLDS
+Origin: Evergreen Strand, far eastern tip of Utoa.
+Lifespan: 40 years.
+Appearance: The most physically imposing Kobold subtype. Thicker hide
+throughout, particularly on the back where they have larger and thicker
+dragon-like scales — the feature that gives them their name and their notable
+durability.
+Traits: The least intelligent Kobold subtype. Brutish and reckless. Their
+tough hide makes them considerably harder to harm than other Kobolds.
+
+================================================================================
+GOBLIN SUBTYPES
+================================================================================
+
+Three confirmed Goblin subtypes, all descended from the Drasu. As with all
+races, Goblins have spread throughout Lanamyr over the 2nd and 3rd Epochs —
+any subtype may be encountered in travels far from their origin territory.
+
+SCREECHER GOBLINS
+Origin: Wandering Hills, northeastern Kimora, northern Alios.
+Lifespan: 15 years — the shortest lifespan of any race in all of Lanamyr.
+Traits: Rudimentary language and speech capability. When excited or frightened,
+emit very high-pitched shrieks — the feature that defines and names them. The
+brevity of their lifespan shapes a fast and chaotic existence.
+
+MARSH GOBLINS
+Origin: Small island off the eastern coast of Alios. Island name undeveloped.
+Lifespan: 30 years — longest of all Goblin subtypes.
+Traits: Build small earthen huts. The most socially developed Goblin subtype —
+a more noticeable social structure than the other subtypes. Reasonably
+intelligent. Their island origin may have contributed to their greater social
+cohesion and development in relative isolation.
+
+FERAL GOBLINS
+Origin: The region between the Ash Mountains to the north and the Blackwing
+Hills to the south, south of Kimora.
+Lifespan: 20 years.
+Traits: The most common Goblin subtype. Very savage and territorial. Capable
+of forging and creating weapons and armor, though the quality is very poor.
+The name refers to their demeanor rather than their intelligence or
+craftsmanship — they are not incapable, simply brutal and aggressive by nature.
+
+================================================================================
+ICE DWARVES — EXPANSION AND ICE FORGING
+================================================================================
+
+EXPANSION BEYOND ICEFALL:
+After several centuries of settling Icefall, the Ice Dwarves felt the need to
+expand beyond their island kingdom for additional resources. In year 221 of the
+2nd Epoch, the first major expeditions departed Icefall in multiple directions.
+
+Sailing south, they found the Tempest Peaks and the region of the Darkened
+Slopes. They found much of that region already occupied but established trade
+routes there. These routes helped build friendly relations with the neighboring
+peoples over time.
+
+THE SEQUENCE (confirmed, v006): the southern fleet made landfall first at the
+northern end of the western arc, on the edges of Stone Giant territory. Those
+encounters were tense and any peace was short-lived — Stone Giant cohesion is
+Low and no institution exists there capable of holding an agreement past the
+life of a chief. The Ice Dwarves declined to settle and continued south and west
+along the outer coast until they found unoccupied ground. They settled, and
+shortly afterward met the Dark Dwarves. That settlement became KULDOR, now one
+of the largest port cities in Alios — see Geography. The friendly relations the
+passage above describes are with the Dark Dwarves and in time the Wood Elves,
+NOT with the Giants.
+
+Another expedition sailing in a different direction discovered the Tarantar
+Mountains on northern Alios and recognized the abundance of mineral wealth
+there. It sent word back to Icefall, and after eighteen years of deliberation
+and preparation a contingent sailed to found Nusul in 239. The two expeditions
+were INDEPENDENT and remained so — the southern settlement played no part in the
+discovery of the Tarantars. See Kingdoms_History file.
+THE ASYMMETRY: Icefall lost the northern venture entirely in 268 and kept the
+southern one for the next twenty-four centuries. From 268 onward Kuldor is
+Icefall's only foreign holding.
+
+ICE DWARF RELATIONS WITH DARK DWARVES:
+Close, and far closer than with the Iron Dwarves — but the closeness is
+PRACTICAL rather than sentimental. Shared Drasu heritage produces nothing by
+itself. What produced this relationship was contact history and complementary
+craft, beginning in 221 and compounding for millennia in a shared city.
+A TENSION WORTH HOLDING: Icefall is Polar Ice and has no timber of its own
+either, so two mining peoples arrived at the same forest. Whether Ice Dwarf sea
+haul eventually relieved the Dark Dwarves' timber problem or priced them out of
+their own trade is UNDEVELOPED. What it cannot do is break the fuel deadlock —
+the Wood Elves' refusal to sell charcoal is not a transport problem.
+What Icefall itself burns, having no timber, is UNDEVELOPED.
+
+ICE DWARF RELATIONS WITH IRON DWARVES:
+Ice Dwarves and Iron Dwarves occasionally cross paths in the lands between their
+kingdoms, but the two kingdoms have no strong direct ties. Trade between them is
+indirect — goods pass through intermediary kingdoms rather than through direct
+exchange. The two cultures share ancient Drasu heritage but have developed very
+differently over the centuries since the Sundering.
+
+ICE FORGING:
+A unique weapon-crafting tradition specific to Icefall. Ice Forged weapons are
+highly sought after across Lanamyr and carry significant trade value. The
+technique cannot be replicated elsewhere. Three factors combine to make it
+exclusive to Icefall:
+
+THE ORE: Iron mined from the mountains of Icefall has properties not found in
+iron ore from other regions. Superior hardness and durability are inherent to
+the raw material. Taking Ice Forging technique to another location and using
+foreign ore will not produce the same result.
+
+THE ENVIRONMENT: The quenching process requires extreme cold temperatures that
+exist naturally on Icefall but are not found in almost any other part of
+Lanamyr. The cold itself is the quenching medium — not water or oil.
+
+THE TECHNIQUE: After the metal is heated and shaped, it is quenched in the
+extreme cold. The protected secret lies entirely in the quenching process —
+the precise timing, the duration of cold exposure, and the controlled rate at
+which the blade's temperature is dropped. These variables, applied correctly
+to Icefall ore in Icefall conditions, produce a blade that requires no
+tempering. In conventional forging, a blade must be reheated slightly after
+quenching — a process called tempering — to prevent brittleness. Ice Forged
+blades skip this step entirely and are not brittle after quenching. They hold
+their edge remarkably well.
+
+The knowledge is embodied — carried in the hands and instincts of living smiths,
+passed down through generations of Ice Dwarf craftspeople. It is not recorded
+in any book or vault. This makes the tradition both protected and vulnerable:
+it cannot be stolen from a document, but it could be lost if the smiths who
+carry it were ever decimated or isolated.
+
+Any smith attempting to replicate Ice Forging without all three elements —
+the ore, the environment, and the precise technique — would produce blades
+that shatter or perform no better than standard work.
+
+================================================================================
+HUMAN SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+SHEPHERDS
+Origin: Distant island on the far eastern edge of the world map.
+The Shepherds partly get their name for their deep, symbiotic relationship with
+animals. Their existence on their island was and remains one of balance with the
+natural world around them. By the 3rd Epoch they have spread throughout most of
+Lanamyr, as have most races.
+ANIMAL AFFINITY: Shepherds possess a deep affinity with all animals that goes
+beyond learned behavior. They have a profound intuitive understanding of animal
+behavior, body language, threat signals, and how animals perceive friends and
+danger. This alone would make them exceptional — but there is something deeper
+at play, something fundamental to the Shepherds that other humans simply do not
+possess. If a wild wolf encounters an ordinary Hillfolk human it is likely to
+attack. A Shepherd might calm it entirely. The Shepherds themselves do not have
+a complete explanation for this quality.
+THE ACTUAL ORIGIN (confirmed; unknown in-world): the affinity is a fragment of
+the Drasu caretaker mandate. The Drasu were meant to tend Lanamyr in the
+absence of the Irridae, and at the Sundering that role fractured unevenly
+across the descendant races. The Shepherds received the animal portion of it,
+as the Wood Elves received the forest portion. Neither race knows this, and
+neither can recognize the other as holding a matching piece. See the Drasu
+entry above and Overview_Cosmology.
+Note that no other human subtype carries it — Hillfolk, Northmen and Water
+Whisperers did not receive this fragment. It descended to the Shepherds as a
+race, not to humans as a family.
+CONSEQUENCE FOR THE DIET: the vegetarianism described below is not merely a
+cultural norm layered on top of the affinity. It follows from the inheritance
+itself. A people carrying a fragment of a mandate to tend living things do not
+eat what they were made to keep, and to most Shepherds it does not feel like a
+choice because in a sense it never was one.
+COMPANION ANIMALS: Shepherds are almost without exception accompanied by an
+animal companion of some kind. The word "pet" is misleading — the relationship
+is more accurately described as a partnership. The animal chose to be there, and
+the Shepherd chose it back. This mutual selection reflects the deeper nature of
+how Shepherds relate to the animal world.
+GUIDES: Shepherds are frequently sought out as wilderness guides. Moving through
+terrain with a Shepherd is a fundamentally different experience — animals that
+would be threats to others are non-threats or even assets. A Shepherd reads
+terrain through animal behavior in ways no other guide can replicate.
+DIET: Shepherds are vegetarian as a cultural norm. For a people with genuine
+partnerships with animals and that deeper affinity, eating them is a fundamental
+contradiction of everything they are. It does not feel like a choice to most
+Shepherds — it simply is not something they do. A Shepherd traveling far from
+home in a region where plant-based options are scarce may adapt out of necessity
+rather than choice.
+Native language: Tapyr.
+
+WATER WHISPERERS
+Origin: Small island cluster to the southwest of the main Alios/Edura landmass,
+south of the Malulo Archipelago region.
+
+SEA AFFINITY (confirmed): the Water Whisperers carry a fragment of the Drasu
+caretaker mandate, as the Wood Elves and Shepherds do — theirs is an affinity
+with sea life. It is innate rather than learned, it cannot be taught to anyone
+else, and like the other fragments it is not understood in-world. The name the
+rest of Lanamyr gave them is closer to the truth than anyone realizes.
+HOW IT DIFFERS FROM THE SHEPHERDS: the Shepherd fragment works at the scale of
+the INDIVIDUAL — a bond with a particular animal, mutually chosen, carried as a
+partnership. The Water Whisperer fragment works at the scale of the WHOLE. They
+read the sea as a living system: where life is and why, how a shoal moves, what
+a change in the water means, which grounds are thriving and which are spent.
+They do not befriend a fish. They understand an ocean.
+CONSEQUENCE — WHY THE FISHING IS NOT A CONTRADICTION: Water Whisperers are
+confirmed skilled fishermen, which would sit badly with a caretaker fragment if
+theirs worked the way the Shepherds' does. It does not. One can tend a whole
+and still take from it; a fishery is kept by being managed rather than by being
+left alone. Their take is restrained, informed, and directed away from grounds
+that cannot bear it — not out of regulation but because they can feel the
+difference. This is the same shape as Wood Elf practice, which fells timber and
+replants at the margins, and the opposite of the Shepherd resolution, which was
+to stop eating animals entirely. Three fragments, three different relationships
+with the living thing in question.
+CONSEQUENCE — THE FISHING SKILL: their reputation as skilled fishermen is not
+purely craft. Knowing where the fish are is the affinity, not the technique.
+
+The most accomplished seafaring civilization in all of Lanamyr. Their shipbuilding
+is unmatched anywhere in the world. Unlike Ice Forging — which is locked to
+Icefall by its ore, environment, and technique — Water Whisperer shipbuilding
+travels with the people. A Water Whisperer shipwright can build an exceptional
+vessel anywhere in Lanamyr. Their skill lives entirely in the craftspeople
+themselves, making them highly sought after in any port city. They are also
+skilled fishermen. By the 3rd Epoch they have spread throughout most of Lanamyr.
+Native language: Hikri.
+
+================================================================================
+ELF SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+ELVES — GENERAL
+All elf subtypes share certain physical characteristics: pointed ears and more
+delicate features than most other races. They tend toward leaner and more slender
+builds than Hillfolk humans, though this varies by subtype. Elves have finite
+lifespans — they are not immortal. Elderly elves exist in the world.
+
+WOOD ELVES
+Origin: Forested lowlands south of the Tempest Peaks, western arm of Alios.
+Kingdom: Faelyn. Capital: Caldalus.
+The biome map records their origin region as Cool Temperate Moist Forest, with
+Cool Temperate Wet Forest to either side, grading to Boreal Wet Forest at the
+northern foothills and to Subtropical Dry Forest at the southern margin. They
+woke in forest and have never lived anywhere else.
+Native language: Aiwiya.
+
+MINIMAL-IMPACT PHILOSOPHY: Wood Elves do not clear large swaths of forest.
+They fell only what a structure requires and build among the larger trees left
+standing. This is a deliberate ethic, not an inability.
+ORIGIN OF THE ETHIC — INHERITED, NOT LEARNED (confirmed): the affinity for the
+natural world and the impulse to protect the trees came down from the Drasu,
+who were meant to be the caretakers of Lanamyr in the absence of the Irridae.
+The Wood Elves did not arrive at it by reasoning or by remorse. They woke with
+it. See the Drasu entry above.
+The practical shape of their building has a separate and more mundane driver:
+in dense forest a threat cannot be seen coming at ground level, so the earliest
+bands built upward for safety, and for protection from flooding and predators.
+Inherited disposition and practical necessity happened to point the same way.
+NO GUILT, NO SHAME — this is important to the texture of the race. Wood Elves
+understood from the beginning that their need for raw material would have some
+impact on the forest, and they accepted it as the cost of living there. What
+follows from the inherited affinity is not remorse but effort: they work to
+minimize the impact, and where they can, to offset it. They do not agonize over
+the clearings. They account for them.
+WHAT YEARS 30 TO 60 ACTUALLY MARK: not the birth of the ethic, which was never
+absent, but its formalization. As expansion grew and the first substantial
+clearings became permanent features, an innate disposition had to become
+articulated practice — what may be taken, in what quantity, and what is owed
+back. TENTATIVE framing; the dating is carried over from v004.
+
+REPLANTING (confirmed): smaller Wood Elf settlements near the edges of the
+forest plant trees in open spaces. This is active restoration rather than mere
+restraint, and it is the clearest expression of the inherited mandate in
+everyday practice.
+GEOGRAPHIC CONSEQUENCE: carried out at the margins across centuries, this
+holds and in places extends the forest boundary — against the Subtropical Dry
+Forest at Faelyn's southern margin and the Boreal Wet Forest at the northern
+foothills. The Wood Elf forest is not merely preserved. It is tended.
+CONTRAST WITH THE DARK DWARVES: the Dark Dwarves stripped the slow-growing
+boreal woodland on their own margins and did not replant, and boreal forest
+recovers poorly. Over the same centuries one people's forest held or grew while
+the other's did not come back. This is a visible difference on the land at the
+boundary between them, and it is a substantial part of why the Dark Dwarves
+eventually came north looking for timber at all. See Kingdoms_History, THE
+BINDING TRADE.
+
+THE CROWN (see Kingdoms_History, FAELYN — THE FOUNDING): the Wood Elf monarchy
+was never founded. It accreted out of the office that coordinated defense
+against the Stone Giant raid cycle, beginning with Keerla Ervyre around year 50
+of the 2nd Epoch, and was recognized as a crown first by the Dark Dwarves, who
+needed a counterparty whose word bound the whole forest. The Wood Elves declined
+to correct them. Succession is formally by designation and practically
+hereditary, an artifact of the length of apprenticeship a 250-year lifespan
+permits. Faelyn fields a militia rather than a standing army, because the raid
+cycle is periodic and the crown is the standing part of a non-standing force.
+
+HEAVEN'S OAK IN WOOD ELF BELIEF: the Oak stands at the center of Caldalus and
+its true purpose is unknown to all but the Guardians of the Tree. Many Wood
+Elves hold some variation of the belief that it is the seed of their creation,
+or that it may unlock the memories lost from before. None of it is true, and
+attempts on those memories at the Oak have never reached beyond the Sundering
+boundary. See Geography, HEAVEN'S OAK, and Overview_Cosmology, MEMORIES.
+
+CANOPY ARCHITECTURE: Wood Elf settlements are built high among the trees —
+networks of intricate, very well-built structures linked by walkways and
+bridges. The wet climate of the western arm is what makes a timber canopy city
+survivable; in the Subtropical Dry Forest at Faelyn's southern margin the style
+thins out considerably, and ground construction is proportionally more common
+there.
+THE CLEARINGS — ORDER OF CONSTRUCTION (confirmed): the canopy came FIRST. The
+earliest Wood Elf structures were built in the treetops, and ground
+construction followed afterward rather than preceding it.
+As canopy settlements expanded they demanded ever greater quantities of raw
+material, and the gathering and hauling of it produced the first substantial
+clearings in the forest. Those clearings were then built into as well. Wood
+Elves did not clear land in order to build; they cleared it incidentally, in
+the course of building upward, and then used what they had made. Over centuries
+this produced settlements that are both canopy and ground, including Caldalus —
+but the canopy is always the older layer. See Geography.
+
+METAL — THREE CEILINGS: Wood Elf metalworking is permanently small in scale,
+for three independent reasons that all land in the same place.
+  - POOR ORE. Forested lowland yields no minable ore. What they have is bog
+    iron, gathered from forest seeps and marsh bottoms rather than mined —
+    scarce and of poor quality. Stone and bone tools filled the gap in the
+    early centuries and remain in use for many purposes.
+  - NO FUEL THEY WILL BURN. Smelting is the single largest consumer of wood of
+    any craft. Producing charcoal at scale is incompatible with the
+    minimal-impact ethic, and they decline to do it.
+  - MAGIC SUBSTITUTES ONLY AT TINY SCALE. High magic provides an alternate heat
+    source for smelting, but it is extremely inefficient and wholly impractical
+    as a permanent method. A mage must continuously produce the heat for the
+    duration rather than lighting a fire that burns on its own. It is sufficient
+    for a small crucible and a few pounds of bog iron and useless for sustained
+    or industrial work.
+CONSEQUENCE: Wood Elf metalworking is a magical profession rather than a
+mechanical one — a smith in Faelyn is a spellcaster who works metal, not a
+craftsman who owns a forge. Metal goods are individually costly and therefore
+rare and significant rather than everyday. This is why Wood Elf forging remains
+"simple" into the 3rd Epoch despite millennia of trade with master smiths: they
+did not fail to develop metallurgy, they declined to. See Characters & Items
+regarding Crimson and Sear — whether they are of Wood Elf make is UNDECIDED.
+
+PLAINS ELVES
+Origin: Central steppes of Alios. Kingdom: Ellendale.
+Native language: Antathi. Lifespan 200.
+TERRAIN OF ORIGIN (verified against the biome map, v005): Cool Temperate
+Steppes, read unambiguously at the origin point with no competing biome
+nearby. Rainfall is moderate — wetter than arid country, drier than the
+western arm. Temperature is cool temperate, close to Faelyn's. This is deep,
+fertile, treeless grassland with a single annual growing season, and it is the
+best grain country in Lanamyr. It provides no timber whatsoever.
+
+THE AGRICULTURAL INHERITANCE (confirmed): Plains Elves hold the strongest
+expression of the agriculture and cultivation inheritance. This is a CLASS TWO
+universal inheritance, not a mandate fragment — every race farms to some
+degree, the Plains Elves simply do it better than anyone. They are not
+stewards of wild growth the way the Wood Elves are, and the two should not be
+confused. See TWO CLASSES OF INHERITANCE.
+  - INTUITIVE DIAGNOSIS. They identify what is wrong with a crop far faster
+    than others can — blight, deficiency, pest, water, soil. It presents as
+    intuition rather than analysis. They frequently cannot say how they know.
+  - SELECTIVE BREEDING. They deliberately practice selective breeding of crops,
+    carried out as sustained programs rather than casual seed-saving. The
+    surrounding nations know that the largest and best-tasting produce in the
+    region comes from Ellendale.
+
+WHY NO ONE CATCHES UP — TWO FACTORS, NOT ONE: the inheritance alone would not
+produce this, and neither would the lifespan. It takes both.
+  - THE INHERITANCE supplies the judgment: which plant to carry forward, and
+    the fast reading of what is wrong.
+  - THE LIFESPAN supplies the time horizon, and it is decisive. The steppe
+    yields one crop generation per year. A Plains Elf adult has roughly 150
+    productive years and can therefore run 150 consecutive generations of
+    selection on a single crop PERSONALLY — one continuous program, one set of
+    judgments, no handoff. A Hillfolk human farmer gets perhaps fifty seasons
+    and must hand the work to an heir who did not see the earlier ones.
+    Every handoff loses intent. The Plains Elves have none.
+This is the same structural logic as Wood Elf cohesion: a long lifespan buys
+something no amount of effort buys in a short one.
+
+TRADE POSITION: Ellendale sits midway along The Road, the heaviest trade route
+in central Alios, with Kimora and Fardar to the east and Faelyn to the west.
+Their produce moves in both directions. A kingdom that feeds its neighbors
+holds a lever over them — worth bearing in mind alongside Lord Yllyndel the
+Ancient's political protection of the Herringer resistance under Bourbac.
+See Kingdoms_History.
+
+WHY THE SEED IS NOT THE SECRET (confirmed): a superior crop variety reproduces
+itself, and anyone sold produce from Ellendale has effectively been sold its
+seeds. The seeds do travel, and no attempt is made to stop them. They are the
+least important of the factors, and the advantage does not live in them.
+Three things make Ellendale produce what it is, and only one of them can be
+carried away in a pocket. The structure parallels Ice Forging — see the Ice
+Dwarf entry — where the technique is useless without the ore and the cold.
+
+  - THE SOIL. The central plains are richer in nutrients than the land
+    surrounding them. This is a property of the place and cannot be exported
+    with a seed any more than Icefall's ore can be carried to a warm forge.
+  - THE GROWER. The innate skill and intuition of the Plains Elf — the tending,
+    the care, the fast reading of what a plant needs before it visibly
+    declines. This is the inheritance, and it is the one factor that is
+    strictly impossible to transfer. It cannot be taught, bought, or copied,
+    and no amount of practice will give it to someone who did not inherit it.
+  - THE PROTECTION. Plains Elves take a very active role in pest and small
+    animal control to defend their yield. This is sustained, organized,
+    deliberate work rather than an occasional response to infestation, and a
+    great deal of a harvest's quality is simply the portion that was never lost.
+
+CONSEQUENCE: a farmer elsewhere planting Ellendale seed gets a decent crop and
+not an exceptional one, and concludes either that the elves held something back
+or that the seed degenerated away from home. Neither is true. He has the seed
+and none of the three things that mattered. This mirrors the fate of any smith
+attempting Ice Forging without the ore and the cold.
+
+CONTRAST WORTH NOTING — PLAINS ELVES AND SHEPHERDS: the Plains Elves kill small
+animals in sustained, organized numbers to protect a harvest. The Shepherds
+hold a mandate fragment for animals and will not eat one. Both are inheritances
+concerning living things, and they point in opposite directions. A Shepherd
+travelling in Ellendale would find the pest control genuinely difficult to
+witness. This is the clearest available illustration that tending does not mean
+refraining, and that these inheritances are not variations on one temperament.
+
+SNOW ELVES
+Origin: Large island just east of Utoa, close enough to be considered part of
+the continent. Island name and kingdom name undeveloped.
+The Snow Elves diverge most dramatically from the typical elf silhouette. Their
+extreme environment has shaped them into something that looks almost alien among
+their own kind. Both male and female average 5'1" — the shortest elf subtype,
+with no meaningful height difference between genders. Their build is thick and
+powerful, with strong legs built for trudging through deep snow — very unlike the
+lean slender frame of most elves. Their skin is pallid, sometimes with a faint
+hint of blue. Their hair is dark — blacks and dark tones — contrasting sharply
+with their eyes, which are strikingly bright and light in color. The combination
+of dark hair and vivid eyes against pale skin makes them immediately distinctive.
+Native language: Tuavasy.
+
+DARK ELVES
+Origin: Beneath the Tarantar Mountains, northern Alios. Kingdom: The Deep
+(underground). Their skin is darker gray tones, sometimes bordering on hints of
+deep purple — similar at a glance to Dark Dwarves but meaningfully different on
+closer inspection. Their hair is generally very light silver, gray, or white.
+Their eyes appear cloudy, with irises typically gray or pale blue — giving the
+impression of compromised vision to those unfamiliar with them. In reality their
+eyes are adapted to the low light of The Deep. Dark Elves spend the majority of
+their lives underground and are more reclusive than most surface races. They
+are more surface-averse than Dark Dwarves.
+Native language: Ukuri.
+
+SEA ELVES
+Origin: Malulo Archipelago, western ocean. Kingdom: Malulo.
+Immediately distinctive among all races. Their skin is aqua in tone — light
+blue-green, the color of shallow tropical water. Their hair matches: blues and
+greens, the colors of the sea. Their build is lean and slender, suited for
+swimming. The majority of Sea Elf civilization exists underwater — the islands
+of the Malulo Archipelago are only the surface-visible portion of their society.
+TENTATIVE: approximately 90% of Sea Elf presence is underwater, 10% on land —
+not yet confirmed. Nature of underwater settlements undeveloped.
+Native language: Vhitoshi.
+
+================================================================================
+DWARF SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+SAND DWARVES
+Origin: Void Sands Desert, central Edura.
+A lifetime under the brutal desert sun has left its mark on the Sand Dwarves.
+Their skin is brown to dark bronze in tone and carries a weathered, rough,
+leathery texture — not just a color but a quality earned by generations of
+exposure to the desert heat. Their hair runs in browns and blond tones, matching
+their arid environment. Their eyes are generally lighter browns and hazel with
+some variety. They have allied historically with the High Elves in the
+excavation and defense of the ruins of Atral.
+Native language: Obathi.
+
+IRON DWARVES
+Origin: Black Mountains of Fardar, central Alios. Kingdom: Fardar.
+The tallest of all dwarf subtypes, averaging 4'11" for males and 4'10" for
+females. Their build is compact and powerful. Unlike most dwarf subtypes, Iron
+Dwarves show significant variety in skin tone, hair color, and eye color —
+individual Iron Dwarves can look quite different from one another. Bor
+Glitterbeard has reddish-orange hair and hazel eyes; Grimmon Herringer had dark
+brown hair and blue eyes. Their native language is called Stone Speak — a
+colloquial name coined by the Iron Dwarves themselves rather than a formal
+linguistic title. Two major periods of enslavement — under Bourbac and under
+Tarik — have left a lingering cultural distrust of humans.
+Native language: Stone Speak.
+
+DARK DWARVES
+Origin: Forbidden Peaks and Darkened Slopes, western arm of Alios.
+Kingdom: Hellar (underground city in the Forbidden Peaks).
+Dark Dwarves are similar to Dark Elves in coloring at first glance — darker
+skin complexions and lighter colored hair. However their eyes are not clouded
+and are generally darker in tone. Unlike Dark Elves, Dark Dwarves are not
+deeply reclusive and spend more time above ground, though they are still
+effectively blinded by daylight without protection. Their greater surface
+presence makes them more commonly encountered than Dark Elves.
+Native language: Tecali.
+
+TERRAIN OF ORIGIN: The biome map records their origin as Cool Temperate
+Steppes — open, dry, treeless high country, and the driest corner of the
+western arm. Warm Temperate Thorn Scrub lies to the south in the Forbidden
+Peaks; Boreal Moist Forest lies along the northern Darkened Slopes and inland
+to the east. They are the only one of the three western Alios races to have
+woken in open country.
+
+DAYLIGHT SENSITIVITY IS ACQUIRED, NOT INNATE: Dark Dwarves woke at the
+Sundering with normal eyesight. On open steppe offering no shade and no
+shelter, the only refuge available was caves, and their natural craftsmanship
+and skill drew them steadily deeper underground. The sensitivity to daylight
+developed afterward, over generations of subterranean life, as a latent
+predisposition expressing itself rather than as ordinary selection.
+This distinguishes them from the races that woke underground. Dark Elves and
+Cave Gnomes both emerged beneath the Tarantar Mountains and never had sight to
+lose; Dark Dwarves gave theirs up. It is why they remain the least sensitive of
+the underground races and the only one that still travels and trades in person.
+CONSEQUENCE FOR EARLY HISTORY: the first phase of Dark Dwarf history is a
+SURFACE history — a steppe people with herds. The underground identity accrued
+over time rather than being present from the start.
+
+THEY WOKE IN THE WRONG COUNTRY (confirmed, v006): their inherited craft is
+forging, mining and stonework, and their terrain of origin is open, dry,
+treeless high steppe. For roughly two decades a people who woke knowing how to
+sink a shaft and control a quench had no ore beneath them, no fuel to burn and
+no mountain to cut. They herded, and the only inherited craft the steppe
+permitted was stonework. The Dark Dwarves woke somewhere that could feed them
+and could not employ them. See Kingdoms_History for the founding chain that
+follows from this, including the two founding dates of Hellar.
+
+WHY THEY NEVER BECAME THE DARK ELVES: their larder stayed on the surface. The
+steppe herds never stopped — they are the food base, supplemented but never
+replaced by the grain, fruit and fiber of the Binding Trade. Hellar is
+underground and its pantry is above it, and the daily traffic between the two
+has never stopped. Dark Elves and Cave Gnomes woke underground and had no such
+tether. This is why the Dark Dwarves remain the least sensitive of the
+underground races and the only one that still travels and trades in person,
+despite being effectively blinded by daylight without protection.
+The specific herd animal of the steppe is UNDEVELOPED.
+
+THE KULDOR POPULATION: a substantial Dark Dwarf population lives at Kuldor on
+the west coast, descended from the small northern timber settlements that merged
+into the Ice Dwarf port for protection. Everything past Kuldor's cliff-face
+threshold is their work, and for most travellers in Lanamyr it is the only Dark
+Dwarf architecture they will ever stand inside. See Geography.
+
+TIMBER DEPENDENCY: Deep mining demands enormous quantities of worked timber —
+props, shoring, ladders, hafts — and charcoal for smelting, none of which
+steppe or thorn scrub provides. The Dark Dwarves exploited the boreal woodland
+on their northern and eastern margins first. Boreal forest grows slowly and
+recovers poorly, and stripping it is what eventually drove them to seek timber
+from the Wood Elves. Because they are poor woodworkers, what they want is not
+raw logs but finished Wood Elf joinery, cut and fitted. See Kingdoms_History
+for the western Alios founding history and the structure of that trade.
+
+================================================================================
+GNOME SUBTYPES — EXTENDED ENTRIES
+================================================================================
+
+SKY GNOMES
+Origin: Myst island and surrounding smaller islands. Kingdom: Myst.
+Sky Gnomes are one of the most intelligent races in all of Lanamyr. This
+exceptional intelligence expresses itself through invention, scholarship, and
+ingenuity. Wilward Cobbersplint — a Sky Gnome who built and operated an airship
+— is a natural product of this cultural trait. The Nexus on Myst, the hub of
+all Jaunt Gates, is consistent with Myst as a center of knowledge and invention.
+Native language: Irturi.
+
+CAVE GNOMES
+Origin: Beneath the Tarantar Mountains, northern Alios.
+Cave Gnomes have an almost alien appearance among all the races of Lanamyr.
+Their eyes are large and round with a pale, yellow-white color — very little
+variety. Many Cave Gnomes have no hair at all; those who do have it in shades
+of silver and white. Their skin is pale. They are possibly the most reclusive
+race in all of Lanamyr — even more so than Dark Elves. It would be very rare
+to encounter a Cave Gnome outside their own region. They do not leave their
+caves often, and when they are above ground they almost always have their face
+and eyes covered for protection from the sun. Encountering one in the wider
+world would be a genuinely unusual event.
+Native language: Omathi.
+
+ROCK GNOMES
+Origin: Western end of Coldwind Mountains, Utoa.
+Accomplished gem cutters and jewelers. One of the largest diamond mines in all
+of Lanamyr is located in the Coldwind Mountains where they originated. Their
+skill with gemstones and precious materials has shaped their cultural identity
+and their reputation across Lanamyr.
+Native language: Eugali.
+
+WOODLAND GNOMES
+Origin: Southern Edura near the Iron Peaks.
+The shortest of all gnome subtypes at 3'4", but their average weight is similar
+to taller gnome types — the mass is simply compressed into a shorter frame.
+This makes them thicker and wider than other gnomes, and physically stronger
+despite their stature. Their compact powerful build makes them effective climbers.
+Their skin tones are generally darker browns, sometimes with a hint of a green
+hue. Hair and eyes run in darker tones as well.
+Native language: Enaric.
+
+================================================================================
+END OF LANAMYR RACES — v008
+================================================================================

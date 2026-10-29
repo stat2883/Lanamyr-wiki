@@ -1,0 +1,1450 @@
+================================================================================
+LANAMYR WORLD BIBLE — KINGDOMS & HISTORY — v008
+Present day: 432 AW — 3rd Epoch
+================================================================================
+
+NOTE: This is one file in a multi-file split of the Lanamyr World Bible. See
+also: Maps_Reference, Overview_Cosmology, Geography, Races, Characters_Items,
+Stories_Outlines, Open_Questions. Confirmed lore is locked; tentative lore is
+flagged and subject to change. Cross-check kingdom locations against
+Lanamyr_Epoch1.jpg / Lanamyr_Epoch3.jpg and against race origin points in the
+Races file when either changes.
+
+================================================================================
+REGION AND KINGDOM NAMES ACROSS EPOCHS — READ FIRST
+================================================================================
+
+STANDING CONVENTION (established v007). Kingdoms and regions do not keep the
+same name for millennia. Names attach to events, and they change when something
+breaks. Harrad is the proven case: it formed in 1207 of the 2nd Epoch and
+dissolved in 2165, and the territory then became Kimora, Ellendale and Fardar —
+three names that did not exist before that collapse.
+
+THIS EXTENDS A PRINCIPLE THE BIBLE ALREADY HELD FOR LANGUAGES. The Race
+Appearance Table in the Races file notes that present-day language names reflect
+432 AW and may not be what those languages were called in earlier epochs, using
+Andari as the example, since the Andar regional identity did not exist at the
+Sundering. The same is true of kingdoms, and for the same reason.
+
+CONSEQUENCE — PRESENT-DAY NAMES ARE AUTHORIAL SHORTHAND. Where this bible uses
+a 432 AW name to describe a 2nd Epoch place or people — "Faelyn" in the years
+0–221 chain, "Kimora" for central Alios before Harrad, and so on — that name is
+a convenience for the reader and is NOT the in-world name of that era. Early
+names are left UNDEVELOPED deliberately, to be assigned when the event that
+earns each one is built.
+
+THE PURPOSE OF THE RULE is to keep the world from reading as static. A place
+that has been called the same thing for twenty-four centuries has had nothing
+happen to it.
+
+================================================================================
+WESTERN ALIOS — FOUNDING HISTORY (2ND EPOCH, YEARS 0–221)
+================================================================================
+
+STATUS: CONFIRMED (reviewed in session v005). The sequence and dating below
+are locked in as the working history of the region. Locked is not permanent —
+this chain was built from three races in isolation, and as the surrounding
+races are developed, conflicts will be resolved case by case rather than by
+defending what is already written.
+
+SCOPE OF THIS SECTION — READ BEFORE DRAWING CONCLUSIONS: this chain tracks
+three races only. Where it is silent about contact with anyone else, that
+silence is the limit of what has been developed, NOT a statement that no such
+contact occurred. The Sundering map places other undeveloped races within
+reach of the western arm — the Plains Elves to the east across the neck of the
+continent, and the Mystic Kobolds to the south, who are in fact nearer to the
+Wood Elves than the Plains Elves are. The overland corridor east toward the
+central steppes is the western half of what becomes The Road in the 3rd Epoch.
+Nothing here should be read as claiming that corridor went unwalked. Revisit
+this section as each neighboring race is built.
+
+The three races of the western arm of Alios: Wood Elves in the forested
+lowland interior, Stone Giants in the Tempest Peaks along the northern coast,
+Dark Dwarves on the dry steppe and Forbidden Peaks of the southwest. See Races
+for trait values and Geography for terrain.
+
+GEOMETRY: measured on Lanamyr_Sundering.jpg, the Stone Giant origin lies
+roughly half as far from the Wood Elves as the Dark Dwarf origin does. Contact
+order follows from this: Wood Elves meet Stone Giants first, Dark Dwarves
+considerably later.
+
+THE ARC AND THE BOWL (confirmed; verified against Lanamyr_Features.jpg and
+Lanamyr_Biomes.jpg in session v006): the Forbidden Peaks, the Darkened Slopes
+and the Tempest Peaks are not three separate features. They are one continuous
+highland arc running along the outer west and north coast of the western arm,
+and the Wood Elf forest sits in the bowl enclosed by it. Dark Dwarves hold the
+southwest end of the arc, Stone Giants the north end, Wood Elves the interior.
+The biome banding runs dry at the southwest end and grades wetter and colder
+to the northeast — thorn scrub, then steppe, then boreal moist forest. See
+Geography.
+CONSEQUENCE — DARK DWARVES AND STONE GIANTS NEVER MEET IN THIS WINDOW. The two
+races sit at opposite ends of the same range with high ground between them that
+neither has any reason to cross. Giants under population pressure move DOWNHILL
+into the Wood Elf lowlands or down to the coast; travelling laterally along the
+arc means staying high and cold and solves nothing for them. The Dark Dwarves,
+for their part, will not pay to haul over a ridge when a cheaper route exists.
+This is not a near-miss but a structural non-event, and it holds until the Ice
+Dwarves arrive by sea in 221 and touch both peoples in a single voyage.
+
+THE SCATTER (years 0–20)
+Thousands of adults wake scattered across each region with no memory and no
+knowledge that anyone else exists. Language is intact, so the moment two
+strangers meet they can speak. Gathering takes months, not generations.
+Terrain determines the speed:
+- DARK DWARVES consolidate fastest. On open steppe smoke is visible for miles
+  and travel is unobstructed. The terrain that offers them no shelter offers
+  the quickest coalescence.
+- WOOD ELVES consolidate slowly. Forest limits sight and travel; bands form
+  along rivers and in clearings and only gradually learn of one another. With
+  High magic and little else to distinguish anyone, the earliest leaders are
+  those whose ability is most visible.
+- STONE GIANTS barely consolidate. Rugged ground, fewer bodies across it,
+  Minimal technology to ease travel. Clumps stay small and isolated. With
+  Minimal magic and Minimal craft, physical prowess is the only available axis
+  of distinction, so leadership forms around strength immediately. Their
+  regard for strength above all is not a value they adopted — it was the only
+  thing there was to respect.
+
+YEAR 7 — ADOMORN (confirmed lore; consequences drawn here)
+Adomorn arrives at a Wood Elf people seven years into gathering: bands and
+households, no kingdom and no throne. He chooses fewer than ten families and
+begins the Heaven's Oak chamber.
+- ADOMORN CHOSE THE TREE, NOT THE SETTLEMENT (confirmed, v007). Heaven's Oak
+  was already standing and a gathering had already formed around it, because an
+  enormous tree is the one thing findable in terrain that limits sight and
+  travel. He came for the Oak; the Wood Elves living beside it were the ones at
+  hand. The capital grew up around the same tree afterward, which is why
+  Heaven's Oak is a central feature of the present-day city rather than a remote
+  landmark. See Geography, CALDALUS and HEAVEN'S OAK.
+- THE CHAMBER IS INSIDE THE TRUNK (confirmed, v007). This SUPERSEDES the earlier
+  record of a chamber sunk into the earth at the foot of the tree, which was a
+  recording error. The chamber is cylindrical, roughly 30 feet by 30 feet, set
+  in the heart of a trunk some 70 feet across, beginning a short way below
+  ground and rising into the tree. Its entrance runs underground from elsewhere
+  and surfaces among the roots. Nothing at ground level marks it.
+- THE ANOMALY IS THE TECHNIQUE, NOT THE LOCATION. Building within a tree is
+  precisely what Wood Elves do, so from outside the chamber is invisible and the
+  Oak reads as an ordinary — if exceptional — Wood Elf landmark. What was not
+  theirs is the work itself: a shielded interior fashioned by Adomorn to isolate
+  the Abaculus from detection, in addition to the masking supplied by the Oak's
+  own living mass. This is the technological island in its true form — Drasu
+  knowledge sealed inside a familiar shape, where nobody would think to look for
+  it. It is far better concealment than a visibly foreign structure would have
+  been.
+- IT ALSO PREDATES THE ETHIC, which forms in years 30 to 60. The chamber is
+  not an exception to the minimal-impact philosophy; it predates the philosophy
+  entirely.
+- THE GUARDIAN FAMILIES WERE CHOSEN FOR PROXIMITY (clarified v007). They were
+  the Wood Elves already living at the Oak. Adomorn chose from that one
+  gathering, not from the scattered Wood Elf people as a whole, so fewer than
+  ten families represents a substantial bloc of that community. Their
+  prominence came AFTERWARD and followed from the choice rather than causing it:
+  the capital grew around the same tree, making them old-stock Caldalus families
+  by default — established, unremarkable, and entirely ordinary in holding some
+  dignified hereditary duty nobody thinks to ask about.
+- THE GUARDIANS PREDATE FAELYN. Their confirmed position outside normal Wood
+  Elf society structure follows directly: he founded them before that structure
+  existed. There was no king to ask.
+- THE GUARDIAN FAMILIES ARE A TECHNOLOGICAL ISLAND. Building a containment
+  chamber under Drasu direction placed Drasu-level knowledge in Wood Elf hands
+  in year 7. Those families know things no other Wood Elves know, permanently
+  and in secret.
+- WITHIN THIS WINDOW THE OAK IS RECENT HISTORY, NOT LEGEND. The mythology that
+  eventually grows around Heaven's Oak takes several Wood Elf generations to
+  settle, and a generation runs 75 to 80 years — so the folk belief described
+  in Geography belongs to roughly year 250 onward, AFTER this period. Across
+  the whole of years 0 to 221 there are Wood Elves alive who heard about the
+  tall bronze-skinned stranger from a parent who was there. A few outliers of
+  the emergence generation itself survive late into the window. The secret
+  during these centuries is fresh and awkward, defended by people one or two
+  removes from the event, not by an order insulated behind centuries of
+  reverence. See Geography, HEAVEN'S OAK.
+- CONSEQUENCE REACHING FORWARD TO THE ELF WAR. Because the chamber sits in the
+  capital, the Abaculus's objective in 387–392 AW — break the Guardians and
+  compromise the chamber — means the two-front assault from the Tempest Peaks
+  and The Deep was converging on Caldalus itself. Diquyk was driving at the
+  capital from the first day, and no one on the Wood Elf side knew why.
+
+CONSOLIDATION (years 20–80) — THE ORIGIN OF COHESION
+Lifespan and terrain together determine whether each race became one people.
+- WOOD ELVES receive forty-five years of peace. Children are born from the
+  first years onward — a portion of those who woke were already within the
+  reproductive window of 50 to 125 — but childhood runs to 42, so the first
+  Wood Elf born after the Sundering does not reach adulthood until roughly
+  year 45. What is flat for that entire span is the ADULT population: no new
+  claimants to land, no new contenders for leadership, no new households
+  competing for the same ground. Land is abundant against a static adult
+  population and there is nothing to fight over, so they sort themselves out
+  by negotiation. High cohesion is purchased by their lifespan.
+- STONE GIANTS receive nine. Adult at 8–12 and reproducing from 10, their
+  numbers climb within the first decade and never stop. By the time
+  consolidation might have occurred, rival holdings are entrenched with twenty
+  years of feud behind them, and leadership by strength means every claim is
+  contestable. Low cohesion is locked in by roughly year 50 and never comes
+  unlocked.
+- DARK DWARVES fall between and come out ahead. Adults at 26, giving a
+  generation of static population — long enough to consolidate before pressure
+  arrives, and they were already gathering fastest. High cohesion, and the
+  first of the three to function as a single people.
+
+HELLAR — THE FOUNDING (years 0–150)
+
+THEY WOKE IN THE WRONG COUNTRY. The Dark Dwarf technology baseline is skilled
+forging, expert mining and fine stonework, with weak woodworking. Their terrain
+of origin is open, dry, treeless high steppe. For the first two decades a people
+who woke knowing how to sink a shaft and control a quench had no ore beneath
+them, no fuel to burn and no mountain to cut. They herded. The only inherited
+craft the steppe permitted was stonework, and they used it the one way treeless
+high country allows — dry-stone steadings, windbreaks and stock pens. This is
+the exact inverse of the Wood Elves, who woke in forest and have never lived
+anywhere else. The Dark Dwarves woke somewhere that could feed them and could
+not employ them.
+
+UNITY BEFORE A CAPITAL (years 0–26). The steppe is legible: smoke carries,
+travel is unobstructed, and nothing can be massed or built out of sight. No
+faction could form in secret, so none did. Dark Dwarf unity was never won,
+because the ground gave no one anywhere to contest it from.
+The consequence is that they were ONE PEOPLE ON OPEN GROUND for a full
+generation before they had a city to be one people in — the reverse of the usual
+order. Hellar is the seat of a nation that already existed, not the thing that
+made one. Their founding institution is a moot of band heads convened on the
+steppe, and when the city was finally cut, the moot simply moved underground.
+When pressure arrives at year 26 — the first Sundering-born generation reaching
+adulthood, the adult population climbing for the first time — it lands on a
+people already unified. This is the whole difference from the Stone Giants.
+Giant pressure fractured a people who had never cohered; Dark Dwarf pressure was
+handed to an institution that already existed, and became a thing to be
+administered rather than fought over.
+
+THE TWO DIRECTIONS. What the steppe lacked lay at opposite ends of their own
+arc. Northeast up the Darkened Slopes: boreal moist forest, timber and fuel.
+Southwest in the Forbidden Peaks: thorn scrub above, deep stone and ore below.
+They went both ways, and the steppe between became a haul corridor. The Dark
+Dwarves spent the better part of a century moving material up and down their own
+territory before they ever met another race. THIS IS THE ORIGIN of their
+transactional disposition and of their being the only western Alios race that
+travels TO others — they were organized around a long haul before there was
+anyone at the far end of it.
+The seat went south because a working is not a place you visit. Timber can be
+hauled; a shaft cannot. So the city was cut where the ore was, and the forest
+was worked at the end of a supply line.
+
+THE TWO FOUNDING DATES (confirmed, and contested in-world):
+  YEAR 41 — the first deep shaft is sunk in the northern Forbidden Peaks.
+  YEAR 54 — the first great hall is cut and the moot convenes underground for
+    the first time. The name Hellar attaches from this point.
+Both dates are kept exactly, and which one founded Hellar has been argued for
+twenty-four centuries. THE ARGUMENT IS A CONSTITUTIONAL DISPUTE WEARING A
+COSTUME: year 41 is the crown's date and year 54 is the moot's, and each side's
+date is its own claim to primacy. A people who perfect rather than invent keep
+their records precisely and disagree about what the records MEAN rather than
+about what they say.
+
+WHAT HELLAR IS. Cut, not built. Fine stonework is a baseline skill, so the
+earliest galleries are already accomplished masonry. WHAT IMPROVED ACROSS THE
+CENTURIES WAS DEPTH AND SCALE, NEVER QUALITY — which is what "perfecters rather
+than inventors" looks like on the ground. The work was good on the first day and
+only ever got bigger.
+
+GOVERNANCE — TWO AUTHORITIES, ONE ABOVE AND ONE BELOW (TENTATIVE):
+  THE MOOT decides what the people do. It predates the city by decades and has
+    never conceded that anything outranks it.
+  A WORKING is directed absolutely by whoever holds it. A deep shaft takes
+    decades, costs enormously, and kills people if directed by committee, so
+    underground there is one voice and no appeal.
+Kingship grows out of the second. The holder of the year-41 shaft directed what
+became the city's central axis, and directing the axis became directing the
+city. HELLAR'S CROWN IS ATTACHED TO A HOLE IN THE GROUND. The Moot never
+dissolved, which is why Hellar is a kingdom with a standing assembly older than
+its throne. Tecali names for the Moot and for a working, the etymology of
+"Hellar," and the name of its first king are all UNDEVELOPED.
+
+THE TIMBER TRAP (years ~60–150). Deep mining eats worked timber — props,
+shoring, ladders, hafts — and smelting eats charcoal faster. The Dark Dwarves
+are weak woodworkers who treat wood as material to acquire rather than craft to
+practice, so they took the boreal margins the only way they knew: fast, at
+volume, with no replanting, on forest that recovers badly.
+THE FRONTIER TURNED EAST, NOT NORTH. Of the two timber directions, north up the
+Darkened Slopes is high, cold and exposed, with the haul running uphill along a
+ridge; east and inland is lower, warmer, shorter to good stands, and the hauling
+runs downhill. The weight of the expansion therefore went east and compounded
+for roughly a century. The northern slope settlements exist but stay SMALL, SLOW
+AND MARGINAL — held because the stands are there rather than because the ground
+is good — and never push far enough up the arc to matter. This is why the
+Darkened Slopes read as occupied to an arriving fleet in 221 and still amount to
+very little, and it is why the Dark Dwarves met the Wood Elves rather than the
+Stone Giants. They did not wander into the elves. They followed the cheapest
+haul available to them, and the cheapest haul pointed straight at Faelyn's dry
+southern margin. See SECOND CONTACT below.
+
+FIRST CONTACT — THE STONE GIANTS (years ~40–60)
+Geometry places the Giants nearest; demography puts them in motion. They have
+been growing for thirty years while the Wood Elves have not grown at all. They
+come downhill.
+Unlike contact within a race, this encounter carries a language barrier and the
+first exchanges are mutually incomprehensible.
+THE PERMANENT STALEMATE: the Wood Elves answer with magic, which the Giants
+have never seen and cannot match. High magic against Minimal magic and Minimal
+technology. The Giants outweigh the elves and can take ground but cannot hold
+it against magic; the elves can repel anything that comes down but cannot
+pursue into the peaks against that size on that terrain. Neither side can ever
+finish the other.
+THE RAID CYCLE: Giant population booms against the carrying capacity of the
+boreal rain forest every few generations. Pressure has one direction to go —
+downhill into the elf lowlands. The elves push it back, losses reset the
+population, and it builds again. This repeats for the remainder of the epoch
+and beyond. It requires no villain and no grievance; the demography produces it
+on a schedule the elves can nearly predict and can never negotiate away,
+because a Giant chief's word dies with him inside twenty years and Low cohesion
+leaves no institution to outlast him.
+THE CANOPY AS DEFENSE: Wood Elf canopy construction is extraordinarily
+effective against Giants, whose size becomes a liability in a network of
+walkways built for smaller frames. They can smash and burn at ground level and
+cannot reach what is above it, and there is no wall to break because the
+structure is distributed across hundreds of trees.
+BEARING ON THE ELF WAR: this is why Diquyk's recruitment of the Stone Giants in
+383–387 AW worked. He was the first force in their history capable of
+neutralizing the elves' only advantage — offering not plunder so much as the
+end of a stalemate their ancestors had lost for a hundred generations. The
+plunder was the terms, not the reason.
+
+SECOND CONTACT — THE DARK DWARVES (years ~100–150)
+The Dark Dwarves come north and east looking for wood, having stripped the
+slow-growing boreal woodland on their own margins. They reach the Wood Elves at
+the dry southern edge of the forest.
+They arrive in the opposite mode to the Giants: with a proposition and
+something to offer. First contact is a negotiation rather than a collision.
+Within a century the Wood Elves therefore learn two incompatible lessons about
+outsiders — that strangers can be something to survive, and that strangers can
+be something worth having. This is the origin of their guarded-but-integrative
+disposition.
+
+THE BINDING TRADE (years ~150–221)
+Real ore reaches the Wood Elves for the first time. Bog iron was all they had
+ever had, and Low ingenuity against poor material is why a century and a half
+produced only simple forging.
+WHAT MOVES, AND WHAT DOES NOT:
+  Elves to Dwarves — worked timber: props, shoring, ladders, hafts, joinery.
+    Agricultural surplus: grain, fruit, fiber, which the steppe does not
+    provide. NOT bulk charcoal.
+  Dwarves to Elves — finished tools and implements, the bulk of the trade.
+    Cut stone and stonework. Raw ore only in limited quantity.
+THE PERMANENT FRICTION: smelting is the largest consumer of wood of any craft,
+and the Wood Elves will not sell fuel. This caps Dark Dwarf smelting at
+whatever their own depleted woodland supports, leaving them sitting on more ore
+than they can ever process beside an effectively limitless forest whose owners
+will not sell them the one thing they need. Magic offers them no escape:
+inefficiency scales badly and their need is industrial. The friction is
+permanent, structural, and contains no villain — the two peoples simply value a
+tree differently.
+WHY THE ELVES PREFER FINISHED GOODS: raw ore does not escape their problem, it
+imports it. Smelting ore themselves would require making charcoal, which means
+cutting. Finished tools cost them nothing, because the burning already happened
+on dwarf fuel. The consequence is that they remain dependent on dwarf craft
+permanently and never develop metallurgy of their own.
+Over this same period the Dark Dwarves go deeper and spend less time above
+ground. The long adaptation of their eyes begins here.
+WHY IT BEGINS NOW AND NOT EARLIER: through the first century they were a surface
+people with a mine, and their own forest capped how deep they could go. Once the
+Binding Trade secured finished joinery from Faelyn they could sink deeper than
+their own woodland had ever permitted, and the proportion of a life spent under
+stone finally crossed over. The latent predisposition had nothing to express
+itself against until there were generations who scarcely went up.
+THE TRADE IS WHAT TOOK THEIR EYES. The timber that let them go deeper is what
+cost them their sight, and neither people ever knew it.
+WHY THEY NEVER BECAME THE DARK ELVES: their larder stayed on the surface. The
+steppe herds never stopped — they are the food base, and the Binding Trade only
+ever supplemented them with the grain, fruit and fiber the steppe cannot
+provide. Hellar is underground and its pantry is above it, and the daily traffic
+between the two has never stopped. Dark Elves and Cave Gnomes woke underground
+and had no such tether. This is the origin of the confirmed present-day trait:
+the Dark Dwarves remain the least sensitive of the underground races and the
+only one that still travels and trades in person, because they have been walking
+up out of their own city every day for twenty-four centuries.
+
+YEAR 221 — THE ICE DWARVES (confirmed lore; sequence expanded in v006)
+An Ice Dwarf expedition from Icefall sails south, finds the Tempest Peaks and
+the Darkened Slopes already occupied, and establishes trade routes that build
+friendly relations with the neighboring peoples over time.
+They arrive BY SEA, which is the significant detail — the region's first
+contact from beyond the continent, and its first arrival by fleet. This is a
+narrower claim than it may appear: it does NOT mean the western arm had met no
+one before 221. See the SCOPE note at the head of this section. What is new in
+221 is the direction and the means, not the fact of outsiders.
+
+THE SEQUENCE (confirmed):
+1. Sailing south from Icefall, the fleet makes landfall at the northern end of
+   the arc, on the edges of Stone Giant territory in the Tempest Peaks.
+2. The encounters are TENSE and any peace is short-lived. This is not a choice
+   so much as arithmetic: Stone Giant cohesion is Low, a chief's word dies with
+   him inside twenty years, and there is no institution capable of holding an
+   agreement. The Ice Dwarves decline to establish a settlement there.
+3. The fleet continues SOUTH AND WEST along the outer coast — following the arc
+   down past the Tempest Peaks toward the Darkened Slopes — and eventually finds
+   unoccupied ground. This gap exists because the Dark Dwarf northern slope
+   settlements are small and marginal and never pushed far up the arc.
+4. They settle, and before long meet the Dark Dwarves. Relations go far better
+   than they did with the Giants. The settlement becomes KULDOR — see Geography.
+CONSEQUENCE — WHICH NEIGHBORS BECAME FRIENDLY: the friendly relations that the
+confirmed lore says these routes built over time are with the DARK DWARVES and
+in due course the WOOD ELVES. They are not with the Stone Giants.
+CONSEQUENCE — THE GIANTS AND ICE DWARF METAL: the arrival still offers the
+Giants a source of worked metal that does not come through the Wood Elves, and
+it is the FIRST OFFER EVER MADE to them, since Hellar never traded metal to the
+Giants and the two peoples never met. What the Giants do with it is UNDEVELOPED,
+and whether their Low cohesion even permits a sustained trading relationship is
+an open question.
+
+THE KINSHIP IS PRACTICAL, NOT SENTIMENTAL. Shared Drasu heritage produces
+nothing by itself — the Ice Dwarves and Iron Dwarves share it and have no strong
+direct ties, trading only through intermediaries. If the Ice and Dark Dwarves
+become close it is because contact history and complementary craft made them so.
+This also explains the coldness toward Fardar: Icefall met the Dark Dwarves in
+221 and built on it for millennia, and never had that with the Iron Dwarves.
+A TENSION WORTH HOLDING: Icefall is Polar Ice and has no timber either. Two
+mining peoples arriving at the same forest is not obviously kinship, and whether
+Ice Dwarf sea haul eventually relieved the Dark Dwarves' timber problem or
+priced them out of their own trade is UNDEVELOPED. What it cannot do is break
+the fuel deadlock — the Wood Elves' refusal to sell charcoal is not a transport
+problem.
+
+THE NORTHERN EXPEDITION AND NUSUL: a separate fleet departing Icefall in the
+same year sails in a different direction and discovers the Tarantar Mountains
+and their mineral wealth. The two ventures are INDEPENDENT and remain so — the
+southern settlement plays no part in the discovery of the Tarantars. The
+northern fleet sends word back to Icefall; Icefall deliberates, provisions and
+commits, and a contingent sails to found Nusul in 239. This accounts for the
+eighteen-year gap between discovery and founding. See NUSUL below.
+THE ASYMMETRY: Icefall loses its northern venture entirely in 268 and keeps its
+southern one for the next twenty-four centuries. After Nusul falls, Kuldor is
+Icefall's only foreign holding, and a people who had just lost an entire kingdom
+would hold the surviving one very differently.
+
+OPEN WITHIN THIS CHAIN (deliberately not decided):
+- The exact year of first Giant contact.
+- Whether that first meeting turns violent immediately or passes through a
+  brief confused peace.
+- Whether the Stone Giants ever take Ice Dwarf metal in quantity.
+
+================================================================================
+FAELYN — THE FOUNDING OF THE WOOD ELF CROWN (2ND EPOCH)
+================================================================================
+
+NAMING: "Faelyn" is a 432 AW name used here as shorthand. The 2nd Epoch Wood
+Elf polity was not called Faelyn and its name in that era is UNDEVELOPED, as is
+the event that eventually attached the present name. See REGION AND KINGDOM
+NAMES ACROSS EPOCHS at the head of this file.
+
+THE THESIS: FAELYN WAS NEVER FOUNDED. Hellar has two founding dates, both kept
+exactly and argued over for twenty-four centuries. Faelyn has none, and the
+absence IS the fact rather than a gap in the record. No crown was ever placed
+on anyone. The office accreted so gradually that by the time outsiders were
+treating with a Wood Elf king, the Wood Elves had simply always had one.
+
+WHY THERE IS NO RECORD. The Dark Dwarves are perfecters who keep precise
+records and argue about what the records mean. The Wood Elves are Low ingenuity
+and live 250 years, and a people who can personally remember three centuries
+have little reason to write anything down. The past is not history to them, it
+is testimony. Nobody dates what nobody thought needed dating. See Open_Questions
+for when the Wood Elves eventually begin keeping records — UNDEVELOPED, and
+required before the present day, since Mya and Phelloden study written histories
+of Faelyn in Caldalus.
+
+THE SEQUENCE
+
+STAGE ONE — LEADERSHIP IS LITERALLY VISIBILITY (years 0–45). Confirmed lore
+states that the earliest Wood Elf leaders were those whose ability was most
+visible. Read at face value: in dense forest a magic user is the one who can be
+SEEN from another valley, who can signal across distance, who can be found.
+This is why magic became the axis of distinction among Wood Elves while physical
+strength became it among Stone Giants — the terrain selected the trait in each
+case. The earliest Wood Elf authority is not a warlord. It is a landmark.
+The same logic explains why a gathering had already formed at Heaven's Oak: an
+enormous tree is the most findable thing in a forest. See Year 7 above.
+
+STAGE TWO — THE FIRST PAN-FOREST CONVERSATION (years 30–60). Formalizing the
+minimal-impact ethic — what may be taken, in what quantity, and what is owed
+back — is lawmaking, and a rule about the forest is worthless if the next valley
+ignores it. This forces the scattered bands into one conversation for the first
+time.
+THE CONTRAST WITH HELLAR IS STRUCTURAL. The steppe is legible and kept the Dark
+Dwarves permanently in one conversation, so their moot is STANDING. The forest
+let everyone go home, so the Wood Elf assembly is EPISODIC — convened for a
+purpose and dissolved after. An institution that meets only when summoned
+requires someone with the standing to summon it. THE POWER TO CALL THE ASSEMBLY
+IS THE SEED OF THE THRONE.
+
+STAGE THREE — THE GIANTS SUPPLY A PERMANENT REASON (years ~40–60 onward). The
+raid cycle is the forcing function. A band under attack needs help from bands it
+may never have met, and someone must be able to call that help and have it come.
+A war leader raised for one emergency goes home afterward. A war leader raised
+every generation, indefinitely, becomes an office — because the stalemate is
+permanent and the function never gets to lapse.
+THE MEMORY ASYMMETRY (confirmed reasoning): both sides meet strangers each
+cycle, but only one side forgets. The Wood Elves face a new and ignorant Giant
+generation every time. The Giants face the same person who beat their
+great-grandfather. Giant knowledge of how the last cycle went dies with the
+Giants who learned it; Wood Elf knowledge does not, because the elf who learned
+it is still holding the muster. Across a hundred cycles this compounds into the
+elves effectively fighting an opponent with no memory. A Wood Elf commander
+outlives four or five raid cycles; a Giant chief never sees two.
+The exact interval between raid cycles is UNDEVELOPED and deliberately so. The
+ratio is what matters, not the number.
+
+STAGE FOUR — THE DARK DWARVES NEED A COUNTERPARTY (years ~100–150). The Race
+Trait Framework states that cohesion determines whether diplomacy with a race is
+even possible and whether an agreement can bind anyone beyond the individual who
+made it. The Dark Dwarves arrive at the dry southern margin WITH A PROPOSITION,
+and spend decades frustrated, because every bargain they strike holds only in
+the valley where it was struck. So they go looking for whoever the elves obey.
+THEY DID NOT FIND A KINGDOM. THEY NEEDED ONE AND ADDRESSED ONE INTO EXISTENCE.
+The war-muster coordinator was the only thing in the forest resembling what they
+were looking for. A foreign power began treating her as a sovereign, and her own
+people DECLINED TO CORRECT THEM.
+THIS IS A STANDING WOOD ELF HABIT, NOT A ONE-OFF. The Guardians' entire
+concealment strategy for Heaven's Oak amounts to declining to correct anyone
+(see Geography). The same move built the throne. Correcting a stranger costs
+effort and gains nothing.
+
+THE TITLE IS A TRANSLATION ERROR. The Dark Dwarves had exactly one category for
+"one voice, no appeal, for the duration of a dangerous undertaking" — the holder
+of a WORKING. That is the Tecali word they filed her under. It was precisely
+right about what she was and precisely wrong in the way that mattered: A WORKING
+ENDS; THE RAID CYCLE DOES NOT. The word stuck. "King of Faelyn" in Common in
+432 AW is a translation of a translation, and what the Aiwiya word for
+Aer'Raenal's office actually means is UNDEVELOPED — it may not mean "king" at
+all.
+NOTE: this makes the already-flagged Tecali term for a working load-bearing in
+two places. See HELLAR — THE FOUNDING above.
+
+KEERLA ERVYRE — THE FIRST HOLDER
+Woke at the Sundering as a young adult. Took up coordination of the Giant
+defense around year 50 and held it until her death, through several raid cycles.
+Across a century, "when she calls, people come" hardened into "when she calls,
+people must come" — not by decree but by habit. Nobody voted on it.
+She is NOT a Liaphyra. See THE LINE below.
+TENTATIVE: history outside the forest knows her under the dwarves' rendering of
+her name rather than the Aiwiya original, because the Tecali record is the only
+written one and nobody ever corrected it. The dwarven form is UNDEVELOPED.
+
+THE SUCCESSION IS THE ACTUAL FOUNDING
+An office becomes an institution the first time it survives the death of its
+holder. Hellar's founding is physical — a shaft and a hall. Faelyn's is a
+question: who answers the next muster, and who honours the agreements with the
+dwarves? Asking that question out loud is the kingdom. It carries no date in
+Faelyn, and what firm dating exists for the period sits in Tecali records in
+Hellar.
+FAELYN'S FOUNDING RECORD IS IN A FOREIGN LANGUAGE AND LIVES IN SOMEBODY ELSE'S
+ARCHIVE.
+
+THE LINE — HEREDITY NOBODY CHOSE
+The obvious successor was whoever had stood at Keerla's side for a century, and
+in a 250-year society an apprentice of a hundred years is very likely kin.
+HEREDITY IN FAELYN IS AN ARTIFACT OF APPRENTICESHIP LENGTH. This is the same
+logic the Plains Elf entry already runs on: every handoff loses intent, so you
+do not hand off.
+The crown is therefore FORMALLY DESIGNATED and PRACTICALLY ALWAYS HEREDITARY.
+It has passed within a line for long stretches and changed lines several times
+across twenty-four centuries, each time when no apprentice was standing. When
+the Liaphyra took it, and from whom, is UNDEVELOPED.
+CONTRAST WITH HARRAD, which held an explicit rule that the first born assumed
+the throne regardless of gender. Faelyn has no such rule.
+CONSEQUENCE FOR MYA AND PHELLODEN (resolves existing lore): Mya could step aside
+and Phelloden could take it because THERE WAS NO LAW TO BREAK. Aer'Raenal could
+be convinced rather than defied. And Phelloden is not merely more willing — he
+is doing the apprenticeship, studying maps, treaties and Faelyn's relationships
+with neighbouring kingdoms. Under this rule Mya's deliberate choice and the
+correct answer coincide.
+THE SHARPEST DETAIL IS ALREADY IN THE UNLIT OUTLINE: the heir's training is
+sitting in on trade meetings with Hellar emissaries about trade routes — the
+Wood Elf–Dark Dwarf relationship, still running after twenty-four centuries, and
+still the central foreign relationship of the kingdom. Mya found deadening the
+exact thing that made her family a dynasty.
+
+WHY A MILITIA AND NOT AN ARMY
+A kingdom twenty-four centuries old with a permanent hostile neighbour maintains
+no standing army, and should not. The raid cycle is PERIODIC, NOT CONTINUOUS, so
+a standing force would sit idle for decades at a stretch, and the Ingenuity
+gates require surplus to support specialists. Wood Elf metalworking is a magical
+profession producing goods that are rare and significant rather than everyday
+(see Races), so they could not equip one regardless.
+What evolved fits the threat exactly: a body that can be called up quickly and
+dissolved, with one permanent office at the top to call it. FAELYN'S CROWN IS
+PERMANENT PRECISELY BECAUSE ITS ARMY IS NOT — the king is the standing part of a
+non-standing army. The muster is the oldest continuous practice in Faelyn, older
+than the throne that calls it.
+
+THE CROWN AND THE GUARDIANS — TWO JURISDICTIONS THAT NEVER MET
+Confirmed lore states the Guardians predate Faelyn and sit outside normal Wood
+Elf society structure because there was no king to ask. The founding chain makes
+this structural rather than accidental. The crown grew out of the raid cycle and
+the haul road, BOTH OF THEM CONCERNING WHAT COMES FROM OUTSIDE THE FOREST. The
+Guardians' duty is to one tree inside it, concerning a threat that is not
+external at all.
+Two jurisdictions that never overlapped once in twenty-four centuries — until
+the thing coming down from the Tempest Peaks was coming for the tree.
+
+BEARING ON THE ELF WAR (387–392 AW)
+Existing lore confirms Diquyk drove at the capital from the first day and nobody
+on the Wood Elf side knew why. The founding chain adds two things.
+FIRST — THE EXPLANATION WAS IN THE ROOM AND INERT. The Guardians knew what the
+chamber was for. That tells you nothing about who wants it unless you also know
+the Abaculus is in play and that an enemy has learned the chamber exists, and
+neither was available to anyone in Faelyn. Adomorn identified Diquyk as a Magni
+and nothing beyond it. Nobody connected the war to the Oak because nobody held
+enough of the surrounding picture to see the connection as relevant. WHEN, IF
+EVER, THE GUARDIANS WORKED IT OUT IS DELIBERATELY OPEN — see Open_Questions.
+SECOND — THE INSTITUTION WAS PERFECTLY FITTED TO THE WRONG WAR. Crown, muster
+and magical advantage together form a machine built across twenty-four centuries
+to beat exactly one enemy: predictable, periodic, downhill, from one direction,
+carrying no magic. In 387 AW the Abaculus sent something continuous, two-front,
+five years long, carrying enchanted weapons, and able to intercept and redirect
+the elves' only advantage. Confirmed lore already states Diquyk was the first
+force in Giant history capable of neutralizing that advantage. The same sentence
+describes what he did to Faelyn.
+
+================================================================================
+NUSUL — THE LOST KINGDOM
+================================================================================
+
+OVERVIEW:
+Nusul was an Ice Dwarf kingdom established in the Tarantar Mountains of northern
+Alios during the 2nd Epoch. It was abandoned after 29 years following a
+catastrophic encounter with subterranean Creatures of Olum. The name Nusul is
+known to the Ice Dwarves and preserved in their records and oral history but is
+largely unknown to the wider world, which refers to it only as the lost kingdom.
+Many adventurers have tried and failed to find it over the centuries.
+
+By 432 AW the ruins have been abandoned for approximately 2,329 years. The
+Abaculus was removed from the Tarantar Mountains in year 2136, 2nd Epoch,
+after which the Olum gradually dispersed. The ruins have been sitting undisturbed
+and increasingly quiet for approximately 461 years.
+
+THE OLUM CONNECTION:
+The Abaculus was hidden in the Tarantar Mountains from year 7 of the 2nd Epoch
+onward. Creatures of Olum had been expanding outward from that central location
+for 232 years before the Ice Dwarves arrived. The Ice Dwarves never knew the
+true reason for the Olum presence — to them the mountains were simply
+inexplicably and relentlessly dangerous, overrun with Creatures in numbers that
+made no natural sense.
+
+CONTENTS:
+The kingdom was unfinished at the time of abandonment. Substantial infrastructure
+had been carved into the mountain over 29 years. The ruins contain:
+- Locally forged tools, weapons, and structural ironwork produced from Tarantar
+  ore using conventional forging techniques. The conditions for Ice Forging did
+  not exist in the Tarantar Mountains — smiths there worked with the local ore
+  using standard methods. The Tarantar ore was high quality in its own right.
+- Genuine Ice Forged weapons and tools that arrived via supply runs from Icefall
+  before the fall. Given the remarkable durability of Ice Forged blades and
+  the cold mountain environment, these could be in extraordinary condition after
+  2,300+ years.
+- Architecture, chambers, and mine workings abandoned mid-construction.
+- The mine that punched through into the Olum cavern in year 268.
+
+THE LEGEND:
+As the story filtered through trade routes and intermediaries over centuries,
+details were lost and distorted. Multiple versions circulate — a giant dragon
+seeking mineral wealth, Dark Elf treachery, and other explanations have all
+been attributed to the kingdom's downfall. The truth — subterranean Creatures
+of Olum — is known only to the Ice Dwarves. The Dark Elf version is considered
+plausible by many, given that Dark Elves occupy The Deep beneath the Tarantar
+Mountains and are geographically the closest neighbors the kingdom had.
+
+NUSUL TIMELINE (2nd Epoch):
+Year 7:   Abaculus hidden in Tarantar Mountains. Creatures of Olum begin
+          expanding outward from that location over the following centuries.
+Year 221: First Ice Dwarf expeditions depart Icefall in multiple directions.
+          One fleet discovers the Tarantar Mountains and their mineral wealth
+          and sends word back to Icefall. This fleet is INDEPENDENT of the
+          southern expedition that founds Kuldor in the same year; the two
+          ventures never informed one another.
+221-239:  Icefall deliberates, provisions and commits. The eighteen-year gap
+          between discovery and founding is this decision and its preparation.
+Year 239: Kingdom location established. Named Nusul. Regular supply runs and
+          labor forces begin. Olum have been expanding in the mountains for
+          232 years by this point.
+Year 253: First major Olum encounter. Dwarves fight them off and continue
+          working. Valuable mineral deposits found as they dig deeper. Attacks
+          grow more frequent as the population grows.
+Year 261: Major defeat. Part of the mines closed off. Reinforcements sent from
+          Icefall. Permanent guards and scouts deployed. Expansion attempts
+          consistently end in being pushed back.
+Year 268: A mine punches through into a large subterranean cavern swarming
+          with Olum. The kingdom is overrun and lost. All inhabitants killed.
+          Later that same year, the last supply ship arrives from Icefall,
+          finds silence and Creatures of Olum, and immediately returns to
+          Icefall with the news. The Ice Dwarves never return.
+
+================================================================================
+3RD EPOCH KINGDOMS (432 AW)
+================================================================================
+
+ALIOS:
+Kimora: Central Alios. Hillfolk humans. Capital: Shatazaar.
+  Borders: South — Ash Mountains; East — Black Mountains of Fardar;
+  West — natural border line of hills and mountains (includes Monowi Hills)
+  running from Ash Mountains to Tarantar Mountains; North — Tarantar Mountains
+  east to coast; Northeast — low plains bounded by Wandering Hills.
+  Ruler: King Gralvin Sutton (The Reluctant King).
+  Contains ruins of Rohl and the Burnt Plains.
+Fardar: Black Mountains, central Alios. Iron Dwarves. One of the richest
+  kingdoms in Lanamyr. Relations with Kimora strained after Tarik's crimes.
+  Territory encompasses the western and central bulk of the Black Mountains.
+  The far eastern end of the range is Tunneler Kobold territory — within
+  Fardar's borders but distant enough to avoid significant conflict.
+Ellendale: Central-west Alios. Plains Elves. Played a key role in overthrow
+  of Tarik alongside the Herringers. Ruler undeveloped.
+Faelyn: Western arm of Alios. Wood Elves. Capital: Caldalus.
+  Home of Guardians of the Tree. Mya Li is from Faelyn.
+  Ruler: King Aer'Raenal Liaphyra. Heir: Phelloden Liaphyra.
+  NO FOUNDING DATE EXISTS — the crown accreted out of the Giant raid muster
+  across the 2nd Epoch rather than being established. First holder of the
+  office: Keerla Ervyre, from roughly year 50. The Liaphyra are not the
+  founding line. Succession is formally by designation and practically
+  hereditary, which is why Mya could step aside for Phelloden without breaking
+  any rule. Faelyn maintains a militia rather than a standing army. The name
+  "Faelyn" is modern; the 2nd Epoch polity was called something else,
+  UNDEVELOPED. See FAELYN — THE FOUNDING above.
+Hellar: Underground city in Forbidden Peaks, western arm of Alios. Dark Dwarves.
+  Effectively blinded by daylight without protection. Founded years 41/54 of the
+  2nd Epoch — see WESTERN ALIOS founding history above. Governed by a moot older
+  than its crown.
+Kuldor: Port city on the west coast of the western arm, at the foot of the
+  Darkened Slopes. NOT A KINGDOM — founded by Ice Dwarves in 221 of the 2nd
+  Epoch and later merged with the nearby Dark Dwarf settlements. One of the
+  largest port cities and trading hubs in Alios and the western terminus of the
+  great east-west road. Mostly Ice and Dark Dwarves, with sizeable Sky Gnome,
+  human and Wood Elf populations. Governance UNDEVELOPED — it would be the first
+  polity in Lanamyr that is not a race-kingdom. See Geography.
+Andar: Large northern peninsula of Alios. Northmen humans. Ruler undeveloped.
+
+EDURA:
+T'sarra: Northern Edura. High Elves. Home of the Var Harma. Tropical Rain Forest
+  biome — lush and warm. Contains the ruins of Atral and the Drasian Vault.
+  Ruler and internal politics undeveloped.
+  A CLOSED AND ANTAGONISTIC KINGDOM: T'sarra's reclusiveness is a posture rather
+  than a temperament. The High Elves hold themselves superior to every other
+  race, and their dealings with other kingdoms and civilizations are
+  transactional throughout — every arrangement measured for leverage or
+  advantage. They are not a hostile military power in the open. They are a
+  closed state that works through acquisition, information, and the quiet
+  destabilization of rivals, largely via the external branch of the Var Harma.
+  And they sit atop what may be the largest single source of undiscovered
+  knowledge and power in all of Lanamyr, the Abaculus excepted.
+  THE CITIZENRY: Ordinary High Elves of T'sarra are raised on a curated account
+  of their own kingdom — that all is well, that T'sarra is the envy of the
+  world, and that the races beyond its borders are lesser. Contact with the
+  outside is controlled and the true shape of the kingdom's dealings is held by
+  a narrow few. Most citizens are not complicit so much as convinced. This
+  leaves ample room for sympathetic High Elves who have simply never been given
+  anything to weigh their upbringing against.
+  Individuals who leave and see the wider world firsthand are the kingdom's
+  central vulnerability — they are the only ones positioned to discover that the
+  account they were raised on is false. See THE NORTHWARD ENVOYS above.
+  HIGH ELVES ABROAD: Because T'sarra is closed, High Elves are the exception to
+  the general mingling and spread of the races across Lanamyr through the 2nd
+  and 3rd Epochs. A High Elf encountered outside T'sarra in 432 AW is far more
+  likely to be a defector, a long-settled descendant of one, or an agent of the
+  Var Harma than a citizen abroad on ordinary business.
+
+UTOA:
+Felgard: Northwestern Utoa. Capital: Jorvik. Hillfolk humans.
+  CONFIRMED SURVIVING INTO 432 AW. Allied with Cobalt Dragonborne 260+ years.
+  Steppes and Cool Desert biome.
+
+ISLANDS (each race controls entire island/archipelago):
+Icefall: Ice Dwarves. Kingdom name: Icefall. Polar Ice biome — extreme cold
+  essential for Ice Forging.
+Jokul Island: Silver Dragonborne. Kingdom name: Jokul. Encompasses the main
+  large island and all surrounding smaller islands collectively — similar to
+  Hawaii. Tundra to cold biome.
+Malulo Archipelago: Sea Elves. Kingdom name: Malulo. Tropical Rain Forest
+  biome — warm and lush. The majority of Sea Elf civilization is underwater;
+  the islands represent only the surface-visible portion of their society.
+  TENTATIVE: approximately 90% of Sea Elf presence is underwater, 10% on land.
+Myst: Sky Gnomes. Kingdom name: Myst. Main island plus all surrounding smaller
+  islands. Mixed to Deciduous Forest biome — temperate. Also contains the Nexus.
+Snow Elves: Large island just east of Utoa, close enough to be considered part
+  of the continent. Polar Ice and Polar Desert biome — extreme cold. Island
+  name and kingdom name: UNDEVELOPED.
+
+================================================================================
+ORGANIZATIONS
+================================================================================
+
+GUARDIANS OF THE TREE
+Ancient hereditary Wood Elf secret order from Faelyn. Protect Heaven's Oak and
+the Abaculus containment chamber. Founded early 2nd Epoch by Adomorn — fewer
+than 10 founding Wood Elf families chosen personally. Answer only to Adomorn.
+Outside normal Wood Elf society structure. Aware of Abaculus and chamber's
+three purposes. May mate with non-Guardian pure Wood Elves; no non-Wood Elf
+mixing allowed. Still vigilant against Elf War threat; unaware strategy shifted
+to Greyhawk resurrection. Founding family names: UNDEVELOPED.
+
+THE ORIGINAL MEMBERS (confirmed): the first Guardians were the HEADS of each
+family Adomorn chose — not the families entire. The order has always been a
+small number of individuals drawn from a small number of lines.
+
+SUCCESSION (confirmed): the role and its purpose pass by blood, to ONE
+descendant per family per generation, typically the firstborn, who is sworn to
+secrecy on being brought in. This is what keeps the order small enough to hold
+a secret across two and a half millennia. Were every descendant of the founding
+families to inherit, the order would number in the thousands by the present day
+and could not possibly have stayed concealed.
+
+TENTATIVE — TIMING OF THE OATH: the heir is sworn in upon reaching adulthood,
+with the serving Guardian continuing in the role. NOT fully confirmed. Under
+this model the order holds roughly twice its nominal number at any moment —
+serving Guardians plus sworn heirs who may wait a century or more, since a
+Guardian parent reproducing between 50 and 125 may live to 250. The advantages
+are that the knowledge is never one death away from being lost, and that a long
+apprenticeship under a serving parent is possible.
+
+ANOINTMENT FROM OUTSIDE THE BLOODLINES (confirmed that it has occurred;
+instances UNDEVELOPED): Guardians have on occasion been anointed from outside
+the founding lines. TENTATIVE — one plausible cause is a Guardian being
+murdered for some nefarious purpose, breaking a line and forcing the order to
+look beyond blood.
+
+STRUCTURAL WEAKNESS — THE IDENTIFIABLE HEIR: firstborn succession means the
+next Guardian of every line is publicly identifiable long before they are
+sworn, and in the years before the oath they do not know themselves. Anyone who
+worked out what the order was could simply count firstborns. This is a
+deliberate vulnerability in the design, not an oversight.
+
+TENTATIVE — BETRAYAL OF THE OATH: a sworn Guardian breaking secrecy is an
+available story thread. Nothing established.
+
+THE MARAUDERS
+Elite Wood Elf unit formed in 392 AW for the final incursion into Dark Elf
+territory — formed AFTER Mya had already experienced her crushing first defeat
+against Diquyk's forces. They are NOT the unit present in the first encounter
+with Diquyk's forces.
+Mya's first love interest (Kharis Ailwin) was killed in that earlier encounter,
+along with several other men under her command.
+
+FORMATION AND ORIGIN (confirmed):
+After the first major encounter, Mya returned to Faelyn accompanied by Adomorn.
+A council of war followed — King Aer'Raenal, Adomorn, Mya, and a number of
+Faelyn's tacticians and strategists. The names and number of those advisors are
+undeveloped and not presently important.
+Until this point, Diquyk's two-front campaign had kept Faelyn's forces entirely
+on the defensive. The council concluded that the best remaining chance was to
+abandon that posture and go on the offensive — to strike into Dark Elf
+territory rather than continue absorbing attacks.
+Mya volunteered to lead the attack.
+She did NOT hand-pick the unit. She went to her peers and fellow soldiers and
+told them plainly what she intended: the mission would be dangerous and very
+likely end in death, but she believed in her heart it was the best chance to
+save Faelyn, and she was prepared to fight to the death. Anyone who wished to
+join would be welcome. Anyone who chose to stay behind would carry no blame and
+no ill will from her.
+Ten came forward. All ten were volunteers who fully understood it was likely a
+suicide mission. Their love of kingdom, family, and friends was stronger than
+their fear and hesitation.
+
+TOTAL STRENGTH: 10 Marauders.
+FINAL BATTLE STRUCTURE: The Marauders were divided for the final incursion into
+The Deep. 8 accompanied Mya Li as the deliberate decoy force — entering The
+Deep through conventional means with the intent of drawing Diquyk's attention
+and engagement. 2 accompanied Adomorn through a Jaunt Gate located inside The
+Deep, deep within Dark Elf territory, to flank from behind. Adomorn put the
+2 Marauders to sleep for the gate transit. How the Marauders entered The Deep
+conventionally and how the sleep was timed or lifted are undeveloped.
+Diquyk sensed the magical presence of the gate transit — his ability to detect
+others drawing on ambient energy extended to the significant magical activity
+of gate use — and was tipped off to Adomorn's approach, foiling the ambush.
+Despite this, Diquyk was still engaged on two fronts. He intercepted Adomorn's
+spells and redirected them as blue flame, killing multiple Marauders. When Mya
+and Adomorn switched to physical combat, cutting off Diquyk's fuel supply, a
+barrier went up around him — raised at the last instant and close to reflexive,
+the body's answer to a beating that had nearly killed him. Adomorn tore open a
+doorway into the banishment plane. Diquyk's ability to intercept a casting never
+depended on what he had stored; it was simply his. What failed him was the
+physical state he was in. He did not react in time, and the two of them pushed
+him through the opening still sealed inside his own shell. Adomorn closed it
+behind him. All 10 Marauders were dead by battle's end. Only Mya and
+Adomorn survived — though see tentative note in Adomorn's entry (Characters
+file) regarding his possible death immediately after the banishment.
+Individual member names and backgrounds: UNDEVELOPED.
+STRATEGIC MOTIVATION FOR THE ELF WAR: The Abaculus learned of Heaven's Oak
+and the Guardians of the Tree through Greyhawk's memories at the moment of his
+corruption. The chamber at Heaven's Oak — built by Adomorn as a permanent
+containment solution — represented a direct threat to the Abaculus's freedom.
+The Abaculus directed Diquyk to wage war on Faelyn to break the Guardians and
+compromise the chamber before he pursued the larger mission.
+
+THE VAR HARMA (THE CURATORS)
+High Elf secretive society from T'sarra. Founded by royal decree. Operates on a
+need-to-know basis internally — lower ranking members are not privy to the
+organization's deepest knowledge or connections. Known member: Maeglin
+Leralonde, renowned within the organization as a thief and dungeon crawler.
+
+ORIGIN: The High Elves emerged in T'sarra north of the ruins of Atral. T'sarra
+was established first. Some period later — length UNDECIDED and deliberately
+left open — they discovered the ruins and began excavating. The region was
+contested by Mountain Trolls coming down from the Troll's Breath Mountains. The
+Sand Dwarves, expanding from the Void Sands southeast of T'sarra, eventually
+entered the region and allied with the High Elves against the Trolls, pushing
+them back.
+The Var Harma were created by order of the ruler of T'sarra at that time — name
+and identity UNDEVELOPED — who laid out their original purpose in that decree.
+They were never a guild that grew up around the dig of its own accord. They were
+chartered, and their mandate was to excavate, preserve, and protect what Atral
+contained.
+That founding document presumably still exists somewhere in T'sarra. It
+describes an organization that no longer entirely resembles the one bearing its
+name.
+
+THE EXPANSION OF THE MANDATE: What came out of the ruins pointed to a lost
+civilization of enormous scale and power. T'sarra concluded that if one such
+civilization had existed and been forgotten, others might too — along with their
+artifacts. The Var Harma's role expanded accordingly, from archaeology and
+curation into secretive operation abroad.
+Over time the organization learned that power takes many forms. Artifacts are
+only the most obvious. Information has value of its own, and so does leverage
+over a rival kingdom, and so does that kingdom's instability. Acquisition by
+theft, and destabilization as an end in itself, both fall within what the Var
+Harma now do. Whether any ruler of T'sarra ever formally authorized this
+expansion, or whether successive thrones simply stopped asking, is UNDEVELOPED.
+
+TWO BRANCHES: The organization is effectively split in two.
+- THE INTERNAL BRANCH, within T'sarra's borders, still fills the original role:
+  archaeologists, curators, translators, keepers of what has been recovered.
+  These members largely understand the Var Harma as the founding decree
+  describes it, and many are sincere in that belief.
+- THE EXTERNAL BRANCH operates beyond T'sarra's borders. Spies, assassins,
+  thieves, and treasure hunters make up the majority of Var Harma encountered
+  outside the kingdom. They acquire artifacts of power by whatever means are
+  available, gather information, and work against the stability of other
+  kingdoms where it serves T'sarra.
+Moving from the internal branch to the external one is not a transfer of duty
+but an initiation — a member is approached, told what the organization actually
+does, and asked. This is the principal reason the internal need-to-know
+structure exists. How much of the external branch's work the internal branch
+suspects is UNDEVELOPED.
+
+THE DRASIAN TONGUE: Centuries of excavation have uncovered a great volume of
+Drasian writing. The language itself was silenced at the Sundering and no living
+race speaks it, but its traits survive beneath many present-day languages — see
+the Drasu entry in the Races file. Holding the daughter tongues side by side
+against the written original, the Var Harma have pieced together a partial
+working knowledge of Drasian. Their reconstruction is incomplete. How much they
+can read, and what else they have read, is UNDEVELOPED.
+Among the writings they deciphered, the Draak were mentioned.
+
+THE NORTHWARD ENVOYS: On the strength of those mentions, the Var Harma have
+over the years sent envoys north into Alios to find the fallen civilization of
+the Draak. Envoys are instructed not to divulge their purpose to anyone they
+meet.
+Whether any succeeded is UNDEVELOPED. A significant number never reported back.
+Some of those saw how the rest of the world actually operates, understood that
+what they had been taught in T'sarra was false, and cut ties — defecting rather
+than returning. Others simply preferred the lands they found and settled there,
+away from T'sarra's politics and influence. A fair number remain loyal and still
+operate with T'sarra's interests in mind. No specific envoys, names, or actions
+have been established.
+Maeglin Leralonde is the most recent of these envoys. See Characters & Items.
+
+HEADQUARTERS: Rumored to be in the ruins of Atral, directly above the Drasian
+Vault. The Var Harma have been excavating Atral for centuries.
+
+THE DRASIAN VAULT: The Vault has never been opened and cannot be opened by the
+Var Harma. It admits only a Drasu. Whether they have located it by 432 AW is
+undecided; finding it and entering it are separate problems, and only the second
+one matters. See Geography.
+NO CONNECTION TO ADOMORN: The Var Harma have no relationship with Adomorn. He is
+aware of their excavations at Atral and is untroubled by them, because he knows
+the Vault will not open for them. Any earlier lore suggesting he had contact
+with their highest ranks is superseded.
+
+THE HERRINGERS
+Defined not by blood but by common cause and belief. Originally an Iron Dwarf
+family of great wealth. Matron Arrama Herringer used family resources to resist
+Bourbac's enslavement of Iron Dwarves. Organized resistance under political
+protection of Lord Yllyndel the Ancient (Plains Elves). Believed to have
+funded Evander's assassination of Bourbac. After Evander freed the Dwarves:
+protection vanished; Arrama killed by bandits near Ash Mountains foothills.
+Rekindled as Tarik's reign took hold. Grimmon Herringer (born 372 AW, died
+429 AW) rebuilt the name, personally organized the coordinated overthrow, told
+Mya Li firsthand stories of Tarik's atrocities. Was present at the overthrow
+at age 41 (413 AW). Founded Herrington. Grimmon killed by Orc raiders in 429 AW.
+Leadership and future: UNDECIDED. Grimmon did not officially name a successor.
+TENTATIVE — succession would likely come down to a vote or group decision among
+the higher-ranking Herringers, who would elect Qenwick Orcsbane. See Characters
+& Items. Note this makes the internal structure more load-bearing, since a
+voting body implies defined ranks and some means of convening a scattered
+membership.
+TENTATIVE STRUCTURE — A LOOSE, INFORMAL ALLIANCE: Not a formal society. There
+are no membership rolls, no initiation, and nothing to join. A person is a
+Herringer because they did the work — gave money, hid someone, carried a
+message, opened a door. Trust moves by personal vouching rather than by
+credentials, and most members know only their own link in the chain rather than
+the shape of the whole.
+Organized in cells, each with a local leader. This suits a movement that has
+twice survived by dispersing and going dormant: there is no center to destroy,
+and a cell that is lost does not expose the others.
+TENTATIVE FUNCTION — FUNDERS AND ORGANIZERS, NOT SOLDIERS: Their recorded
+history is one of money, coordination, and safe passage rather than direct
+force. Arrama used family resources to resist and organized under Lord
+Yllyndel's political protection; the Herringers are believed to have FUNDED
+Evander's assassination of Bourbac rather than carrying it out. Grimmon
+ORGANIZED the coordinated overthrow of Tarik and drew up the strike plans with
+the Plains Elves, while Mya Li and the militias did the fighting. Twice now the
+Herringers have been the hand behind the work rather than the hand doing it.
+This is a large part of why membership was never written down. There was never
+a roll to keep.
+TENTATIVE — THE CONVOCATION: While traveling to spread word of Grimmon's death,
+Qenwick met with many of these local cell leaders. Alongside the news, he would
+have told them to gather at an appointed place and time to decide the fate of
+the organization. The circuit and the summons are the same journey.
+  Two problems this creates, both deliberate:
+  - The man who calls the gathering and is then elected at it has arranged his
+    own election, whether or not he intended to. He set the time, the place, and
+    the terms, and everyone present came because he asked. This is visible to
+    anyone who wants to see it.
+  - A cell structure exists to prevent every leader being in one room.
+    Convening them is the most exposed thing a resistance can do, and Grimmon
+    was just killed by Orc raiders acting as instruments of the Kimora framing
+    operation. Someone was already hunting Herringers.
+  CONFIRMED: Bor, Maeglin, and Skitter — who made that circuit with Qenwick —
+  were aware of what he was doing. The four were close, and he called the
+  convocation openly rather than in rooms they weren't in.
+NOTE — THE KINGDOM DREAM IS NOT A HERRINGER AMBITION: The dream of a new
+Dwarven kingdom in the Tarantar Mountains belongs to Grimmon and Bor personally
+and is rooted in their Dwarven heritage, not in the Herringer cause. The
+Herringers are a resistance movement defined by common cause and belief; the
+kingdom is a separate thread that happened to live in the same man. See Grimmon
+Herringer and Bor Glitterbeard in Characters & Items.
+
+THE FOUR CROWNS
+Gang based in Broldendul. Led by Alexa Komoth. Further details: UNDEVELOPED.
+
+KINGS OF HARRAD
+Formed 1207, 2nd Epoch under Eisengol during Dragon Wars. First born assumed
+throne regardless of gender. Dissolved peacefully after Great War 2165.
+Territory became Kimora, Ellendale, Fardar. Bloodline believed ended with
+Morgan's death; survived through secondary branch → Estefania (age 23, 432 AW).
+See full succession timeline below.
+
+================================================================================
+KINGS OF HARRAD — FULL SUCCESSION (2nd Epoch)
+================================================================================
+
+Eisengol (King) — Born 1171 | Reign 1207-1238 | Died 1238 natural causes
+  First King of Harrad. Named king at age 36 during the Dragon Wars.
+
+Thyman (King) — Born 1198 | Reign 1238-1272 | Died 1272 natural causes
+  First born son of Eisengol. Took throne at age 40.
+
+Silban (King) — Born 1231 | Reign 1272-1316 | Died 1348 natural causes
+  Skilled magic user. Lived to 117. Stepped down at 85 to live among Plains
+  Elves. Steward Groehl ruled in his absence. Brother Thengol (born 1236) died
+  at age 34 — cause undecided.
+
+Groehl (Steward) — Service 1272-1316. Not of the Harrad bloodline.
+
+William (King) — Born 1276 | Reign 1316-1329 | Died 1329 killed in attack
+  Took throne at age 40. In 1329, took fraternal twins Rhein and Rhea to visit
+  Silban. Party attacked. William and Rhein killed. Only Rhea survived.
+
+Erlin (Steward) — Service 1329-1331. Grandson of Groehl. Not of bloodline.
+  Returned governance to Rhea upon her arrival in Rohl in 1331.
+
+Rhea (Queen) — Born 1309 | Reign 1331-1360 | Died 1360 illness
+  Harrad's first queen. Survived the attack at age 20. Met Dane during time
+  away. Married Dane (not of bloodline, did not hold throne).
+
+Allana (Queen) — Born 1336 | Reign 1360-1402 | Died 1402 natural causes
+  First born daughter of Rhea and Dane. Took throne at age 24.
+
+Ravin (King) — Born 1366 | Reign 1402-1437 | Died 1437 natural causes
+  First born son of Allana. Took throne at age 36.
+
+Elise (Queen) — Born 1389 | Reign 1437-1452 | Died 1458 natural causes
+  Took throne at age 48. Stepped down at 63.
+
+Callan (King) — Born 1423 | Reign 1452-1487 | Died 1497 natural causes
+  Took throne at age 29. Stepped down at 64.
+
+Chandler (King) — Born 1455 | Reign 1487-1529 | Died 1529 on throne
+  Recognized Bourbac's undesirable qualities and held throne as long as he could.
+
+Bourbac (King) — Born 1490 | Reign 1529-1561 | Died 1561 assassinated
+  Cruel tyrant. Enslaved Iron Dwarves on large scale. Herringers organized
+  resistance. Assassinated alongside son Quinn (age 30) by nephew Evander with
+  significant Herringer support.
+
+Evander "Freeman" (King) — Born 1528 | Reign 1561-1599 | Death year undecided
+  Nephew of Bourbac. Freed the enslaved Iron Dwarves — earned the title
+  "Freeman." Regarded as the king who restored Harrad.
+
+Holm (King) — Born 1558 | Reign 1599-1607 | Died 1607 illness
+  First born son of Evander. Died without an heir. Throne passed to Katherine.
+
+Katherine (Queen) — Born 1565 | Reign 1607-1637 | Died 1646 natural causes
+  Younger sister of Holm. Took throne at age 42. Stepped down at 72.
+
+Elrich (King) — Born 1595 | Reign 1637-1667 | Died 1670 natural causes
+  Took throne at age 42. Stepped down at 72.
+
+Mercer (King) — Born 1621 | Reign 1667-1685 | Died 1685 on throne
+  Took throne at age 46.
+
+Sofia (Queen) — Born 1650 | Reign 1685-1718 | Died 1729 natural causes
+  Took throne at age 35. Stepped down at 68.
+
+Zoe (Queen) — Born 1678 | Reign 1718-1741 | Died 1762 natural causes
+  Took throne at age 40. Stepped down at 63.
+
+Ellis (King) — Born 1704 | Reign 1741-1778 | Died 1794 natural causes
+  Took throne at age 37. Stepped down at 74. Died at the remarkable age of 90.
+
+Viktor (King) — Born 1736 | Reign 1778-1789 | Died 1789 illness on throne
+  Took throne at age 42. Died after only 11 years.
+
+Isa / Isabella (Queen) — Born 1774 | Reign 1789-1849 | Died 1857 natural causes
+  KNOWN AS ISA — never Isabella. Youngest ruler at age 15. Reigned 60 prosperous
+  years. Stepped down at 75. Had fraternal twins Daria and Lara in 1802.
+
+Daria (Consort, not ruler) — Born 1802 | Death undecided
+  Born first by ~15 minutes. Graciously deferred to Lara. Held title Consort of
+  Queen Lara. Had children of her own — possible tie-in to Estefania, NOT YET
+  CONFIRMED.
+
+Lara (Queen) — Born 1802 | Reign 1849-1855 | Death year undecided
+  Younger twin by ~15 minutes. Took throne at 47. Stepped down after 6 years.
+
+Nicolas (King) — Born 1826 | Reign 1855-1889 | Died 1897 natural causes
+  Took throne at 29. Stepped down at 63.
+
+Patrick (King) — Born 1860 | Reign 1889-1925 | Died 1929 natural causes
+  Took throne at 29. Stepped down at 65.
+
+Corinna (Queen) — Born 1893 | Reign 1925-1963 | Died 1969 natural causes
+  Took throne at 32. Stepped down at 70.
+
+Celina (Queen) — Born 1924 | Reign 1963-1987 | Died 1995 natural causes
+  Took throne at 39. Stepped down at 63.
+
+Camilla (Queen) — Born 1953 | Reign 1987-2019 | Died 2022 natural causes
+  Took throne at 34. Stepped down at 66.
+
+Laila (Queen) — Born 1980 | Reign 2019-2037 | Died 2048 natural causes
+  Took throne at 39. Stepped down at 57.
+
+Dolan (King) — Born 2011 | Reign 2037-2072 | Died 2081 natural causes
+  Took throne at 26. Stepped down at 61.
+
+Adriana (Queen) — Born 2045 | Reign 2072-2100 | Died 2113 natural causes
+  Took throne at 27. Stepped down at 55.
+
+Rosamund (Queen) — Born 2071 | Reign 2100-2136 | Died 2149 natural causes
+  Took throne at 29. Stepped down at 65. Died at 78 — before the Battle of Rohl.
+
+Morgan (King) — Born 2102 | Reign 2136-2165 | Died 2165 at Battle of Rohl
+  LAST KING OF HARRAD. Entire 29-year reign consumed by the Great War. Adomorn
+  knew Morgan personally. Killed at age 63 alongside daughter Victoria (born
+  2130, age 35) and grandson Nathan (born 2157, age 8). Bloodline survived
+  through a secondary branch → Estefania (age 23, 432 AW).
+
+================================================================================
+TIMELINE
+================================================================================
+
+--- 1ST EPOCH ---
+Year 0:    Creation of Lanamyr. N'du Irridae are primary architects; some Itule
+           participate. Built in secret from the Onwu. Energy harvested from
+           lifeless planes of existence to fuel the world's creation — those
+           planes wiped clean in the process. All life on Lanamyr created by
+           the N'du and Itule — from the Drasu and Draak down to the smallest
+           creature. The Drasu and Draak required the combined effort of many
+           Irridae and were given intelligence and greater power. Lesser life
+           was created by individual Irridae with comparatively little effort.
+           Drasu and Draak civilizations established. Good and evil potential
+           exists within both races.
+Year 70:   N'du depart. Abaculus hidden in Black Mountains of Fardar (heart
+           of Draak Territory) as a temporary measure while a permanent
+           solution is sought. Draak agree to actively monitor and protect it.
+           Adomorn leads this operation. The Onwu, having discovered Lanamyr
+           after its creation, bound themselves to the plane and began searching
+           for the Abaculus — the reason all Irridae eventually departed.
+Year 245:  City of Atral founded on Edura. Drasian Vault built underground.
+Year 1181: Onwu Irridae arrive at Atral. Olum creates Creatures of Olum.
+Year 1334: Ah'Tabai returns to Lanamyr to prepare for the Onwu threat. In an
+           act of poor judgement, retrieves the Abaculus from the Black
+           Mountains intending to weaponize it against the Onwu. Corrupted on
+           contact. The Abaculus is NOT in the Black Mountains when Atral falls.
+           The Abaculus deliberately prolongs Ah'Tabai's corruption to use him
+           as a tool. Ah'Tabai — fighting the corruption with the full force of
+           his cosmic nature — uses his remaining time to grant Adomorn
+           immortality before being fully claimed. Ah'Tabai then destroys all
+           Irridae present at Atral. The sudden catastrophic annihilation of
+           the Irridae resonates through their creation — the Sundering.
+           Draak and Drasu shattered into all modern races simultaneously across
+           all of Lanamyr, even those not present at Atral. End of 1st Epoch.
+           All Irridae who had bound themselves to Lanamyr are destroyed.
+           No Irridae remain in the world from this point forward.
+
+--- 2ND EPOCH ---
+Year 0:    The races wake scattered across their home regions — adults only,
+           no memory, language and reasoning intact. Approximately 5,000
+           individuals of each Drasu-descended race and 300 of each
+           Draak-descended race (see Overview_Cosmology). Bands begin forming
+           within months. WESTERN ALIOS: Dark Dwarves coalesce fastest on open
+           steppe; Wood Elves slowly in dense forest; Stone Giants barely at
+           all in rugged terrain, with leadership forming around physical
+           strength from the first season.
+Year 7:    Adomorn moves Abaculus to beneath the Tarantar Mountains. Creatures
+           of Olum begin expanding outward from that location over the following
+           centuries. Adomorn selects HEAVEN'S OAK — an enormous ancient tree
+           already standing, chosen for the ambient masking its living mass
+           supplies — and begins building the containment chamber INSIDE ITS
+           TRUNK. A Wood Elf gathering had already formed around the tree,
+           because an enormous tree is the most findable thing in dense forest;
+           the capital grows around the same tree later. Chooses fewer than 10
+           Wood Elf families as Guardians of the Tree from those living there,
+           the first members being the heads of those families. The Guardians
+           therefore predate the Wood Elf kingdom itself, which is why they sit
+           outside normal Wood Elf society structure.
+20-80:     WESTERN ALIOS: consolidation phase. The Wood Elf ADULT population is
+           flat until roughly year 45 — children are born throughout, but no new
+           claimants to land or leadership arrive, so there is no scarcity and
+           they organize by negotiation to reach High cohesion. Stone Giant numbers
+           climb from year 9 onward; rival holdings entrench and Low cohesion
+           locks in by about year 50. Dark Dwarves consolidate early and reach
+           High cohesion.
+30-60:     WESTERN ALIOS: the Wood Elf minimal-impact philosophy is FORMALIZED
+           as the first permanent clearings become established features. The
+           underlying affinity is inherited from the Drasu and was never
+           absent; what these years produce is articulated practice — what may
+           be taken, in what quantity, and what is owed back. No guilt is
+           involved. Replanting at the forest edges follows from the same
+           inheritance.
+~40-60:    WESTERN ALIOS: first contact between Wood Elves and
+           Stone Giants. The Giants come downhill under population pressure.
+           The elves answer with magic. A permanent stalemate forms that
+           neither side can break, and the Stone Giant raid cycle begins.
+~50:       WESTERN ALIOS: KEERLA ERVYRE takes up coordination of the Wood Elf
+           defense against the Giant raids. The office that becomes the crown
+           of Faelyn begins here, though nobody calls it one and no founding is
+           recognized. She holds it for roughly a century, through several raid
+           cycles. See FAELYN — THE FOUNDING above.
+~100-150:  WESTERN ALIOS: the Dark Dwarves, needing a counterparty whose word
+           binds the whole forest, begin treating the Wood Elf muster
+           coordinator as a sovereign. The Wood Elves decline to correct them.
+           The Tecali word for the holder of a WORKING is applied to the office
+           and sticks. No Wood Elf record of any of this is made.
+           Keerla's death, and the question of who answers the next muster and
+           honours the dwarven agreements, is the actual founding of the
+           kingdom. It carries no date in Faelyn.
+Year 41:   WESTERN ALIOS: the Dark Dwarves sink the first deep shaft in the
+           northern Forbidden Peaks. The first of Hellar's two founding dates
+           — the crown's date.
+Year 54:   WESTERN ALIOS: the first great hall of Hellar is cut and the moot
+           convenes underground for the first time. The name Hellar attaches
+           from this point. The second of Hellar's two founding dates — the
+           moot's date. Which of the two founded the city has been argued ever
+           since, and the argument is a dispute over whether the assembly or
+           the crown holds primacy.
+~60-150:   WESTERN ALIOS: the Dark Dwarf timber frontier expands, weighted
+           EAST and inland rather than north along the arc, because the eastern
+           haul is lower, warmer and downhill. The northern slope settlements
+           stay small and marginal. The boreal margins are stripped.
+~100-150:  WESTERN ALIOS: first contact between Wood Elves and
+           Dark Dwarves, who come seeking timber after stripping their own
+           boreal woodland. They arrive with a proposition rather than a
+           threat. Dark Dwarf tools reach Faelyn and the great building age of
+           Caldalus follows. The eastern haul line is what brought them there.
+~150-221:  WESTERN ALIOS: the timber-for-metal trade
+           establishes. The Wood Elves refuse to sell charcoal, permanently
+           capping Dark Dwarf smelting. The Dark Dwarves go progressively
+           deeper underground and the adaptation of their eyes begins.
+Year 221:  First Ice Dwarf expeditions depart Icefall in multiple directions.
+           One expedition sails south and makes landfall at the northern end
+           of the arc on the edges of Stone Giant territory. The encounters are
+           tense and any peace is short-lived, and they decline to settle there.
+           The fleet continues south and west along the outer coast, finds
+           unoccupied ground, settles, and shortly afterward meets the Dark
+           Dwarves. That settlement becomes KULDOR. Trade routes established
+           here build friendly relations with the Dark Dwarves and in time the
+           Wood Elves — not with the Giants.
+           A SEPARATE AND INDEPENDENT expedition sails in a different direction
+           and discovers the Tarantar Mountains and their mineral wealth,
+           sending word back to Icefall. The two ventures never informed one
+           another.
+Year 239:  Ice Dwarves establish Nusul in the Tarantar Mountains. Regular
+           supply runs and labor forces begin. Creatures of Olum have been
+           expanding in the mountains for 232 years.
+Year 253:  First major Olum encounter at Nusul. Dwarves fight them off and
+           continue working. Valuable mineral deposits found as they dig
+           deeper. Attacks grow more frequent as the population grows.
+Year 261:  Major Olum defeat at Nusul. Part of the mines closed off.
+           Reinforcements sent from Icefall. Permanent guards and scouts
+           deployed. Expansion attempts consistently end in being pushed back.
+Year 268:  A mine at Nusul punches through into a large subterranean cavern
+           swarming with Creatures of Olum. The kingdom is overrun and all
+           inhabitants killed. Later that same year the last supply ship
+           arrives from Icefall, finds silence and Olum, and immediately
+           returns to Icefall. The Ice Dwarves never return to Nusul.
+1206-1214: Dragon Wars. Harrad formed under King Eisengol.
+Year 1529: Bourbac takes throne. Iron Dwarf enslavement begins. Herringer
+           resistance begins under Arrama Herringer, protected by Lord Yllyndel
+           the Ancient (Plains Elves).
+Year 1561: Bourbac assassinated. Evander "Freeman" takes throne. Frees Iron
+           Dwarves. Arrama Herringer eventually killed by bandits.
+Year 2059: Arias Graymist born (Felgard, Utoa).
+Year 2111: Harbinger Set created. Cobalt Dragonborne raids on Felgard cease
+           by 2114.
+Year 2136: Greyhawk finds Abaculus in Tarantar Mountains (short-range Olum
+           anomaly). Corrupted on contact. Through Greyhawk's memories the
+           Abaculus learns of Heaven's Oak and the Guardians of the Tree.
+           Greyhawk deliberately relocates Abaculus to beneath grasslands near
+           Rohl — knowing Rohl will be the site of the war's most pivotal
+           battle. The Abaculus will draw Olum to the city while Greyhawk
+           abducts creatures for corruption and builds his forces. Begins
+           building forces for the Great War — recruiting willing dragons and
+           forcibly corrupting those who refuse at Olum nests. Creatures of
+           Olum in the Tarantar Mountains begin to disperse without the
+           Abaculus's pull to anchor them.
+Year 2140: Arias Graymist dies (age 81). Sons inherit Harbinger Set.
+2140-2148: Felgard-Dragonborne peace treaty brokered by Cyrus Graymist.
+Year 2148: Great War — first attacks begin. Lord Yllyndel the Ancient dies
+           sometime during this conflict.
+Year 2165: Battle of Rohl. When the battle turns against him, Greyhawk flees
+           attempting to reach the Abaculus to weaponize it against Karma and
+           Adomorn — the same fatal miscalculation Ah'Tabai made. Karma and
+           Adomorn pursue and kill him before he reaches it. Adomorn does not
+           know that was Greyhawk's intention and therefore does not know the
+           Abaculus is nearby. In the final instant, the Abaculus acts through
+           the dying Greyhawk — his dying curse transforms Karma into a
+           golden-skinned Kobold and binds him to the Burnt Plains directly
+           above the Abaculus, as the intended vessel for Greyhawk's
+           resurrection. Morgan, Victoria, Nathan killed. Harrad dissolves.
+           Common Calendar resets to year 0.
+Year 2190: Cyrus Graymist dies (age 86). Tomb near Jorvik. Staff believed
+           still there.
+
+--- 3RD EPOCH (AW = AFTER WAR) ---
+116 AW:  Valindra and Cyran, young Plains Elves from a nomadic settlement near
+         a small lake in Ellendale, drown when their boat fails far from shore.
+         Neither were strong swimmers. Cyran does not remain. Valindra's spirit
+         inhabits the lake. The nomadic settlement moves on shortly after. The
+         lake eventually becomes known as Valindra's Torment.
+244 AW:  Aer'Raenal Liaphyra born (Wood Elf).
+333 AW:  Degeric Cent born (Hillfolk human).
+347 AW:  Mya Li born (Caldalus, Faelyn). Aer'Raenal is 103 at her birth.
+352 AW:  Diquyk Lockwood born (central Alios, Hillfolk).
+354 AW:  Maeglin Leralonde born (High Elf, T'sarra).
+355 AW:  Tarik Bolden born.
+357 AW:  Phelloden Liaphyra born. Aer'Raenal is 113 at his birth.
+366 AW:  Diquyk kills parents and town guards with blue flame (age 14). Taken
+         in by Degeric Cent, paladin of Angellia, who knew the family and was
+         among those who came running at the disturbance.
+369 AW:  Galstaff Quint born (human).
+372 AW:  Grimmon Herringer born (Iron Dwarf).
+~376 AW: Diquyk parts from Degeric — a mutual recognition that his potential
+         was larger than his small town. Degeric points him toward a region of
+         rumored Olum activity — nest hunting — as direction for the next
+         chapter of his life. TENTATIVE — specific region undeveloped. Begins
+         creating Jaunt Gates.
+379-381 AW: Diquyk visits Degeric one last time — still pre-corruption.
+             Degeric dies 381 AW (age 48). Never knew what his student became.
+383 AW:  Diquyk, drawn by curiosity to the Burnt Plains — a patch of dead earth
+         receiving normal rainfall yet supporting no life, an unnatural anomaly
+         in the fertile terrain of central Kimora — investigates. The Abaculus
+         senses his power and guides him to the hidden entry point among the
+         battlefield debris. Corrupted on contact. Leaves the Burnt Plains
+         immediately after corruption.
+383-387 AW: Diquyk recruits the two forces that will prosecute the Elf War.
+         Visits Stone Giants of the Tempest Peaks first — demonstrates
+         overwhelming magical power, offers plunder and the riches of Faelyn,
+         promises to return with additional forces. Then travels to The Deep
+         and recruits the Dark Elves, equipping them with magical and enchanted
+         weapons. Places Jaunt Gates near both locations. Directs operations
+         from between the two kingdoms throughout the early war years.
+385 AW:  Balric Silverfox born (human).
+386 AW:  Tarik Bolden takes the throne of Kimora at age 31. Immediately begins
+         raiding villages and enslaving populations.
+387 AW:  Gralvin Sutton born. Elf War begins. Dark Elf and Stone Giant forces
+         begin a two-front assault on Faelyn — mixed units probing from the
+         north through the Tempest Peaks and from the east out of The Deep.
+         Mya Li joins the militia at age 40, prompted by word of Stone Giant
+         attacks on the outskirts of Faelyn. Kharis Ailwin joins at essentially
+         the same time — among the survivors of a Stone Giant attack on a Wood
+         Elf village, his family killed in that attack.
+389 AW:  Galstaff begins traveling at age 20. Discovers Nexus on Myst.
+         Reads Diquyk's records. Learns to safely use the Jaunt Gates.
+392 AW:  Diquyk makes his first major push on the Wood Elves. First large
+         encounter — Mya's most crushing defeat. Kharis Ailwin killed alongside
+         several others under her command. Mya reports back. Aer'Raenal urges
+         Mya to seek out Adomorn. Adomorn, based on Mya's account, suspects
+         Diquyk is a Magni — but does not anticipate how far his powers have
+         developed. Mya returns to Faelyn with Adomorn. A council of war —
+         Aer'Raenal, Adomorn, Mya, and Faelyn's tacticians and strategists —
+         decides to abandon the defensive posture and go on the offensive. Mya
+         volunteers to lead the attack and calls openly for volunteers rather
+         than selecting a unit. Ten come forward, all understanding it is
+         likely a suicide mission. Marauders formed (10 total). Mya leads 8
+         Marauders into The Deep as a deliberate decoy force. Adomorn takes 2 Marauders
+         through a Jaunt Gate deep within Dark Elf territory, putting them to
+         sleep for transit, to flank from behind. Diquyk senses the gate
+         transit and is tipped off. Diquyk intercepts Adomorn's spells and
+         redirects them as blue flame, killing multiple Marauders. Mya defeats
+         and kills Shedyak, acquires the Bow of the Dales. When Mya and Adomorn
+         switch to physical combat, cutting off Diquyk's fuel supply, a barrier
+         goes up around him — near-reflexive, the body's answer to a beating
+         that had nearly killed him. Adomorn tears open a doorway into the
+         banishment plane. Diquyk, too physically broken to react, fails to
+         intercept it, and the two push him through still sealed inside his own
+         shell. Adomorn closes it behind him. All 10 Marauders dead. Only Mya and Adomorn survive
+         the battle itself. TENTATIVE: Adomorn, badly wounded, dies shortly
+         after banishing Diquyk — eventually rematerializes at Atral. Mya,
+         unaware of his true nature, believes him dead. Diquyk banished to a
+         separate physical parallel world where time moves more slowly. He is
+         40 years old at banishment.
+394 AW:  Gralvin's village destroyed by Tarik (age 7). Taken as gladiatorial slave.
+399 AW:  Bor Glitterbeard born (Iron Dwarf, Fardar).
+408 AW:  Gralvin (21) and Balric (23) escape together. Directed to Valeria.
+         Gralvin and Valeria become friends, then lovers. Gralvin and Balric
+         choose to stay and help her network.
+~408-412 AW: Grimmon Herringer travels to Ellendale then Faelyn. Plains Elf
+             emissary accompanies Grimmon to Faelyn. Grimmon tells Aer'Raenal
+             and Mya firsthand stories of Tarik's atrocities. Mya volunteers
+             to help. Aer'Raenal dispatches her.
+413 AW:  Mya arrives at Valeria's — pointed there by the same network.
+         Everything crystallizes. Simultaneous strikes by Plains Elves and
+         Herringers across Kimora. Tarik overthrown and killed. Valeria dies
+         in the final battle. Gralvin takes the throne at age 26. Iron Dwarves
+         freed and return to Fardar. Grimmon Herringer (age 41) present.
+427 AW:  Diquyk returns to Lanamyr through the Nexus on Myst, having spent
+         approximately 1 subjective year in the banishment plane while 35
+         years passed in Lanamyr. Physically aged to approximately 41 despite
+         being 75 by Lanamyr reckoning. Finds his former work on Myst abandoned
+         or gone. Brief flicker of hurt and fear before Abaculus redirects it.
+         Returns to Burnt Plains. Begins working toward Greyhawk's resurrection.
+429 AW:  Grimmon Herringer killed by Orc raiders (instruments of the Kimora
+         framing operation). Age 57. Bor obtains the map from Grimmon's
+         belongings.
+430 AW:  Adenburry sinkhole event. Subterranean Creatures of Olum breach the
+         town. Wilward's airship catches fire and tears in half. Bor and
+         Qenwick, traveling overland from Fardar, are also present. The group
+         fights together and exterminate the nest. Alexa eventually makes her
+         way to Broldendul. Wilward stays in Adenburry to help rebuild. Maeglin,
+         Bor, Skitter, and Qenwick travel together to inform Herringer members
+         across Kimora of Grimmon's death. Qenwick returns to Fardar after.
+432 AW:  PRESENT DAY. Diquyk (80 by Lanamyr reckoning, physically ~46) pursues
+         Greyhawk's resurrection via Karma at the Burnt Plains. Mya Li (age 85)
+         adventures with Balric Silverfox. Maeglin (age 78), Bor (age 33), and
+         Skitter travel together pursuing the lost kingdom. Adomorn at Tower of
+         Grannel. Gralvin (age 45) rules Kimora. Galstaff Quint (age 63)
+         travels. Aer'Raenal (age 188) rules Faelyn. Estefania (age 23) lives
+         somewhere on Alios. Qenwick in Fardar. Wilward in Adenburry rebuilding.
+         Alexa leads Four Crowns in Broldendul. Elsie (age 53) and Alita (age
+         24) Varis run the Monowi Inn. A Relic of Creation sits in a glass vial
+         around a Kobold's neck. Valindra walks the shore of her lake.
+
+================================================================================
+END OF LANAMYR KINGDOMS & HISTORY — v008
+================================================================================

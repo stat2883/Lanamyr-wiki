@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — RACES — v007
+LANAMYR WORLD BIBLE — RACES — v008
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -86,7 +86,17 @@ Most closely resembled present-day dragons but larger and more powerful.
 Capable of flight. Intelligent and capable of magic, but not to the extent of
 the Drasu. Central heartland in the Black Mountains of Fardar (Draak Territory).
 The potential for both good and evil existed within the Draak — same as Drasu.
-Split into dragons, dragonborne, wyrms, kobolds, and other types.
+Split into fifteen descendant races: Dragons; three Drakes (Ice, Deep, Ember);
+three Wyrms (Great, Proto, Aquatic); four Dragonborne (Gold, Silver, Cobalt,
+Obsidian); and four Kobolds (Mystic, Tunneler, Hardback, Scavenger). The first
+seven are collectively DRAGON-KIND — see the DRAGON-KIND section below.
+THE WARDEN ROLE (confirmed in principle, framework not yet built): the Draak
+were not merely monitors of the Abaculus by agreement — their custodianship of
+it appears to be the Draak-side counterpart to the Drasu caretaker mandate, and
+it fractured at the Sundering as the caretaker mandate did. The strongest
+confirmed expression of it is the Ember Drake drive to hunt Creatures of Olum.
+What the other fourteen races carry of it, and whether it behaves as a Class
+One or Class Two inheritance, is the NEXT MAJOR BUILD. See Open_Questions.
 The Draak were active, willing participants in monitoring and protecting the
 Abaculus during its first hiding place in the Black Mountains — lending their
 physical strength, flight, and magical abilities to that purpose. Their
@@ -114,7 +124,13 @@ RACES — CONFIRMED ORIGIN LOCATIONS
 ================================================================================
 
 DRAAK ANCESTRY:
-- Dragons: Descended from Draak after the Sundering
+- Dragons: ORIGIN UNDEVELOPED. See DRAGON-KIND below.
+- Drakes — Ice: ORIGIN UNDEVELOPED
+- Drakes — Deep: ORIGIN UNDEVELOPED
+- Drakes — Ember: ORIGIN UNDEVELOPED
+- Wyrms — Aquatic: ORIGIN UNDEVELOPED. Aquatic; see note below.
+- Wyrms — Proto: ORIGIN UNDEVELOPED
+- Wyrms — Great: ORIGIN UNDEVELOPED
 - Dragonborne — Cobalt: Desolate Tops, central Utoa
 - Dragonborne — Gold: Eastern peninsula of Alios near Westwind Mountains
 - Dragonborne — Obsidian: Inland swamps of southwestern Alios
@@ -173,7 +189,12 @@ Frost Giants, Hill Giants, Ogres, Swamp Giants
 
 RACES WITH NO ORIGIN LOCATION ESTABLISHED:
 Trolls — Forest, Moss, Desert (Mountain Troll origin confirmed below),
-Humans (Shepherds and Water Whisperers origins now confirmed above)
+Humans (Shepherds and Water Whisperers origins now confirmed above),
+ALL SEVEN DRAGON-KIND RACES — Dragons, the three Drakes, the three Wyrms.
+Deliberately deferred in v008 rather than overlooked; to be set in a later
+session and added to Lanamyr_Sundering.jpg at that time. Note that the Aquatic
+Wyrms will be the first race in Lanamyr to require a marine or coastal-shelf
+origin point — every origin placed on the Sundering map so far is terrestrial.
 
 MOUNTAIN TROLL ORIGIN (confirmed):
 Troll's Breath Mountains, just south of the ruins of Atral and the Waywin
@@ -393,8 +414,258 @@ Gnomes — Cave          | 3'6"     | 3'6"     | Lean, Slender      | Pale      
 Gnomes — Rock          | 3'7"     | 3'7"     | Thick              | Variety                    | Variety                | Variety                    | Eugali
 Gnomes — Desert        | 3'8"     | 3'8"     | Average            | Brownish-gold              | Red, Light brown       | Oranges, Yellows           | Jagati
 
-RACES NOT YET IN TABLE: Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls,
-Dragons — to be developed in future sessions.
+RACES NOT YET IN TABLE: Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls
+— to be developed in future sessions.
+DRAGON-KIND ARE NOT IN THIS TABLE AND WILL NOT BE. Its columns — male and
+female height, skin tone, hair, eyes — do not describe them. The seven
+dragon-kind races have their own reference table in the DRAGON-KIND section
+below, built on length, wingspan, lifespan, intelligence, magic and flight,
+and deliberately not separated by gender.
+
+================================================================================
+DRAGON-KIND — DRAGONS, DRAKES AND WYRMS
+================================================================================
+
+Built in v008. SUPERSEDES the former "DRAGONS — FACTIONS AND TYPES" section of
+the Characters & Items file in its entirety — the Chromatic and Metallic
+factions, the ranked colour lists with population percentages, the per-colour
+breath weapons, terrain assignments and personality stereotypes are all
+DISCARDED. None of it is to be reintroduced without a deliberate decision.
+
+Dragon-kind are Draak-descended and divide into THREE TIERS. The tiers are a
+matter of form and scale, not of rank, and all seven are distinct races in the
+Sundering count — one Draak produced one of each, exactly as on the Drasu side.
+See Overview_Cosmology, POPULATION AT THE SUNDERING.
+
+  DRAGONS — the full form. Four limbs, wings, scaled, capable of true sustained
+    flight. The largest of all Draak-descended races. The bare noun belongs to
+    this tier; every other dragon-kind race carries a qualifier.
+  DRAKES — the same general form at roughly half scale or less. Three races.
+  WYRMS — serpentine. Three races, two of them limbless or near enough.
+
+MORALITY: the full moral spectrum of the Draak passed to every one of these
+races, as it did to every Drasu-descended race. Good and evil exist within all
+seven. No tier, species or colour is inherently either. See Overview_Cosmology,
+THE SUNDERING.
+
+SOCIALITY SCALES INVERSELY WITH SIZE across the dragon tier and the drakes: the
+larger the race, the more solitary it tends to be, with Dragons the least
+communal and Ember Drakes the most. Whether this principle extends to the
+Wyrms is UNDEVELOPED — note that Aquatic Wyrms are recorded as very territorial
+at a middling 45 feet, which may or may not sit inside the same pattern.
+
+DIET: all seven are omnivore-carnivores feeding on whatever is native to their
+region. Specifics are deliberately undeveloped.
+
+INTELLIGENCE RATINGS below are RELATIVE TO OTHER DRAGON-KIND, not to the races
+of Lanamyr generally, and are general qualifiers only. Individual variance
+exists in all of these traits.
+
+DRAGON-KIND REFERENCE TABLE:
+Race            | Length | Wingspan | Lifespan | Intelligence  | Magic    | Flight
+----------------|--------|----------|----------|---------------|----------|---------------------
+Dragons         | 85 ft  | 100 ft   | 1500     | High          | High     | True sustained
+Drakes — Ice    | 40 ft  | 50 ft    | 700      | Moderate      | Moderate | True sustained
+Drakes — Deep   | 35 ft  | none     | 600      | Average       | Minimal  | None
+Drakes — Ember  | 20 ft  | 25 ft    | 400      | Above average | Minor    | Light sustained
+Wyrms — Great   | 75 ft  | 50 ft    | 1200     | High          | Moderate | Spring and glide only
+Wyrms — Proto   | 60 ft  | none     | 600      | Minimal       | None     | None
+Wyrms — Aquatic | 45 ft  | none     | 900      | Moderate      | Minor    | None (swims)
+
+Lengths are adult averages, nose to tail. Life stage breakdowns for all seven
+live in Overview_Cosmology — cross-check both when either changes.
+
+ON THE WINGSPANS (author's note, not in-world): spans were set to match each
+race's described flight capability rather than derived from a single ratio,
+because flight does not scale linearly. A Dragon at 85 feet with a 100-foot
+span is the benchmark for true flight, fixed by Greyhawk's confirmed
+measurements. Ice Drakes hold the same proportion at half scale and fly as
+well. Ember Drakes carry a comparable proportion on a far smaller frame, which
+would make them superb flyers but for a thick, heavy, alligator-like build that
+loads those wings far more than a lean dragon's — the result is genuine
+sustained flight that is laboured, short-ranged and low rather than soaring.
+Great Wyrms are the deliberate failure case: a 50-foot span on a 75-foot
+serpentine body is nowhere near enough wing for that mass, which is precisely
+why they must coil and spring for height and can only glide down from it.
+
+--------------------------------------------------------------------------------
+DRAGONS
+--------------------------------------------------------------------------------
+Length 85 ft. Wingspan 100 ft. Lifespan 1500 years. Growth stops at
+approximately 500 years. The largest of all Draak-descended races.
+Four limbs, wings, scaled, capable of true sustained flight.
+Highly intelligent and highly magical — the strongest magical capacity of any
+dragon-kind race, within the Draak ceiling (the Draak held a lesser mastery of
+magic than the Drasu; see Overview_Cosmology).
+Language: dragons have their own tongue and can learn others if they choose.
+Greyhawk is confirmed to have learned many. Like all Draak-descended languages
+it sits entirely outside the Drasian language family. Name of the tongue:
+UNDEVELOPED.
+The least communal of the dragon-kind.
+
+NO BREATH WEAPONS. Dragons do not breathe fire, acid, ice, lightning or gas.
+This is a deliberate departure and applies to the whole tier. The only
+chemical weapon anywhere in dragon-kind belongs to the Deep Drakes and is a
+pair of glands rather than a breath (see below).
+
+COLOUR: many varieties exist across the chromatic and metallic range. Colour is
+ordinary individual variation and carries NO moral, factional, elemental,
+territorial or power implication whatsoever. Specific colours are to be
+developed as stories require them. Population proportions are deliberately
+unrecorded.
+Greyhawk is black with a glossy sheen; Karma is gold. Both are confirmed.
+
+--------------------------------------------------------------------------------
+ICE DRAKES
+--------------------------------------------------------------------------------
+Length 40 ft. Wingspan 50 ft. Lifespan 700 years.
+White and silver. The same general form as Dragons — four limbs, wings, scaled,
+true sustained flight — at roughly half the size.
+Moderate intelligence and moderate magical ability.
+Not particularly aggressive. They sleep and hibernate for long stretches
+between large feedings, which shapes their whole pattern of life.
+Language: UNDEVELOPED. Whether they have one at all is undecided.
+
+--------------------------------------------------------------------------------
+DEEP DRAKES
+--------------------------------------------------------------------------------
+Length 35 ft. No wings. Lifespan 600 years. Found underground.
+Black, or shades of blue and purple. Four powerful limbs built for digging and
+climbing. Average intelligence with a marked proclivity for DECEPTION AND
+TRAP-SETTING — they arrange an ambush rather than run anything down.
+Minimal magical ability.
+
+EYES: abnormally large, cloudy and pale. Consistent with the established
+Lanamyr convention for subterranean races — compare Dark Elf cloudy irises and
+the large pale yellow-white eyes of Cave Gnomes.
+
+TEETH: a row of needle-like teeth angled backward, so that anything caught in
+the bite tears itself open attempting to escape. The bite punishes struggle.
+
+THE GLANDS — THE ONE CHEMICAL WEAPON IN DRAGON-KIND: two separate glands inside
+the mouth each squirt a different chemical. Neither is dangerous alone. Combined
+on contact with the target they produce a burning, acidic effect. This is NOT a
+breath weapon and should not be written as one; it is a sprayed binary reaction.
+AUTHOR'S CALIBRATION NOTE, not in-world prose: the mechanism is the bombardier
+beetle's, which stores its reagents separately and combines them only on use —
+the separation is what lets the animal carry a weapon that cannot harm it.
+
+CAMOUFLAGE: exceptional, and it works on two axes rather than one. Deep Drakes
+change the COLOUR of their hide and also its TEXTURE, raising and flattening
+the surface to match stone, rubble or smooth rock.
+AUTHOR'S CALIBRATION NOTE, not in-world prose: cuttlefish and octopus rather
+than chameleon — chromatophores for colour, muscular papillae for texture.
+
+REGENERATION: Deep Drakes regrow lost limbs.
+
+CONSEQUENCE — WHAT THIS ANIMAL ACTUALLY IS: a 35-foot ambush predator that can
+disappear against rock by colour and texture, bites so that escape causes more
+damage, sprays a scalding caustic, and grows back whatever is taken off it.
+Nothing about it is built for pursuit and very little about it is easy to kill.
+OPEN AND SIGNIFICANT: Lanamyr's underworld is crowded — The Deep beneath the
+Tarantars, Cave Gnomes beneath the same range, Tunneler Kobolds in the eastern
+Black Mountains, Mountain Troll caverns running into the ruins of Atral, and
+the Olum cavern that destroyed Nusul. Whether Deep Drakes are a known terror to
+those peoples or something rarely seen and half-believed is UNDEVELOPED. See
+Open_Questions.
+Language: UNDEVELOPED.
+
+--------------------------------------------------------------------------------
+EMBER DRAKES
+--------------------------------------------------------------------------------
+Length 20 ft. Wingspan 25 ft. Lifespan 400 years — the shortest-lived of all
+dragon-kind. The smallest and the most communal.
+Build is thick and powerful with very strong jaws — wings on an alligator
+rather than a scaled-down dragon. Moderately sized wings giving light sustained
+flight: better than the Great Wyrms' spring-and-glide, well short of a Dragon's.
+Above average intelligence.
+Minor magical ability, centred mostly on protecting themselves.
+A HUNTER'S SENSES: keen eyesight and a keen sense of smell.
+NOT HOSTILE to other intelligent races, but will not hesitate to defend
+themselves.
+
+COLOUR — THE NAME HAS TWO MEANINGS: the hide is mostly covered in raised bumps
+giving it heavy texture. The tops of the bumps run gray to black while the
+lower gaps between them are shades of red, orange and brown. At a distance the
+effect is a bed of burning coals. The name describes the colouring and the
+function at once, and only the colouring is obvious on first hearing.
+
+THEY HUNT CREATURES OF OLUM. This is the defining fact of the race. It is
+innate rather than learned — a drive carried in the blood to seek out and
+destroy Olum wherever they find them.
+WHY THIS IS NOT FEEDING: Creatures of Olum are not truly living. They are
+manifestations of death and they dissolve into harmless black dust when killed
+(see Overview_Cosmology). There is nothing to eat. Ember Drakes therefore hunt
+ordinary prey for sustenance and hunt Olum for a reason that has nothing to do
+with food.
+THE REASON — THE WARDEN INHERITANCE (confirmed in principle, framework not yet
+built): the Ember Drake drive against Olum is the STRONGEST EXPRESSION of a
+Draak warden inheritance, the Draak-side counterpart to the Drasu caretaker
+mandate. The Draak spent roughly twelve centuries actively monitoring and
+protecting the Abaculus in the Black Mountains, and Creatures of Olum exist to
+destroy life in order to thin the ambient field that masks it. An Ember Drake
+killing Olum is defending that concealment without the faintest idea that it is
+doing so. The broader framework — what the warden inheritance is, how it
+fractured, what the other six dragon-kind races and the dragonborne and kobolds
+carry of it, and whether it behaves as a Class One or Class Two inheritance —
+is the NEXT MAJOR BUILD and is recorded in Open_Questions.
+Language: UNDEVELOPED, though above average intelligence and the most communal
+habits of any dragon-kind make a shared tongue close to implied. How large an
+Ember Drake community actually is: UNDEVELOPED.
+
+--------------------------------------------------------------------------------
+WYRMS — GENERAL
+--------------------------------------------------------------------------------
+Serpent-like in form. Three races. Wyrms are a separate branch of dragon-kind
+and the word WYRM must not be used for any dragon or drake subtype.
+
+NOTE ON THE FOUNDING GENERATION: at 1200 years and below, no wyrm race retains
+any individual who woke at the Sundering. Roughly 2,597 years have passed by
+432 AW, so between two and six generations have come and gone depending on the
+race. Whatever the wyrms inherited, they have had many generations to forget
+how they came by it.
+
+--------------------------------------------------------------------------------
+GREAT WYRMS
+--------------------------------------------------------------------------------
+Length 75 ft — the longest of the wyrms. Wingspan 50 ft. Lifespan 1200 years.
+Slightly longer limbs than the Proto Wyrms, and WINGED.
+FLIGHT IS SHORT-DURATION ONLY: they coil and spring upward to gain height, then
+descend in a controlled glide. Wing surface area is nowhere near sufficient to
+sustain a body of that size in prolonged flight.
+Highly intelligent. Moderate magical ability.
+Colouring is vivid — reds, golds and silvers.
+LANGUAGE: Great Wyrms have their own tongue. Name and character UNDEVELOPED.
+Like all Draak-descended languages it stands outside the Drasian family.
+
+TENTATIVE AND UNRESOLVED — KARMA: the user is considering making Karma
+(Karmarukyntin) a Great Wyrm rather than a Gold dragon. His gold colouring sits
+comfortably in the Great Wyrm range. NOT DECIDED. See Characters & Items and
+Open_Questions for the age arithmetic and the Battle of Rohl pursuit problem
+this would raise.
+
+--------------------------------------------------------------------------------
+PROTO WYRMS
+--------------------------------------------------------------------------------
+Length 60 ft. No wings. Lifespan 600 years. Land-based.
+Four short limbs. NO magical ability whatsoever — the only dragon-kind race
+with none at all.
+THE LEAST INTELLIGENT AND MOST ANIMALISTIC of all Draak-descended races.
+Colouring runs in a variety of hues, mostly greens, browns and grays.
+Language: presumed none. UNDEVELOPED.
+
+--------------------------------------------------------------------------------
+AQUATIC WYRMS
+--------------------------------------------------------------------------------
+Length 45 ft. Lifespan 900 years. Essentially giant eels — no limbs, no wings.
+PROPULSION: a single long fin runs the length of each side. The fin ripples in
+a travelling wave to drive the wyrm forward, and reversing the direction of the
+wave lets it swim backwards with equal facility.
+Colouring runs through various shades of blue and green.
+Moderate intelligence. Very territorial.
+Minor magical ability, including TELEPATHIC COMMUNICATION with other Aquatic
+Wyrms. Whether that telepathy reaches other wyrms or only their own race, and
+whether they also possess a spoken tongue, is UNDEVELOPED.
 
 ================================================================================
 KOBOLD SUBTYPES
@@ -1026,5 +1297,5 @@ hue. Hair and eyes run in darker tones as well.
 Native language: Enaric.
 
 ================================================================================
-END OF LANAMYR RACES — v007
+END OF LANAMYR RACES — v008
 ================================================================================

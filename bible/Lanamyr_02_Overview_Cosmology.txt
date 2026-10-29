@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OVERVIEW & COSMOLOGY — v007
+LANAMYR WORLD BIBLE — OVERVIEW & COSMOLOGY — v008
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -173,17 +173,21 @@ the Drasu population at the moment of the Sundering IS the founding population
 of every Drasu-descended race. The same holds for the Draak.
 
 There are 32 Drasu-descended races (4 dwarf subtypes, 6 elf, 5 gnome, 4 human,
-orcs, 3 goblin, 5 giantkin, 4 troll) and 10 Draak-descended races (dragons,
-4 dragonborne, 4 kobold, wyrms). One Drasu therefore became 32 individuals and
-one Draak became 10. The Sundering multiplied the sapient population of Lanamyr
-roughly thirty-two-fold overnight — a fact no living race is aware of.
+orcs, 3 goblin, 5 giantkin, 4 troll) and 15 Draak-descended races (dragons,
+3 drake, 3 wyrm, 4 dragonborne, 4 kobold). One Drasu therefore became 32
+individuals and one Draak became 15. The Sundering multiplied the sapient
+population of Lanamyr roughly thirty-two-fold overnight — a fact no living race
+is aware of.
+REVISED IN v008: the Draak count was 10, with dragons and wyrms each counted as
+a single race. Dragons were split into Dragons and three Drakes, and Wyrms into
+three races, bringing the Draak side to 15. See Races, DRAGON-KIND.
 
 CONFIRMED FIGURES:
 - Drasu at the Sundering: approximately 5,000. Each Drasu-descended race
   therefore began with approximately 5,000 individuals, for a total of roughly
   160,000 Drasu-descended beings worldwide.
 - Draak at the Sundering: approximately 300. Each Draak-descended race began
-  with approximately 300 individuals, for a total of roughly 3,000.
+  with approximately 300 individuals, for a total of roughly 4,500.
 
 These figures are consistent with a long-lived, low-fertility Drasu population
 holding a modest territory on northern Edura with a single great city, and they
@@ -192,12 +196,33 @@ most of Lanamyr as wild and untamed. They are a fixed point: any future
 development of the 1st Epoch must work backward to them rather than overwrite
 them.
 
-CONSEQUENCE FOR DRAGONS: at roughly 300 Draak, approximately 300 dragons came
-into being at the Sundering. Dragons live 3,000 years and only about 2,597 have
-passed by 432 AW, so the dragons born in the Sundering are still alive in the
-present day, now elderly. Apart from Adomorn, they are the only living beings
-who were there. Greyhawk (born 658, 2nd Epoch) and Karma (born 925, 2nd Epoch)
-are both later-born and are NOT of this first generation.
+CONSEQUENCE FOR DRAGON-KIND: at roughly 300 Draak, approximately 300 of each
+dragon-kind race came into being at the Sundering.
+
+REVISED IN v008 — THE FOUNDING GENERATION IS GONE. The dragon lifespan was
+reduced from 3,000 years to 1,500. Under the old figure the Sundering-born
+dragons were still alive in 432 AW and were, apart from Adomorn, the only
+living beings who had been there. That is NO LONGER TRUE of any race in
+Lanamyr. Roughly 2,597 years have passed since the Sundering, so the founding
+generation of dragons aged out around year 1500 of the 2nd Epoch, about eleven
+centuries before the present day. Every other dragon-kind race is shorter-lived
+still and aged out earlier. Adomorn is once again the sole living witness to the
+Sundering, as he is the sole surviving Drasu.
+
+WHAT THIS BUYS — THE DRAGON WARS SIT EXACTLY ON THE HANDOVER. The Dragon Wars
+run 1206–1214 of the 2nd Epoch. Against a 1,500-year span the dragons who woke
+at the Sundering are 1,206 to 1,214 years old precisely then — crossing out of
+middle age and into elderly (which begins at 1200) as the war breaks out. The
+last generation that woke whole fought its final war as it aged out, and the
+first wholly post-Sundering generations inherited the world immediately
+afterward. This arrived by arithmetic rather than design and is a far better
+engine for that war than the discarded colour-faction framework. HOW MUCH OF IT
+IS USED IS UNDEVELOPED. See Open_Questions.
+
+Greyhawk (born 658, 2nd Epoch) and Karma (born 925, 2nd Epoch) are both
+later-born and are NOT of the first generation. Both predate the Dragon Wars
+and would have been adults during them — Greyhawk roughly 548 to 556 years old,
+Karma roughly 281 to 289. What either did in that conflict is UNDEVELOPED.
 
 Because the full moral spectrum of the Drasu and Draak was preserved through
 this fracturing — including those who were evil — all descendant races carry the
@@ -283,7 +308,10 @@ Snow Elves: 280 | Dark Elves: 280 | Sea Elves: 500
 Kobolds — Mystics: 50 | Tunnelers: 40 | Scavengers: 35 | Hardbacks: 40
 Goblins — Screechers: 15 | Marsh Goblins: 30 | Feral Goblins: 20
 Gold Dragonborne: 350 | Cobalt Dragonborne: 310 | Silver Dragonborne: 290
-Obsidian Dragonborne: 320 | Dragons: 3000
+Obsidian Dragonborne: 320
+Dragons: 1500 (REVISED in v008 from 3000)
+Drakes — Ice: 700 | Deep: 600 | Ember: 400
+Wyrms — Great: 1200 | Proto: 600 | Aquatic: 900
 Giantkin — Stone Giants: 50
 
 Elves have FINITE lifespans — not immortal. Elderly elves exist in the world.
@@ -291,7 +319,8 @@ Screecher Goblins at 15 years are the shortest-lived race in all of Lanamyr.
 
 LIFESPANS NOT YET ESTABLISHED: Orcs, Magni (follows base race), Giantkin
 subtypes other than Stone Giants (Frost Giants, Hill Giants, Ogres, Swamp
-Giants), Troll subtypes, Humans (Shepherds, Water Whisperers), Wyrms.
+Giants), Troll subtypes, Humans (Shepherds, Water Whisperers).
+Ember Drakes at 400 years are the shortest-lived of all dragon-kind.
 
 LIFE STAGE PERCENTAGES (apply proportionally to all races):
 Childhood: 0–17%
@@ -329,7 +358,13 @@ Gold Dragonborne (350):  Childhood 0–60  | Young adult 60–87  | Repro 70–1
 Cobalt Dragonborne (310):Childhood 0–53  | Young adult 53–77  | Repro 62–155  | Prime 77–186  | Middle age 186–248 | Elderly 248–310
 Silver Dragonborne (290):Childhood 0–49  | Young adult 49–72  | Repro 58–145  | Prime 72–174  | Middle age 174–232 | Elderly 232–290
 Obsidian Dragonborne(320):Childhood 0–54 | Young adult 54–80  | Repro 64–160  | Prime 80–192  | Middle age 192–256 | Elderly 256–320
-Dragons (3000):          Childhood 0–510 | Young adult 510–750| Repro 600–1500| Prime 750–1800| Middle age 1800–2400| Elderly 2400–3000
+Dragons (1500):          Childhood 0–255 | Young adult 255–375| Repro 300–750 | Prime 375–900 | Middle age 900–1200| Elderly 1200–1500
+Drakes — Ice (700):      Childhood 0–119 | Young adult 119–175| Repro 140–350 | Prime 175–420 | Middle age 420–560 | Elderly 560–700
+Drakes — Deep (600):     Childhood 0–102 | Young adult 102–150| Repro 120–300 | Prime 150–360 | Middle age 360–480 | Elderly 480–600
+Drakes — Ember (400):    Childhood 0–68  | Young adult 68–100 | Repro 80–200  | Prime 100–240 | Middle age 240–320 | Elderly 320–400
+Wyrms — Great (1200):    Childhood 0–204 | Young adult 204–300| Repro 240–600 | Prime 300–720 | Middle age 720–960 | Elderly 960–1200
+Wyrms — Proto (600):     Childhood 0–102 | Young adult 102–150| Repro 120–300 | Prime 150–360 | Middle age 360–480 | Elderly 480–600
+Wyrms — Aquatic (900):   Childhood 0–153 | Young adult 153–225| Repro 180–450 | Prime 225–540 | Middle age 540–720 | Elderly 720–900
 Giantkin — Stone (50):   Childhood 0–8   | Young adult 8–12   | Repro 10–25   | Prime 12–30   | Middle age 30–40   | Elderly 40–50
 
 STONE GIANT GROWTH: Stone Giants are born large and grow quickly, reaching
@@ -337,7 +372,12 @@ adult size far earlier in proportion to their lifespan than most races. A
 Stone Giant is physically formidable well before it is socially an adult.
 
 DRAGON PHYSICAL GROWTH:
-Dragons stop growing in physical size at approximately 1000 years of age.
+Dragons stop growing in physical size at approximately 500 years of age.
+REVISED in v008. The figure was 1000 against a 3000-year lifespan, and was
+rescaled proportionally when the lifespan was reduced to 1500 — a third of the
+span in both cases, landing just inside prime either way.
+GROWTH-STOP AGES FOR THE OTHER SIX DRAGON-KIND RACES: UNDEVELOPED. To be set as
+needed rather than derived automatically.
 
 VARIANCE — RAYLEIGH-SHAPED DISTRIBUTION:
 The stated averages are near the LOW END of the distribution, not the midpoint.
@@ -569,6 +609,15 @@ like natural armor.
 Age into large tentacled pack leaders that form birthing chambers. Dissolve to
 harmless black dust on death.
 
+A STANDING PREDATOR (added v008): EMBER DRAKES hunt and kill Creatures of Olum
+by innate drive. Because Olum are not truly living and leave nothing but black
+dust, there is no meal in it — the drakes feed on ordinary prey and hunt Olum
+for a reason unconnected to food. This is the strongest confirmed expression of
+the Draak warden inheritance, and it means something in Lanamyr has been
+working against Olum continuously and without understanding why. Wherever Ember
+Drakes have been at work there are drifts of fine black dust and nothing else.
+See Races, DRAGON-KIND, and Open_Questions.
+
 ================================================================================
-END OF LANAMYR OVERVIEW & COSMOLOGY — v007
+END OF LANAMYR OVERVIEW & COSMOLOGY — v008
 ================================================================================

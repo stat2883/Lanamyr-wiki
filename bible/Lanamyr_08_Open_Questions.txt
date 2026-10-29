@@ -1,5 +1,5 @@
 ================================================================================
-LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v007
+LANAMYR WORLD BIBLE — OPEN QUESTIONS / UNDECIDED LORE — v008
 Present day: 432 AW — 3rd Epoch
 ================================================================================
 
@@ -14,6 +14,24 @@ mentioned in multiple places (e.g. a character entry and a story outline).
 ================================================================================
 NEXT SESSION — REQUESTED BY THE USER
 ================================================================================
+
+STATUS AFTER v008: the user left western Alios entirely and rebuilt DRAGON-KIND
+from the ground up, with the explicit goal of removing material inherited from
+Dungeons & Dragons and Forgotten Realms. Dragons were split from one race into
+seven across three tiers, the Chromatic/Metallic framework was discarded, breath
+weapons were removed from the world, and the dragon lifespan was halved. A Draak
+WARDEN INHERITANCE was established in principle. See DRAGON-KIND, BUILT IN v008
+below.
+
+THE NEXT MAJOR BUILD IS THE WARDEN INHERITANCE, which the user has confirmed in
+principle but not yet framed. See its own section below.
+
+AGE AND TIMELINE FALLOUT FROM v008 IS DELIBERATELY UNRESOLVED and must be
+settled before anything is built on Greyhawk, Karma or the Dragon Wars. See
+DRAGON AGE AND TIMELINE FALLOUT below.
+
+SKY GNOMES, PLAINS ELVES and ICE DWARVES (years 0–221) remain untouched and are
+still standing targets, as are all the western Alios threads listed under v007.
 
 STATUS AFTER v007: the user again chose to stay in western Alios and built THE
 FOUNDING OF FAELYN — the origin of the Wood Elf crown, Keerla Ervyre, the
@@ -63,6 +81,145 @@ but not permanent; resolve conflicts case by case.
 ================================================================================
 OPEN QUESTIONS / UNDECIDED LORE
 ================================================================================
+
+DRAGON-KIND — BUILT IN v008:
+- RESOLVED: dragons are no longer one race. Dragon-kind now comprises SEVEN
+  races in THREE TIERS — DRAGONS (the full form, bare noun, largest of all
+  Draak-descended races); DRAKES (Ice, Deep, Ember); and WYRMS (Great, Proto,
+  Aquatic). Full entries and a reference table are in Races, DRAGON-KIND.
+- RESOLVED: the Draak-descended race count rises from 10 to 15 and the
+  Draak-descended population at the Sundering from roughly 3,000 to roughly
+  4,500. This was the point — the user opened the session noting the imbalance
+  against 32 Drasu-descended races. 32 against 15 is the new ratio.
+- RESOLVED AND DISCARDED: the Chromatic and Metallic factions, the ranked
+  colour lists with population percentages, per-colour breath weapons, terrain
+  assignments, personality stereotypes and power rankings. The old section in
+  Characters & Items has been replaced with a record of what was removed.
+- RESOLVED: DRAGON-KIND HAVE NO BREATH WEAPONS. The only chemical weapon in the
+  whole group is the Deep Drake's paired oral glands, a sprayed binary reaction.
+- RESOLVED: colour is ordinary individual variation with no moral, factional,
+  elemental, territorial or power meaning. Many varieties exist across the
+  chromatic and metallic range; specific colours develop as stories need them.
+  Greyhawk black and Karma gold are confirmed and unaffected.
+- RESOLVED: the Draak moral spectrum passed to all fifteen descendant races, so
+  good and evil exist within every one. This was already established lore and
+  needed no change; it is what makes the colour-faction framework impossible.
+- RESOLVED: sociality scales inversely with size across dragons and drakes.
+  UNDEVELOPED whether this extends to the wyrms — Aquatic Wyrms are very
+  territorial at a middling 45 feet.
+- RESOLVED: all seven are omnivore-carnivores eating what is native to their
+  region. Diet specifics deliberately undeveloped.
+- RESOLVED: dragon size is derived from Greyhawk, who is confirmed at 100 feet
+  with a 120-foot wingspan and is 20% larger than typical, setting the species
+  average at 85 feet and 100 feet. All other lengths and spans derive from
+  there, rounded to multiples of 5.
+- UNDEVELOPED: ORIGIN LOCATIONS FOR ALL SEVEN RACES. Deliberately deferred by
+  the user rather than overlooked. Nothing is placed on Lanamyr_Sundering.jpg.
+  Note the AQUATIC WYRMS will be the first race in Lanamyr requiring a marine or
+  coastal-shelf origin point — every origin so far is terrestrial — and that the
+  scatter rule applies to all seven (wide meteor-pattern emergence, no two
+  races' peripheries overlapping).
+- UNDEVELOPED: LANGUAGES. Only two are settled — Dragons have their own tongue
+  (already confirmed via Greyhawk) and Great Wyrms have one, both unnamed. Ice
+  Drakes, Deep Drakes, Ember Drakes and Aquatic Wyrms are all open, including
+  whether they have a language at all. Ember Drakes are above average
+  intelligence and the most communal of dragon-kind, which makes a shared tongue
+  close to implied. Proto Wyrms presumably have none. All Draak-descended
+  languages stand outside the Drasian family.
+- UNDEVELOPED: growth-stop ages for the six races other than Dragons.
+- UNDEVELOPED: how large an Ember Drake community actually is.
+- UNDEVELOPED: whether Aquatic Wyrm telepathy reaches other wyrms or only their
+  own race, and whether they also have a spoken tongue.
+- UNDEVELOPED: reproduction across dragon-kind, which the bible has never
+  addressed for any Draak-descended race.
+- OPEN AND SIGNIFICANT — DEEP DRAKES AND THE UNDERWORLD: a 35-foot ambush
+  predator that camouflages by colour and texture, bites so that struggling
+  tears the victim open, sprays a scalding caustic and regrows lost limbs is a
+  major addition to a crowded subterranean map — The Deep, the Cave Gnomes,
+  Tunneler Kobolds, Mountain Troll caverns running into Atral, and the Olum
+  cavern that took Nusul. Whether the underground peoples know these things
+  exist or only half-believe in them is undeveloped and worth answering.
+- OPEN: whether dragonborne colours (Gold, Silver, Cobalt, Obsidian) correspond
+  to dragon colours in any meaningful way, or whether the Draak fracture simply
+  produced similar palettes across its descendants. Three of the four match
+  colours from the discarded dragon list.
+
+THE WARDEN INHERITANCE — NEXT MAJOR BUILD:
+- CONFIRMED IN PRINCIPLE: there is a Draak-side counterpart to the Drasu
+  caretaker mandate. The Draak spent roughly twelve centuries actively
+  monitoring and protecting the Abaculus in the Black Mountains, and that role
+  fractured at the Sundering as the caretaker mandate did.
+- CONFIRMED: the EMBER DRAKE drive to hunt Creatures of Olum is the STRONGEST
+  EXPRESSION of it. Olum exist to destroy life in order to thin the ambient
+  field masking the Abaculus; an Ember Drake killing Olum defends that
+  concealment with no idea that it is doing so.
+- CONFIRMED: it is not feeding. Olum are not truly living and dissolve to
+  harmless black dust, so there is nothing to eat. Ember Drakes hunt ordinary
+  prey for sustenance and Olum for this reason alone.
+- STRUCTURAL QUESTION TO SETTLE FIRST: "strongest expression" is CLASS TWO
+  language in the bible's TWO CLASSES OF INHERITANCE framework — universal,
+  present in every race to some degree, named race merely strongest. But the
+  Drasu caretaker mandate fractured as CLASS ONE — exclusive and binary, a race
+  holds the fragment or holds none of it. As currently worded the warden
+  inheritance behaves as Class Two while its Drasu counterpart is Class One.
+  Whether that asymmetry is deliberate and meaningful or an inconsistency to be
+  corrected is THE FIRST DECISION of the next build, because everything else
+  depends on it.
+- UNDEVELOPED: what the other fourteen Draak-descended races carry of it.
+- UNDEVELOPED: whether the warden inheritance is known or knowable in-world. It
+  presumably is not, matching the caretaker fragments, which no race knows it
+  holds.
+- THEMATIC NOTE: the bible already records the scattered caretaker fragments as
+  the standing counterweight to what Olum made. A Draak warden inheritance
+  expressed as active Olum-hunting is the same idea with teeth in it, and
+  arrives from the opposite side of the family.
+- RESERVED VOCABULARY: do not spend the words WARDEN or ELDER on a species
+  name. Warden belongs to this inheritance. Elder would be wanted for a member
+  of a Sundering-born generation if that idea is ever revived.
+
+DRAGON AGE AND TIMELINE FALLOUT — MUST BE RESOLVED BEFORE BUILDING ON IT:
+- The dragon lifespan was reduced from 3000 to 1500 in v008. The user's stated
+  likely fix for everything below is ADJUSTING BIRTH YEARS. Nothing is decided.
+- LOST: the confirmed passage stating that the roughly 300 dragons born at the
+  Sundering were all still alive in 432 AW and were, apart from Adomorn, the
+  only living beings who had been there. At 1500 years that generation ages out
+  around year 1500 of the 2nd Epoch, about eleven centuries before the present
+  day. Adomorn is again the sole living witness to the Sundering. This is a real
+  loss of texture and wants a deliberate replacement, not a quiet deletion. The
+  passage has been rewritten in Overview_Cosmology rather than removed.
+- GAINED, AND THE LEADING CANDIDATE FOR THE DRAGON WARS: the Dragon Wars run
+  1206-1214 of the 2nd Epoch, which places the Sundering-born dragons at 1206 to
+  1214 years old precisely then — crossing out of middle age into elderly, which
+  begins at 1200, exactly as the war breaks out. The last generation that woke
+  whole fighting its final war as it ages out, with the wholly post-Sundering
+  generations inheriting immediately afterward, is a far better engine for that
+  war than the discarded colour factions. ARRIVED BY ARITHMETIC, NOT DESIGN.
+  UNDEVELOPED and not committed to.
+- GREYHAWK: born 658, finds the Abaculus in 2136 at approximately 1478, dies at
+  Rohl in 2165 at approximately 1507. His entry previously said "still in his
+  prime" at 1478; under the revised table prime ends at 900 and elderly begins
+  at 1200. The clause has been removed and flagged in place. He now dies almost
+  exactly at the average span, which the Rayleigh variance permits — but he is
+  an aged dragon rather than one at his peak.
+- KARMA: born 925, approximately 1240 at Rohl. His entry previously said "well
+  within his prime (prime: 750-1800)", figures from the old 3000-year scale. He
+  now falls just into elderly. Flagged in place.
+- KARMA'S SPECIES IS ALSO OPEN: the user is considering making him a GREAT WYRM
+  rather than a Gold dragon and chose to sleep on it, as he is a pivotal
+  character. Gold sits comfortably in the Great Wyrm colour range. Under that
+  option (lifespan 1200) he is roughly 3% above average at Rohl, which variance
+  permits. He lands in or past elderly under BOTH options, so the "aged at Rohl"
+  question is independent of the species decision.
+- THE PURSUIT PROBLEM, only if Karma becomes a Great Wyrm: at Rohl, Greyhawk
+  fled toward the Abaculus and Karma and Adomorn pursued and killed him before
+  he reached it. Greyhawk has true sustained flight at 100 feet with a 120-foot
+  wingspan; a Great Wyrm is 75 feet and can only coil-spring and glide. The
+  pursuit as written would need reworking.
+- DRAGON GROWTH: rescaled proportionally from 1000 to 500 years, a third of the
+  span in both cases. RESOLVED, no further action.
+- ANYTHING ELSE KEYED TO DRAGON AGES should be checked against the revised table
+  when this is taken up. The Dragon Wars, the Great War and the Nusul legend's
+  "giant dragon seeking mineral wealth" are the known contact points.
 
 REGION AND KINGDOM NAMES ACROSS EPOCHS:
 - RESOLVED (v007) — STANDING CONVENTION ADOPTED. Kingdoms and regions do not
@@ -224,9 +381,17 @@ KULDOR (built in v006):
   where they come ashore.
 - UNDEVELOPED — WHAT FORCED THE MERGE of the Dark Dwarf settlements into Kuldor
   for protection. Candidates: a dragon during the Dragon Wars (1206–1214, 2nd
-  Epoch) is the leading one and would also feed the standing need to reconcile
-  the Dragon Wars with the Chromatic/Metallic framework; Stone Giants are the
-  other. Creatures of Olum are RULED OUT for this event.
+  Epoch) is the leading one; Stone Giants are the other. Creatures of Olum are
+  RULED OUT for this event.
+  UPDATED v008: the old secondary argument for the dragon candidate — that it
+  would help reconcile the Dragon Wars with the Chromatic/Metallic framework —
+  is void, since that framework was discarded. The candidate itself stands on
+  its own merits and is in fact strengthened: the Dragon Wars now want a cause
+  and a set of consequences, and driving a coastal population into a single
+  defensible port is a good consequence to have. Note also that a dragon is no
+  longer the only option within dragon-kind — a Great Wyrm at 75 feet or an Ice
+  Drake could serve, and the western arm's cold northern coast is plausible Ice
+  Drake country.
 - UNDEVELOPED: the timing of the merge.
 - UNDEVELOPED: how Kuldor is governed. It would be the first polity in Lanamyr
   that is not a race-kingdom.
@@ -699,7 +864,11 @@ RACES WITH NO ORIGIN LOCATION:
 RACE LIFESPANS NOT YET ESTABLISHED:
 - Orcs, Magni (follows base race), Giantkin subtypes other than Stone Giants
   (Frost Giants, Hill Giants, Ogres, Swamp Giants), Troll subtypes,
-  Humans (Shepherds, Water Whisperers), Wyrms.
+  Humans (Shepherds, Water Whisperers).
+- RESOLVED (v008): all seven dragon-kind races. Dragons 1500 (revised down from
+  3000), Great Wyrms 1200, Aquatic Wyrms 900, Ice Drakes 700, Deep Drakes 600,
+  Proto Wyrms 600, Ember Drakes 400. Life stages for all seven are in
+  Overview_Cosmology.
 - RESOLVED: Stone Giants — 50 years. Born large, grow fast. See
   Overview_Cosmology.
 
@@ -811,18 +980,36 @@ GREYHAWK:
 - 29 years of the Great War he directed: largely undeveloped.
 
 DRAGON WARS (2ND EPOCH):
-- Reconciliation of Dragon Wars with Chromatic/Metallic framework and current
-  confirmed lore: to be developed. Dragon Wars occurred 1206-1214, 2nd Epoch,
-  during formation of Harrad under Eisengol.
+- SUPERSEDED (v008): the standing item here was to reconcile the Dragon Wars
+  with the Chromatic/Metallic framework. That framework no longer exists, so
+  there is nothing left to reconcile it with — but the war still has no cause.
+  The Dragon Wars occurred 1206-1214, 2nd Epoch, during the formation of Harrad
+  under Eisengol, and the user has confirmed they still happen.
+- LEADING CANDIDATE: the war sits exactly where the Sundering-born dragon
+  generation crosses into elderly under the revised 1500-year lifespan. See
+  DRAGON AGE AND TIMELINE FALLOUT above.
+- UNDEVELOPED: whether the wars involved only Dragons or the other six
+  dragon-kind races as well, and whether dragonborne or kobolds were drawn in.
+- UNDEVELOPED: what Greyhawk and Karma did in them. Both were alive and adult —
+  Greyhawk roughly 548 to 556, Karma roughly 281 to 289.
 
 RACE APPEARANCE TABLE — INCOMPLETE:
-- Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls, Dragons: appearance
-  entries not yet developed.
+- Kobolds, Goblins, Dragonborne, Orcs, Giantkin, Trolls: appearance entries not
+  yet developed.
+- RESOLVED (v008): dragon-kind are NOT in this table and will not be — its
+  columns (male and female height, skin tone, hair, eyes) do not describe them.
+  The seven dragon-kind races have their own reference table in Races, built on
+  length, wingspan, lifespan, intelligence, magic and flight, and deliberately
+  not separated by gender at the user's direction.
 - Northmen native language (Andari) may have had a different name in earlier
   epochs — the present-day name derives from the Andar region, a regional
   identity that did not exist at the Sundering.
 
 MAP NOTES:
+- PENDING (v008): seven dragon-kind origin points to be placed on
+  Lanamyr_Sundering.jpg once decided — Dragons, Ice Drakes, Deep Drakes, Ember
+  Drakes, Great Wyrms, Proto Wyrms, Aquatic Wyrms. The Aquatic Wyrm point will
+  be the first marine or coastal-shelf origin on the map.
 - All borders approximate, defined by natural geographic features.
 - 3rd Epoch kingdoms: Kimora, Fardar, Ellendale, Faelyn, Hellar, Andar (Alios);
   T'sarra (Edura); Felgard (Utoa); Icefall; Jokul; Malulo; Myst.
@@ -834,5 +1021,5 @@ MAP NOTES:
   Swamp Giants, Trolls (Forest, Moss, Desert).
 
 ================================================================================
-END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v007
+END OF LANAMYR OPEN QUESTIONS / UNDECIDED LORE — v008
 ================================================================================

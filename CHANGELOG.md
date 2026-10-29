@@ -9,6 +9,142 @@ end of an entry when relevant, not at the top.
 
 ---
 
+## v008
+
+Thirty years of inherited Dungeons & Dragons furniture comes out of the dragons.
+One race becomes seven, the Chromatic and Metallic factions are discarded, no
+dragon in Lanamyr breathes anything any more, and the dragon lifespan is halved
+— which quietly costs the world its last living witnesses to the Sundering and
+hands the Dragon Wars a far better reason to have happened.
+
+### Why the old dragons had to go
+
+The dragon material was the oldest layer in the bible and it had been carrying a
+warning label for several versions: tentative, held over from a prior version,
+confirm or revise. It was a straight import — two factions with Chromatic
+leaning evil and Metallic leaning good, sixteen colours ranked by power with
+population percentages, each with an assigned breath weapon, terrain and
+personality. Lanamyr had long since become its own thing everywhere else.
+
+The framework was also quietly impossible. The bible already confirms that the
+full moral spectrum of the Draak passed to every descendant race, exactly as the
+Drasu spectrum did — good and evil exist within all of them. A taxonomy that
+assigns morality by colour contradicts that outright. It went, and with it the
+breath weapons, the terrain assignments, the personality stereotypes and the
+ranking that made Gold and Black the pinnacles of their respective sides.
+
+Colour survives as description and nothing else. Greyhawk is still black with a
+glossy sheen and Karma is still gold, because those are appearance rather than
+species. Many varieties exist across the chromatic and metallic range and carry
+no meaning whatsoever; specific colours get developed when a story needs one.
+
+### One race becomes seven
+
+Dragon-kind now divides into three tiers. DRAGONS hold the bare noun — four
+limbs, wings, scaled, true sustained flight, the largest of all Draak-descended
+races and the form Greyhawk belongs to. DRAKES are the same general shape at
+half scale or less. WYRMS are serpentine and sit off to one side.
+
+The three Wyrms came first. AQUATIC WYRMS are essentially giant eels, limbless
+and finned along each side, propelled by a travelling wave that reverses to swim
+them backwards; territorial, telepathic with their own kind, and the longest-
+lived of the three at 900 years. PROTO WYRMS are the dead end of the family —
+four short limbs, no wings, no magic at all, the least intelligent and most
+animalistic of every Draak-descended race. GREAT WYRMS are the exception that
+proves the tier: 75 feet, winged, highly intelligent, with their own language,
+and able to coil and spring for height and then glide, because their wings are
+nowhere near enough for a body that size.
+
+The Drakes went in three very different directions. ICE DRAKES are the
+straightforward half-scale dragon — white and silver, unaggressive, sleeping
+long stretches between large feedings. DEEP DRAKES are the horror: wingless,
+underground, pale cloudy eyes, teeth angled backward so that struggling in the
+bite tears the victim open, camouflage that changes the texture of the hide as
+well as its colour, limbs that grow back, and a pair of oral glands that squirt
+two separate chemicals which burn on combining. That last one is the only
+chemical weapon left anywhere in dragon-kind and it is explicitly not a breath.
+
+### The Ember Drakes, and what they are really doing
+
+EMBER DRAKES are the smallest, the shortest-lived at 400 years, the most
+communal, and the one genuinely new idea in the group. They are built like
+alligators with wings and they hunt Creatures of Olum.
+
+Which they cannot eat. Olum are not truly living and dissolve into harmless
+black dust when killed, so there is nothing in it for the animal. Ember Drakes
+feed on ordinary prey and hunt Olum for a reason that has nothing to do with
+food — and the reason is the WARDEN INHERITANCE, confirmed in principle this
+session as the Draak-side counterpart to the Drasu caretaker mandate.
+
+The Draak spent roughly twelve centuries actively monitoring and protecting the
+Abaculus. Creatures of Olum exist to destroy life in order to thin the ambient
+field that masks it. An Ember Drake killing Olum is therefore defending the
+Abaculus's concealment, by instinct, with no idea it is doing so — the same
+shape as the caretaker fragments, which no race knows it holds, arriving from
+the other side of the family and with teeth in it. The full framework is the
+next major build.
+
+Their name does both jobs at once. Their hide is covered in raised bumps, gray
+to black on top with red and orange in the gaps, so at distance they look like
+banked coals. Only one of the two meanings is obvious on first hearing.
+
+### The lifespan change, and what it cost
+
+Dragons went from 3,000 years to 1,500. The bible had leaned on the old figure
+for something genuinely good: because only 2,597 years have passed since the
+Sundering, every dragon born in it was still alive in 432 AW, and apart from
+Adomorn they were the only living beings who had been there. That is now gone.
+The founding generation ages out around year 1500 of the 2nd Epoch, eleven
+centuries before the present day, and Adomorn is once again the only witness.
+
+The arithmetic handed something back, though. The Dragon Wars run 1206 to 1214,
+which places the Sundering-born dragons at 1,206 to 1,214 years old precisely
+then — crossing out of middle age into elderly, which begins at 1200, exactly as
+the war breaks out. The last generation that woke whole fighting its final war
+as it ages out is a considerably better engine for that conflict than a
+colour-coded morality split, and it was not designed. It fell out of the numbers.
+
+Greyhawk and Karma both take damage from the change and both are flagged rather
+than patched. Greyhawk is 1,478 when he finds the Abaculus and 1,507 when he
+dies, which the variance rule permits but which makes him an aged dragon rather
+than one in his prime as his entry claimed. Karma at 1,240 at Rohl lands just
+into elderly. The user is also considering making Karma a GREAT WYRM rather than
+a Gold dragon and deliberately slept on it, as he is pivotal. He comes out aged
+at Rohl under either option, so that part of the question is now independent of
+the species decision.
+
+### The imbalance that started it
+
+The session opened on a noticeable asymmetry: 32 Drasu-descended races against
+10 Draak-descended. Splitting dragons into four and wyrms into three brings the
+Draak side to fifteen, and the Draak-descended population at the Sundering from
+roughly 3,000 to roughly 4,500. The Draak population itself is unchanged at
+about 300, since one Draak still produces one of each.
+
+### Carried forward
+
+Origin locations for all seven races were deliberately deferred and nothing is
+placed on the Sundering map — including the Aquatic Wyrms, who will be the first
+race in Lanamyr to need a marine origin point. Languages are settled only for
+Dragons and Great Wyrms. The warden inheritance needs its framework, starting
+with whether it behaves as a Class One or Class Two inheritance, since
+"strongest expression" is Class Two language while its Drasu counterpart is
+exclusive and binary. The age fallout above needs resolving, most likely by
+adjusting birth years. And a 35-foot regenerating ambush predator has been added
+to an already crowded underworld, which the Dark Elves, Cave Gnomes, Tunneler
+Kobolds and Mountain Trolls all have a stake in.
+
+Sky Gnomes, Plains Elves and the Ice Dwarves' first two centuries remain
+untouched and are still the standing targets.
+
+Structurally: dragon-kind get their own reference table in Races rather than
+entries in the Race Appearance Table, whose columns do not describe them, and
+the table is not separated by gender. The old factions section in Characters &
+Items has been replaced with a record of what was removed and why, so the
+material cannot drift back in by accident.
+
+---
+
 ## v007
 
 Faelyn gets a crown it never asked for, Heaven's Oak turns out to have been

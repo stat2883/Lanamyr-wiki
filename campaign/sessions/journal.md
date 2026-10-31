@@ -2123,3 +2123,238 @@ different. Two of them fixed twice. And half a minute of a man on a stone floor
 deciding what to put.*
 
 *Next: a blank board, a ledge, six people, and nobody has decided what to write.*
+
+---
+
+## Session 8 — The Break
+
+*387 AW. Two days. A board in a box, a stair with no bottom, and a road nobody
+knew was there.*
+
+They spent an hour on that ledge arguing about a single scratch in wax, and the
+argument was better than the answer.
+
+Sharii laid it out cleanly: either the mark was copied because a mark is a mark,
+or because it was Mya's, or because they knew a mason's test-stroke when they saw
+one — and only the first of those assumes nothing. Maevis took the baseline off
+him gratefully and then turned the third one inside out. A test-stroke isn't
+knowledge about Wood Elves. It's knowledge about *chisels*. It would be the same
+act in their hands if Faelyn had never existed. Which makes it the smallest
+assumption on the list and not the largest — and which means the first and third
+readings produce exactly the same wax, for ever, and no board anybody can make
+will ever tell them apart.
+
+*There's only one of your three I can actually test, and it's the one with a
+person in it.*
+
+And Mya, who had said nothing the whole time: *Then take my hand off the next
+one.*
+
+Ignis wanted to put the stone and four words in eight languages on a board.
+Alinar wanted it fast. Sharii changed his mind in the middle of the argument and
+said so, and came out the other side wanting nothing on the wax at all — because
+if there's no answer you've learned nothing and given everything, and you'll never
+know whether the silence was *can't* or *won't*.
+
+*Everything in life is a gamble. You have to pay to play, wolf boy.*
+
+What went in the box in the end was one blank board with one stroke in the lower
+right, cut by Ignis's hand instead of Mya's. Maevis put her own thirty-day
+programme in the fire to do it — the control already existed in the satchel,
+twice over — and said out loud, before it was cut, exactly what the board would
+and would not prove.
+
+Then she realised she had stood on that ledge four times this winter and never
+once surveyed it, and was furious with herself for an hour and eleven minutes.
+
+Fifty-eight lamps. Evenly spaced. All at one height, to the limit of what she
+could read — *somebody ran a level out there; that's my trade, and they have
+somebody who does it.* Not three arcs on a floor but one continuous line on a
+curving wall with holes punched in it. And when they took her two hundred feet
+down the stair and she ran the thing properly, the line curved away on both
+hands and closed, and her centre landed in the same few hundred yards as the one
+Dovin Reyl built with a rule and a candle in Aldric's kitchen.
+
+*Two bad methods agreeing is two people being wrong the same way. Three bad
+methods agreeing is three. And I have never in forty years had three bad methods
+agree.*
+
+They came out in the dark, and a wolf was sitting at the mark downwind at the
+hour because it was the hour, and the reading was two feet, exactly as it had
+been — after the deepest and longest she has ever gone. It doesn't get worse the
+further down she goes. Sharii's eyes came up at that, and Ignis saw them come up,
+and neither of them said a word.
+
+---
+
+In the morning they went back in, all six, which Alinar made everybody say out
+loud was the third breach and the biggest one and nobody's fault but theirs.
+
+*The last four times, one of us went and five of us stood somewhere safe and
+counted. Today that stops.*
+
+The stair goes down past the lamps — and the lamps are the cubes, on shelves in
+the wall, close enough to touch from the steps, which nobody had ever realised
+because nobody but Ignis had ever been level with one. Past them it gets warmer.
+Then the finished work runs out, and the rough runs out, and there is a last
+half-shaped tread and then there is nothing at all.
+
+**The staircase has no bottom. It is four hundred feet long and it ends in the
+air.** Wick dropped a stone and it hit something at four seconds and hit again
+and went away and never landed. And the warm air that comes out of eleven holes
+on a mountainside two and a half miles away comes up past that last tread, out of
+the dark underneath, which means Maevis has been standing on the far end of her
+own instrument all winter without knowing it.
+
+They stood there nineteen minutes while she worked.
+
+And then all nine of them stopped. Set their tools down in the row by size, each
+at its own place, and stood. Not the three seconds of the autumn. They did not
+start again. Four hundred feet of climb in complete silence, which nobody has
+ever heard in that mountain — and then, eleven minutes after the party was off
+the stair, everything in the whole place started again at once.
+
+---
+
+Then somebody looked down and noticed the ledge was worn.
+
+Eighteen inches of polished stone down the middle of it, the way the crawls are
+polished, the way the corridor is polished — by feet, a very great many, over a
+time nobody can measure. The stair has never been walked on in its life. *The
+ledge is the road.* And it has mouths opening off it at intervals, cut and square
+and worn, running back into the rock: the galleries. Trunk, branches, ladders.
+Which is why there has never been a single track on that snow, and why in six
+months they have never once used the door this militia opened.
+
+A mile along it, in the dark, with the void on one hand, eleven of them came the
+other way.
+
+Nobody in Faelyn has ever seen them travelling. Baskets, rope, two water jars,
+and one carrying nothing. They passed at two feet in full lantern light and not
+one turned a head.
+
+The eleventh stopped.
+
+It crossed to the wall side and stood in front of Ignis, and when she held out
+the river stone it took one breath out of rhythm — the second time in the history
+of this correspondence that any of them has done an involuntary thing, and both
+times it was that stone. It didn't want it. It touched the stone with one finger.
+Then it moved the finger two inches and touched the exact place on her palm where
+one of them drew a stroke on her thirty-five days ago, where there is nothing and
+has been nothing since before the solstice.
+
+Then it held its own hand open and waited.
+
+*Stone. Mark. Hand.* The longest thing any of them has ever said to anybody, and
+not one bit of it on wax.
+
+She put the stone away and gave it her hand, which is the first time in thirty-one
+weeks that a person has started something and one of them has allowed it. And it
+led her north, with five people and three lanterns following and Maevis counting
+paces because counting paces was all she could do.
+
+---
+
+Four hundred paces, and the lamps stopped.
+
+They had walked to the edge of one of the gaps — and to a place with no vent over
+it, a mile north off the end of the eleven, where nobody standing on that
+mountainside has ever been above. *This is off the map. Not the part we haven't
+filled in. There is no map.* And still, under their boots, a worn road running on
+into the dark.
+
+Half a mile of empty shelves, finished and swept and waiting.
+
+And then shelves that weren't empty. Cubes on them, correct in every particular,
+**dark** — each one ringed by a cut circle, and a second circle outside that, and
+a third half-finished with the chips swept left.
+
+*They're installed.*
+
+*They're installed and they are not lit, and somebody has cut three rings round
+that one trying to make it work.*
+
+Forty to sixty missing, Maevis had said the night before. Two-thirds done. She
+took it back standing up. **They are not missing. They failed.** And nobody
+anywhere can say whether this thing has ever been nearer finished than it is now.
+
+---
+
+A quarter-mile on, the wall ends.
+
+A hundred feet of it, not cut — broken. Raw shattered rock where the dressed face
+should be, shelves stopping and starting either side, the ledge itself gone across
+the span. And heaped along the inner edge, swept tidily to the left the way they
+sweep everything, a cartload of smashed cube with three or four characters still
+legible on every shard.
+
+Maevis read the fracture for four minutes and then gave a conclusion, which she
+almost never does, because stone is the one thing she will sign her name to.
+
+*That face was struck. The spall runs the wrong way for anything coming out of
+the mountain behind it. The force came from the open side. From the middle.*
+
+And Mya said the thing nobody had been able to say since the autumn.
+
+*Then we're not outside it. That wall is between that thing and Faelyn, and we
+walked in through the hole in the side of the house, and we've been strolling
+about on the inside of it since September. We're in with it.*
+
+Ignis took the guide's hand a second time, of her own accord, and it turned her
+palm down and moved it to the broken face and stopped four inches short and let
+her go the last of the way herself, exactly as one of them did with a cube under
+vent nine in the autumn. There is no load in the broken stone at all. But she
+found the two cut ends of the line, one on either side of the gap.
+
+They are carrying more.
+
+Maevis sat down on the floor of that ledge, which nobody has seen her do.
+
+*That's an arch. You take a span out of an arch and the two beside it carry what
+it was carrying, and they hold for a while because it's good work, and then one of
+them goes. It doesn't fail steadily. It fails in steps, and the steps come
+faster.*
+
+*It did not grow,* Ignis said. *It stepped.*
+
+A torn-eared wolf on a road told them that in the autumn, and said it began before
+the leaves went, and asked them a question nobody could answer. Aldric asked the
+same one in his own kitchen, in his own words, with no idea a wolf had got there
+first.
+
+*Is it coming down?*
+
+*Yes,* said Maevis. *And faster each time.*
+
+---
+
+Then the guide crouched at the heap and picked one shard out of it — flat, the
+size of a hand, three characters and the start of a fourth cut so fine they read
+as texture — and put it in Ignis's hand and closed her fingers over it.
+
+The first thing anybody in Faelyn has ever been given that was cut in stone. And
+it came out of a pile of something that failed.
+
+She went across the gap as a spider, because nothing else in that party could.
+Halfway over, a slab the size of a door let go under her and fell, and five people
+heard it start and nobody heard it stop. On the far side the ledge is not worn —
+nobody walks that side — and the lamps pick straight back up and run on, burning,
+as though nothing had happened. The first cube past the break is cracked corner to
+corner and still lit, braced with five rings and more past the edge of sight.
+Somebody keeps coming back to that one.
+
+And the guide watched her the whole way across, and did not stop watching.
+
+She went on north alone. Thirteen lamps, a third of a mile, no worn band. And
+then no lamps ahead at all, and a second gap she could not see the end of, and
+more of them working it than anyone has ever seen in one place — ranks of them in
+the pitch dark, passing stone hand to hand, not cutting but **clearing**.
+
+There was dust in the air. The heap was started and not finished.
+
+That one is fresh.
+
+And past it, the first three shelves have cubes on them, and all three are dark.
+
+*Next: a Tiefling four inches off the floor with thirty feet of sight, fourteen
+minutes into an hour, a third of a mile past a gap her friends cannot cross.*

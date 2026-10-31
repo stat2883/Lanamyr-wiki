@@ -16,9 +16,17 @@ At the start of every campaign session, before doing anything else:
 
 1. Clone the repo with git via the bash/computer tool:
    `git clone https://github.com/stat2883/Lanamyr-wiki.git`
-2. Read the root `SESSION_INSTRUCTIONS.md` in full, then the scoped bible
-   pre-load described in §1a below. The campaign is set inside confirmed lore
-   and cannot be run without it.
+2. Read the root `SESSION_INSTRUCTIONS.md` in full — **and then read §1a of this
+   file BEFORE reading any of `bible/`.** The campaign is set inside confirmed
+   lore and cannot be run without it, but §1a replaces root §1 for play sessions
+   and the saving is lost if the full read happens first.
+
+   > **⚠ ORDER MATTERS, AND IT HAS BEEN GOT WRONG.** Root §1 says *read all 8
+   > bible files in full.* That instruction is for **lore sessions**. For a
+   > campaign session it is **superseded by §1a below**. Reading root §1,
+   > obeying it, and only then arriving at §1a costs the whole of what the
+   > scoping exists to save. Recorded after session 8, where exactly that
+   > happened.
 3. Read this file.
 4. Read `campaign/campaign-status.md` — this is the single source of truth for
    where the party is, what date it is in-world, and what is currently in play.
@@ -60,19 +68,33 @@ unchanged and remains absolute, because lore work edits canon and a hidden
 contradiction actually bites there.
 
 The full read is ~245KB, paid before a word of play. Campaign sessions pre-load
-roughly 175KB of it instead. **Sections are named, not line-numbered**, so the
+roughly 195KB of it instead. **Sections are named, not line-numbered**, so the
 list survives edits to `bible/`.
+
+**Updated after session 8.** The table below originally predated the v005–v007
+build-out of western Alios, and had drifted: it did not name `WOOD ELVES` in a
+Wood Elf campaign, and it skipped the founding histories of the exact region the
+party fights in. Both are now in the pre-load. The figure rose from ~175KB to
+~195KB and is still well short of the full read.
 
 | File | Pre-load |
 |---|---|
 | `01_Maps_Reference` | **Full** — small, and geography is constant. |
 | `02_Overview_Cosmology` | **Full** — load-bearing. The Abaculus, Creatures of Olum, the Irridae and the Sundering underpin the hall threads. |
 | `03_Geography` | **Full** — small, regional detail used constantly. |
-| `04_Races` | `THE DRASU AND DRAAK`, `RACE APPEARANCE TABLE`, `ELVES — GENERAL`, `DARK ELVES`, and the four gnome entries (Wick Pallowen is a gnome). **Skip** kobold and goblin subtypes, Shepherds, Water Whisperers, Snow Elves, Sea Elves, and all dwarf entries. |
-| `05_Kingdoms_History` | `ORGANIZATIONS` → `GUARDIANS OF THE TREE` and `THE MARAUDERS`, `THE FOUR CROWNS`, and the full `TIMELINE` (all three epochs). **Skip** `KINGS OF HARRAD` and its succession table, `THE VAR HARMA`, `THE HERRINGERS`. |
+| `04_Races` | `THE DRASU AND DRAAK`, `TWO CLASSES OF INHERITANCE`, `RACE TRAIT FRAMEWORK` **including the western Alios recorded values** (Wood Elves, Dark Dwarves, **Stone Giants** — the enemy in 387 AW), `RACE APPEARANCE TABLE`, `ELVES — GENERAL`, **`WOOD ELVES`**, `DARK ELVES`, and the four gnome entries (Wick Pallowen is a gnome). **Skip** kobold and goblin subtypes, Shepherds, Water Whisperers, Snow Elves, Sea Elves, Plains Elves, and all dwarf entries. |
+| `05_Kingdoms_History` | **`WESTERN ALIOS — FOUNDING HISTORY`** and **`FAELYN — THE FOUNDING`** — *this is the campaign's own ground.* `3RD EPOCH KINGDOMS` → the **Faelyn**, **Hellar** and **Kuldor** entries. `ORGANIZATIONS` → `GUARDIANS OF THE TREE`, `THE MARAUDERS`, `THE FOUR CROWNS`. The full `TIMELINE` (all three epochs). **Skip** `KINGS OF HARRAD` and its succession table, `THE VAR HARMA`, `THE HERRINGERS`. |
 | `06_Characters_Items` | `ADOMORN THE IMMORTAL`, `DIQUYK LOCKWOOD`, `MYADONNA LIAPHYRA`, `PHELLODEN LIAPHYRA`, `AENDRONTIAG (GREYHAWK)`, and `ITEMS AND ARTIFACTS`. **Skip** all other character entries. |
 | `07_Stories_Outlines` | `UNLIT (WORKING TITLE) — THE PARALLEL` only — this is the campaign's script. **Skip** the other two outlines. |
 | `08_Open_Questions` | **Full** — knowing what is deliberately undecided prevents accidentally hard-canonising it during play. |
+
+**⚠ DRAGON-KIND — read on demand, not in the pre-load.** `04_Races` →
+`DRAGON-KIND` was rebuilt from the ground up in v008 (seven races in three tiers,
+no breath weapons anywhere, the Chromatic/Metallic framework discarded, the
+dragon lifespan halved). Nothing in the Elf War touches it — but **Sharii's
+Favored Enemy is Dragons and his fourth language is the dragon tongue**, so read
+that section the moment a player reaches toward either. Standing permission
+below covers it.
 
 **Do not keep a digest copy.** A curated summary in `campaign/` would drift out
 of sync the first time a lore session edits `bible/`, and the campaign would

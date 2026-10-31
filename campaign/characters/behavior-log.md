@@ -1631,3 +1631,211 @@ finger. Showed no reaction whatsoever to the river stone the second time.
 **Twenty-four at least in one gallery, cutting empty shelves ahead of the ward, in
 the dark, in silence, none looking at another — and when one was needed, the right
 one went without anybody speaking or looking.** *No statblock. Do not build one.*
+
+---
+
+# SESSION 8 — days 103–104
+
+## Sharii
+
+**S8 — 387 AW, the ledge.** **Framed the stroke problem into a null and two
+alternatives** and named the assumption each one carries. Maevis took the null off
+him and said so. **Then had his third leg turned inside out in front of him and
+did not defend it.**
+
+**S8 — 387 AW, the ledge.** **Asked Maevis directly what she was controlling for**
+— a question nobody had put to her, which she said out loud she had been going to
+have to force somebody to ask.
+
+**S8 — 387 AW, the ledge.** **Reversed his own position in the middle of the
+argument and said in plain words that he had been wrong**, without defending the
+earlier version. Moved from *Common only* to *no language at all* and to being
+against communication outright.
+
+**S8 — 387 AW, the ledge.** Proposed the quiet ones are **akin to monks**, and
+that the structure might be built to conjure something. **Had the conjuring half
+killed by Ignis's own* Detect Magic* finding and let it go without argument.**
+
+**S8 — 387 AW, the ledge.** On the gamble: *"if we get no response, it tells us
+nothing and gives them everything — we won't know whether the silence is because
+they can't answer or won't answer."* **Took being called *wolf boy* in front of
+the whole party without a word.** Sixth naming; third kindness.
+
+**S8 — 387 AW, the file of eleven.** Said one sentence in the entire encounter —
+***"It knew where the mark was"*** — which reframed the whole event, and then said
+nothing further.
+
+**S8 — 387 AW, the ledge.** **Watched his brother discover he can write Ukuri and
+did not mention it, then or afterwards.**
+
+**S8 — 387 AW, the seam.** Learned that Knight's reading did not move after the
+deepest and longest descent of the campaign. **His eyes came up and he said
+nothing.**
+
+### Pattern — observations, not conclusions
+- **New, s8:** he will reverse a stated position mid-argument, publicly, and will
+  not defend the discarded version even slightly. Second time this winter he has
+  handed somebody the knife about himself.
+- **Unchanged and now very conspicuous:** he asks one question and gets out of the
+  way of the answer. Three sessions running.
+- **Unchanged and now a pattern about his brother specifically:** he volunteers
+  what weakens him and withholds what concerns Alinar. He has still not told him
+  about the wolf's testimony, and he has now also not mentioned the Ukuri.
+
+---
+
+## Alinar
+
+**S8 — 387 AW, the ledge.** **Put the fence up first, twice** — once on what eight
+languages discloses, once on the third breach — and both times insisted it be said
+out loud before anybody acted rather than explained afterward.
+
+**S8 — 387 AW, the ledge.** **Named Ukuri as the thing he would not be the one to
+approve**, gave the honest counter-argument against his own objection in the same
+breath (*"if they can read it we've learned something enormous"*), and then said
+somebody other than him should say yes.
+
+**S8 — 387 AW, the ledge.** **Found he can WRITE Ukuri.** Has never seen a page of
+it in forty-five years and knows the letterforms. **Did not mention it to
+anybody.**
+
+**S8 — 387 AW, all session.** Argued consistently for **speed over rigour**,
+made the case properly (*"a slow true answer that arrives after the thing has
+happened is not an answer, it's a record"*), and did not win and did not sulk.
+
+**S8 — 387 AW, the break.** **Named the numbers before Ignis crossed** — forty,
+then fifty-five, then nothing — and told her in advance, unprompted, that **the
+party could not come and get her.**
+
+**S8 — 387 AW, the stair.** *"We're the first thing that's ever walked on this."*
+
+**S8 — 387 AW, the galleries.** Walked thirty feet into an unexplored gallery
+mouth before Mya called him back, and came out without arguing.
+
+**S8 — 387 AW, all session.** **Did not raise the east. Still four refusals.**
+
+### Pattern — observations, not conclusions
+- Unchanged: fence first, number first, adjectives never, result accepted.
+- **New, s8:** he now argues a position he knows is the less rigorous one, openly,
+  on the grounds of the clock. He is the only person at that table arguing against
+  the methodology, and he is not wrong about the calendar.
+- **New, s8, and unresolved:** he has a capability he cannot account for and chose
+  silence about it, in front of a brother who has been doing exactly that for
+  years.
+
+---
+
+## Ignis
+
+**S8 — 387 AW, the ledge.** **Gave up on the languages when the argument went
+against her and said so plainly**, and kept only the part she still believed in.
+
+**S8 — 387 AW, the ledge.** **Told Maevis, when asked for a falsifier, that she
+hasn't got one.** Did not invent one. *"I just want to elicit some kind of
+response and see if any other patterns emerge."*
+
+**S8 — 387 AW, the ledge.** **Advanced the first motive reading anybody has
+offered about the quiet ones: they are enslaved**, coerced into building this for
+somebody else — and tied it to the war: *"my fear is that the opposition in the
+east wants to use this place for wiping us all out."*
+
+**S8 — 387 AW, the ledge.** **Killed half of Sharii's theory with her own
+evidence** rather than letting it stand: the aura is abjuration, not conjuration.
+
+**S8 — 387 AW, the ledge.** **Cut the stroke on board nine herself**, having been
+told in advance and in public that doing so converted the experiment from a clean
+test into a dirty one.
+
+**S8 — 387 AW, the file of eleven.** Offered the river stone to the one that
+stopped in front of her, **got the second involuntary reaction in the campaign's
+history**, and then **put the stone away and offered her empty hand** — the first
+time in thirty-one weeks a person has initiated contact and been accepted.
+
+**S8 — 387 AW, the break.** **Initiated the hand-hold a second time**, on her own,
+to find out whether it would keep leading. Had her palm put on a broken face and
+**went the last four inches herself.**
+
+**S8 — 387 AW, the break.** Reported what she felt as a *comparison* rather than a
+sensation — *the two ends either side are heavier* — which is the observation the
+entire arch finding is built on, and she handed it to Maevis rather than
+interpreting it.
+
+**S8 — 387 AW, the break.** **Crossed a hundred feet of broken rock over a drop
+with no bottom, alone, on her first Wild Shape**, with the party's stated
+inability to retrieve her on the record. **Handed the shard to Maevis first.**
+
+**S8 — 387 AW, the far side.** **Went on north alone rather than turn back**, into
+unlit ground, with a count running behind her that she cannot hear.
+
+### Pattern — observations, not conclusions
+- Unchanged, seventh session running: **she leads with the thing that weakens her**
+  — the missing falsifier, the dirtied experiment, the breach.
+- **New, s8:** she offers interpretations now, not only findings, and defends them
+  without pretending they are evidence.
+- **New, s8:** she initiates. Twice, with her hands, after thirty-one weeks in
+  which every exchange was started by them.
+- **Unchanged and now at four separate opportunities: *Telepathic* is still
+  unused.** Through a hand-hold, a guided walk and ranks of them in the dark.
+
+---
+
+## What NPCs have observed
+
+### Added session 8
+
+**Maevis Tarn.** **Took the null off Sharii and credited him**, then **corrected
+his third reading against her own interest** and immediately named the consequence
+for her own programme — *"there's only one of your three I can actually test."*
+**Argued herself out of the twelve-board rota she had fought for** on the grounds
+that the control already existed twice in the record, and said *"I'd like that
+noted against my name and not yours."* **Warned, before the stroke was cut, exactly
+what the board would and would not prove.** Then discovered she had stood on that
+ledge four times and never surveyed it, **and was visibly angry at herself**, and
+produced the first instrumented picture of the structure anybody has had: fifty-
+eight lit, one level line with gaps rather than three arcs, forty to sixty failed,
+curving away on both hands. **Refused three times to turn a measurement into a
+date.** **Found her centre inside Reyl's and refused to call it a convergence.**
+**Wrote no right-hand column for the low lamp, and none for vent eleven, which is
+now four.** **Gave a conclusion on the fracture face**, because stone is the one
+thing she will sign. **And built the arch** — the mechanism that answers the
+wolf's question — **and sat down on the floor of a ledge to say it.** Carried the
+shard wrapped in her instrument cloth.
+
+**Mya Li.** Said four things and each of them once. **Volunteered to be removed
+from the experiment** — *"take my hand off the next one"* — which cost her the one
+mark she has had in this correspondence since the autumn. **Named the stone as a
+letterhead** and the contradiction it created in the same turn. **Asked the
+question nobody had designed for: what does Faelyn do on the day they answer
+yes** — *"you do not ask a people whether they want out unless you can get them
+out."* Weighed Ignis's eastern fear fairly, two against and one for, and gave the
+*for* without softening it. **Abolished the standing-and-counting at the mouth of
+the seam — *"today that stops"* — and then took the counting watch herself at the
+break and said out loud that it was her turn.** And closed the session's largest
+finding: ***"we're not outside it. We're in with it."***
+
+**Wick Pallowen.** Three lines again, and all three landed. ***"That's not a
+letter. That's a phrasebook."*** ***"So why's there a road?"*** And, on the warm
+air at the bottom of the stair: ***"then eleven's warm because it isn't a working.
+It's a chimney."*** **Also saw the worn band on the ledge first**, which is the
+observation the whole trunk-and-branches map is built on. **Dropped a stone off
+the end of the stair before Maevis could stop him** and listened to it not land.
+
+**The quiet ones (unidentified, not to be named).** **Collected board nine within
+two and a half hours, by one coming UP the stair from the work**, and left nothing
+in its place. **Nine of them set their tools down in the row by size and stopped
+for the entire time six people stood on their working face, and did not resume
+until eleven minutes after the party had gone.** **Everything in the mountain
+restarted at once — second time.** **Travelled as a file of eleven on a worn road
+and passed at two feet in lantern light without one head turning.** **One crossed
+the road to stand in front of a single named person, took a breath out of rhythm
+at the river stone for the second time in the campaign, declined the stone, touched
+it, then touched the exact place on her palm where a stroke was drawn thirty-five
+days earlier and has not been visible since.** **Accepted a hand offered by a
+person for the first time.** **Led a party of six a mile north off the end of the
+known map and stopped them at the edge of a break.** **Guided a hand to broken
+stone and stopped four inches short.** **Selected a shard out of a heap of their
+own failed work and closed a stranger's fingers over it.** **Watched her cross a
+hundred feet of fracture and did not stop watching.** And a quarter-mile further
+on, **ranks of them — more than have ever been seen in one place — clearing a fresh
+collapse in the dark with dust still in the air and the heap not yet tidy.**
+*No statblock. Do not build one.*

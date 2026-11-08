@@ -22,7 +22,13 @@ At the start of every session, before doing anything else:
    Cloning a public repo over https needs no token. A token is only required
    later, for pushing.
 2. Read this file.
-3. Read all 8 bible files in full from the local clone.
+3. **⚠ Is this a campaign/play session?** The user normally says up front
+   whether you are **playing D&D** or **building lore**. If it is play — or if
+   step 3 of §10 would apply — **stop here and read
+   `campaign/CAMPAIGN_INSTRUCTIONS.md` §1a before opening any bible file.** It
+   scopes the read below, and it cannot do that if you reach it afterwards.
+   If it is lore work, or you genuinely cannot tell, continue to step 4.
+4. Read all 8 bible files in full from the local clone.
 
 Do **not** use web search or `web_fetch` to reach the repo. The repo is not
 reliably indexed by search, and `web_fetch` can only open URLs that already

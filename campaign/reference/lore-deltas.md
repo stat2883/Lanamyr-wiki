@@ -759,3 +759,96 @@ This is campaign material and **must not be promoted.** It does not establish th
 Sharii is a Magni and is not intended to. The bible's unfilled slot for a more
 recent Magni (`Lanamyr_08_Open_Questions.txt`, MAGNI) remains open and untouched,
 and nothing from this campaign has been written into it.
+
+---
+
+### The correspondence office and the royal household writ — session 9, NOT for promotion
+
+**Entirely campaign-invented.** Nothing in `bible/` describes Faelyn's crown
+administration beyond the existence of King Aer'Raenal. None of the following is
+canon and none of it is offered for promotion.
+
+- **A class of royal household warrant that is not entered in the schedule of
+  warrants.** Six or eight in existence; the front matter of the plan-office
+  standing orders excludes them by rule, which is why such a seal carries **two
+  word-breaks** where an office's carries four to six.
+- **One such writ, entered under the single word *correspondence***, held by
+  **Oris Caul**, renewed nine times in Aer'Raenal's own hand and older than
+  those renewals. **231 years, three kings, three holders.**
+- **The collection:** writing nobody in Faelyn can identify, gathered from the
+  college annex and the grain office's dead counter. Nineteen pieces of the
+  mountain hand; **four of them identical to one another and identical to the
+  nine-line form the party has now obtained three times.** Origins include
+  Kuldor, the southern river and **the east**.
+- **The standing instruction: *you collect, you enter, you tell no one*** — and
+  the fourth thing, said once in a corridor and never repeated: ***don't try to
+  read it.***
+
+**⚠ HANDLE WITH CARE.** This places the nine-line form at Kuldor, on the
+southern river and in the east, **two centuries before the campaign**, which
+reaches well outside the Tempest Peaks. It is a campaign construction and must
+not be allowed to leak into bible geography or history.
+
+### Aer'Raenal Liaphyra on screen — session 9, NOT for promotion
+
+The king appears for the first time, in one audience with his daughter. **No
+confirmed history is altered.** What is campaign-side: that he renews the
+correspondence writ personally; that he declines to say what it covers and gives
+his reason; that he read Vaeroth's October letter and understood the ordering of
+the names; and the one line he gave as a father rather than as the king —
+***"you are not the first person to bring me a page of that writing."***
+
+**Who that was, and when, is deliberately unresolved. Do not fill it in.**
+
+### The lead strip and Ukuri in play — session 9, NOT for promotion
+
+A strip of hammered lead, eastern road, May 387, two lines pressed in Ukuri,
+translated by Alinar:
+
+> ***Two thousand four hundred. Half measure. Thirty days.***
+> ***Eighth road. They are not told.***
+
+**Campaign-side entirely.** The bible confirms Ukuri as the Dark Elf language
+and nothing else here. The *eighth road*, the twenty-four hundred, and the
+identity of *they* are open and invented. **The translation's standing is weak
+by design** — one reader, no second reader in the kingdom, and the translator
+cannot account for how he knows the language.
+
+**Note on `08_Open_Questions`:** none of this touches the open MAGNI slot, and
+nothing about how the twins know Ukuri has been resolved or written anywhere.
+
+### Campaign NPCs added session 9 — NOT for promotion
+
+**Oris Caul** (correspondence writ-holder; see `../npcs/oris-caul.md`) ·
+**Serry Vane** (dead counter, grain office, thirty-one years) ·
+**Teveren Ost** (scholar, the college, sixty years in one room) ·
+**Hesk Brun** (porter, the college annex, human, eleven years on that door) ·
+**the second man** (unidentified; works off a list, asked who takes in wax).
+**Ivell Sarrow** and **Phessa Molt** recur from sessions 2 and 5.
+
+### ⚠ A player-facing calendar — session 9, CAMPAIGN ONLY, NEVER PROMOTED
+
+By user request the campaign now dates events in **real-world months and days**
+instead of a running day-count. **Anchor: campaign day 1 = 1 October 387 AW.**
+Twelve months, standard lengths. **The AW year turns at the spring assessment on
+1 April**, which is why January, February and March of the campaign's first
+winter are still 387 AW.
+
+**This is a table convenience for the players and is explicitly not Lanamyr
+canon.** The bible says nothing about how Alios reckons months and this does not
+propose that it should. Conversion table lives in `../campaign-status.md`.
+
+### Mechanics clarified in session 9 — table material only
+
+- **⚠ WILD SHAPE DURATION — CORRECTED TO RAW.** `characters/Ignis.md` read
+  *Duration 1 hour* from session 3 to session 9. That is wrong: it is **hours
+  equal to half druid level**, so **two hours at 5th**, and Circle of the Moon
+  changes only the CR cap and the flying/swimming restrictions. **User ruled PHB
+  as written. Sessions 3–8 are not retconned.**
+- **Expiry does not force a revert** — the second use may be spent at the
+  duration mark to continue seamlessly — **and it cannot be spent early.**
+- **Dragline silk** is allowed to a spider form as flavour-true: no slot, no
+  check, the anchor holds because the creature's weight is negligible. The
+  hazards are the climb back and the air, not the line.
+- **A Tiny spider has 1 HP**, so any damage at all forces a revert. This is the
+  real constraint on spider scouting and was named at the table.

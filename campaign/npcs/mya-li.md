@@ -246,6 +246,61 @@ for the first time**, and it is not a comfortable one: she thinks the druid is
 right about the quiet ones, and she thinks being certain from the inside is the
 exact thing she herself got wrong for sixty years, and she said both.
 
+**Session 9.** The session in which she spent the thing she came here to stop
+being.
+
+- **⚠ SHE WITHHELD, AND THEN GAVE IT UP BEFORE SHE WAS CAUGHT.** She has known
+  since Aldric's kitchen in December what *two is not an office* probably meant,
+  because she grew up in the building it means, **and said nothing for fifty
+  days.** Her reason, given plainly: everything she has in this company rests on
+  nobody being able to say *that's her father's daughter talking.* Her own
+  verdict on the reason: *"it was the wrong way round, and I'd like it noted
+  that **you had to come and get it out of me**. That isn't a standard I'd
+  accept from either of you."*
+- **⚠ SHE WENT INTO THE PALACE AS HIS DAUGHTER.** On Vaeroth's written ruling,
+  as a private person, out of uniform. **She named all four costs before she
+  went** — the word is spent and will come back to the company; a daughter has
+  no standing and nothing she is told is evidence; *"they can handle me"*; and
+  **"I am the wrong person to send."** She also refused in advance to creep
+  about her father's house: *"if I see him I'll tell him exactly why I came."*
+- **Nobody stopped her at any point**, which cost her something she named out
+  loud: *"the easiest five hours I have had since the autumn. I enjoyed about
+  ninety seconds of it and I am not going to pretend otherwise."* **This is the
+  s3 shadow speech landing on her from the other direction.**
+- **She refused a place in the house.** Her father said *"Yes,"* like a man
+  settling a bet with himself.
+- **⚠ THE CORRIDOR.** Sharii looked at her and addressed the room; she named it
+  for the third time and said she would not name it a fourth, **and then let it
+  go entirely.** When he and Ignis went at her properly — *"I am offended by
+  your lack of candor"* / *"if you're on our side, you have to be on our side"* —
+  **she took all of it and corrected exactly one word.** *"I wasn't offended. If
+  I'd been offended you'd have known, because I'd have said it once and then
+  stopped talking to you, and I've done neither."*
+- **⚠ AND THEN SHE SAID THE THING THAT RUNS THE OTHER WAY, ONCE.** *"I've never
+  asked Sharii what happens to him. I decided in the autumn that it was his
+  until it was the squadron's, and that he'd tell me, and I've held to that for
+  six months, in a militia, in a war, with something that puts him on one knee
+  in the dark. If the rule now is that anything which could get people killed
+  goes to the room, then it's a rule, and it runs the length of the corridor and
+  not just my end of it. **I'm not objecting. I'd like it.** It would have been
+  easier all winter."*
+  **This is live. Sharii has still not told anybody about the wolf's testimony,
+  and now also not about the six feet. Do not resolve it for him.**
+- **She found Thale's sentence for Aldric** in one go: *"Nothing in the middle
+  of that mountain has ever threatened Ashwell. It isn't coming up and it never
+  was. **The mountain is coming down.**"*
+
+**Standing after s9:** she has now paid a real price for these three and they
+know it. She has also, for the first time, put a standard to them that they will
+have to meet. **She does not hold grudges and she does not re-litigate — she
+said each of these things once.** Alinar she now also rates for turning a
+quarrel into a rule on the spot. Sharii she rates unchanged and is now on record,
+three times, about the one habit.
+
+**⚠ Kharis is east with no return date and she has still not spoken about it in
+any room.** Nine weeks now. **Do not have anybody remark on it. Do not resolve
+it for her.**
+
 ---
 
 ## Hard Limits — What She Cannot Know

@@ -1839,3 +1839,296 @@ hundred feet of fracture and did not stop watching.** And a quarter-mile further
 on, **ranks of them — more than have ever been seen in one place — clearing a fresh
 collapse in the dark with dust still in the air and the heap not yet tidy.**
 *No statblock. Do not build one.*
+
+---
+
+# SESSION 9 — days 104–115 (12–23 January, 387 AW)
+
+## Sharii
+
+**S9 — the ledge, after the report.** Learned that Knight's reading had moved
+for the first time ever, to six feet, and that the wolf shape had stopped
+working. **Said nothing to Ignis about it and nothing to his brother.**
+
+**S9 — the seam.** Was asked by his own animal, in as many words, to be present
+at the readings — *"because the nothing is the same as his"* — **and took the
+new procedure to Bellis Ordow instead of to Alinar.** Ordow named it to his
+face in one sentence and he did not argue.
+
+**S9 — the annex door.** Let an eighty-year-old porter talk about nothing for
+ten minutes before anybody asked him a question, which is why the date got
+fixed against a coal barrow after Maevis had asked twice and got two numbers.
+**He did not point out that this had worked.**
+
+**S9 — a corridor in Caldalus.** **Looked directly at Mya and addressed the
+room.** Fifth time he has done a version of this. She named it for the third
+time and said she would not name it a fourth; he said *"I know"* and did not
+defend it.
+
+**S9 — the same corridor.** Then told her what her own position was — *"you get
+offended by that; that's on you"* — **and was wrong about it**, and she
+corrected the one word and took the rest. **Fifth time he has told somebody
+their own position, and at least the third time he has been gently wrong.**
+
+**S9 — the grain office.** Said one sentence over the lead strip — ***"somebody
+is feeding twenty-four hundred people, and not telling them something"*** — and
+nothing else at all.
+
+**S9 — all session.** **Stood behind his brother while he discovered he could
+read Ukuri, for the second time in eight days, and said nothing on either
+occasion.** This time Alinar disclosed it himself.
+
+### Pattern — observations, not conclusions
+- **Unchanged, four sessions running:** one question or one sentence, and then
+  out of the way of the answer.
+- **New, s9:** the thing he withholds is now specifically *about other people's
+  relationships to him*. He did not pass on a wolf's request to be near his
+  brother, and he routed it through a quartermaster instead.
+- **Sharpening, s9:** he tells people their own position, and he is wrong about
+  it more often than he is right, and he has never once defended a version after
+  being corrected.
+- **Still has not told Alinar** about the wolf's testimony. Now also has not
+  told him about the six feet.
+
+---
+
+## Alinar
+
+**S9 — Ashwell and Caldalus.** Made the party say the third breach out loud
+before Thale and again before Vaeroth, both times before any finding.
+
+**S9 — the corridor.** Turned a quarrel into a rule inside two sentences:
+*"Anything that points at her house goes to the room. She doesn't get to decide
+whether it's relevant — none of us does. Same as the breaches."* **Second
+session running he has answered an argument with a structure rather than a
+position.**
+
+**S9 — the plan office lead.** His own from session 6 — *don't ask who cut it,
+ask who's allowed to* — paid out, and when it did he immediately found the next
+edge: **"what we haven't got is who signs for him, and that's the only name
+that matters."**
+
+**S9 — Ordow's board.** Stood in front of the eastern request again, with four
+spaces and an unrubbed column, and did not ask. **Fifth refusal.**
+
+**S9 — the dead counter.** **Signed the crown ledger in full, with his rank**,
+where Serry Vane says most people initial. *"Most people aren't taking a thing
+out of a crown office because they can read it."* **That signature is how Oris
+Caul got his name inside four hours.**
+
+**S9 — the dead counter.** **Disclosed that he can read and write Ukuri, and
+that he had concealed it for eight days, BEFORE he translated a word** — and
+named the third party in the room who had not consented to hearing it. *"That
+was mine to tell and I didn't."*
+
+**S9 — the lead strip.** **Gave the limits of his own translation unprompted**
+— the numbers certain, the last four words not, the grammar doing something he
+can hear and cannot name.
+
+**S9 — Caul's house.** **Told a crown warrant-holder the entire contents of the
+mountain, in confidence, leaving no detail out** — which is substantially more
+than the captain sanctioned an hour earlier. **He has not yet named it as a
+breach, which is new.**
+
+### Pattern — observations, not conclusions
+- **Unchanged:** fence first, number first, adjectives never, result accepted.
+- **New, s9:** he now converts interpersonal conflict into procedure. Twice.
+- **New, s9, and against his whole record:** he made the largest unilateral
+  disclosure of the campaign and **did not flag it as a breach himself.** Every
+  other time, he has been the one who insisted it be said out loud first.
+- **Resolved, s9:** the thing he concealed in s8 he disclosed in s9, voluntarily,
+  in front of the person most exposed by it, before it bought him anything.
+
+---
+
+## Ignis
+
+**S9 — the second break.** Climbed down eighteen feet of broken face toward one
+of them, unasked, and **walked onto its open hand as a one-hit-point spider**,
+with nobody able to reach her and no way to call for help. **Fourth time she has
+initiated contact; third time with her hands.**
+
+**S9 — the twelfth cube.** Put two legs on a lit one. **Failed the save, locked
+rigid for six seconds** — and reported the flicker and the hand on the stone
+beside her as **two facts she could not separate**, rather than claiming either.
+
+**S9 — off the road.** **Went over the edge of the only built thing in that
+place and down the outside of it**, alone, with no order covering it and no
+precedent for any of it.
+
+**S9 — the thread.** Spun a line and descended nine hundred feet into open air
+with nothing underneath her at any point and no surface within reach.
+
+**S9 — the thread.** **Counted the air surges twice, a full minute each, because
+she did not trust the first count** — and then reported *four a minute* without
+drawing the obvious conclusion about their breathing out loud.
+
+**S9 — inside it.** Brought back a finding that **destroys the party's own
+best-evidenced conclusion** and said so herself rather than softening it.
+
+**S9 — the seam.** Had the wolf's reading move against her for the first time,
+**and made the note about the six feet herself, first, before anybody else could
+say it.** Eighth session running she has led with the thing that weakens her.
+
+**S9 — the seam.** Did not tell Knight about four surges a minute.
+
+**S9 — a corridor in Caldalus.** **Went at Mya directly** — *"if you're on our
+side, you have to be on our side"* — which is the first time she has put the
+hard thing to an ally rather than to herself. **New.**
+
+**S9 — the Low Weaving.** Settled her druidic focus by climbing a stair and
+cutting a sprig of mistletoe out of the only green thing in Caldalus in January.
+
+**S9 — the dead counter.** Told Oris Caul what four objects he had kept for
+sixty years actually were, **immediately, for nothing, before anybody had agreed
+what he was owed.**
+
+### Pattern — observations, not conclusions
+- **Unchanged, eighth session running:** she leads with the thing that weakens
+  her.
+- **Unchanged and escalating:** she initiates now, and she initiates with her
+  hands, and she does it in bodies that cannot survive being wrong.
+- **New, s9:** she designs for her own distrust — two counts of the surges, two
+  attempts at the pinch in s7, the stated error on every figure.
+- **New, s9:** she will put the hard thing to a friend's face. She had never done
+  that before; every previous instance was aimed at herself.
+- **Still unused: *Telepathic*.** Now through a hand-hold, a guided walk, ranks
+  of them in the dark, a carry, and six seconds inside the thing itself.
+- **Still unanswered:** she was told in October she may leave. Nobody has raised
+  it since.
+
+---
+
+## What NPCs have observed
+
+### Added session 9
+
+**Mya Li.** **Volunteered a fifty-day concealment before she could be accused of
+it**, named her own reason for it and then called the reason wrong —
+*"I'd like it noted that you had to come and get it out of me."* **Went into
+her father's house as his daughter** after six months of making a kingdom not
+say the word, named all four costs before she went, and named the worst one
+honestly: *"I am the wrong person to send."* **Refused a place in that house.**
+Took a direct attack from two friends without defending herself, corrected
+exactly one word of it — *"I wasn't offended"* — and then **said the thing that
+cuts the other way and said it once:** *"I've never asked Sharii what happens to
+him... if the rule now is that anything which could get people killed goes to
+the room, then it's a rule and it runs the length of the corridor. I'm not
+objecting. I'd like it."* And found Thale's sentence for Aldric in one go:
+*"It isn't coming up and it never was. The mountain is coming down."*
+
+**Maevis Tarn.** **Derived the real rule off the rejects in ten minutes and was
+cross it took ten** — *he doesn't want cut, he wants unidentifiable.* **Refused
+to reconcile the stroke problem and said so the same day she lost her own rule**
+— *"I had one yesterday and it was wrong."* **Refused, for the second time in
+three sessions, to make a doctored copy**, and offered the honest version
+instead. **Named the asymmetry between the two boards before cutting either**
+— the nine-line is cheap, the eleven-line is the only thing those people have
+ever said. **Killed the forty-one coincidence pre-emptively and had the words
+*coincidence, flagged by me* written after it in her own book.** Named her own
+exposure out loud: a mile and a half of survey built on the assumption of one
+line, with only one person alive who can ever check it. **And made a second bad
+copy of the survey before leaving Ashwell**, on the captain's own doctrine.
+
+**Sgt. Serwyn Thale.** Heard the largest report of the campaign without
+interrupting and then found what none of it was: ***"none of that is the
+report"*** — forty-one people, one neighbour, a charter and a draw.
+**Refused to send a thin report** on the grounds that it would teach a clerk
+four hundred miles away that thin means nothing happened. **Wrote the omission
+itself, in his own hand, dated and signed** — *the forward party holds material
+I am not committing to paper* — *"I'd rather be robbed than useless. I'd rather
+be found than useless."*
+
+**Capt. Ilyen Vaeroth.** Asked four questions and not a fifth, and the last was
+***which of you decided not to tell me yesterday***, and he let the silence be
+the answer. **Took no action on the third breach and said why in terms of the
+file rather than the men:** *"somebody in forty years will read this and
+understand exactly how a company gets to where you are standing, and I would
+like that to be legible."* **Refused to let a soldier of his company ask the
+palace a question he could not describe**, and offered the private-person route
+instead rather than simply forbidding it, and **wrote down that he knew.**
+**Refused the stakeout on the shape of it rather than the intent** — *"if I
+sanction that I am doing the thing I refused to do on Tuesday, only worse, and
+in a cellar."* Found the sentence that reframed the whole approach: ***"You do
+not question a man who has spent eleven years looking for something. You show
+him."*** And on Ukuri: **he will use Alinar, he will never write where the
+translation came from, he said so to his face, and he named the debt** —
+***"covering you and using you are the same act. It's now the two of you."***
+
+**Bellis Ordow.** Had no news out of the east and said so plainly — *"four names
+not on a list; it's the only good news there is and it's not news."* Still has
+not rubbed out the column beside four absent names. **Put a wolf's new procedure
+on the board without comment and then named what had been left out of it in one
+sentence:** *"He's asked for both of you, lad, and you've come and told me the
+half with you in it."*
+
+**Knight.** **The reading moved for the first time since it began — six feet.**
+And **the wolf shape stopped working**, which it never had before: two feet and
+no further. The under-smell is unchanged; **it is the other one.** *"Before it
+was on you, like mud, and it stayed where it was put. Now it comes and it goes.
+Like breathing. It is not on you. It is in you, and it comes out of you."*
+**Asked for a job rather than reassurance, again** — twice a day, morning and
+the hour — and **asked for Sharii to be present, and gave a reason:** *"because
+the nothing is the same as his. If it is the same thing then he will know what
+it is. I will only ever know how far away it is."* And, to a second person,
+with no idea he had said it before: *"I would like to be told when it is
+happening, so I can be where you are."*
+
+**King Aer'Raenal Liaphyra** *(first appearance)*. **Read the October letter and
+understood what his daughter had done with the order of the names, and let it
+stand.** Confirmed the writ is his and that he renews it himself. **Refused to
+say what it covers and gave his reason rather than dressing it up:** *"it does
+not currently exist anywhere but in the mouth of one king at a time."*
+**Separated the king from the father out loud before giving the one thing he
+gave** — ***"you are not the first person to bring me a page of that writing"***
+— so that she could say so honestly afterwards. Denied knowing what is under the
+Tempest Peaks and **pointed out that he had not been obliged to.** Offered her a
+place in the house, took her refusal with *"Yes,"* and sent her away with a
+courtesy for the man she was hunting: *"be civil to him, he has done nothing
+wrong and he will be frightened."*
+
+**Serry Vane** *(dead counter, 31 years)*. **Had the whole of the rule in her
+hands for three decades and had never had anybody to tell it to** — *he has
+never once taken a thing that was written with a pen.* Produced the road-and-date
+book without being told why it was wanted. **Showed Oris Caul the crown ledger
+with Alinar's name in it because she had no grounds to refuse and would not have
+wanted any, and then told Alinar she had done it, unprompted and without
+apology.** *"He's never once asked me about a thing he didn't take. Thirty-one
+years."*
+
+**Teveren Ost** *(college)*. Honest twice. Could not read the rubbing and said
+so. And **volunteered the single most damaging observation available to him with
+the disclaimer attached before the observation** — *"I may be inventing it, and
+that is exactly how a man invents a memory"* — **his eyes tracked.**
+
+**Hesk Brun** *(annex porter, 11 years)*. **Fixed the date against the coal
+barrow** after giving Maevis two different numbers, because somebody finally
+asked him for a day instead of a number. And gave for nothing the thing nobody
+had asked for: *"he's been coming here years. Since before I had this door."*
+
+**Phessa Molt.** Told Ignis to her face that she had named her to the man with
+the list, *"because I'd rather you heard that from me."* **Ruled out the
+description flat** and gave the distinction that made it useful: *"mine were
+sent."* And remembered the question that was not about sulphur — **who takes in
+wax, and who does sealing.**
+
+**Ivell Sarrow.** Said immediately and usefully what he could not reach, and
+where not to ask from. **Recognised the man off one detail** — ink on the left
+heel — and gave a name, a counter and a week.
+
+**⚠ Oris Caul** *(first appearance)*. **Opened the door before they knocked**,
+having been at the window since first light. **Asked whether he was in trouble
+before anything else, and said why:** *"at my age the waiting is the part that
+does the damage."* Stated his own position before being accused of anything:
+every item entered, every one, **and never once asked a single question about
+any of it by anybody, including the three men who signed the warrant.**
+**Listened to the entire mountain without interrupting.** Then: ***"Yes. I know
+this hand."*** — and immediately, before anybody's face could change,
+***"I cannot read it. Not one character. I will not be the thing you hoped I
+was."*** Produced nineteen pieces of it out of a box he did not have to search
+for, **231 years, three kings, three holders.** Worked out in front of them what
+his own four identical objects meant once he was told — *"then somebody was
+leaving them blank boards. In Kuldor. And off the southern river. And out of the
+east. For two hundred years."* **Offered help before being asked for it.** And
+gave up the one thing fifty-nine years of instruction told him not to:
+***"Don't try to read it."***

@@ -148,8 +148,29 @@ a bonus action to regain **1d8 HP per slot level**.
 
 ### Level 2 — Circle of the Moon: Circle Forms
 Beast forms up to **CR 1** (rather than CR 1/4). No flying forms until 8th
-level. **Swimming forms unlocked at 4th.** Duration 1 hour. CR stays at 1
-until 6th level.
+level. **Swimming forms unlocked at 4th.** CR stays at 1 until 6th level.
+
+**⚠ DURATION — CORRECTED, SESSION 9.** This entry read *Duration 1 hour* from
+session 3 to session 9 and that was simply **wrong**. Wild Shape RAW lasts
+**hours equal to half druid level, rounded down**, and Circle of the Moon
+changes only the CR cap and the flying/swimming restrictions — it does not
+touch duration.
+
+| Druid level | Duration |
+|---|---|
+| 3–5 | **2 hours** |
+| 6–7 | 3 hours |
+| 8–9 | 4 hours |
+
+**At level 5 she has two hours, not one.** The error was caught mid-scene on
+day 104 while she was six hundred feet down a thread under the ring, when the
+hour came and went and she did not revert. User ruled **PHB as written**.
+Sessions 3–8 ran on the wrong number; nothing is retconned.
+
+**Expiry does not force a revert.** *"You then revert to your normal form
+**unless you expend another use of this feature.**"* At the two-hour mark she
+may spend the second use and continue without ever returning to her own body.
+She cannot spend it early to top the clock up.
 
 ### Level 3 — 2nd-level spells
 Slots become four 1st and two 2nd. Prepared count rises to six.
@@ -296,7 +317,23 @@ switch.
 - Alchemist's supplies; herbalism kit
 - Traveller's clothes, belt pouch
 - **A letter of introduction from her guild**
-- **10 gp** *(15 at creation; 5 spent at Phessa Molt's, session 5)*
+- **A sprig of mistletoe** — her druidic focus, cut off a limb on the Low
+  Weaving stair in Caldalus, 20 Jan, session 9
+- **A steel mirror**, palm-sized, in a leather sleeve — bought 20 Jan, session
+  9, to watch a corridor over her own shoulder
+- **5 gp** *(15 at creation; 5 at Phessa Molt's, session 5; 5 on the mirror,
+  session 9)*
+
+**Objects she is carrying that were given or found, not bought:**
+- **The river stone** — warm from somebody's pocket, worn smooth, set on a
+  corridor floor and taken by her, session 3. **Two of three showings have
+  produced a breath out of rhythm.**
+- **The shard** — cut cube out of a heap of failed work, pressed into her hand
+  and her fingers closed over it, day 104. *Carried by Maevis in her instrument
+  cloth.*
+- **Half a hazel tally stick**, forty-one notches, split lengthwise so a
+  matching half exists somewhere. Dead stock, signed out of a crown ledger,
+  22 Jan. *Maevis flagged the forty-one as coincidence in writing, pre-emptively.*
 
 ### The shield — ruling, established at creation
 
@@ -319,8 +356,10 @@ from RAW follows from the fiction and is deliberate:
   can be sundered, ruled non-functional, or lost like any other item, and it
   melds or drops on Wild Shape like the rest of her gear.
 
-**Undecided:** her druidic focus (sprig of mistletoe, totem, wooden staff, or
-yew wand).
+**SETTLED, session 9:** her druidic focus is a **sprig of mistletoe**, cut by
+her own hand off the underside of a limb on the Low Weaving stair in Caldalus,
+20 January, in the deep of the winter of 387 AW — which is the one season of
+the year when mistletoe is the only green thing at that height.
 
 *The gold cost of her guild membership and alchemist's supplies was waived by
 user ruling at creation.*
@@ -378,7 +417,7 @@ dated record of what she has actually done, which is what the DM reasons from.
    wooden shield. AC 15. No unresolved numbers remain on the sheet.
 2. Whether the dagger is her starting simple weapon or sits alongside a
    scimitar.
-3. Druidic focus.
+3. ~~Druidic focus.~~ **Settled session 9 — a sprig of mistletoe.**
 4. Her age.
 5. Which guild she belongs to.
 6. ~~What a Tiefling is in Lanamyr~~ — **PARTLY RESOLVED.** Origin settled

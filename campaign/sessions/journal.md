@@ -2358,3 +2358,414 @@ And past it, the first three shelves have cubes on them, and all three are dark.
 
 *Next: a Tiefling four inches off the floor with thirty feet of sight, fourteen
 minutes into an hour, a third of a mile past a gap her friends cannot cross.*
+
+---
+
+## Session 9 — Unlettered
+
+*387 AW. Twelve days. Nine hundred feet under a road that isn't on any map, and
+then a cold room in Caldalus with four hundred things in it that nobody can
+read.*
+
+She went on north, because the only alternative was to turn round, and the one
+carrying nothing came and stood underneath her and would not go away.
+
+It put its hand flat against the rock — not at its own chest, where every open
+hand any of them has ever offered has been held, but at *hers*, four feet up a
+broken wall, at the exact height a thing the size of a thumbnail would come
+down. She got on it. It carried her nine hundred feet north through ranks of
+them in three minutes and not one head turned, and the only thing on that heap
+without dust on it was him.
+
+Eleven dark cubes went past, correct and seated and unmarked. She put two legs
+on the twelfth, and it locked her rigid for six seconds, and in those six
+seconds she felt the same rope she felt in the autumn pulled past anything she
+has a word for — and underneath it, small and quite distinct, **it going.**
+Slipping, like a wet knot, continuously. The light flickered once, which these
+lights do not do, and a hand came down flat on the stone beside her and the
+flicker stopped and her legs came free in the same instant, and there is no way
+on earth to tell which of those caused the other.
+
+Then she went over the edge of the road and down the outside of the world, and
+what she found down there is the shape of the whole thing.
+
+The finished work is a **band**. Thirty feet of it, with a level lower edge as
+true as the upper one, on a wall that leans away underneath and keeps leaning
+until you are walking upside down. The space opens out below the road. The
+nearest honest word for it is the inside of a bell, and that road is around the
+rim.
+
+Eighty-five feet down there is a **second ring**. Flat, swept, four abreast,
+shelves at the same interval, a cube seated square on every one of them — and
+all of it dark, with no circle cut round a single one, no chips, no tools, no
+dust, and no worn band anywhere on the floor. Nobody has ever come back to one
+of those. Which means nobody ever tried to make them work.
+
+A hundred and ninety feet down there is a **third**, and it is half built. Six
+empty shelves, then scored outlines, then a squared-off last cut and raw
+mountain, and the chips swept to the left.
+
+The work goes **downward**. Which splits the dark in two, and nobody above
+ground has ever had a way to tell the halves apart: the eleven north of the
+break went out, and the ring below has never been lit at all.
+
+And below the third band the wall is simply gone. A torn margin at three hundred
+feet, running out of sight both ways, with nothing past it — and the warm air of
+the whole circuit comes up out of the hole where it used to be. The lower half
+of that place has been taken off the mountain.
+
+Which finishes Maevis's arch, and she did not need to be there to have it
+finished. The top ring is not failing because something is hitting the top ring.
+**It is the only one left holding.**
+
+Then she spun a thread and went down it into open air.
+
+At fifty feet the warm air becomes a current. At a hundred the column is turning
+— the thread swings one way and does not come back. At a hundred and fifty she
+stopped descending and counted, twice, a full minute each time, because she did
+not trust the first count: the air comes in surges, soft-edged and perfectly
+regular, **four times a minute.** Which is the rate they breathe at. She has no
+idea what that means and neither does anybody else.
+
+At nine hundred feet she crossed a line that is not there, and the strain
+stopped being below her.
+
+She was inside it. It goes down and out past anything she can put a boundary
+on, and all three rings are hung off the top of it the way a net is hung off
+what it carries. And in there, in the middle of it, **there is no strain at
+all.** No attention. No malice. Nothing that noticed her. It is not pressing
+out, it is not confined in any way she could detect, and **it is not trying to
+get out.**
+
+Which sits flat across the top of the best-evidenced thing anybody said all
+winter. Maevis read that fracture for four minutes and signed her name to it —
+*the force came from the open side, from the middle* — and Mya built *we're in
+with it* on top of that. Neither of them is withdrawn. Both halves go on the
+paper and neither will let the other be comfortable.
+
+She came up. He had not moved in the hour she was below him. And the twelfth
+cube, the one she had her legs on, was dark.
+
+---
+
+The wax board was in the niche and it was nine lines, character for character,
+third time — so the form is a form, in any place, by any hand. And the answering
+stroke was in the corner, where nobody had met anybody, which is the one thing
+the rule they built the day before says cannot happen. Four boards now, four
+answers, and no rule in them at all.
+
+*I had one yesterday and it was wrong*, Maevis said, *and I said at the time I
+couldn't reconcile it, and I'd quite like to have been wrong about that.*
+
+At the seam a wolf was at the mark, downwind, at the hour, because it was the
+hour — and he would not come inside six feet. The first time that number has
+ever moved. She went to wolf, which has always worked, and **he still did not
+come**, and that has never happened in his life. The under-smell is the same as
+it ever was. It is the other one.
+
+*Before, it was on you, like mud, and it stayed where it was put. Now it comes
+and it goes. Like breathing. It is not on you. It is in you, and it comes out of
+you.*
+
+Nobody told him about four surges a minute.
+
+He asked for a job instead of comfort, as he always does — twice a day now,
+morning and the hour — and he asked for one more thing, because the mark has
+stopped being any use: *I want him there. Because the nothing is the same as
+his. If it is the same thing then he will know what it is. I will only ever know
+how far away it is.*
+
+Sharii took the new procedure to Bellis Ordow and had it written on the board.
+
+*He's asked for both of you, lad,* Ordow said, *and you've come and told me the
+half with you in it.*
+
+---
+
+In Aldric's kitchen Thale heard all of it standing up and then found the thing
+nobody else had.
+
+*You've given me three rings, a bell, a hole where the bottom ought to be, four
+boards and a rock. None of that is the report. Twelve of those lights went out
+today and one of them went out with your hand on it. Forty-one people, one
+neighbour in the world who'd have them, a charter that lapses in March and a
+draw that shuts in January. So tell me what I'm supposed to say to that man in
+the morning.*
+
+And Mya found the sentence, once, the way she does. *Nothing in the middle of
+that mountain has ever threatened Ashwell. It isn't coming up and it never was.
+The mountain is coming down. He doesn't need to know what's in there to
+understand it.*
+
+They decided the rest was too dangerous to put on paper, and Thale refused to
+send a thin report, because the whole point of sending one every turn is so that
+silence doesn't have two meanings. What went south was two paragraphs and one
+line in his own hand: *the forward party holds material I am not committing to
+paper, which goes to the captain in a person's mouth.* Dated. Signed.
+
+*If somebody opens that and goes looking for me, they'll find me. I'd rather be
+found than useless.*
+
+Five days of road instead of four, and nine miles short of the gate they met a
+courier walking the other way with the answer to a question that was already
+five days dead. Third time this winter two bits of paper have passed each other
+going opposite ways. Nobody even remarked on it.
+
+---
+
+Dovin Reyl had been to the plan office and looked at the page once, in passing,
+on a real errand, and shut the book exactly as he said he would.
+
+Every warrant on the schedule of seals has four word-breaks or more. There is no
+two-break seal anywhere on that list. And in the front matter of the standing
+orders, in three lines nobody reads: *warrants of the royal household are not
+entered in this register.*
+
+*That isn't a finding*, he said. *That's an absence with a shape, and I'd not go
+further than it.*
+
+So Mya went home.
+
+She went as a private person, out of uniform, on a ruling the captain wrote down
+and dated, and she told the party first, unprompted, that she had known since
+Aldric's kitchen in December what a two-break seal probably meant, because she
+grew up in the building it means, and had said nothing for fifty days. *It was
+the wrong way round, and I'd like it noted that you had to come and get it out
+of me.*
+
+Nobody stopped her at that gate. Not at the door, not in the hall, not anywhere.
+A man who has known her since she was eleven said *welcome home, my lady* and
+had somebody take her coat. *The easiest five hours I have had since the autumn.
+I enjoyed about ninety seconds of it and I'm not going to pretend otherwise.*
+
+Her father had read the captain's letter in the autumn — eleven names in no
+order of rank, hers among them with no more weight than Ohren Kade's. *I
+understood what you had done. I let it stand.*
+
+The writ is his. He renews it himself, in his own hand, and has done nine times,
+and it is older than his nine renewals — handed to him by his father's steward
+in his first year with the things a new king is told once and never given on
+paper. He would not say what it covers, and he did not dress that up: *you will
+take it to a captain, and he will put it in a letter, and then it will exist. It
+does not currently exist anywhere but in the mouth of one king at a time.*
+
+Then he gave her exactly one thing, and told her first which hat he was wearing
+when he gave it, so that she could say so honestly afterwards.
+
+*You are not the first person to bring me a page of that writing.*
+
+He would not say who. He would not say when. Asked whether he knew what was
+under the Tempest Peaks he said *no* — *and that is true, and I would like you
+to notice that I did not have to say it.* He offered her a place in the house
+and she refused and he said *yes*, like a man settling a bet with himself.
+
+And at the door: *Oris Caul is not dangerous to you. He is an elderly man with a
+flat case who has done one errand for three kings. If you find him, be civil to
+him, because he has done nothing wrong and he will be frightened.*
+
+In the corridor afterwards the party went at her properly for the first time,
+and she took all of it, and corrected exactly one word — *I wasn't offended* —
+and then said the thing that is now sitting under somebody else entirely.
+
+*I've never asked Sharii what happens to him. I decided in the autumn it was his
+until it was the squadron's, and that he'd tell me, and I've held to that for six
+months in a war. If the rule now is that anything which could get people killed
+goes to the room, then it's a rule, and it runs the length of the corridor and
+not just my end of it. I'm not objecting. I'd like it. It would have been easier
+all winter.*
+
+---
+
+They found Oris Caul the way you find anybody, which is by asking people nobody
+has ever asked.
+
+An honest old scholar who could not read the rubbing and said so, and who
+volunteered — with a warning that he might have invented the memory, because
+that is exactly how a man invents one — that when the gentleman unrolled it on
+his table, *his eyes went across it. Left to right, and back, and down a line.
+The way you read. Undergraduates look at the middle of a script they can't read.
+They do not track.*
+
+A porter on the annex door who fixed his date against the morning they brought
+the coal up, and so pinned it: the man was there two days before anybody in
+Faelyn showed the college a single mark of that script. And, offered for
+nothing: *he's been coming here years. Since before I had this door, and I've
+had it eleven.*
+
+A glassblower on the Low Weaving who said flatly that this was **not** the man
+who came round her street a fortnight ago with a list in his hand reading the
+questions off it — *mine were sent* — and who mentioned, because it had been
+bothering her, that after the sulphur he had asked who on the Weaving takes in
+**wax**, and who does sealing.
+
+And a clerk who gave them a name and a counter and then did the arithmetic out
+loud, the way clerks do: *that's this week.*
+
+Serry Vane has kept the dead counter thirty-one years and nobody in that
+building has asked her a question about her own work in living memory, which is
+the most useful fact about her. She put the kettle on.
+
+He comes two or three days after quarter-day. He looks for twenty minutes. Most
+quarters he takes nothing at all. And in thirty-one years **he has never once
+taken a thing that was written with a pen.** What he takes is cut — pressed,
+stamped, scratched into something. A wax tablet off a river boat. A lead tag.
+A bit of slate. A strip of birch bark out of a dead soldier's kit from Fardar
+way.
+
+*I don't know what that means and I've thirty-one years of not knowing it.*
+
+Maevis found the real rule in ten minutes off the rejects, and was cross it took
+ten. Every cut thing he has put *back* is in a script somebody in that building
+can name — a foundry mark, a tally, a potter's thumb, a shopping list in plain
+Aiwiya. He does not want cut. **He wants unidentifiable.** Cut is just what
+unknown writing happens to arrive on.
+
+Which means that everything Oris Caul has taken, for nine years of warrant and
+eleven of a college door, is writing nobody in Faelyn could name.
+
+And then there was the fifth thing, which did not fit: a strip of hammered lead
+off the eastern road, cut, pressed, folded twice — exactly what he takes — and
+he has picked it up and put it down twice.
+
+Maevis had it under a candle a long time and then shut her notebook. *It is not
+ours. I've spent a winter learning that hand well enough to say no. It has
+word-breaks and ours doesn't. It's a real script, and I can't read a mark of
+it.*
+
+And Alinar put the fence up first, the way he does, before he climbed over it.
+
+*One, I can read it. Two, I have never seen a page of Ukuri in my life and I do
+not know how, and I found out eight days ago on the ledge that I could write it,
+and I did not tell any of you, and that was mine to tell and I didn't. Three,
+Serry Vane is standing here and about to hear a militia officer read Dark Elf,
+and she did not ask for that.*
+
+*I've worked a counter thirty-one years, lad. Read your lead.*
+
+> *Two thousand four hundred. Half measure. Thirty days.*
+> *Eighth road. They are not told.*
+
+He gave the caveat himself before anyone could ask for it: the numbers are
+certain and the last four words are not, because the grammar is doing something
+he can hear and cannot name.
+
+*Twenty-four hundred at half for thirty days*, Ignis said. *That isn't a raiding
+party and it isn't a garrison. That's a population. And you don't write* half
+measure *unless the full measure is what you'd normally give them.*
+
+And Sharii said one sentence and nothing else at all. *Somebody is feeding
+twenty-four hundred people, and not telling them something.*
+
+In October a captain cleared his desk and sent east for the grain schedules
+because it was the most boring question a man could ask — *if what they took is
+food, then somebody is feeding something, and I would like to know how many
+mouths.* That letter has never been answered. The answer came up the eastern
+road eight months ago in a dead man's kit and sat on a shelf waiting to be
+burned in April.
+
+---
+
+They gave Vaeroth everything, standing, for two hours, breaches first. He asked
+four questions and not a fifth, and then ruled.
+
+On the breach, nothing. *I have nothing left to take off you and we both know
+it. It goes in the left column unsoftened, with the march of a captain's
+doctrine down the page beside it, and somebody in forty years will read this
+file and understand exactly how a company gets to where you are standing, and I
+would like that to be legible.*
+
+On Ashwell, five minutes, and a rider before the draw shuts: the answer to
+Aldric's question has changed to **yes**, and Thale is to tell him in person,
+and tell him it came from us and not from a rumour.
+
+On the twenty-four hundred, he stood up.
+
+And on Alinar, he sat back down, and took a while.
+
+*I am not going to write* this officer reads Ukuri and cannot account for it *in
+a letter, because in a war with Dark Elves that sentence does not survive
+contact with one clever man in a warm office four hundred miles away. It will
+not matter that it's true. It will matter that it's useful.*
+
+*And here is what I'm not going to pretend. Covering you and using you are the
+same act. I said that to your brother in the autumn and he has had to live with
+it since. It's now the two of you.*
+
+---
+
+So on the twenty-third they knocked on a door in a bad quarter between a
+cooper's and a boarded frontage, and it opened before they reached it, because
+he had been at the window since first light and had not slept.
+
+One long cold room. A table, two chairs, a cot, a grate with week-old ash. And
+paper, boxes and shelving floor to ceiling down both walls and across the back,
+and more of it stacked up the staircase into the dark. No order anybody could
+use. A room in which one man has been putting things for a very long time.
+
+*I have had eleven years of people not coming here, and then yesterday a clerk
+showed me a militia officer's name in a crown ledger, and I would be grateful if
+you'd tell me quickly whether I'm in trouble, because at my age the waiting is
+the part that does the damage.*
+
+Alinar told him all of it. The whole mountain. Nothing left out.
+
+Caul did not interrupt once. He sat down on the cot at the nine of them cutting
+a stair in the dark. At the arch he put a hand over his mouth and left it there.
+
+*May I see them.*
+
+He held the boards to the morning light and did not look at them the way a man
+looks at something new.
+
+*Yes. I know this hand.* And then, before anybody's face could finish changing:
+*I cannot read it. Not one character. Neither could the man who had this before
+me, and neither could his. I want that said before anything else, because you
+have come a long way and I will not be the thing you hoped I was.*
+
+Then he fetched a box the size of a bread bin, and he did not have to look for
+it.
+
+Nineteen pieces of that hand. Lead, wax, pale stone, fired clay, birch bark,
+bone. Not one of them written with a pen. The oldest is not his — it came in the
+box with the warrant, in a hand that died before he was born. Two hundred and
+thirty-one years. Three kings. Three holders, and he is the third.
+
+He laid them out beside Maevis's copies in the order he keeps them, and stopped
+halfway.
+
+Four of them are identical to one another. A lead strip, a wax board, a clay
+tile, a thin slate — four materials, four different centuries of entries, the
+same marks in the same order with the same breaks. **Nine lines.**
+
+*I have had these four in one box for sixty years and I could never understand
+why four different people in four different places and four different centuries
+would write out the identical thing.*
+
+So Ignis told him. It isn't a letter. It's a form. It's what comes back when you
+leave them a blank board with a mason's test-stroke in the corner.
+
+Oris Caul looked at four objects on his own table for a long moment.
+
+*Then somebody was leaving them blank boards. In Kuldor. And off the southern
+river. And out of the east. For two hundred years. And I have entered every one
+of them in a ledger and sent the ledger up, and never once been asked a question
+about it by anybody.*
+
+He was not frightened any more. He was something considerably worse, which is a
+man who has just found out that sixty years of careful work meant something and
+nobody told him.
+
+*I will help you. I want that understood before I say the rest.*
+
+*When the warrant was put in my hand I was given three instructions and no
+explanation, and I have kept all three for fifty-nine years. You collect. You
+enter. You tell no one.*
+
+*And the fourth thing, which was not an instruction, which was said to me once
+in a corridor by the steward who handed me the box, and which I have never
+repeated to a living soul until this minute.*
+
+**Don't try to read it.**
+
+*Next: a cold room full of paper, an old man who has just been told what his
+life was for, and a sentence nobody in this party has answered yet.*
